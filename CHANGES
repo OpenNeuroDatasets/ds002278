@@ -1,4 +1,2 @@
-
-1.0.0	2019-10-29
-
-	- Initial snapshot
+1.0.0 Pilot data acquisition
+- Initial acquisition of pilot data for testing of complex-valued, multi-echo EPI data.

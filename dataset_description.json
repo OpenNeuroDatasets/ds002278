@@ -10,8 +10,9 @@
         "Angela Laird"
     ],
     "BIDSVersion": "1.2.1",
-    "DatasetDOI": "10.18112/openneuro.ds002278.v1.0.0",
-    "Funding": [],
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+    ],
     "HowToAcknowledge": "Please reference the OpenNeuro dataset identifier.",
     "License": "CC0",
     "Name": "Dense Investigation of Variability of Affect (DIVA)",

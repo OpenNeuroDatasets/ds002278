@@ -1,0 +1,23 @@
+{
+    "Acknowledgements": "Thanks to Andrea Roman RT(R)(MR) for her assistance with data collection and to the FIU Office of Research and Economic Development for their continued support of the FIU Center of Imaging Science. Special thanks to Dr. Essa Yacoub and the University of Minnesota Center for Magnetic Resonance Research (CMRR) for graciously providing access to the multiband EPI sequence used for data acquisition.",
+    "Authors": [
+        "Taylor Salo",
+        "Katherine Bottenhorn",
+        "Michael Riedel",
+        "Jessica Flannery",
+        "Adam Kimbler",
+        "Robert Laird",
+        "Angela Laird"
+    ],
+    "BIDSVersion": "1.2.1",
+    "DatasetDOI": "10.18112/openneuro.ds002278.v1.0.0",
+    "Funding": [],
+    "HowToAcknowledge": "Please reference the OpenNeuro dataset identifier.",
+    "License": "CC0",
+    "Name": "Dense Investigation of Variability of Affect (DIVA)",
+    "ReferencesAndLinks": [
+        "https://nbclab.github.io/projects/diva",
+        "https://github.com/NBCLab/localizer-task",
+        "https://github.com/NBCLab/stranger-things-task"
+    ]
+}

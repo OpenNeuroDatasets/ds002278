@@ -1,0 +1,4 @@
+1.0.1 2020-01-12
+  - Add pilot scan protocol PDF.
+1.0.0 Pilot data acquisition
+- Initial acquisition of pilot data for testing of complex-valued, multi-echo EPI data.

@@ -4,7 +4,7 @@
     "BandwidthPerPixelPhaseEncode": 47.4,
     "BaseResolution": 86,
     "BodyPartExamined": "BRAIN",
-    "CogAtlasID": "",
+    "CogAtlasID": "https://cognitiveatlas.org/task/id/",
     "ConsistencyInfo": "N4_VE11C_LATEST_20160120",
     "ConversionSoftware": "dcm2niix",
     "ConversionSoftwareVersion": "v1.0.20190410  GCC6.3.0",

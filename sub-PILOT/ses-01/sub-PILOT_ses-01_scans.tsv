@@ -1,77 +1,77 @@
-filename	acq_time	operator	randstr
-fmap/sub-PILOT_ses-01_acq-func_dir-PA_run-01_epi.nii.gz	1800-01-01T13:46:45	n/a	7cb1a1a2
-fmap/sub-PILOT_ses-01_acq-func_dir-AP_run-01_epi.nii.gz	1800-01-01T13:46:55	n/a	dd622d8d
-func/sub-PILOT_ses-01_task-localizerDetection_rec-magnitude_run-01_echo-1_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-magnitude_run-01_echo-2_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-magnitude_run-01_echo-3_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-magnitude_run-01_echo-4_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-phase_run-01_echo-1_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-phase_run-01_echo-2_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-phase_run-01_echo-3_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_rec-phase_run-01_echo-4_sbref.nii.gz	1800-01-01T13:50:31	n/a	14614324
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-1_bold.nii.gz	1800-01-01T13:50:31	n/a	a9cb99e6
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-1_phase.nii.gz	1800-01-01T13:50:31	n/a	84fabe03
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-2_bold.nii.gz	1800-01-01T13:50:31	n/a	a9cb99e6
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-2_phase.nii.gz	1800-01-01T13:50:31	n/a	84fabe03
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-3_bold.nii.gz	1800-01-01T13:50:31	n/a	a9cb99e6
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-3_phase.nii.gz	1800-01-01T13:50:31	n/a	84fabe03
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-4_bold.nii.gz	1800-01-01T13:50:31	n/a	a9cb99e6
-func/sub-PILOT_ses-01_task-localizerDetection_run-01_echo-4_phase.nii.gz	1800-01-01T13:50:31	n/a	84fabe03
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-magnitude_run-01_echo-1_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-magnitude_run-01_echo-2_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-magnitude_run-01_echo-3_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-magnitude_run-01_echo-4_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-phase_run-01_echo-1_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-phase_run-01_echo-2_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-phase_run-01_echo-3_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_rec-phase_run-01_echo-4_sbref.nii.gz	1800-01-01T13:59:11	n/a	f28accf8
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-1_bold.nii.gz	1800-01-01T13:59:11	n/a	47ea492f
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-1_phase.nii.gz	1800-01-01T13:59:11	n/a	2e2a9461
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-2_bold.nii.gz	1800-01-01T13:59:11	n/a	47ea492f
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-2_phase.nii.gz	1800-01-01T13:59:11	n/a	2e2a9461
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-3_bold.nii.gz	1800-01-01T13:59:11	n/a	47ea492f
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-3_phase.nii.gz	1800-01-01T13:59:11	n/a	2e2a9461
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-4_bold.nii.gz	1800-01-01T13:59:11	n/a	47ea492f
-func/sub-PILOT_ses-01_task-localizerEstimation_run-01_echo-4_phase.nii.gz	1800-01-01T13:59:11	n/a	2e2a9461
-anat/sub-PILOT_ses-01_run-01_T1w.nii.gz	1800-01-01T14:13:44	n/a	dd41d1df
-fmap/sub-PILOT_ses-01_acq-func_dir-PA_run-02_epi.nii.gz	1800-01-01T14:14:51	n/a	6224496e
-fmap/sub-PILOT_ses-01_acq-func_dir-AP_run-02_epi.nii.gz	1800-01-01T14:15:02	n/a	59362657
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-01_echo-1_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-01_echo-2_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-01_echo-3_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-01_echo-4_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-01_echo-1_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-01_echo-2_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-01_echo-3_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-01_echo-4_sbref.nii.gz	1800-01-01T14:16:11	n/a	898f93e8
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-1_bold.nii.gz	1800-01-01T14:16:11	n/a	06cfdeb5
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-1_phase.nii.gz	1800-01-01T14:16:11	n/a	840e4898
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-2_bold.nii.gz	1800-01-01T14:16:11	n/a	06cfdeb5
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-2_phase.nii.gz	1800-01-01T14:16:11	n/a	840e4898
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-3_bold.nii.gz	1800-01-01T14:16:11	n/a	06cfdeb5
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-3_phase.nii.gz	1800-01-01T14:16:11	n/a	840e4898
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-4_bold.nii.gz	1800-01-01T14:16:11	n/a	06cfdeb5
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-01_echo-4_phase.nii.gz	1800-01-01T14:16:11	n/a	840e4898
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-02_echo-1_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-02_echo-2_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-02_echo-3_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-magnitude_run-02_echo-4_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-02_echo-1_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-02_echo-2_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-02_echo-3_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_rec-phase_run-02_echo-4_sbref.nii.gz	1800-01-01T14:30:10	n/a	852203c1
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-1_bold.nii.gz	1800-01-01T14:30:10	n/a	f9c635b2
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-1_phase.nii.gz	1800-01-01T14:30:10	n/a	6c5de16e
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-2_bold.nii.gz	1800-01-01T14:30:10	n/a	f9c635b2
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-2_phase.nii.gz	1800-01-01T14:30:10	n/a	6c5de16e
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-3_bold.nii.gz	1800-01-01T14:30:10	n/a	f9c635b2
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-3_phase.nii.gz	1800-01-01T14:30:10	n/a	6c5de16e
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-4_bold.nii.gz	1800-01-01T14:30:10	n/a	f9c635b2
-func/sub-PILOT_ses-01_task-StrangerThingsS01E01_run-02_echo-4_phase.nii.gz	1800-01-01T14:30:10	n/a	6c5de16e
-anat/sub-PILOT_ses-01_run-01_T2w.nii.gz	1800-01-01T14:51:24	n/a	797a1270
-swi/sub-PILOT_ses-01_part-mag_run-01_GRE.nii.gz	1800-01-01T15:06:13	n/a	ca850de6
-swi/sub-PILOT_ses-01_part-phase_run-01_GRE.nii.gz	1800-01-01T15:06:13	n/a	1254bdad
-swi/sub-PILOT_ses-01_run-01_minIP.nii.gz	1800-01-01T15:06:20	n/a	528a2d95
-swi/sub-PILOT_ses-01_run-01_swi.nii.gz	1800-01-01T15:06:21	n/a	87de508b
-fmap/sub-PILOT_ses-01_acq-func_dir-AP_run-03_epi.nii.gz	1800-01-01T15:06:22	n/a	fc156cb2
-fmap/sub-PILOT_ses-01_acq-func_dir-PA_run-03_epi.nii.gz	1800-01-01T15:06:28	n/a	64d0902e
+filename	acq_time
+fmap/sub-PILOT_ses-01_acq-func_dir-PA_run-1_epi.nii.gz	1800-01-01T13:46:40.772500
+fmap/sub-PILOT_ses-01_acq-func_dir-AP_run-1_epi.nii.gz	1800-01-01T13:46:50.395000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-4_part-mag_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-3_part-phase_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-3_part-mag_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-4_part-phase_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-2_part-phase_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-1_part-mag_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-1_part-phase_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-2_part-mag_sbref.nii.gz	1800-01-01T13:50:08.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-3_part-phase_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-4_part-phase_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-2_part-phase_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-3_part-mag_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-4_part-mag_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-1_part-mag_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-2_part-mag_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerDetection_run-1_echo-1_part-phase_bold.nii.gz	1800-01-01T13:50:17.595000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-1_part-mag_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-1_part-phase_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-2_part-mag_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-2_part-phase_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-4_part-mag_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-3_part-phase_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-4_part-phase_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-3_part-mag_sbref.nii.gz	1800-01-01T13:58:43.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-3_part-phase_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-1_part-mag_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-1_part-phase_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-4_part-mag_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-2_part-mag_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-4_part-phase_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-2_part-phase_bold.nii.gz	1800-01-01T13:58:52.905000
+func/sub-PILOT_ses-01_task-localizerEstimation_run-1_echo-3_part-mag_bold.nii.gz	1800-01-01T13:58:52.905000
+anat/sub-PILOT_ses-01_run-1_T1w.nii.gz	1800-01-01T14:07:15.497500
+fmap/sub-PILOT_ses-01_acq-func_dir-PA_run-2_epi.nii.gz	1800-01-01T14:14:47.987500
+fmap/sub-PILOT_ses-01_acq-func_dir-AP_run-2_epi.nii.gz	1800-01-01T14:14:58.415000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-4_part-mag_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-3_part-phase_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-3_part-mag_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-2_part-phase_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-2_part-mag_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-1_part-phase_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-4_part-phase_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-1_part-mag_sbref.nii.gz	1800-01-01T14:15:41.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-2_part-mag_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-2_part-phase_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-1_part-mag_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-3_part-mag_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-3_part-phase_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-4_part-mag_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-4_part-phase_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-1_echo-1_part-phase_bold.nii.gz	1800-01-01T14:15:50.395000
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-4_part-phase_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-4_part-mag_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-3_part-phase_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-3_part-mag_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-2_part-phase_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-2_part-mag_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-1_part-phase_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-1_part-mag_sbref.nii.gz	1800-01-01T14:29:31.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-2_part-mag_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-2_part-phase_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-1_part-mag_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-3_part-mag_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-3_part-phase_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-4_part-mag_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-4_part-phase_bold.nii.gz	1800-01-01T14:29:40.582500
+func/sub-PILOT_ses-01_task-strangerthings_run-2_echo-1_part-phase_bold.nii.gz	1800-01-01T14:29:40.582500
+anat/sub-PILOT_ses-01_run-1_T2w.nii.gz	1800-01-01T14:44:59.285000
+swi/sub-PILOT_ses-01_run-1_part-phase_GRE.nii.gz	1800-01-01T14:59:35.967500
+swi/sub-PILOT_ses-01_run-1_minIP.nii.gz	1800-01-01T14:59:35.967500
+swi/sub-PILOT_ses-01_run-1_part-mag_GRE.nii.gz	1800-01-01T14:59:35.967500
+swi/sub-PILOT_ses-01_run-1_swi.nii.gz	1800-01-01T14:59:35.967500
+fmap/sub-PILOT_ses-01_acq-func_dir-AP_run-3_epi.nii.gz	1800-01-01T15:06:13.155000
+fmap/sub-PILOT_ses-01_acq-func_dir-PA_run-3_epi.nii.gz	1800-01-01T15:06:23.445000

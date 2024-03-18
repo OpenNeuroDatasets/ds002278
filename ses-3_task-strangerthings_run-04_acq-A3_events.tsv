@@ -1,0 +1,360 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	red.n.01; inside.n.01	dip.v.01		5	1
+4.5	1.5	3	red.n.01; soak.n.01; inside.n.01	dip.v.01		5	1
+6.0	1.5	4	red.n.01; soak.n.01; inside.n.01	dip.v.01		5	2
+7.5	1.5	5	red.n.01; soak.n.01; inside.n.01; light.n.02	analyze.v.01	Jonathan Byers	5	1
+9.0	1.5	6	red.n.01; soak.n.01; inside.n.01; light.n.02	analyze.v.01	Jonathan Byers	5	1
+10.5	1.5	7	red.n.01; soak.n.01; inside.n.01; transition.n.02; picture.n.01	dip.v.01	Jonathan Byers	5	1
+12.0	1.5	8	red.n.01; soak.n.01; inside.n.01; transition.n.02; picture.n.01	pick up.v.02	Jonathan Byers	5	1
+13.5	1.5	9	red.n.01; soak.n.01; inside.n.01; transition.n.02; picture.n.01	pick up.v.02	Jonathan Byers	5	1
+15.0	1.5	10	red.n.01; inside.n.01; transition.n.02; picture.n.01	pick up.v.02	Jonathan Byers	5	1
+16.5	1.5	11	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01	Jonathan Byers	5	1
+18.0	1.5	12	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01	Jonathan Byers	5	1
+19.5	1.5	13	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01	Jonathan Byers	5	1
+21.0	1.5	14	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01	Jonathan Byers	5	1
+22.5	1.5	15	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01; add.v.01	Jonathan Byers	5	1
+24.0	1.5	16	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01; add.v.01	Jonathan Byers	5	1
+25.5	1.5	17	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01; add.v.01; attach.v.01	Jonathan Byers	5	1
+27.0	1.5	18	red.n.01; inside.n.01; transition.n.02; picture.n.01	demonstrate.v.01; add.v.01	Jonathan Byers	5	1
+28.5	1.5	19	red.n.01; inside.n.01; book.n.02; miss.n.01	enter.v.01	Jonathan Byers	5	1
+30.0	1.5	20	red.n.01; inside.n.01; miss.n.01; picture.n.01	enter.v.01; hang.v.01	Jonathan Byers	5	1
+31.5	1.5	21	red.n.01; inside.n.01; miss.n.01; picture.n.01	enter.v.01; analyze.v.01	Jonathan Byers	5	1
+33.0	1.5	22	red.n.01; inside.n.01; miss.n.01; picture.n.01	shift.v.02	Jonathan Byers	5	1
+34.5	1.5	23	red.n.01; inside.n.01; miss.n.01; picture.n.01	shift.v.02; analyze.v.01	Jonathan Byers	5	1
+36.0	1.5	24	red.n.01; inside.n.01; miss.n.01; picture.n.01; table.n.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
+37.5	1.5	25	red.n.01; inside.n.01; miss.n.01; picture.n.01; disquiet.v.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
+39.0	1.5	26	red.n.01; inside.n.01; miss.n.01; picture.n.01; disquiet.v.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
+40.5	1.5	27	red.n.01; inside.n.01; miss.n.01; picture.n.01; disquiet.v.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
+42.0	1.5	28	red.n.01; inside.n.01; miss.n.01; picture.n.01; disquiet.v.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
+43.5	1.5	29	red.n.01; inside.n.01; miss.n.01; disquiet.v.02; clothespin.n.01; light.v.02	remove.v.01; analyze.v.01	Jonathan Byers	5	1
+45.0	1.5	30	red.n.01; inside.n.01; disquiet.v.02; clothespin.n.01; light.v.02; motion.v.03	swing.v.03		5	2
+46.5	1.5	31	red.n.01; inside.n.01; disquiet.v.02; clothespin.n.01; light.v.02; motion.v.03	swing.v.03		5	2
+48.0	1.5	32	transition.n.02; red.n.01; green.n.01; light.n.02; transformation.n.01			5	1
+49.5	1.5	33	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01	Joyce Byers	5	1
+51.0	1.5	34	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01	Joyce Byers	5	1
+52.5	1.5	35	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01	Joyce Byers	5	1
+54.0	1.5	36	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01	Joyce Byers	5	1
+55.5	1.5	37	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01	Joyce Byers	5	1
+57.0	1.5	38	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01	Joyce Byers	5	1
+58.5	1.5	39	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01	Joyce Byers	5	1
+60.0	1.5	40	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01; wander.v.01	Joyce Byers	5	1
+61.5	1.5	41	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01; wander.v.01	Joyce Byers	5	1
+63.0	1.5	42	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01; wander.v.01	Joyce Byers	5	1
+64.5	1.5	43	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01; turn around.v.01; wander.v.01	Joyce Byers	5	1
+66.0	1.5	44	inside.n.01; window.n.01; light.n.02; knock.n.01	stand up.v.01; lit.v.01; analyze.v.01; alert.v.01	Joyce Byers	5	1
+67.5	1.5	45	inside.n.01; window.n.01; light.n.02; knock.n.01	stand up.v.01; lit.v.01; analyze.v.01; hurry.v.01	Joyce Byers	5	1
+69.0	1.5	46	inside.n.01; window.n.01; light.n.02; knock.n.01; door.n.01	stand up.v.01; lit.v.01; analyze.v.01; hurry.v.01; open.v.01	Joyce Byers	5	1
+70.5	1.5	47	inside.n.01; window.n.01; light.n.02; door.n.01; miss.n.01	stand up.v.01; lit.v.01; open.v.01; shock.v.01	Joyce Byers	5	1
+72.0	1.5	48	inside.n.01; window.n.01; light.n.02; door.n.01; miss.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+73.5	1.5	49	inside.n.01; window.n.01; light.n.02; door.n.01; miss.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+75.0	1.5	50	inside.n.01; window.n.01; light.n.02; door.n.01; miss.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+76.5	1.5	51	inside.n.01; window.n.01; light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+78.0	1.5	52	inside.n.01; window.n.01; light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+79.5	1.5	53	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+81.0	1.5	54	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+82.5	1.5	55	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+84.0	1.5	56	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
+85.5	1.5	57	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01; welcome.v.03	Joyce Byers	5	1
+87.0	1.5	58	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01; welcome.v.03	Joyce Byers	5	1
+88.5	1.5	59	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	drive.v.01		5	1
+90.0	1.5	60	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02		5	1
+91.5	1.5	61	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02		5	1
+93.0	1.5	62	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; open.v.01	Sheriff Jim Hopper	5	1
+94.5	1.5	63	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; open.v.01	Sheriff Jim Hopper	5	1
+96.0	1.5	64	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; close.v.01	Sheriff Jim Hopper	5	1
+97.5	1.5	65	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; close.v.01; drive.v.01	Sheriff Jim Hopper	5	1
+99.0	1.5	66	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; drive.v.01	Sheriff Jim Hopper	5	1
+100.5	1.5	67	police.n.01; building.n.01; door.n.01	open.v.01	Sheriff Jim Hopper	5	1
+102.0	1.5	68	police.n.01; building.n.01; door.n.01; inside.n.01	open.v.01	Sheriff Jim Hopper	5	1
+103.5	1.5	69	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01	enter.v.01	Sheriff Jim Hopper	5	1
+105.0	1.5	70	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01	enter.v.01	Sheriff Jim Hopper	7	1
+106.5	1.5	71	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	enter.v.01	Sheriff Jim Hopper	7	1
+108.0	1.5	72	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	enter.v.01	Sheriff Jim Hopper	4	1
+109.5	1.5	73	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	enter.v.01	Sheriff Jim Hopper	4	1
+111.0	1.5	74	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	confuse.v.05	Sheriff Jim Hopper	4	1
+112.5	1.5	75	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	confuse.v.05; upset.v.01	Sheriff Jim Hopper	4	1
+114.0	1.5	76	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	confuse.v.05; upset.v.01	Sheriff Jim Hopper	4	1
+115.5	1.5	77	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	confuse.v.05; upset.v.01	Sheriff Jim Hopper	4	1
+117.0	1.5	78	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	confuse.v.05; upset.v.01	Sheriff Jim Hopper	4	1
+118.5	1.5	79	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	confuse.v.05; upset.v.01	Sheriff Jim Hopper	4	1
+120.0	1.5	80	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	agree.v.01	Sheriff Jim Hopper	4	1
+121.5	1.5	81	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	analyze.v.01	Sheriff Jim Hopper	4	1
+123.0	1.5	82	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	apologize.v.01	Sheriff Jim Hopper	4	1
+124.5	1.5	83	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	apologize.v.01	Sheriff Jim Hopper	4	1
+126.0	1.5	84	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	apologize.v.01	Sheriff Jim Hopper	4	1
+127.5	1.5	85	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	apologize.v.01	Sheriff Jim Hopper	4	1
+129.0	1.5	86	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	silent.v.01	Sheriff Jim Hopper	4	1
+130.5	1.5	87	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	silent.v.01	Sheriff Jim Hopper	4	1
+132.0	1.5	88	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	silent.v.01; understand.v.01	Sheriff Jim Hopper	4	1
+133.5	1.5	89	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	deflect.v.04	Sheriff Jim Hopper	5	1
+135.0	1.5	90	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	deflect.v.04	Sheriff Jim Hopper	5	1
+136.5	1.5	91	police.n.01; building.n.01; inside.n.01; miss.n.01; eyeglasses.n.01; drawer.n.01; file.n.01	deflect.v.04; pull.v.01	Sheriff Jim Hopper	5	1
+138.0	1.5	92	police.n.01; building.n.01; inside.n.01; miss.n.01; eyeglasses.n.01; drawer.n.01; file.n.01	deflect.v.04; pull.v.01	Sheriff Jim Hopper	5	1
+139.5	1.5	93	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	explain.v.01	Sheriff Jim Hopper	5	1
+141.0	1.5	94	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	explain.v.01	Sheriff Jim Hopper	5	1
+142.5	1.5	95	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	explain.v.01	Sheriff Jim Hopper	5	1
+144.0	1.5	96	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	explain.v.01	Sheriff Jim Hopper	5	1
+145.5	1.5	97	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	explain.v.01	Sheriff Jim Hopper	5	1
+147.0	1.5	98	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	question.v.03	Sheriff Jim Hopper	5	1
+148.5	1.5	99	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	question.v.03	Sheriff Jim Hopper	5	1
+150.0	1.5	100	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	answer.v.01	Sheriff Jim Hopper	5	1
+151.5	1.5	101	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	nod.v.01	Sheriff Jim Hopper	5	1
+153.0	1.5	102	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	instruct.v.02	Sheriff Jim Hopper	5	1
+154.5	1.5	103	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01	instruct.v.02	Sheriff Jim Hopper	5	1
+156.0	1.5	104	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01; audacity.n.02	instruct.v.02	Sheriff Jim Hopper	5	1
+157.5	1.5	105	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01; audacity.n.02	look around.v.01	Sheriff Jim Hopper	5	1
+159.0	1.5	106	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01; audacity.n.02	turn around.v.01	Sheriff Jim Hopper	5	1
+160.5	1.5	107	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01; audacity.n.02	turn around.v.01; walk away.v.01	Sheriff Jim Hopper	5	1
+162.0	1.5	108	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; miss.n.01; eyeglasses.n.01; audacity.n.02	turn around.v.01; walk away.v.01	Sheriff Jim Hopper	5	1
+163.5	1.5	109	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; audacity.n.02; tension.n.05	observe.v.03; walk away.v.01	Sheriff Jim Hopper	5	1
+165.0	1.5	110	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; audacity.n.02; tension.n.05	observe.v.03	Sheriff Jim Hopper	5	1
+166.5	1.5	111	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; audacity.n.02; tension.n.05	observe.v.03; disregard.v.01	Sheriff Jim Hopper	5	1
+168.0	1.5	112	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; audacity.n.02; tension.n.05	observe.v.03; disregard.v.01	Sheriff Jim Hopper	5	1
+169.5	1.5	113	police.n.01; building.n.01; door.n.01; inside.n.01; book.n.01; bookcase.n.01; audacity.n.02; tension.n.05	observe.v.03; disregard.v.01	Sheriff Jim Hopper	5	1
+171.0	1.5	114	inside.n.01;  light.n.02; table.n.02; computer.n.01; book.n.01; bookcase.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+172.5	1.5	115	inside.n.01;  light.n.02; table.n.02; computer.n.01; book.n.01; bookcase.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+174.0	1.5	116	inside.n.01;  light.n.02; table.n.02; computer.n.01; book.n.01; bookcase.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+175.5	1.5	117	inside.n.01;  light.n.02; table.n.02; computer.n.01; book.n.01; bookcase.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+177.0	1.5	118	inside.n.01;  light.n.02; table.n.02; computer.n.01; book.n.01; bookcase.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+178.5	1.5	119	inside.n.01;  light.n.02; table.n.02; computer.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+180.0	1.5	120	inside.n.01;  light.n.02; table.n.02; computer.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+181.5	1.5	121	inside.n.01;  light.n.02; table.n.02; computer.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+183.0	1.5	122	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+184.5	1.5	123	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+186.0	1.5	124	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+187.5	1.5	125	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+189.0	1.5	126	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01; window.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+190.5	1.5	127	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01; window.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+192.0	1.5	128	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; transition.v.02	Sheriff Jim Hopper	5	1
+193.5	1.5	129	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+195.0	1.5	130	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+196.5	1.5	131	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01; window.n.01	focus.v.01; sit.v.01; glide.v.03	Sheriff Jim Hopper	5	1
+198.0	1.5	132	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; glide.v.03; transition.v.02	Sheriff Jim Hopper	5	1
+199.5	1.5	133	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; transition.v.02	Sheriff Jim Hopper	5	1
+201.0	1.5	134	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01; transition.v.02	Sheriff Jim Hopper	5	1
+202.5	1.5	135	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+204.0	1.5	136	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+205.5	1.5	137	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+207.0	1.5	138	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01; window.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
+208.5	1.5	139	inside.n.01; timer.n.01			5	1
+210.0	1.5	140	inside.n.01; timer.n.01			5	1
+211.5	1.5	141	inside.n.01; timer.n.01			5	1
+213.0	1.5	142	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
+214.5	1.5	143	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
+216.0	1.5	144	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
+217.5	1.5	145	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
+219.0	1.5	146	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
+220.5	1.5	147	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
+222.0	1.5	148	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
+223.5	1.5	149	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
+225.0	1.5	150	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
+226.5	1.5	151	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+228.0	1.5	152	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+229.5	1.5	153	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+231.0	1.5	154	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+232.5	1.5	155	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+234.0	1.5	156	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+235.5	1.5	157	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01	Joyce Byers	5	1
+237.0	1.5	158	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01; distract.v.01	Joyce Byers	5	1
+238.5	1.5	159	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; worry.v.01; distract.v.01	Joyce Byers	5	1
+240.0	1.5	160	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; worry.v.01; distract.v.01	Joyce Byers	5	1
+241.5	1.5	161	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; worry.v.01; distract.v.01	Joyce Byers	5	1
+243.0	1.5	162	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; worry.v.01; distract.v.01	Joyce Byers	5	1
+244.5	1.5	163	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; worry.v.01; distract.v.01	Joyce Byers	5	1
+246.0	1.5	164	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
+247.5	1.5	165	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
+249.0	1.5	166	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; newspaper.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01	Joyce Byers	5	1
+250.5	1.5	167	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01	Joyce Byers	5	1
+252.0	1.5	168	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01	Joyce Byers	5	1
+253.5	1.5	169	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01	Joyce Byers	5	1
+255.0	1.5	170	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01	Joyce Byers	5	1
+256.5	1.5	171	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01; get up.v.01	Joyce Byers	5	1
+258.0	1.5	172	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	Joyce Byers	5	1
+259.5	1.5	173	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+261.0	1.5	174	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+262.5	1.5	175	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+264.0	1.5	176	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+265.5	1.5	177	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+267.0	1.5	178	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+268.5	1.5	179	inside.n.01; hallway.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
+270.0	1.5	180	inside.n.01; hallway.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+271.5	1.5	181	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+273.0	1.5	182	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+274.5	1.5	183	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+276.0	1.5	184	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+277.5	1.5	185	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+279.0	1.5	186	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+280.5	1.5	187	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
+282.0	1.5	188	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01; flicker.v.02		5	1
+283.5	1.5	189	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
+285.0	1.5	190	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
+286.5	1.5	191	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
+288.0	1.5	192	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
+289.5	1.5	193	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02		5	1
+291.0	1.5	194	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02		5	1
+292.5	1.5	195	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02		5	1
+294.0	1.5	196	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01		5	1
+295.5	1.5	197	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; turn around.v.01		5	1
+297.0	1.5	198	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; turn around.v.01		5	1
+298.5	1.5	199	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01		5	1
+300.0	1.5	200	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01		5	1
+301.5	1.5	201	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01		5	1
+303.0	1.5	202	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01		5	1
+304.5	1.5	203	inside.n.01; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01		4	3
+306.0	1.5	204	inside.n.01; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01		4	3
+307.5	1.5	205	inside.n.01; timer.n.01	tick.v.01		5	1
+309.0	1.5	206	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
+310.5	1.5	207	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01	Joyce Byers	5	1
+312.0	1.5	208	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01	Joyce Byers	5	1
+313.5	1.5	209	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01	Joyce Byers	5	1
+315.0	1.5	210	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01; wonder.v.01	Joyce Byers	5	1
+316.5	1.5	211	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01; wonder.v.01	Joyce Byers	5	1
+318.0	1.5	212	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
+319.5	1.5	213	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
+321.0	1.5	214	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
+322.5	1.5	215	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
+324.0	1.5	216	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	frighten.v.01; observe.v.01; stare.v.01		4	3
+325.5	1.5	217	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	frighten.v.01; observe.v.01; stare.v.01		3	5
+327.0	1.5	218	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01; wall.n.01	frighten.v.01; observe.v.01; stare.v.01; deform.v.01		3	5
+328.5	1.5	219	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; observe.v.01; stare.v.01; grab.v.03; yell.v.01	Joyce Byers	5	1
+330.0	1.5	220	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; observe.v.01; stare.v.01; grab.v.03; yell.v.01	Joyce Byers	5	1
+331.5	1.5	221	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; grab.v.03; yell.v.01; apologize.v.01	Joyce Byers	5	1
+333.0	1.5	222	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; grab.v.03; yell.v.01; apologize.v.01	Joyce Byers	5	1
+334.5	1.5	223	inside.n.01; daytime.n.01; bedroom.n.01; window.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01	Joyce Byers	5	1
+336.0	1.5	224	inside.n.01; daytime.n.01; bedroom.n.01; window.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01	Joyce Byers	5	1
+337.5	1.5	225	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01; question.v.03	Joyce Byers	5	1
+339.0	1.5	226	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01; question.v.03	Joyce Byers	5	1
+340.5	1.5	227	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01; question.v.03	Joyce Byers	5	1
+342.0	1.5	228	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01; question.v.03	Joyce Byers	5	1
+343.5	1.5	229	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01; call out.v.02	Joyce Byers	5	1
+345.0	1.5	230	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01; gratitude.n.01	frighten.v.01; worry.v.01; stare.v.01; stutter.v.01; call out.v.02	Joyce Byers	5	1
+346.5	1.5	231	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01; gratitude.n.01	frighten.v.01; worry.v.01; stare.v.01; dismiss.v.05	Joyce Byers	5	1
+348.0	1.5	232	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01; gratitude.n.01	frighten.v.01; worry.v.01; stare.v.01; dismiss.v.05	Joyce Byers	5	1
+349.5	1.5	233	inside.n.01; daytime.n.01; bedroom.n.01; toddler.n.01; gratitude.n.01	frighten.v.01; worry.v.01; stare.v.01; dismiss.v.05	Joyce Byers	5	1
+351.0	1.5	234	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02	Nancy Wheeler	5	1
+352.5	1.5	235	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02	Nancy Wheeler	5	1
+354.0	1.5	236	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+355.5	1.5	237	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+357.0	1.5	238	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+358.5	1.5	239	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+360.0	1.5	240	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02	answer.v.02; chop.v.01		5	1
+361.5	1.5	241	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+363.0	1.5	242	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+364.5	1.5	243	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+366.0	1.5	244	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+367.5	1.5	245	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+369.0	1.5	246	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+370.5	1.5	247	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02; lamp.n.02	answer.v.02; chop.v.01; worry.v.01		5	1
+372.0	1.5	248	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02; lamp.n.02	answer.v.02; chop.v.01; worry.v.01		5	1
+373.5	1.5	249	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01	Nancy Wheeler	5	1
+375.0	1.5	250	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
+376.5	1.5	251	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
+378.0	1.5	252	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
+379.5	1.5	253	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
+381.0	1.5	254	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; clarify.v.01	Nancy Wheeler	5	1
+382.5	1.5	255	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; clarify.v.01	Nancy Wheeler	5	1
+384.0	1.5	256	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02		5	1
+385.5	1.5	257	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02		5	1
+387.0	1.5	258	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
+388.5	1.5	259	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
+390.0	1.5	260	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
+391.5	1.5	261	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01		5	1
+393.0	1.5	262	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01		5	1
+394.5	1.5	263	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01		5	1
+396.0	1.5	264	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; clarify.v.01	Nancy Wheeler	5	1
+397.5	1.5	265	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
+399.0	1.5	266	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
+400.5	1.5	267	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; walk.v.01; hang up.v.01; sit.v.01	Nancy Wheeler	5	1
+402.0	1.5	268	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; walk.v.01; sit.v.01	Nancy Wheeler	5	1
+403.5	1.5	269	outside.n.01; bell.n.01; automobile.n.01; daytime.n.01	walk.v.01; drive.v.01		5	1
+405.0	1.5	270	outside.n.01; bell.n.01; automobile.n.01; daytime.n.01	walk.v.01; drive.v.01	Jonathan Byers	5	1
+406.5	1.5	271	outside.n.01; automobile.n.01; daytime.n.01	walk.v.01; bike.v.01; stare.v.01	Jonathan Byers	5	1
+408.0	1.5	272	outside.n.01; automobile.n.01; daytime.n.01	walk.v.01; bike.v.01; recognize.v.03	Jonathan Byers	5	1
+409.5	1.5	273	outside.n.01; automobile.n.01; book.n.01; daytime.n.01	walk.v.01; bike.v.01; recognize.v.03	Jonathan Byers	5	1
+411.0	1.5	274	outside.n.01; automobile.n.01; book.n.01; daytime.n.01	walk.v.01; bike.v.01; recognize.v.03; sit.v.01	Jonathan Byers	5	1
+412.5	1.5	275	outside.n.01; automobile.n.01; daytime.n.01	walk.v.01; bike.v.01; recognize.v.03; get up.v.01	Jonathan Byers	5	1
+414.0	1.5	276	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+415.5	1.5	277	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+417.0	1.5	278	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+418.5	1.5	279	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+420.0	1.5	280	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+421.5	1.5	281	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+423.0	1.5	282	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01	walk.v.01; recognize.v.03; get up.v.01; approach.v.01	Jonathan Byers	5	1
+424.5	1.5	283	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02	walk.v.01; recognize.v.03; approach.v.01	Jonathan Byers	5	1
+426.0	1.5	284	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; hostility.n.04	walk.v.01; recognize.v.03; approach.v.01; snatch.v.01	Jonathan Byers	3	1
+427.5	1.5	285	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; hostility.n.04	walk.v.01; recognize.v.03; approach.v.01; ask.v.01	Jonathan Byers	4	1
+429.0	1.5	286	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; laugh.n.01	walk.v.01; recognize.v.03; approach.v.01; throw.v.01	Jonathan Byers	4	1
+430.5	1.5	287	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04	walk.v.01; grab.v.01	Jonathan Byers	4	1
+432.0	1.5	288	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04	walk.v.01; grab.v.01; worry.v.01	Jonathan Byers	4	1
+433.5	1.5	289	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04	walk.v.01; grab.v.01; search.v.02	Jonathan Byers	4	1
+435.0	1.5	290	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04	walk.v.01; grab.v.01; search.v.02	Jonathan Byers	4	1
+436.5	1.5	291	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01	Jonathan Byers	4	1
+438.0	1.5	292	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01	Jonathan Byers	4	1
+439.5	1.5	293	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01	Jonathan Byers	4	1
+441.0	1.5	294	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01	Jonathan Byers	4	1
+442.5	1.5	295	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03	Jonathan Byers	4	1
+444.0	1.5	296	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03	Jonathan Byers	4	1
+445.5	1.5	297	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; clarify.v.01	Jonathan Byers	4	1
+447.0	1.5	298	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; clarify.v.01	Jonathan Byers	4	1
+448.5	1.5	299	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; clarify.v.01	Jonathan Byers	4	1
+450.0	1.5	300	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; approach.v.01	Jonathan Byers; Nancy Wheeler	4	1
+451.5	1.5	301	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; approach.v.01	Jonathan Byers; Nancy Wheeler	4	1
+453.0	1.5	302	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05	Jonathan Byers; Nancy Wheeler	4	1
+454.5	1.5	303	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05	Jonathan Byers; Nancy Wheeler	4	1
+456.0	1.5	304	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; drive.v.01	Jonathan Byers; Nancy Wheeler	4	1
+457.5	1.5	305	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; drive.v.01	Jonathan Byers; Nancy Wheeler	4	1
+459.0	1.5	306	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers; Nancy Wheeler	4	1
+460.5	1.5	307	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers; Nancy Wheeler	4	1
+462.0	1.5	308	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers; Nancy Wheeler	4	1
+463.5	1.5	309	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers; Nancy Wheeler	4	1
+465.0	1.5	310	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers; Nancy Wheeler	4	1
+466.5	1.5	311	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers	4	1
+468.0	1.5	312	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers	4	1
+469.5	1.5	313	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers	4	1
+471.0	1.5	314	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers	4	1
+472.5	1.5	315	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers	4	1
+474.0	1.5	316	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; wonder.v.01; confuse.v.05; show.v.01	Jonathan Byers	4	1
+475.5	1.5	317	outside.n.01; automobile.n.01; daytime.n.01; school bus.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; rip.v.01	Jonathan Byers	4	1
+477.0	1.5	318	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; rip.v.01	Jonathan Byers	4	1
+478.5	1.5	319	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; grab.v.01; analyze.v.01; upset.v.03; rip.v.01; laugh.v.01	Jonathan Byers	4	1
+480.0	1.5	320	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; upset.v.03; rip.v.01; laugh.v.01; throw.v.01	Jonathan Byers	4	1
+481.5	1.5	321	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; upset.v.03; rip.v.01; laugh.v.01; throw.v.01	Jonathan Byers; Nancy Wheeler	4	1
+483.0	1.5	322	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; upset.v.03; rip.v.01; laugh.v.01; throw.v.01; supplicate.v.01	Jonathan Byers; Nancy Wheeler	4	1
+484.5	1.5	323	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; supplicate.v.01; hold back.v.02	Jonathan Byers; Nancy Wheeler	4	1
+486.0	1.5	324	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; supplicate.v.01; hold back.v.02	Jonathan Byers; Nancy Wheeler	4	1
+487.5	1.5	325	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; supplicate.v.01; hold back.v.02; laugh.v.01; permit.v.01	Jonathan Byers; Nancy Wheeler	4	1
+489.0	1.5	326	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; give.v.03	Jonathan Byers; Nancy Wheeler	4	1
+490.5	1.5	327	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; give.v.03	Jonathan Byers; Nancy Wheeler	5	1
+492.0	1.5	328	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; drop.v.01	Jonathan Byers; Nancy Wheeler	4	1
+493.5	1.5	329	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; drop.v.01	Jonathan Byers; Nancy Wheeler	4	1
+495.0	1.5	330	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; drop.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	4	1
+496.5	1.5	331	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; drop.v.01	Jonathan Byers; Nancy Wheeler	4	1
+498.0	1.5	332	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; laugh.v.01; drop.v.01; leave.v.01	Jonathan Byers; Nancy Wheeler	4	1
+499.5	1.5	333	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01	Jonathan Byers; Nancy Wheeler	4	1
+501.0	1.5	334	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01	Jonathan Byers; Nancy Wheeler	4	1
+502.5	1.5	335	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01; rip.v.01	Jonathan Byers; Nancy Wheeler	4	1
+504.0	1.5	336	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01; rip.v.01	Jonathan Byers; Nancy Wheeler	4	1
+505.5	1.5	337	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01; rip.v.01	Jonathan Byers; Nancy Wheeler	4	1
+507.0	1.5	338	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01; rip.v.01; pick up.v.02	Jonathan Byers; Nancy Wheeler	4	1
+508.5	1.5	339	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; taunt.n.04; picture.n.01; school bus.n.01	walk.v.01; upset.v.03; humiliate.v.01; leave.v.01; rip.v.01; pick up.v.02	Jonathan Byers; Nancy Wheeler	4	1
+510.0	1.5	340	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02	upset.v.03; stand.v.01; walk.v.01	Nancy Wheeler	4	1
+511.5	1.5	341	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02	upset.v.03; stand.v.01; walk.v.01	Nancy Wheeler	4	1
+513.0	1.5	342	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02	upset.v.03; help.v.01; walk.v.01	Nancy Wheeler	4	1
+514.5	1.5	343	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; school bus.n.01	upset.v.03; help.v.01; walk.v.01	Nancy Wheeler	4	1
+516.0	1.5	344	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; school bus.n.01; picture.n.01	upset.v.03; help.v.01; walk.v.01; analyze.v.01; pick up.v.02	Nancy Wheeler	4	1
+517.5	1.5	345	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; analyze.v.01; pick up.v.02	Nancy Wheeler	4	1
+519.0	1.5	346	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; school bus.n.01; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02	Jonathan Byers; Nancy Wheeler	4	1
+520.5	1.5	347	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; school bus.n.01; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; call out.v.02	Jonathan Byers; Nancy Wheeler	4	1
+522.0	1.5	348	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; school bus.n.01; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; call out.v.02	Jonathan Byers; Nancy Wheeler	4	1
+523.5	1.5	349	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; school bus.n.01; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02	Jonathan Byers; Nancy Wheeler	4	1
+525.0	1.5	350	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02	Jonathan Byers; Nancy Wheeler	4	1
+526.5	1.5	351	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; stand.v.02; gather.v.01	Jonathan Byers; Nancy Wheeler	4	1
+528.0	1.5	352	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; leave.v.01	Jonathan Byers; Nancy Wheeler	4	1
+529.5	1.5	353	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; leave.v.01	Jonathan Byers; Nancy Wheeler	4	1
+531.0	1.5	354	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02	upset.v.03; walk.v.01; leave.v.01	Nancy Wheeler	4	1
+532.5	1.5	355	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02	upset.v.03; walk.v.01; leave.v.01	Nancy Wheeler	4	1
+534.0	1.5	356	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; leave.v.01	Jonathan Byers	4	1
+535.5	1.5	357	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; leave.v.01	Jonathan Byers	4	1
+537.0	1.5	358	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; fly.v.01	Jonathan Byers	4	1
+538.5	1.5	359	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; fly.v.01	Jonathan Byers	4	1
+540.0	1.5	360	outside.n.01; automobile.n.01; daytime.n.01; discomfort.n.02; picture.n.01	upset.v.03; help.v.01; walk.v.01; pick up.v.02; gather.v.01; fly.v.01	Jonathan Byers	4	1

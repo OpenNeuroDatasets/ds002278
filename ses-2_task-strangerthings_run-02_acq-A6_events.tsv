@@ -1,0 +1,251 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	toaster.n.01; plate.n.04; waffle.n.01; table.n.02;  apple.n.01; bread.n.01; phone.n.01; home.n.01	reach.v.03; grab.v.01; touch.v.01	Mike Wheeler.	5	1
+4.5	1.5	3	toaster.n.01; waffle.n.01; table.n.02; chair.n.01; stairs.n.01; lamp.n.02; plant.n.02; pocket.n.01; clothing.n.01; home.n.01	tuck.v.01; glance.v.01; 	Mike Wheeler.	5	6
+6.0	1.5	4	toaster.n.01; waffle.n.01; table.n.02; chair.n.01; stairs.n.01; lamp.n.02; plant.n.02; pocket.n.01; home.n.01; clothing.n.01	 look.v.04; stuff.v.01; turn.v.01	Mike Wheeler.	5	6
+7.5	1.5	5	waffle.n.01; toaster.n.01; table.n.02; chair.n.01; lamp.n.02; plant.n.02; stairs.n.01; home.n.01; clothing.n.01; plate.n.04	take.v.04; place.v.01; grab.v.01	Mike Wheeler; Nancy Wheeler; Mike and Nancy's baby sister	4	5
+9.0	1.5	6	table.n.02; waffle.n.01; chair.n.01; curtain.n.01; clothing.n.01; plate.n.04	eat.v.01; glance.v.01; touch.v.01; sit.v.01; chew.v.01	Mike Wheeler; Nancy Wheeler; Mike and Nancy's baby sister	4	7
+10.5	1.5	7	tabe.n.02; waffle.n.01; chair.n.01; plate.n.04; fork.n.01; napkins.n.01; cup.n.01; newspaper.n.01	glare.v.01; eat.v.01; chew.v.01; 	Mike Wheeler; Nancy Wheeler; Mike and Nancy's baby sister	4	3
+12.0	1.5	8	curtain.n.01; newspaper.n.01; cup.n.01; plate.n.04; plant.n.02; fork.n.01; honey.n.01	eat.v.01; glance.v.01; cut.v.01; frown.v.01	Mike Wheeler; Nancy Wheeler; Mrs. Wheeler	5	5
+13.5	1.5	9	plate.n.04; fork.n.01; table.n.02; cup.n.01; newspaper.n.01; curtain.n.01; chair.n.01; honey.n.01	speak.v.01; eat.v.01; cut.v.01; stare.v.01	Mike Wheeler; Nancy Wheeler; Mrs. Wheeler	4	4
+15.0	1.5	10	plate.n.04; curtain.n.01; fork.n.01; knife.n.01; table.n.02; cup.n.01; plant.n.02; chair.n.01	speak.v.01; eat.v.01; cut.v.01; stare.v.01	Mike Wheeler; Nancy Wheeler	2	1
+16.5	1.5	11	fork.n.01; cup.n.01; plate.n.04; curtain.n.01; chair.n.01; plant.n.01 	speak.v.01; eat.v.01; stare.v.01	Mike Wheeler; Nancy Wheeler	1	5
+18.0	1.5	12	chair.n.01; fork.n.01, table.n.02; curtain.n.01; plate.n.04 	blink.v.01; eat.v.01; speak.v.01	Mike Wheeler; Nancy Wheeler	5	4
+19.5	1.5	13	curtain.n.01; fork.n.01; stairs.n.01; chair.n.01; window.n.01; plate.n.04 	blink.v.01; speak.v.01; chew.v.01	Mike Wheeler; Nancy Wheeler	5	7
+21.0	1.5	14	window.n.01; chair.n.01; fork.n.01; curtain.n.01; plate.n.04; table.n.02; stairs.n.01 	eat.v.01; speak.v.01	MikeWheeler; Nancy Wheeler	5	5
+22.5	1.5	15	window.n.01; chair.n.01; fork.n.01; curtain.n.01; plate.n.04; table.n.02; stairs.n.01	eat.v.01; speak.v.01	Mike Wheeler; Nancy Wheeler; Mike and Nancy's baby sister	4	5
+24.0	1.5	16	chair.n.01; fork.n.01, table.n.02; curtain.n.01; plate.n.04 	speak.v.01; cut.v.01	Mike Wheeler; Nancy Wheeler; Mike and Nancy's baby sister	4	5
+25.5	1.5	17	rug.n.01; chair.n.01; window.n.01; table.n.02; fork.n.01; shoe.n.01; plate.n.04 	speak.v.01; glare.v.01; kick.v.03	Mike Wheeler; Nancy Wheeler	1	9
+27.0	1.5	18	shoe.n.01; chair.n.01; table.n.02; fork.n.01; curtains.n.01; stairs.n.01	kick.v.03; speak.v.01; glare.v.01	Mike Wheeeler; Nancy Wheeler; Mrs. Wheeler	1	9
+28.5	1.5	19	curtain.n.01; chair.n.01; fork.n.01; newspaper.n.01; table.n.02; honey.n.01; plant.n.01; cup.n.01; plate.n.04 	speak.v.01; stare.v.01	Mike Wheeler; Nancy Wheeler; Mrs. Wheeler	5	7
+30.0	1.5	20	window.n.01; chair.n.01; fork.n.01; curtain.n.01; plate.n.04; table.n.02; toy.n.03; plant.n.01 ; newspaper.n.01	speak.v.01; chew.v.01; blink.v.01; glance.v.01	Mike Wheeler; Nancy Wheeler; Mrs. Wheeler	5	6
+31.5	1.5	21	window.n.01; chair.n.01; fork.n.01; toy.n.03; curtain.n.01; table.n.02; plant.n.01; plate.n.04	blink.v.01; glance.v.01	Mike Wheeler; Nancy Wheeler 	4	3
+33.0	1.5	22	pillow.n.01; blanket.n.01; chair.n.01; plate.n.04; curtain.n.01; fork.n.01; table.n.02; curtain.n.01; newspaper.n.01	blink.v.01; glance.v.01	Mike Wheeler; Nancy Wheeler	4	3
+34.5	1.5	23	blanket.n.01; pillow.n.01; bed.n.01; clothing.n.01; light.n.02; tent.n.01; microphone.n.01	fiddle.v.07; focus.v.01	Eleven	1	1
+36.0	1.5	24	blanket.n.01; pillow.n.01; bed.n.01; clothing.n.01; light.n.02; tent.n.01; microphone.n.01	focus.v.01	Eleven	1	1
+37.5	1.5	25	blanket.n.01; pillow.n.01; bed.n.01; light.n.02; clothing.n.01; tent.n.01; micrphone.n.01	look.v.01	Eleven	5	7
+39.0	1.5	26	blanket.n.01; tent.n.01; clothing.n.01	lift.v.01	Mike Wheeler	5	4
+40.5	1.5	27	clothing.n.01; blanket.n.01; chair.n.01; tent.n.01; desk.n.01	reveal.v.01; crouch.v.01	Mike Wheeler	7	5
+42.0	1.5	28	clothing.n.01; blanket.n.01; chair.n.01; tent.n.01; desk.n.01	speak.v.01; rock.v.07 	Mike Wheeler	9	2
+43.5	1.5	29	tent.n.01; blanket.n.01; chair.n.01; clothing.n.01	speak.v.01; stare.v.01 	Mike Wheeler; Eleven	5	5
+45.0	1.5	30	tent.n.01; blanket.n.01; light.n.02; clothing.n.01	sepak.v.01; stare.v.01; glance.v.01	Miike Wheeler; Eleven	5	4
+46.5	1.5	31	desk.n.01; blanket.n.01; tent.n.01; light.n.02	speak.v.01	Mike Wheeler	1	1
+48.0	1.5	32	tent.n.01; blanket.n.01; desk.n.01	speak.v.01	Mike Wheeler; Eleven	1	1
+49.5	1.5	33	light.n.02; desk.n.01; tent.n.01; blanket.n.01	speak.v.01; laugh.v.01; glance.v.01		7	5
+51.0	1.5	34	light.n.02; desk.n.01; tent.n.01; blanket.n.01	look.v.01; blink.v.01	Eleven; Mike Wheeler	5	1
+52.5	1.5	35	pocket.n.01; clothing.n.01; tent;n.01; blanket.n.01	glance.v.01; reach.v.06	Eleven; Mike Wheeler	5	5
+54.0	1.5	36	tent.n.01; light.n.02; blanket.n.01; pillow.n.01	extend.v.02; speak.v.01; give.v.03	Mike Wheeler; Eleven	8	1
+55.5	1.5	37	tent.n.01; light.n.02; blanket.n.01; pillow.n.01; waffle.n.01; microphone.n.01	touch.v.01; take.v.04; give.v.03; speak.v.01	Eleven; Mike Wheeler	8	1
+57.0	1.5	38	tent.n.01; light.n.02; blanekt.n.01; microphone.n.01; waffle.n.01	eat.v.01; speak.v.01	Eleven; Mike Wheeler	1	1
+58.5	1.5	39	light.n.02; pillow.n.01; tent.n.01; blanket.n.01; waffle.n.01	eat.v.01; speak.v.01; extend.v.02	Eleven; Mike Wheeler	2	2
+60.0	1.5	40	pocket.n.01; clothing.n.01; tent;n.01; blanket.n.01; light.n.02	speak.v.01	Eleven; Mike Wheeler	1	1
+61.5	1.5	41	tent.n.01; clothing.n.01; blanket.n.01; light.n.02; waffle.n.01	speak.v.01; stare.v.01; eat.n.01	Eleven; Mike Wheeler	1	1
+63.0	1.5	42	light.n.02; blanket.n.01; tent.n.01; waffle.n.01	speak.v.01; stare.v.01; turn.v.01	Eleven; Mike Wheler	5	5
+64.5	1.5	43	tent.n.01; light.n.02; desk.n.01; blanket.n.01 waffle.n.01	eat.v.01; chew.v.01; stare.v.01; speak.v.01	Eleven; Mike Wheeler	5	5
+66.0	1.5	44	desk.n.01; blanket.n.01; tent.n.01; light.n.02	speak.v.01	Mike Wheeler	2	6
+67.5	1.5	45	desk.n.01; blanket.n.01; tent.n.01; light.n.02	blink.v.01; speak.v.01; jolt.v.01	Mike Wheeler	1	7
+69.0	1.5	46	light.n.02; blanket.n.01; desk.n.01; tent.n.01	speak.v.01; jolt.v.01	Mike Wheeler	1	7
+70.5	1.5	47	light.n.02; blanket.n.01; desk.n.01; tent.n.01	speak.v.01; jolt.v.01	Mike Wheeler	1	6
+72.0	1.5	48	tent.n.01; light.n.02; desk.n.01; blanket.n.01 waffle.n.01	speak.v.01; chew.v.01; blink.v.01; glance.v.01; stare.v.01	Mike Wheeler; Eleven	6	5
+73.5	1.5	49	blanket.n.01; tent.n.01; clothing.n.01; waffle.n.01; pillow.n.01	chew.v.01; eat.v.01; speak.v.01	Eleven; Mike Wheeler	2	2
+75.0	1.5	50	blanket.n.01; tent.n.01; clothing.v.01; pillow.n.01; desk.n.01; 	speak.v.01; eat.v.01; shift.v.04	Mike Wheeler	7	3
+76.5	1.5	51	blanket.n.01; tent.n.01; desk.n.01; pillow.n.01; light.n.02	speak.v.01; blink.v.01	Mike Wheeler	6	1
+78.0	1.5	52	light.n.02; tent.n01; blanket.n.01; desk.n.01	speak.v.01	Mike Wheeler	3	3
+79.5	1.5	53	light.n.02; blanket.n.01; tent.n.01; desk.n.01	speak.v.01	Mike Wheeler	1	1
+81.0	1.5	54	light.n.02; blanket.n.01; tent.n.01	stare.v.01; inhale.v.01	Eleven; Mike Wheeler	5	7
+82.5	1.5	55	blanket.n.01; light.n.02; pillow.n.01; tent.n.01	stare.v.01; inhale.v.01	Eleven	1	5
+84.0	1.5	56	tent.n.01; blanket.n.01; light.n.02; clothing.n.01; pillow.n.01; desk.n.01	speak.v.01; stare.v.01; blink.v.01; 	Eleven; Mike Wheeler	1	8
+85.5	1.5	57	desk.n.01; blanket.n.01; tent.n.01; light.n.02	speak.v.01; stare.v.01	Mike Wheeler; Eleven	5	5
+87.0	1.5	58	desk.n.01; blanket.n.01; tent.n.01; light.n.02; pillow.n.01	stare.v.01; shake.v.01	Eleven; Mike Wheeler	1	6
+88.5	1.5	59	tent.n.01; blanket.n.01; light.n.02; waffle.n.01; pillow.n.01	stare.v.01; glare.01; eat.v.01; speak.v.01; blink.v.01	Eleven	1	1
+90.0	1.5	60	tent.n.01; desk.n.01; waffle.n.01; blanket.n.01; light.n.02	speak.v.01; chew.v.01	Mike Wheeler; Eleven	1	1
+91.5	1.5	61	desk.n.01; blanket.n.01; light.n.02; tent.n.01	speak.v.01	Mike Wheeler	1	1
+93.0	1.5	62	desk.n.01; blanket.n.01; light.n.02; tent.n.01	speak.v.01; stare.v.01	Mike Wheeler; Eleven	1	3
+94.5	1.5	63	blanket.n.01; pillow.n.01; tent.n.01; light.n.02	stare.v.01	Eleven	2	5
+96.0	1.5	64	blanket.n.01; pillow.n.01; pillow.n.01; light.n.02	stare.v.01;shake.v.01	Eleven	1	5
+97.5	1.5	65	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01; stare.v.01; blink.v.01	Mike Wheeler	2	2
+99.0	1.5	66	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01	Mike Wheeler	1	5
+100.5	1.5	67	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01; blink.v.01	Eleven;Mike Wheeler	5	5
+102.0	1.5	68	 tent.n.01; light.n.02; blanket.n.01	blink.v.01; glance.v.01	Eleven	1	5
+103.5	1.5	69	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	stare.v.01	Mike Wheeler; Eleven	2	2
+105.0	1.5	70	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01; stare.v.01	Mike Wheeler	1	1
+106.5	1.5	71	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	stare.v.01; speak.v.01	Mike Wheeler 	1	1
+108.0	1.5	72	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01; stare.v.01	Mike Wheeer; Eleven	4	4
+109.5	1.5	73	 tent.n.01; light.n.02; blanket.n.01	stare.v.01	Eleven	5	5
+111.0	1.5	74	 tent.n.01; light.n.02; blanket.n.01	speak.v.01; stare.v.01; swallow.v.01	Eleven	5	5
+112.5	1.5	75	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	stare.v.01; blink.v.01	Mike Wheeler; Eleven	5	5
+114.0	1.5	76	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01; stare.v.01	Mike Wheeler	5	5
+115.5	1.5	77	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	speak.v.01; stare.v.01	Mike Wheeler; Eleven	5	5
+117.0	1.5	78	 tent.n.01; light.n.02; blanket.n.01	stare.v.01	Eleven	5	5
+118.5	1.5	79	 tent.n.01; light.n.02; blanket.n.01	nod.v.01	Eleven	1	1
+120.0	1.5	80	desk.n.01; tent.n.01; light.n.02; blanket.n.01; chair.n.01	nod.v.01; speak.v.01	Eleven; Mike Wheeler	5	5
+121.5	1.5	81	light.n.02; lamp.n.02	speak.v.01; stare.v.01	Mike Wheeler	1	1
+123.0	1.5	82	light.n.02; lamp.n.02	speak.v.01; stare.v.01	Mike Wheeler; Eleven	1	6
+124.5	1.5	83	 tent.n.01; light.n.02; blanket.n.01; hand.n.01	blink.v.01; gesture.v.01	Eleven	1	7
+126.0	1.5	84	 tent.n.01; light.n.02; blanket.n.01; hand.n.01	gesture.v.01; stare.v.01	Eleven; Mike Wheeler	1	7
+127.5	1.5	85	 tent.n.01; light.n.02; blanket.n.01; hand.n.01; lamp.n.02	stare.v.01; gesture.v.01; turn.v.01	Eleven; Mike Wheeler	1	7
+129.0	1.5	86	 tent.n.01; light.n.02; blanket.n.01; lamp.n.02; hand.01	 gesture.v.01; stare.v.01	Eleven; Mike Wheeler	1	7
+130.5	1.5	87	 tent.n.01; light.n.02; blanket.n.01; lamp.n.02; hand.01	extend.v.02; stare.v.01	Eleven; Mike Wheeler	1	5
+132.0	1.5	88	 tent.n.01; light.n.02; blanket.n.01	stare.v.01; blink.v.01	Eleven	1	5
+133.5	1.5	89	 tent.n.01; light.n.02; blanket.n.01	speak.v.01; stare.v.01; blink.v.01	Eleven; Mike Wheeler	1	6
+135.0	1.5	90	 tent.n.01; light.n.02; blanket.n.01; lamp.n.02	stare.v.01; blink.v.01	Eleven; Mike Wheeler	1	5
+136.5	1.5	91	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01	speak.v.01; turn.v.01; glance.v.01	Eleven; Mike Wheeler	1	6
+138.0	1.5	92	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01	speak.v.01; turn.v.01; glance.v.01	Mike Wheeler; Eleven	1	1
+139.5	1.5	93	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01; hand.n.01	speak.v.01; stare.v.01; gesture.v.01; shake.v.01	Mike Wheeler; Eleven	1	9
+141.0	1.5	94	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01; hand.n.01	speak.v.01; shake.v.01	Mike Wheeler; Eleven	1	9
+142.5	1.5	95	 tent.n.01; light.n.02; blanket.n.01	cover.v.01	Mike Wheeler; Eleven	1	4
+144.0	1.5	96	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01	stare.v.01; listen.v.01	Eleven	1	1
+145.5	1.5	97	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01	stare.v.01; listen.v.01	Eleven	1	1
+147.0	1.5	98	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01	stare.v.01; listen.v.01	Eleven	1	1
+148.5	1.5	99	 tent.n.01; light.n.02; blanket.n.01; pillow.n.01	stare.v.01; listen.v.01; sigh.v.01	Eleven	1	1
+150.0	1.5	100	wood.n.01; light.n.02; briefcase.n.01; clothing.n.01; hallway.n.01	speak.v.01; walk.v.01	Dr. Martin Brenner	1	1
+151.5	1.5	101	wood.n.01; light.n.02; briefcase.n.01; clothing.n.01; hallway.n.01; watch.n.01	speak.v.01; walk.v.01; glance.v.01	Dr. Martin Brenner	1	1
+153.0	1.5	102	wood.n.01; light.n.02; briefcase.n.01; clothing.n.01; hallway.n.01	speak.v.01; walk.v.01; glance.v.01	Dr. Martin Brenner	2	2
+154.5	1.5	103	wood.n.01; light.n.02; briefcase.n.01; clothing.n.01; hallway.n.01; watch.n.01; headphone.n.01; monitor.n.05	speak.v.01; walk.v.01; listen.v.01	Dr. Martin Brenner	1	1
+156.0	1.5	104	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+157.5	1.5	105	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+159.0	1.5	106	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+160.5	1.5	107	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02; turn.v.01	Dr. Martin Brenner	1	1
+162.0	1.5	108	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02; turn.v.01; glance.v.01; blink.v.01	Dr. Martin Brenner	1	1
+163.5	1.5	109	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02;  blink.v.01	Dr. Martin Brenner	1	1
+165.0	1.5	110	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+166.5	1.5	111	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+168.0	1.5	112	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+169.5	1.5	113	 light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+171.0	1.5	114	 leaves.n.01; tree.n.01; light.n.02; headphone.n.01; monitor.n.05; sound recording.n.01	listen.v.01; voice.v.02	Dr. Martin Brenner	1	1
+172.5	1.5	115	leaves.n.01; people.n.01; forest.n.01	voice.v.02; walk.v.01	people	1	1
+174.0	1.5	116	leaves.n.01; people.n.01; forest.n.01	voice.v.02; walk.v.01	people	1	1
+175.5	1.5	117	leaves.n.01; people.n.01; forest.n.01	voice.v.02; walk.v.01	people	1	1
+177.0	1.5	118	leaves.n.01; people.n.01; forest.n.01	voice.v.02; walk.v.01	people	1	1
+178.5	1.5	119	leaves.n.01;  people.n.01; forest.n.01	voice.v.02; walk.v.01	people	1	1
+180.0	1.5	120	leaves.n.01;  people.n.01; forest.n.01	walk.v.01	people	1	1
+181.5	1.5	121	leaves.n.01; people.n.01; forest.n.01	walk.v.01	people	1	1
+183.0	1.5	122	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	people	1	1
+184.5	1.5	123	leaves.n.01; people.n.01; forest.n.01	speak.v.01	people	1	1
+186.0	1.5	124	leaves.n.01; people.n.01; forest.n.01	walk.v.01	people	1	1
+187.5	1.5	125	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	people	1	1
+189.0	1.5	126	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	people	1	1
+190.5	1.5	127	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	Sheriff Jim Hooper	1	1
+192.0	1.5	128	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	Sheriff Jim Hooper; police	1	1
+193.5	1.5	129	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	Sheriff Jim Hooper; police	1	1
+195.0	1.5	130	leaves.n.01; forest.n.01	speak.v.01	policemen	1	1
+196.5	1.5	131	leaves.n.01; forest.n.01; truck.n.01	speak.v.01; listen.v.01	Sheriff Jim Hooper; police	1	1
+198.0	1.5	132	leaves.n.01; forest.n.01; truck.n.01	speak.v.01; listen.v.01	Sheriff Jim Hooper; police	1	1
+199.5	1.5	133	leaves.n.01; forest.n.01	speak.v.01; listen.v.01	Sheriff Jim Hooper; police	1	1
+201.0	1.5	134	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	people	1	1
+202.5	1.5	135	leaves.n.01; people.n.01; forest.n.01	walk.v.01; speak.v.01	Sheriff Jim Hooper; people	1	1
+204.0	1.5	136	leaves.n.01; people.n.01; forest.n.01	walk.v.01	Sheriff Jim Hooper; police; people	1	1
+205.5	1.5	137	forest.n.01	speak.v.01	policemen	1	1
+207.0	1.5	138	forest.n.01	speak.v.01	policemen	1	1
+208.5	1.5	139	forest.n.01	speak.v.01	policemen	1	1
+210.0	1.5	140	forest.n.01	shout.v.01	policemen	1	1
+211.5	1.5	141	forest.n.01	walk.v.01	policemen	1	1
+213.0	1.5	142	leaves.n.01; people.n.01; forest.n.01	walk.v.01	policemen; people	1	1
+214.5	1.5	143	leaves.n.01; people.n.01; forest.n.01	walk.v.01; shout.v.01	policmen; people	1	1
+216.0	1.5	144	leaves.n.01; people.n.01; forest.n.01; school.n.01; bus.n.01; car.n.01	walk.v.01	policemen; students	1	1
+217.5	1.5	145	school.n.01; bus.n.01; car.n.01; purses.n.01	wak.v.01	students	1	1
+219.0	1.5	146	school.n.01; bus.n.01; car.n.01; purses.n.01	walk.v.01	students	1	1
+220.5	1.5	147	school.n.01; bus.n.01; car.n.01; purses.n.01	walk.v.01; ride.v.02	students	1	1
+222.0	1.5	148	school.n.01; bus.n.01; car.n.01; purses.n.01	walk.v.01; ride.v.02	students	1	1
+223.5	1.5	149	school.n.01; bus.n.01; car.n.01; purses.n.01; hallway.n.01	walk.v.01; ride.v.02	students	1	1
+225.0	1.5	150	hallway.n.01; school.n.01; soda.n.01; machine.n.01; books.n.01	walk.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+226.5	1.5	151	hallway.n.01; school.n.01; soda.n.01; machine.n.01; books.n.01	walk.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+228.0	1.5	152	hallway.n.01; school.n.01; books.n.01; flashcard.n.01	walk.v.01; speak,v,01; take.v.04	Nancy Wheeler; Barbara	1	5
+229.5	1.5	153	hallway.n.01; school.n.01; books.n.01	walk.v.01; speak.v.01; touch.v.01	Nancy Wheeler; Barbara	1	1
+231.0	1.5	154	hallway.n.01; school.n.01; books.n.01; poster.n.01	walk.v.01; speak.v.01; touch.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+232.5	1.5	155	hallway.n.01; school.n.01; flashcard.n.01	stare.v.01	Nancy Wheeler; Steve Harrington	1	1
+234.0	1.5	156	hallway.n.01; school.n.01; books.n.01; flashcard.n.01; poster.n.01	speak.v.01; stare.v.01; glare.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+235.5	1.5	157	hallway.n.01; school.n.01; books.n.01; poster.n.01	glare.v.01; blink.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+237.0	1.5	158	hallway.n.01; school.n.01; flashcard.n.01; poster.n.01	speak.v.01	Nancy Wheeler; Steve Harrington	1	1
+238.5	1.5	159	hallway.n.01; school.n.01; poster.v.01; bullentin board.n.02	speak.v.01	Nancy Wheeler; Steve Harrington	1	1
+240.0	1.5	160	hallway.n.01; school.n.01; poster.v.01; bulletin 	speak.v.01; gesture.v.01	Nancy Wheeler; Steve Harrington	1	1
+241.5	1.5	161	hallway.n.01; school.n.01; poster.v.01; bulletin board.n.02	speak.v.01; blink.v.01	Nancy Wheeler; Steve Harrington	1	1
+243.0	1.5	162	hallway.n.01; school.n.01; books.n.01; poster.n.01	speak.v.01; blink.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+244.5	1.5	163	hallway.n.01; school.n.01; books.n.01; poster.n.01	speak.v.01; blink.v.01; frown.v.01	Nancy Wheeler; Barbara	1	1
+246.0	1.5	164	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; frown.v.01	Nancy Wheeler	2	2
+247.5	1.5	165	hallway.n.01; school.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	6
+249.0	1.5	166	hallway.n.01; school.n.01; poster.n.01; locker.n.01	speak.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+250.5	1.5	167	hallway.n.01; school.n.01; poster.n.01; locker.n.01	laugh.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+252.0	1.5	168	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	laugh.v.01; turn.v.01; speak.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	5
+253.5	1.5	169	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	laugh.v.01; turn.v.01; speak.v.01	Steve Harrington	1	5
+255.0	1.5	170	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	laugh.v.01; turn.v.01; speak.v.01	Nancy Wheeler; Barbara; Steve Harrington	3	5
+256.5	1.5	171	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; blink.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+258.0	1.5	172	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; blink.v.01	Nancy Wheeler; Steve Harrington	1	1
+259.5	1.5	173	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01; blink.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	5
+261.0	1.5	174	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01; blink.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	6
+262.5	1.5	175	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01; blink.v.01; turn.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	5
+264.0	1.5	176	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01; blink.v.01; turn.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	6
+265.5	1.5	177	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01; bulletin board.n.02	speak.v.01; frown.v.01; blink.v.01; turn.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	5
+267.0	1.5	178	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02.	speak.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+268.5	1.5	179	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01; blink.v.01; turn.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	5
+270.0	1.5	180	hallway.n.01; school.n.01; poster.n.01; locker.n.01	speak.v.01; frown.v.01	Steve Harrington's friends	1	1
+271.5	1.5	181	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; frown.v.01	Steve Harrington's friends	1	1
+273.0	1.5	182	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; frown.v.01; shove.v.02	Steve Harrington's friends; Steve Harrington	1	1
+274.5	1.5	183	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; frown.v.01; blink.v.01	Nancy Wheeler; Steve Harrington	1	1
+276.0	1.5	184	hallway.n.01; school.n.01	stare.v.01	Nancy Wheeler; Steve Harrington	1	1
+277.5	1.5	185	hallway.n.01; school.n.01	stare.v.01; walk.v.01	Nancy Wheeler; Steve Harrington	1	1
+279.0	1.5	186	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	stare.v.01; walk.v.01	Nancy Wheeler; Steve Harrington; Jonathan Byers	1	1
+280.5	1.5	187	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	pull.v.04	Jonathan Byers	1	1
+282.0	1.5	188	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	7
+283.5	1.5	189	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	5
+285.0	1.5	190	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	7
+286.5	1.5	191	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	stare.v.01; frown.v.01	Nancy Wheeler	1	6
+288.0	1.5	192	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	stare.v.01; speak.v.01; shrug.v.01	Nancy Wheeler	1	7
+289.5	1.5	193	hallway.n.01; school.n.01	speak.v.01; frown.v.01; blink.v.01	Nancy Wheeler	1	1
+291.0	1.5	194	hallway.n.01; school.n.01	speak.v.01; frown.v.01; blink.v.01	Nancy Wheeler	1	1
+292.5	1.5	195	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+294.0	1.5	196	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	turn.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+295.5	1.5	197	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	turn.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+297.0	1.5	198	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	turn.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+298.5	1.5	199	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+300.0	1.5	200	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	stare.v.01; frown.v.01; speak.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+301.5	1.5	201	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	stare.v.01; frown.n.01; glance.v.01	Jonathan Byers; Nancy Wheeler	1	1
+303.0	1.5	202	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+304.5	1.5	203	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; shrug.v.01	Jonathan Byers; Nancy Wheeler	1	1
+306.0	1.5	204	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+307.5	1.5	205	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+309.0	1.5	206	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+310.5	1.5	207	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+312.0	1.5	208	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	speak.v.01; stare.v.01; listen.v.01	Jonathan Byers; Nancy Wheeler	1	1
+313.5	1.5	209	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	stare.v.01; blink.v.01	Jonathan Byers; Nancy Wheeler	1	1
+315.0	1.5	210	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	stare.v.01; blink.v.01; speak.v.01	Jonathan Byers; Nancy Wheeler	1	1
+316.5	1.5	211	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	sigh.v.01; speak.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	1	1
+318.0	1.5	212	hallway.n.01; school.n.01; books.n.01; poster.n.01; bullentin board.n.02	sigh.v.01; speak.v.01; stare.v.01; walk.v.01	Jonathan Byers; Nancy Wheeler	3	1
+319.5	1.5	213	hallway.n.01; school.n.01; poster.n.01; bulletin board.n.02	walk.v.01	Jonathan Byers	1	1
+321.0	1.5	214	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01	walk.v.01; glare.v.01; frown.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+322.5	1.5	215	hallway.n.01; school.n.01; books.n.01; poster.n.01; locker.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	walk.v.01; glare.v.01; frown.v.01	Nancy Wheeler; Barbara; Steve Harrington; Jonathan Byers	1	1
+324.0	1.5	216	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	touch.v.01; turn.v.01	Jonathan Byers	1	1
+325.5	1.5	217	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	voice.v.02; touch.v.01	Jonathan Byers	1	1
+327.0	1.5	218	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	voice.v.02; walk.v.01	Jonathan Byers	1	1
+328.5	1.5	219	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	voice.v.02; walk.v.01	Jonathan Byers	1	1
+330.0	1.5	220	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	voice.v.02; walk.v.01	Jonathan Byers	1	1
+331.5	1.5	221	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	walk.v.01; touch.v.01	Jonathan Byers	1	1
+333.0	1.5	222	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	walk.v.01; open.v.01	Jonathan Byers	1	1
+334.5	1.5	223	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	walk.v.01; open.v.01	Jonathan Byers	1	1
+336.0	1.5	224	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	shut.v.01	no characters	1	1
+337.5	1.5	225	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	shut.v.01	no characters	1	1
+339.0	1.5	226	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01	shut.v.01	no characters	1	1
+340.5	1.5	227	hallway.n.01; school.n.01; poster.n.01; truck.n.01; bulletin board.n.02; door.n.01; bus.n.01; desk.n.01	shut.v.01; touch.v.01	students	1	1
+342.0	1.5	228	school.n.01; desk.n.01; books.n.01; bag.n.01; watch.n.01; classroom.n.01	sit.v.01; touch.v.01	Lucas Sinclair	1	1
+343.5	1.5	229	school.n.01; desk.n.01; books.n.01; bag.n.01; watch.n.01; classroom.n.01	sit.v.01; touch.v.01	Lucas Sinclair; Dustin Henderson	1	1
+345.0	1.5	230	school.n.01; desk.n.01; books.n.01; bag.n.01; watch.n.01; classroom.n.01; teacher.n.01	sit.v.01; touch.v.01; speak.v.01; turn.v.01	Lucas Sinclair; Dustin Henderson	1	1
+346.5	1.5	231	school.n.01; desk.n.01; books.n.01; bag.n.01; classroom.n.01; teacher.n.01	sit.v.01; touch.v.01; speak.v.01; stare.v.01	Lucas Sinclair; Dustin Henderson	1	1
+348.0	1.5	232	school.n.01; desk.n.01; books.n.01; bag.n.01; classroom.n.01; teacher.n.01	sit.v.01; touch.v.01; speak.v.01; glance.v.01; turn.v.01	Lucas Sinclair; Dustin Henderson	1	1
+349.5	1.5	233	school.n.01; desk.n.01; books.n.01; bag.n.01; classroom.n.01; teacher.n.01	sit.v.01; touch.v.01; speak.v.01	Lucas Sinclair; Dustin Henderson	1	1
+351.0	1.5	234	school.n.01; desk.n.01; classroom.n.01	speak.v.01; gesture.v.01	Lucas Sinclair; Dustin Henderson	1	5
+352.5	1.5	235	school.n.01; desk.n.01; classroom.n.01	speak.v.01; gesture.v.01; blink.v.01	Lucas Sinclair; Dustin Henderson	1	5
+354.0	1.5	236	school.n.01; desk.n.01; classroom.n.01	speak.v.01; stare.v.01	Lucas Sinclair; Dustin Henderson	1	1
+355.5	1.5	237	school.n.01; desk.n.01; watch.n.01; classroom.n.01	speak.v.01; blink.v.01	Lucas Sinclair; Dustin Henderson	1	1
+357.0	1.5	238	school.n.01; desk.n.01; watch.n.01; classroom.n.01	speak.v.01; blink.v.01; jump.v.01; touch.v.01	Lucas Sinclair; Dustin Henderson	1	6
+358.5	1.5	239	school.n.01; desk.n.01; classroom.n.01	speak.v.01; stare.v.01	Lucas Sinclair; Dustin Henderson	1	5
+360.0	1.5	240	school.n.01; desk.n.01; watch.n.01; classroom.n.01	speak.v.01; stare.v.01; sigh.v.01	Lucas Sinclair; Dustin Henderson	1	5
+361.5	1.5	241	school.n.01; desk.n.01; watch.n.01; classroom.n.01	speak.v.01; stare.v.01; sigh.v.01	Lucas Sinclair; Dustin Henderson	1	1
+363.0	1.5	242	school.n.01; desk.n.01; classroom.n.01	speak.v.01; sigh.v.01	Lucas Sinclair; Dustin Henderson	1	1
+364.5	1.5	243	hallway.n.01; school.n.01; poster.n.01; lamp.n.02	speak.v.01; blink.v.01; jump.v.01; touch.v.01	Lucas Sinclair; Dustin Henderson	1	1
+366.0	1.5	244	school.n.01; desk.n.01; classroom.n.01	speak.v.01; stare.v.01; sigh.v.01	Lucas Sinclair; Dustin Henderson	1	1
+367.5	1.5	245	school.n.01; desk.n.01; classroom.n.01; door.n.01	speak.v.01; gesture.v.01	Lucas Sinclair; Dustin Henderson	1	1
+369.0	1.5	246	school.n.01; desk.n.01; classroom.n.01; door.n.01	speak.v.01; blink.v.01	Lucas Sinclair; Dustin Henderson	1	1
+370.5	1.5	247	school.n.01; desk.n.01; classroom.n.01; door.n.01	speak.v.01; stare.v.01	Lucas Sinclair; Dustin Henderson	1	1
+372.0	1.5	248	school.n.01; desk.n.01; classroom.n.01; door.n.01	speak.v.01; stare.v.01	Lucas Sinclair; Dustin Henderson	1	6
+373.5	1.5	249	school.n.01; desk.n.01; classroom.n.01; door.n.01	speak.v.01; stare.v.01; shrug.v.01; frown.v.01	Lucas Sinclair; Dustin Henderson	1	5
+375.0	1.5	250	school.n.01; desk.n.01; classroom.n.01	stare.v.01; sigh.v.01	Lucas Sinclair; Dustin Henderson	1	5
+376.5	1.5	251	school.n.01; desk.n.01; classroom.n.01; books.n.01	stare.v.01	Lucas Sinclair; Dustin Henderson	1	5

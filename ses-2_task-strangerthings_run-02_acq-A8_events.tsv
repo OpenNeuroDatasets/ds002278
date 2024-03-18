@@ -1,0 +1,251 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	toaster.n.2; waffle.n.1 			5.0	5.0
+4.5	1.5	3	toaster.n.2; waffle.n.1; kitchen.n.1; boy.n.1 	steal.n.1 	Mike Wheeler 	5.0	5.0
+6.0	1.5	4	toaster.n.2; waffle.n.1; kitchen.n.1; boy.n.1 	steal.n.1 	Mike Wheeler 	5.0	5.0
+7.5	1.5	5	toaster.n.2; waffle.n.1; kitchen.n.1; boy.n.1; girl.n.1 	eat.n.1 	Mike Wheeler; Nancy Wheeler; little girl 	5.0	5.0
+9.0	1.5	6	waffle.n.1; boy.n.1; girl.n.1 	eat.n.1 	Mike Wheeler; Nancy Wheeler; little girl 	5.0	5.0
+10.5	1.5	7	waffle.n.1; boy.n.1; girl.n.1; table.n.2 	eat.n.1; look.n.1 	Mike Wheeler; Nancy Wheeler; little girl 	5.0	3.0
+12.0	1.5	8	waffle.n.1; boy.n.1; girl.n.1; table.n.2 ; mom.n.1 	eat.n.1; look.n.1 	Mike Wheeler; Nancy Wheeler; Karen Wheeler	5.0	3.0
+13.5	1.5	9	waffle.n.1; boy.n.1; girl.n.1; table.n.2 ; mom.n.1 	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler; Karen Wheeler	5.0	3.0
+15.0	1.5	10	waffle.n.1; boy.n.1; girl.n.1; table.n.2 	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler	5.0	3.0
+16.5	1.5	11	waffle.n.1; boy.n.1; girl.n.1; table.n.2 	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler	5.0	3.0
+18.0	1.5	12	boy.n.1; girl.n.1; table.n.2 	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler	5.0	3.0
+19.5	1.5	13	boy.n.1; girl.n.1	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler	5.0	3.0
+21.0	1.5	14	boy.n.1; girl.n.1	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler	5.0	3.0
+22.5	1.5	15	boy.n.1; girl.n.1	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler; little girl 	5.0	3.0
+24.0	1.5	16	boy.n.1; girl.n.1	eat.n.1; look.n.1; talk.n.1 	Mike Wheeler; Nancy Wheeler; little girl 	5.0	3.0
+25.5	1.5	17	boy.n.1; girl.n.1; shoe.n.1 	eat.n.1; look.n.1; talk.n.1; kick.n.1	Mike Wheeler; Nancy Wheeler; little girl 	5.0	4.0
+27.0	1.5	18	boy.n.1; girl.n.1; shoe.n.1; mom.n.1 	eat.n.1; look.n.1; talk.n.1; kick.n.1	Mike Wheeler; Nancy Wheeler; Karen Wheeler; little girl 	5.0	4.0
+28.5	1.5	19	boy.n.1; girl.n.1; table.n.2; mom.n.1 	eat.n.1; look.n.1; talk.n.1	Mike Wheeler; Nancy Wheeler; Karen Wheeler	5.0	4.0
+30.0	1.5	20	boy.n.1; girl.n.1; table.n.2	eat.n.1; look.n.1; talk.n.1	Mike Wheeler; Nancy Wheeler	5.0	3.0
+31.5	1.5	21	boy.n.1; girl.n.1; table.n.2	eat.n.1; look.n.1; talk.n.1	Mike Wheeler; Nancy Wheeler	5.0	3.0
+33.0	1.5	22	boy.n.1; girl.n.1; table.n.2; phone.n.1 	eat.n.1; look.n.1; talk.n.1; press.n.1	Mike Wheeler; Nancy Wheeler	5.0	3.0
+34.5	1.5	23	girl.n.1; phone.n.1 	press.n.1	Eleven	5.0	3.0
+36.0	1.5	24	girl.n.1; phone.n.1 	press.n.1	Eleven	5.0	3.0
+37.5	1.5	25	girl.n.1; blanket.n.1 	look.n.1 	Eleven 	5.0	3.0
+39.0	1.5	26	boy.n.1; blanket.n.1 	lift.n.1 		5.0	3.0
+40.5	1.5	27	boy.n.1; blanket.n.1 	lift.n.1 	Mike Wheeler	5.0	3.0
+42.0	1.5	28	boy.n.1	smile.n.1 	Mike Wheeler	6.0	4.0
+43.5	1.5	29	boy.n.1; girl.n.1	talk.n.1 	Mike Wheeler; Eleven 	5.0	4.0
+45.0	1.5	30	boy.n.1; girl.n.1	talk.n.1 	Mike Wheeler; Eleven 	5.0	4.0
+46.5	1.5	31	boy.n.1	talk.n.1 	Mike Wheeler	5.0	3.0
+48.0	1.5	32	boy.n.1	talk.n.1 	Mike Wheeler	5.0	3.0
+49.5	1.5	33	boy.n.1; girl.n.1	talk.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+51.0	1.5	34	boy.n.1; girl.n.1	look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+52.5	1.5	35	boy.n.1; girl.n.1; bed.n.1 	look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+54.0	1.5	36	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; give.n.20 	Mike Wheeler; Eleven 	5.0	3.0
+55.5	1.5	37	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; give.n.20; take.n.4  	Mike Wheeler; Eleven 	5.0	3.0
+57.0	1.5	38	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; give.n.20; take.n.4 ; bite.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+58.5	1.5	39	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; bite.n.1; eat.n.1; point.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+60.0	1.5	40	boy.n.1; bed.n.1	talk.n.1;  point.n.1 	Mike Wheeler	5.0	3.0
+61.5	1.5	41	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; eat.n.1; point.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+63.0	1.5	42	girl.n.1; waffle.n.1	talk.n.1; eat.n.1; look.n.1 	Eleven 	5.0	3.0
+64.5	1.5	43	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; eat.n.1; look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+66.0	1.5	44	boy.n.1	talk.n.1; look.n.1 	Mike Wheeler	5.0	3.0
+67.5	1.5	45	boy.n.1	talk.n.1;  point.n.1; look.n.1  	Mike Wheeler	5.0	3.0
+69.0	1.5	46	boy.n.1	talk.n.1;  point.n.1; look.n.1  	Mike Wheeler	5.0	3.0
+70.5	1.5	47	boy.n.1	talk.n.1;  look.n.1  	Mike Wheeler	5.0	3.0
+72.0	1.5	48	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; eat.n.1; look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+73.5	1.5	49	girl.n.1; waffle.n.1	talk.n.1; eat.n.1; look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+75.0	1.5	50	boy.n.1; girl.n.1; bed.n.1; waffle.n.1	talk.n.1; eat.n.1; look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+76.5	1.5	51	boy.n.1; bed.n.1	talk.n.1; look.n.1 	Mike Wheeler	5.0	3.0
+78.0	1.5	52	boy.n.1; bed.n.1	talk.n.1; look.n.1 	Mike Wheeler	5.0	3.0
+79.5	1.5	53	boy.n.1; bed.n.1	talk.n.1; look.n.1 	Mike Wheeler	5.0	3.0
+81.0	1.5	54	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1 	Mike Wheeler; Eleven 	5.0	3.0
+82.5	1.5	55	girl.n.1; bed.n.1	look.n.1 	Eleven 	5.0	3.0
+84.0	1.5	56	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1 	Mike Wheeler; Eleven 	5.0	5.0
+85.5	1.5	57	boy.n.1; bed.n.1	talk.n.1; look.n.1; surprise.n.1 	Mike Wheeler	5.0	5.0
+87.0	1.5	58	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1; surprise.n.1; shake.n.1 	Mike Wheeler; Eleven 	5.0	5.0
+88.5	1.5	59	girl.n.1; bed.n.1; waffle.n.1	talk.n.1; look.n.1; eat.n.1	 Eleven 	5.0	5.0
+90.0	1.5	60	girl.n.1; bed.n.1; waffle.n.1; boy.n.1	talk.n.1; look.n.1; eat.n.1	Mike Wheeler; Eleven 	5.0	5.0
+91.5	1.5	61	 bed.n.1; boy.n.1	talk.n.1; look.n.1	Mike Wheeler	5.0	5.0
+93.0	1.5	62	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1; raise.n.2	Mike Wheeler; Eleven 	5.0	5.0
+94.5	1.5	63	girl.n.1; bed.n.1	look.n.1; eat.n.1	 Eleven 	5.0	5.0
+96.0	1.5	64	girl.n.1; bed.n.1	look.n.1; shake.n.1 	 Eleven 	5.0	5.0
+97.5	1.5	65	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler; Eleven 	5.0	5.0
+99.0	1.5	66	boy.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler	5.0	5.0
+100.5	1.5	67	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler; Eleven 	5.0	5.0
+102.0	1.5	68	girl.n.1; bed.n.1	look.n.1	 Eleven 	5.0	5.0
+103.5	1.5	69	boy.n.1; girl.n.1; bed.n.1	look.n.1	Mike Wheeler; Eleven 	5.0	5.0
+105.0	1.5	70	boy.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler	5.0	5.0
+106.5	1.5	71	boy.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler	5.0	5.0
+108.0	1.5	72	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler; Eleven 	5.0	5.0
+109.5	1.5	73	girl.n.1; bed.n.1	look.n.1	 Eleven 	5.0	5.0
+111.0	1.5	74	girl.n.1; bed.n.1	talk.n.1; look.n.1	 Eleven 	5.0	5.0
+112.5	1.5	75	boy.n.1; girl.n.1; bed.n.1	look.n.1	Mike Wheeler; Eleven 	5.0	5.0
+114.0	1.5	76	boy.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler	5.0	6.0
+115.5	1.5	77	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler; Eleven 	5.0	6.0
+117.0	1.5	78	girl.n.1; bed.n.1	look.n.1; shake.n.1 	Eleven	5.0	6.0
+118.5	1.5	79	girl.n.1; bed.n.1	look.n.1; shake.n.1 	Eleven	5.0	6.0
+120.0	1.5	80	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1; shake.n.1 	Mike Wheeler; Eleven 	5.0	6.0
+121.5	1.5	81	boy.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler	5.0	6.0
+123.0	1.5	82	boy.n.1; girl.n.1; bed.n.1	talk.n.1; look.n.1	Mike Wheeler; Eleven 	5.0	6.0
+124.5	1.5	83					
+126.0	1.5	84					
+127.5	1.5	85					
+129.0	1.5	86					
+130.5	1.5	87					
+132.0	1.5	88					
+133.5	1.5	89					
+135.0	1.5	90					
+136.5	1.5	91					
+138.0	1.5	92					
+139.5	1.5	93					
+141.0	1.5	94					
+142.5	1.5	95					
+144.0	1.5	96					
+145.5	1.5	97					
+147.0	1.5	98					
+148.5	1.5	99					
+150.0	1.5	100					
+151.5	1.5	101					
+153.0	1.5	102					
+154.5	1.5	103					
+156.0	1.5	104					
+157.5	1.5	105					
+159.0	1.5	106					
+160.5	1.5	107					
+162.0	1.5	108					
+163.5	1.5	109					
+165.0	1.5	110					
+166.5	1.5	111					
+168.0	1.5	112					
+169.5	1.5	113					
+171.0	1.5	114					
+172.5	1.5	115					
+174.0	1.5	116					
+175.5	1.5	117					
+177.0	1.5	118					
+178.5	1.5	119					
+180.0	1.5	120					
+181.5	1.5	121					
+183.0	1.5	122					
+184.5	1.5	123					
+186.0	1.5	124					
+187.5	1.5	125					
+189.0	1.5	126					
+190.5	1.5	127					
+192.0	1.5	128					
+193.5	1.5	129					
+195.0	1.5	130					
+196.5	1.5	131					
+198.0	1.5	132					
+199.5	1.5	133					
+201.0	1.5	134					
+202.5	1.5	135					
+204.0	1.5	136					
+205.5	1.5	137					
+207.0	1.5	138					
+208.5	1.5	139					
+210.0	1.5	140					
+211.5	1.5	141					
+213.0	1.5	142					
+214.5	1.5	143					
+216.0	1.5	144					
+217.5	1.5	145					
+219.0	1.5	146					
+220.5	1.5	147					
+222.0	1.5	148					
+223.5	1.5	149					
+225.0	1.5	150					
+226.5	1.5	151					
+228.0	1.5	152					
+229.5	1.5	153					
+231.0	1.5	154					
+232.5	1.5	155					
+234.0	1.5	156					
+235.5	1.5	157					
+237.0	1.5	158					
+238.5	1.5	159					
+240.0	1.5	160					
+241.5	1.5	161					
+243.0	1.5	162					
+244.5	1.5	163					
+246.0	1.5	164					
+247.5	1.5	165					
+249.0	1.5	166					
+250.5	1.5	167					
+252.0	1.5	168					
+253.5	1.5	169					
+255.0	1.5	170					
+256.5	1.5	171					
+258.0	1.5	172					
+259.5	1.5	173					
+261.0	1.5	174					
+262.5	1.5	175					
+264.0	1.5	176					
+265.5	1.5	177					
+267.0	1.5	178					
+268.5	1.5	179					
+270.0	1.5	180					
+271.5	1.5	181					
+273.0	1.5	182					
+274.5	1.5	183					
+276.0	1.5	184					
+277.5	1.5	185					
+279.0	1.5	186					
+280.5	1.5	187					
+282.0	1.5	188					
+283.5	1.5	189					
+285.0	1.5	190					
+286.5	1.5	191					
+288.0	1.5	192					
+289.5	1.5	193					
+291.0	1.5	194					
+292.5	1.5	195					
+294.0	1.5	196					
+295.5	1.5	197					
+297.0	1.5	198					
+298.5	1.5	199					
+300.0	1.5	200					
+301.5	1.5	201					
+303.0	1.5	202					
+304.5	1.5	203					
+306.0	1.5	204					
+307.5	1.5	205					
+309.0	1.5	206					
+310.5	1.5	207					
+312.0	1.5	208					
+313.5	1.5	209					
+315.0	1.5	210					
+316.5	1.5	211					
+318.0	1.5	212					
+319.5	1.5	213					
+321.0	1.5	214					
+322.5	1.5	215					
+324.0	1.5	216					
+325.5	1.5	217					
+327.0	1.5	218					
+328.5	1.5	219					
+330.0	1.5	220					
+331.5	1.5	221					
+333.0	1.5	222					
+334.5	1.5	223					
+336.0	1.5	224					
+337.5	1.5	225					
+339.0	1.5	226					
+340.5	1.5	227					
+342.0	1.5	228					
+343.5	1.5	229					
+345.0	1.5	230					
+346.5	1.5	231					
+348.0	1.5	232					
+349.5	1.5	233					
+351.0	1.5	234					
+352.5	1.5	235					
+354.0	1.5	236					
+355.5	1.5	237					
+357.0	1.5	238					
+358.5	1.5	239					
+360.0	1.5	240					
+361.5	1.5	241					
+363.0	1.5	242					
+364.5	1.5	243					
+366.0	1.5	244					
+367.5	1.5	245					
+369.0	1.5	246					
+370.5	1.5	247					
+372.0	1.5	248					
+373.5	1.5	249					
+375.0	1.5	250					
+376.5	1.5	251					

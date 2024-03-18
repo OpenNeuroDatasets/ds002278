@@ -1,0 +1,287 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	ring.v.01; stand.v.01;  put aside.v.01	Mike Wheeler	6	7
+4.5	1.5	3	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	ring.v.01; stand.v.01;  put aside.v.01; walk.v.01	Mike Wheeler	6	7
+6.0	1.5	4	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	stand.v.01;  put aside.v.01; walk.v.01; instruct.v.02		6	5
+7.5	1.5	5	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02		6	5
+9.0	1.5	6	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02		6	5
+10.5	1.5	7	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02; raise.v.02		6	5
+12.0	1.5	8	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01		6	5
+13.5	1.5	9	classroom.n.01; kid.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01		6	5
+15.0	1.5	10	classroom.n.01; kid.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01		6	5
+16.5	1.5	11	classroom.n.01;  teacher.n.02	  instruct.v.02; turn to.v.02		4	5
+18.0	1.5	12	classroom.n.01;  teacher.n.02	  instruct.v.02; turn to.v.02		4	5
+19.5	1.5	13	desk.n.01; classroom.n.01; kid.n.01; teacher.n.01; window.n.01; light.n.02	turn to.v.02; stand.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	4
+21.0	1.5	14	desk.n.01; classroom.n.01; kid.n.01; teacher.n.01; window.n.01; light.n.02	turn to.v.02; stand.v.01; question.v.03	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+22.5	1.5	15	classroom.n.01; teacher.n.01; 	stare.v.02; reply.v.01		4	5
+24.0	1.5	16	classroom.n.01; teacher.n.01; 	stare.v.02; reply.v.01		3	5
+25.5	1.5	17	classroom.n.01; teacher.n.01; kid.n.01; light.v.02; window.v.01	stare.v.02; 	Mike Wheeler; Lucas Sinclair; Dustin Henderson	3	5
+27.0	1.5	18	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	answer.v.01; open.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+28.5	1.5	19	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	open.v.01; rush.v.03	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+30.0	1.5	20	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	rush.v.03	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+31.5	1.5	21	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	rush.v.03; sit.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+33.0	1.5	22	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	sit.v.01; grab.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+34.5	1.5	23	teacher.n.01; kid.n.01;   lamp.v.02; shelf.n.01; headphone.n.01; equipment.n.01	sit.v.01; grab.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+36.0	1.5	24	teacher.n.01; kid.n.01;   lamp.v.02; shelf.n.01; headphone.n.01; equipment.n.01; dial.n.03	 grab.v.02; twist.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+37.5	1.5	25	teacher.n.01; kid.n.01;   lamp.v.02; shelf.n.01; headphone.n.01; equipment.n.01; dial.n.03	 grab.v.02; twist.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+39.0	1.5	26	teacher.n.01; kid.n.01;   lamp.v.02; shelf.n.01; headphone.n.01; equipment.n.01; dial.n.03	 grab.v.02; twist.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+40.5	1.5	27	teacher.n.01; kid.n.01; headphone.n.01	stare.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	3
+42.0	1.5	28	teacher.n.01; kid.n.01; headphone.n.01; equipment.n.01;  lamp.n.02	stare.v.02; nod.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	3
+43.5	1.5	29	teacher.n.01; kid.n.01; headphone.n.01; equipment.n.01;  lamp.n.02	 nod.v.01; smile.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	7	5
+45.0	1.5	30	teacher.n.01; kid.n.01; headphone.n.01; equipment.n.01;  lamp.n.02	 smile.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	7	5
+46.5	1.5	31	kid.n.01; lamp.n.02	 smile.v.01; exclaim.v.01; curse.v.01	Lucas Sinclair	7	5
+48.0	1.5	32	kid.n.01; lamp.n.02; teacher.n.01;desk.n.01; headphones.n.01	call out.v.01; cross.v.04	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	6
+49.5	1.5	33	kid.n.01; lamp.n.02; teacher.n.01;desk.n.01; headphones.n.01	smile.v.01; cross.v.04; apologize.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	7	6
+51.0	1.5	34	teacher.n.01; equipment.n.01; hand.n.01	smile.v.01; cross.v.04; touch.v.01		7	5
+52.5	1.5	35	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01	touch.v.01; lean.v.01; breathe.v.01	Mike Wheeler	5	4
+54.0	1.5	36	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; cross.v.04; stare.v.02; speak.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+55.5	1.5	37	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; cross.v.04; stare.v.02; speak.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+57.0	1.5	38	 equipment.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; cross.v.04; stare.v.02; speak.v.01; grab.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+58.5	1.5	39	 equipment.n.01;headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; cross.v.04; stare.v.02; speak.v.01; grab.v.01; wear.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
+60.0	1.5	40	headphones.n.01; microphone.n.01; shelf.n.01; 	lean.v.01;stare.v.02;  wear.v.02; laugh.v.01	Mike Wheeler;Dustin Henderson	8	6
+61.5	1.5	41	headphones.n.01; microphone.n.01; shelf.n.01; 	lean.v.01;stare.v.02;  wear.v.02; laugh.v.01; speak.v.01	Mike Wheeler;Dustin Henderson	8	6
+63.0	1.5	42	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01;stare.v.02;  wear.v.02; laugh.v.01; speak.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	8	6
+64.5	1.5	43	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; stare.v.02; speak.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	8	6
+66.0	1.5	44	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; stare.v.02; speak.v.01; Laugh.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	9	6
+67.5	1.5	45	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02; policeman.n.01; principal.n.01	lean.v.01; Laugh.v.01; grab.v.01; open.v.01; 	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+69.0	1.5	46	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02; policeman.n.01; principal.n.01	lean.v.01; Laugh.v.01; grab.v.01;  beckon.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+70.5	1.5	47	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02; policeman.n.01; principal.n.01	lean.v.01; beckon.v.01; stare.v.01; ask.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+72.0	1.5	48	 headphones.n.01;  teacher.n.01;  door.n.01; lamp.n.02; policeman.n.01; principal.n.01	stare.v.02; ask.v.01; point.v.01; name.v.08	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+73.5	1.5	49	 headphones.n.01; lamp.n.02; desk.n.01; shelf.n.01	stare.v.02; 	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+75.0	1.5	50	 headphones.n.01; lamp.n.02; desk.n.01; shelf.n.01; couch.n.01	stare.v.02; blabber.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+76.5	1.5	51	 desk.n.01; couch.n.01; principal.n.02; policeman.n.01; office.n.01; chair.n.01	stare.v.02; blabber.v.01; sit.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	7
+78.0	1.5	52	 desk.n.01; couch.n.01; principal.n.02; policeman.n.01; office.n.01; chair.n.01	 blabber.v.01; sit.v.01; shout.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson; Sheriff Jim Hopper	4	7
+79.5	1.5	53	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.01	sit.v.01; instruct.v.02	sheriff Jim Hopper	4	7
+81.0	1.5	54	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.01	sit.v.01; instruct.v.02	Sheriff Jim Hopper	4	7
+82.5	1.5	55	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; instruct.v.03	Sheriff Jim Hopper	4	7
+84.0	1.5	56	couch.n.02	sit.v.01;point.v.01; call out.v.01	Sheriff Jim Hopper; Mike Wheeler, Lucas Sinclair	4	4
+85.5	1.5	57	couch.n.02	sit.v.01;answer.v.02	Sheriff Jim Hopper; Mike Wheeler, Lucas Sinclair	4	4
+87.0	1.5	58	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; question.v.03	Sheriff Jim Hopper; Mike Wheeler, Lucas Sinclair; Dustin Henderson	4	4
+88.5	1.5	59	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; reply.v.01	Sheriff Jim Hopper; Mike Wheeler, Lucas Sinclair; Dustin Henderson	4	4
+90.0	1.5	60	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; question.v.03	Sheriff Jim Hopper; 	4	4
+91.5	1.5	61	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; question.v.03	Sheriff Jim Hopper; 	4	4
+93.0	1.5	62	 desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; reply.v.01	Sheriff Jim Hopper; Mike Wheeler; Lucas sinclair; Dustin Henderson	4	4
+94.5	1.5	63	couch.n.01	sit.v.01; stare.v.02; reply.v.01; turn to.v.02	 Mike Wheeler; Lucas sinclair; Dustin Henderson	4	4
+96.0	1.5	64	couch.n.01	sit.v.01; stare.v.02; reply.v.01; turn to.v.02	 Mike Wheeler; Lucas sinclair; Dustin Henderson	4	4
+97.5	1.5	65	couch.n.01	sit.v.01; stare.v.02; turn to.v.02; shout.v.01	 Mike Wheeler; Lucas sinclair; Dustin Henderson	4	6
+99.0	1.5	66	couch.n.01; desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; turn to.v.02; shout.v.01; lean.v.01	 Mike Wheeler; Lucas sinclair; Dustin Henderson; sheriff Jim Hopper	4	6
+100.5	1.5	67	couch.n.01; desk.n.01;  principal.n.02; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; turn to.v.02; shout.v.01; lean.v.01; calm down.v.02	 Mike Wheeler; Lucas sinclair; Dustin Henderson; sheriff Jim Hopper	4	6
+102.0	1.5	68	couch.n.01;	sit.v.01; stare.v.02; turn to.v.02; question.v.03	 Mike Wheeler; Lucas sinclair; Dustin Henderson; 	4	6
+103.5	1.5	69	couch.n.01; desk.n.01; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; turn to.v.02; instruct.v.02	 Mike Wheeler; Lucas sinclair; Dustin Henderson; Sheriff Jim Hopper	4	6
+105.0	1.5	70	 desk.n.01; policeman.n.01; office.n.01; chair.n.02	sit.v.01; stare.v.02; turn to.v.02; instruct.v.02	Sheriff Jim Hopper	4	6
+106.5	1.5	71	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; couch.n.01	sit.v.01; stare.v.02; turn to.v.02; instruct.v.02	Sheriff Jim Hopper; Lucas Sinclair; Mike Wheeler	4	6
+108.0	1.5	72	 couch.n.01	sit.v.01; stare.v.02; reply.v.01	Lucas Sinclair; Mike Wheeler	4	6
+109.5	1.5	73	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; couch.n.01	sit.v.01; stare.v.02; reply.v.01	Sheriff Jim Hopper; Lucas Sinclair; Mike Wheeler	4	6
+111.0	1.5	74	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; 	sit.v.01; stare.v.02; sigh.v.02	Sheriff Jim Hopper; 	4	6
+112.5	1.5	75	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; principal.v.02	sit.v.01; turn to.v.02; lean back.v.01	Sheriff Jim Hopper; 	4	6
+114.0	1.5	76	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; principal.v.02	sit.v.01; turn to.v.02; lean back.v.01; shout.v.01	Sheriff Jim Hopper; 	3	8
+115.5	1.5	77	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; principal.v.02; couch.n.01	sit.v.01; turn to.v.02; lean back.v.01; shout.v.01; stare.v.02; offer.v.04	Sheriff Jim Hopper; Mike Wheeler; Lucas sinclair; Dustin Henderson	3	8
+117.0	1.5	78	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; principal.v.02; couch.n.02	sit.v.01; turn to.v.02; lean back.v.01; stare.v.02; offer.v.04	Sheriff Jim Hopper; Mike Wheeler; Lucas sinclair; Dustin Henderson	4	6
+118.5	1.5	79	 desk.n.01; policeman.n.01; office.n.01; chair.n.02; principal.v.02; couch.n.01	sit.v.01; turn to.v.02; refuse.v.02; insist.v.01	Sheriff Jim Hopper;	4	6
+120.0	1.5	80	 couch.n.01; window.n.01	sit.v.01; insist.v.01; stare.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson 	3	6
+121.5	1.5	81	 couch.n.01; window.n.01;  desk.n.01; policeman.n.01; office.n.01; principal.v.02	sit.v.01;stare.v.02; instruct.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson; Sheriff Jim Hopper	3	6
+123.0	1.5	82	desk.n.01; policeman.n.01; office.n.01; principal.v.02	sit.v.01;instruct.v.02	 Sheriff Jim Hopper	2	6
+124.5	1.5	83	couch.n.01; window.n.01	sit.v.01; instruct.v.02; sigh.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
+126.0	1.5	84	desk.n.01; policeman.n.01; office.n.01; principal.v.02; couch.n.01; window.n.01	sit.v.01; instruct.v.02; sigh.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
+127.5	1.5	85	desk.n.01; policeman.n.01; office.n.01; principal.v.02; 	sit.v.01; instruct.v.02; 	Sheriff Jim Hopper	2	6
+129.0	1.5	86	desk.n.01; policeman.n.01; office.n.01; principal.v.02; 	sit.v.01; instruct.v.02; 	Sheriff Jim Hopper	2	6
+130.5	1.5	87	desk.n.01; policeman.n.01; office.n.01; principal.v.02; 	sit.v.01; instruct.v.02; 	Sheriff Jim Hopper; Dustin Henderson	2	6
+132.0	1.5	88	desk.n.01; policeman.n.01; office.n.01; principal.v.02; couch.n.01;  	sit.v.01; turn to.v.02; exclaim.v.01	Sheriff Jim Hopper; Dustin Henderson; Lucas Sinclair; Mike Wheeler	2	7
+133.5	1.5	89	 couch.n.01;  	sit.v.01; turn to.v.02; exclaim.v.01; punch.v.01	Sheriff Jim Hopper; Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	8
+135.0	1.5	90	 couch.n.01;  desk.n.01; policeman.n.01; office.n.01; principal.v.02;	sit.v.01; turn to.v.02; exclaim.v.01; punch.v.01; lean.v.01	Sheriff Jim Hopper; Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	8
+136.5	1.5	91	desk.n.01; policeman.n.01; office.n.01; principal.v.02;	sit.v.01; turn to.v.02; exclaim.v.01; lean.v.01; question.v.03	Sheriff Jim Hopper; 	1	8
+138.0	1.5	92	desk.n.01; policeman.n.01; office.n.01; couch.n.01	sit.v.01; turn to.v.02; exclaim.v.01; lean.v.01; question.v.03	Sheriff Jim Hopper; Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	8
+139.5	1.5	93	desk.n.01; policeman.n.01; office.n.01; couch.n.01; principal.n.02; chair.n.01	stare.v.02; stand.v.01	Sheriff Jim Hopper; Dustin Henderson; Lucas Sinclair; Mike Wheeler	2	8
+141.0	1.5	94	desk.n.01; policeman.n.01; office.n.01; couch.n.01; principal.n.02; chair.n.01; hat.n.01	stare.v.02; stand.v.01	Sheriff Jim Hopper; Dustin Henderson; Lucas Sinclair; Mike Wheeler	2	8
+142.5	1.5	95	couch.n.01; 	stare.v.02; 	Dustin Henderson; Lucas Sinclair; Mike Wheeler	2	8
+144.0	1.5	96	couch.n.01; light.n.02; policeman.n.01	stare.v.02; question.v.03;	Dustin Henderson; Lucas Sinclair; Mike Wheeler; Sheriff Jim Hopper	2	8
+145.5	1.5	97	light.n.02; policeman.n.01	stare.v.02; question.v.03;	Sheriff Jim Hopper	2	8
+147.0	1.5	98	light.n.02; policeman.n.01	stare.v.02; question.v.03;	Sheriff Jim Hopper	2	8
+148.5	1.5	99	light.n.02; policeman.n.01; couch.n.01; window.n.01	stare.v.02; question.v.03; nod.v.01	Sheriff Jim Hopper; Mike Wheeler; Lucas sinclair; Dustin Henderson	2	8
+150.0	1.5	100	 couch.n.01; window.n.01	stare.v.02;  nod.v.01; respond.v.01	Mike Wheeler; Lucas sinclair; Dustin Henderson	2	8
+151.5	1.5	101	daylight.n.01; tree.n.01			5	1
+153.0	1.5	102	daylight.n.01; tree.n.01; flag.n.01			5	1
+154.5	1.5	103	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01	run.v.01		5	1
+156.0	1.5	104	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
+157.5	1.5	105	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
+159.0	1.5	106	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
+160.5	1.5	107	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
+162.0	1.5	108	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 press.v.01	Joyce Byers 	5	2
+163.5	1.5	109	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 press.v.01; imitate.v.02	Joyce Byers 	5	2
+165.0	1.5	110	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	question.v.03; lean.v.01	Joyce Byers 	5	2
+166.5	1.5	111	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	question.v.03; lean.v.01	Joyce Byers 	5	2
+168.0	1.5	112	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 lean.v.01; reply.v.01; recall.v.01	Joyce Byers 	5	2
+169.5	1.5	113	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 lean.v.01; recall.v.01	Joyce Byers 	5	2
+171.0	1.5	114	daylight.n.01; tree.n.01;  woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 lean.v.01; recall.v.01; gesture.v.01	Joyce Byers 	5	2
+172.5	1.5	115	daylight.n.01; tree.n.01; woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 lean.v.01; recall.v.01; gesture.v.01	Joyce Byers 	5	2
+174.0	1.5	116	daylight.n.01; tree.n.01; woman.n.01; trunk.n.01; fort.n.02; bell.n.02	 lean.v.01; reach out.v.01	Joyce Byers 	5	2
+175.5	1.5	117	daylight.n.01; tree.n.01; f woman.n.01; fort.n.02; bed.n.01; drawing.n.02; comic book.n.01	 lean.v.01; reach out.v.01	Joyce Byers 	5	2
+177.0	1.5	118	daylight.n.01; woman.n.01; fort.n.02; bed.n.01; drawing.n.02; comic book.n.01	read.v.01; enter.v.01	Joyce Byers; Will Byers	6	5
+178.5	1.5	119	daylight.n.01; woman.n.01; fort.n.02; bed.n.01; drawing.n.02; comic book.n.01	 enter.v.01; stare.v.02; close.v.01	Joyce Byers; Will Byers	6	5
+180.0	1.5	120	woman.n.01; fort.n.02; bed.n.01; drawing.n.02; comic book.n.01; stand.n.04; microscope.n.01	sit.v.01; stare.v.02; close.v.01	Joyce Byers; Will Byers	6	5
+181.5	1.5	121	woman.n.01; fort.n.02; bed.n.01; drawing.n.02; comic book.n.01; stand.n.04; microscope.n.01	sit.v.01; close.v.01; face.v.03	Joyce Byers; Will Byers	6	5
+183.0	1.5	122	woman.n.01; fort.n.02; bed.n.01; drawing.n.02; comic book.n.01; stand.n.04; microscope.n.01	sit.v.01; close.v.01; face.v.03; grab.v.03	Joyce Byers; Will Byers	6	5
+184.5	1.5	123	woman.n.01; fort.n.02;  ticket.n.01	sit.v.01; close.v.01; face.v.03; grab.v.03; surprise.v.02; show.v.01	Joyce Byers; Will Byers	6	5
+186.0	1.5	124	woman.n.01; fort.n.02;  ticket.n.01	 face.v.03;  surprise.v.02; show.v.01	Joyce Byers; Will Byers	6	5
+187.5	1.5	125	woman.n.01; fort.n.02;  ticket.n.01	 show.v.01; smile.v.01	Joyce Byers; Will Byers	7	6
+189.0	1.5	126	woman.n.01; fort.n.02;  ticket.n.01	 show.v.01; smile.v.01	Joyce Byers; Will Byers	7	6
+190.5	1.5	127	woman.n.01; fort.n.02;  ticket.n.01	 show.v.01; smile.v.01; face.v.03	Joyce Byers; Will Byers	7	6
+192.0	1.5	128	woman.n.01; fort.n.02;  ticket.n.01	 show.v.01; smile.v.01; face.v.03	Joyce Byers; Will Byers	7	6
+193.5	1.5	129	woman.n.01; fort.n.02;  ticket.n.01	 face.v.03; assure.v.01	Joyce Byers; Will Byers	7	6
+195.0	1.5	130	woman.n.01; fort.n.02;  ticket.n.01	 face.v.03; assure.v.01	Joyce Byers; Will Byers	7	6
+196.5	1.5	131	woman.n.01; fort.n.02;  ticket.n.01	question.v.03; squint.v.01	Joyce Byers; Will Byers	7	6
+198.0	1.5	132	woman.n.01; fort.n.02;	question.v.03; squint.v.01	Joyce Byers; Will Byers	7	6
+199.5	1.5	133	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01	Joyce Byers; Will Byers	7	6
+201.0	1.5	134	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01; gesture.v.01	Joyce Byers; Will Byers	7	6
+202.5	1.5	135	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01; gesture.v.01	Joyce Byers; Will Byers	7	6
+204.0	1.5	136	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01; gesture.v.01	Joyce Byers; Will Byers	7	6
+205.5	1.5	137	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01; gesture.v.01; tickle.v.01	Joyce Byers; Will Byers	7	6
+207.0	1.5	138	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01; gesture.v.01; tickle.v.01; laugh.v.01	Joyce Byers; Will Byers	7	6
+208.5	1.5	139	woman.n.01; fort.n.02;	question.v.03; squint.v.01; assure.v.01; gesture.v.01; tickle.v.01; laugh.v.01	Joyce Byers; Will Byers	7	6
+210.0	1.5	140	daylight.n.01; woman.n.01; fort.n.02; bed.n.01; drawing.n.02; stand.n.04	lean.v.01; sigh.v.02 	Joyce Byers	3	6
+211.5	1.5	141	daylight.n.01; fort.n.02; woman.n.01; tree.n.01	sigh.v.01; lean.v.01; look back.v.01	Joyce Byers	3	6
+213.0	1.5	142	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	turn around.v.01; shout.v.01; walk.v.01	Joyce Byers; Jonathan Byers 	2	9
+214.5	1.5	143	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	turn around.v.01; shout.v.01; walk.v.01	Joyce Byers; Jonathan Byers 	2	9
+216.0	1.5	144	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	 walk.v.01; breathe.v.01	Joyce Byers; Jonathan Byers 	2	9
+217.5	1.5	145	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	walk.v.01; breathe.v.01; search.v.02	Joyce Byers; Jonathan Byers 	2	9
+219.0	1.5	146	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	 walk.v.01; breathe.v.01; search.v.02; shout.v.01	Joyce Byers; Jonathan Byers 	2	9
+220.5	1.5	147	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	 walk.v.01;  search.v.02; shout.v.01	Joyce Byers	2	9
+222.0	1.5	148	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
+223.5	1.5	149	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
+225.0	1.5	150	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
+226.5	1.5	151	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
+228.0	1.5	152	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
+229.5	1.5	153	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01	throw.v.01; cook.v.01; 		5	1
+231.0	1.5	154	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04	cook.v.01; look back.v.01		5	1
+232.5	1.5	155	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04	cook.v.01; look back.v.01		5	1
+234.0	1.5	156	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04; spatula.n.01	cook.v.01; pick up.v.01		5	1
+235.5	1.5	157	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04; spatula.n.01; booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	cook.v.01; pick up.v.01; eat.v.01; stare.v.02	Eleven	6	3
+237.0	1.5	158	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02	Eleven	6	3
+238.5	1.5	159	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02; question.v.03	Eleven	6	3
+240.0	1.5	160	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02; question.v.03	Eleven	6	3
+241.5	1.5	161	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02; question.v.03	Eleven	6	3
+243.0	1.5	162	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.02	 eat.v.01; stare.v.02; 	Eleven	6	3
+244.5	1.5	163	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02;	Eleven	6	3
+246.0	1.5	164	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; question.v.03	Eleven	6	3
+247.5	1.5	165	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; 	 eat.v.01;  question.v.03	Eleven	4	5
+249.0	1.5	166	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; stare.v.02;	Eleven	4	5
+250.5	1.5	167	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; stare.v.02; speak.v.01	Eleven	4	5
+252.0	1.5	168	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; stare.v.02; breathe.v.01	Eleven	4	5
+253.5	1.5	169	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; stare.v.02; question.v.03	Eleven	3	6
+255.0	1.5	170	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; stare.v.02;	Eleven	3	6
+256.5	1.5	171	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; 	 eat.v.01; stare.v.02;	Eleven	4	6
+258.0	1.5	172	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; speak.v.01; gesture.v.01	Eleven	4	6
+259.5	1.5	173	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; speak.v.01; gesture.v.01	Eleven	4	6
+261.0	1.5	174	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; speak.v.01; gesture.v.01; stare.v.02	Eleven	4	6
+262.5	1.5	175	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01; door.n.01; window.n.01	 eat.v.01; speak.v.01; gesture.v.01; stare.v.02	Eleven	4	7
+264.0	1.5	176	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; reach.v.03; grab.v.01	Eleven	4	7
+265.5	1.5	177	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; reach.v.03; grab.v.01; eat.v.01	Eleven	4	7
+267.0	1.5	178	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; gesture.v.01; hold.v.01	Eleven	4	7
+268.5	1.5	179	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; gesture.v.01; hold.v.01	Eleven	4	7
+270.0	1.5	180	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; gesture.v.01; hold.v.01	Eleven	4	7
+271.5	1.5	181	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; gesture.v.01; hold.v.01	Eleven	4	7
+273.0	1.5	182	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; gesture.v.01; hold.v.01	Eleven	4	7
+274.5	1.5	183	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; gesture.v.01; hold.v.01	Eleven	4	7
+276.0	1.5	184	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; gesture.v.01; hold.v.01; question.v.03	Eleven	4	4
+277.5	1.5	185	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; hold.v.01; 	Eleven	4	4
+279.0	1.5	186	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; hold.v.01; 	Eleven	4	4
+280.5	1.5	187	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; window.n.01; door.n.01	 stare.v.02; hold.v.01; speak.v.01; place.v.01; 	Eleven	4	4
+282.0	1.5	188	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; window.n.01; door.n.01; jukebox.n.01	 stare.v.02;speak.v.01; gesture.v.01	Eleven	4	4
+283.5	1.5	189	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; window.n.01; door.n.01; jukebox.n.01	 stare.v.02; speak.v.01; holdout.v.01	Eleven	4	4
+285.0	1.5	190	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; window.n.01; door.n.01; jukebox.n.01	 stare.v.02; speak.v.01; holdout.v.01	Eleven	4	4
+286.5	1.5	191	 booth.n.01; man.n.01; burger.n.02;  condiment.n.01; window.n.01; door.n.01; jukebox.n.01	 stare.v.02; holdout.v.01; speak.v.01	Eleven	4	4
+288.0	1.5	192	man.n.01; burger.n.02;  condiment.n.01; 	 stare.v.02; speak.v.01; reach.v.03	Eleven	4	4
+289.5	1.5	193	man.n.01; 	 stare.v.02; speak.v.01; reach.v.03	Eleven	6	4
+291.0	1.5	194	man.n.01; booth.n.01; burger.n.02	 stare.v.02; speak.v.01; reach.v.03; shake hands.v.01	Eleven	6	4
+292.5	1.5	195	man.n.01; booth.n.01; burger.n.02	 stare.v.02; speak.v.01; reach.v.03; shake hands.v.01; 	Eleven	6	4
+294.0	1.5	196	man.n.01; booth.n.01; burger.n.02	 stare.v.02; speak.v.01; reach.v.03; shake hands.v.01; question.v.03	Eleven	6	4
+295.5	1.5	197	man.n.01; booth.n.01; burger.n.02; condiment.n.01	 stare.v.02; 	Eleven	5	2
+297.0	1.5	198	man.n.01; booth.n.01; burger.n.02; condiment.n.01	 stare.v.02; lower.v.01	Eleven	5	2
+298.5	1.5	199	man.n.01; booth.n.01; burger.n.02; condiment.n.01; 	 stare.v.02;sigh.v.02	Eleven	5	2
+300.0	1.5	200	man.n.01; booth.n.01; burger.n.02; condiment.n.01; arm.n.01; mark.n.02                                                                    	 stare.v.02;sigh.v.02	Eleven	3	5
+301.5	1.5	201	man.n.01; booth.n.01; condiment.n.01; arm.n.01; mark.n.02                                                                    	 stare.v.02;sigh.v.02; pull away.v.01	Eleven	2	6
+303.0	1.5	202	man.n.01;                                                           	 stare.v.02;sigh.v.02; 		2	6
+304.5	1.5	203	man.n.01;                                                           	 stare.v.02;gesture.v.01; speak.v.01 		2	6
+306.0	1.5	204	girl.n.01; restaurant.n.01; daylight.n.01                                                           	 stare.v.02; frown.v.01	Eleven 	2	6
+307.5	1.5	205	girl.n.01; restaurant.n.01; daylight.n.01                                                          	 stare.v.02;  question.v.03	Eleven 	2	6
+309.0	1.5	206	Man.n.01                                           	 stare.v.02; frown.v.01; question.v.03		2	6
+310.5	1.5	207	Man.n.01; girl.n.01                                    	 stare.v.02; frown.v.01; 	Eleven 	2	6
+312.0	1.5	208	girl.n.01                                    	 stare.v.02; speak.v.01	Eleven 	2	6
+313.5	1.5	209	girl.n.01; man.n.01                         	 stare.v.02; speak.v.01	Eleven 	2	6
+315.0	1.5	210	girl.n.01; man.n.01; restaurant.n.01; daylight.n.01                         	 stare.v.02; speak.v.01	Eleven 	2	6
+316.5	1.5	211	girl.n.01; restaurant.n.01; daylight.n.01       	 stare.v.02; 	Eleven 	2	6
+318.0	1.5	212	girl.n.01; restaurant.n.01; daylight.n.01	 stare.v.02; question.v.03	Eleven 	2	6
+319.5	1.5	213	girl.n.01; man.n.01                         	 stare.v.02; agree.v.02	Eleven 	2	6
+321.0	1.5	214	girl.n.01; man.n.01; booth.n.01; jukebox.n01; restaurant.n.01                	 stare.v.02; grab.v.01; turn.n.01	Eleven 	3	6
+322.5	1.5	215	girl.n.01; man.n.01;  restaurant.n.01; daylight.n.01                	 stare.v.02; grab.v.01; turn.n.01; answer.v.01	Eleven 	3	6
+324.0	1.5	216	girl.n.01; man.n.01; restaurant.n.01; daylight.n.01                	stare.v.02; blink.v.01	Eleven	4	7
+325.5	1.5	217	 man.n.01; restaurant.n.01; daylight.n.01	stare.v.02; blink.v.01; face.v.03		4	7
+327.0	1.5	218	 man.n.01; girl.n.01; restaurant.n.01; daylight.n.01	stare.v.02; question.v.03	Eleven 	4	7
+328.5	1.5	219	 girl.n.01; resturant.n.01; daylight.n.01	stare.v.02; reply.v.01; point.v.01	Eleven 	4	7
+330.0	1.5	220	 girl.n.01; resturant.n.01; daylight.n.01	stare.v.02; question.v.03	Eleven 	4	7
+331.5	1.5	221	 girl.n.01; resturant.n.01; daylight.n.01	stare.v.02; question.v.03	Eleven 	4	7
+333.0	1.5	222	man.n.01; restaurant.n.01; daylight.n.01	stare.v.02; speak.v.01		6	7
+334.5	1.5	223	man.n.01; restaurant.n.01; daylight.n.01	speak.v.01		6	7
+336.0	1.5	224	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	smile.v.01	Eleven	6	7
+337.5	1.5	225	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	smile.v.01; speak.v.01	Eleven	6	7
+339.0	1.5	226	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	smile.v.01; speak.v.01	Eleven	6	7
+340.5	1.5	227	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	stare.v.02; breathe.v.01	Eleven	4	6
+342.0	1.5	228	man.n.01; restaurant.n.01; daylight.n.01;  newspaper.n.01	stare.v.02; breathe.v.01; speak.v.01		4	6
+343.5	1.5	229	 newspaper.n.01; number.n.05	speak.v.01		4	6
+345.0	1.5	230	 newspaper.n.01; number.n.05; man.n.01; telephone.n.01	speak.v.01		4	6
+346.5	1.5	231	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; eat.v.01	Eleven	3	7
+348.0	1.5	232	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; eat.v.01	Eleven	3	7
+349.5	1.5	233	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+351.0	1.5	234	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+352.5	1.5	235	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+354.0	1.5	236	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+355.5	1.5	237	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01; turn.v.01		3	7
+357.0	1.5	238	man.n.01; telephone.n.01; kitchen.n.01; girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	speak.v.01; lean.v.01; turn.v.01; eat.v.01; 	Eleven	3	7
+358.5	1.5	239	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	eat.v.01; 	Eleven	4	5
+360.0	1.5	240	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	 eat.v.01; glare.v.01	Eleven	4	5
+361.5	1.5	241	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	 eat.v.01; glare.v.01	Eleven	4	5
+363.0	1.5	242	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; window.n.01; curtain.n.01; chair.n.01; fan.n.01	 eat.v.01; glare.v.01; spin.v.01	Eleven	3	7
+364.5	1.5	243	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; window.n.01; curtain.n.01; chair.n.01; fan.n.01	glare.v.01; spin.v.01	Eleven	3	7
+366.0	1.5	244	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; 	stare.v.01	Eleven	3	7
+367.5	1.5	245	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; 	stare.v.01	Eleven	3	8
+369.0	1.5	246	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; window.n.01; curtain.n.01; chair.n.01; fan.n.01	stare.v.01; spin.v.01	Eleven	3	8
+370.5	1.5	247	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; window.n.01; curtain.n.01; chair.n.01; fan.n.01	stare.v.01; spin.v.01	Eleven	3	8
+372.0	1.5	248	window.n.01; curtain.n.01; fan.n.01	spin.v.01; stop.v.01		3	9
+373.5	1.5	249	window.n.01; curtain.n.01; fan.n.01; girl.n.01	spin.v.01; stop.v.01; stare.v.01	Eleven	2	9
+375.0	1.5	250	girl.n.01; fries.n.01	eat.v.01; 	Eleven	2	9
+376.5	1.5	251	irl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; 	eat.v.01; 	Eleven	4	7
+378.0	1.5	252	irl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; road.n.01; daylight.n.02; tree.n.01; car.n.01; 	eat.v.01; 	Eleven	4	7
+379.5	1.5	253	 road.n.01; daylight.n.02; tree.n.01; car.n.01; dust.n.01	drive.n.01		5	6
+381.0	1.5	254	 road.n.01; daylight.n.02; tree.n.01;  dust.n.01			5	6
+382.5	1.5	255	 road.n.01; daylight.n.02; tree.n.01;  dust.n.01; wire.n.02	shout.v.01		4	6
+384.0	1.5	256	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01	Sheriff Jim Hopper	4	6
+385.5	1.5	257	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01; walk.v.01	Sheriff Jim Hopper	4	6
+387.0	1.5	258	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01; walk.v.01	Sheriff Jim Hopper	4	6
+388.5	1.5	259	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01; walk.v.01	Sheriff Jim Hopper	4	6
+390.0	1.5	260	 road.n.01; daylight.n.02; tree.n.01;   policeman.n.01; 	walk.v.01	Sheriff Jim Hopper	4	5
+391.5	1.5	261	 road.n.01; daylight.n.02; tree.n.01;   policeman.n.01; 	walk.v.01; shout.v.01; search.v.01	Sheriff Jim Hopper	4	5
+393.0	1.5	262	 road.n.01; daylight.n.02; tree.n.01;   policeman.n.01; 	walk.v.01; shout.v.01; search.v.01; grab.v.01; 	Sheriff Jim Hopper	4	6
+394.5	1.5	263	 road.n.01; daylight.n.02; tree.n.01;   policeman.n.01; 	walk.v.01; grab.v.01; look.v.01	Sheriff Jim Hopper	4	6
+396.0	1.5	264	 road.n.01; daylight.n.02; tree.n.01;   policeman.n.01; 	walk.v.01; grab.v.01; look.v.01; swallow.v.01	Sheriff Jim Hopper	4	6
+397.5	1.5	265	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; grab.v.01;swallow.v.01	Sheriff Jim Hopper	4	6
+399.0	1.5	266	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; shout.v.01; stare.v.01	Sheriff Jim Hopper	4	6
+400.5	1.5	267	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	 stare.v.01	Sheriff Jim Hopper	3	7
+402.0	1.5	268	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	 stare.v.01; shout.v.01	Sheriff Jim Hopper	3	8
+403.5	1.5	269	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	 stare.v.01; shout.v.01; walk.v.01	Sheriff Jim Hopper	3	8
+405.0	1.5	270	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; road.n.01	run.v.01	Sheriff Jim Hopper	3	8
+406.5	1.5	271	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; road.n.01 	walk.v.01; stare.v.01	Sheriff Jim Hopper	4	6
+408.0	1.5	272	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; road.n.01	walk.v.01; stare.v.02	Sheriff Jim Hopper	4	6
+409.5	1.5	273	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; stare.v.01	Sheriff Jim Hopper	4	6
+411.0	1.5	274	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; stare.v.01; question.v.03; reply.v.01	Sheriff Jim Hopper	4	6
+412.5	1.5	275	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; reply.v.01; search.v.01	Sheriff Jim Hopper	3	8
+414.0	1.5	276	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; reply.v.01; search.v.01	Sheriff Jim Hopper	3	8
+415.5	1.5	277	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; reply.v.01; search.v.01	Sheriff Jim Hopper	3	8
+417.0	1.5	278	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01; 	walk.v.01; search.v.01; question.v.03	Sheriff Jim Hopper	3	8
+418.5	1.5	279	afternoon.n.01; tree.n.01; policeman.n.01;	question.v.03	Sheriff Jim Hopper	3	8
+420.0	1.5	280	afternoon.n.01; tree.n.01; policeman.n.01;	speak.v.01	Sheriff Jim Hopper	3	8
+421.5	1.5	281	afternoon.n.01; tree.n.01; policeman.n.01;	speak.v.01; walk.v.01	Sheriff Jim Hopper	3	8
+423.0	1.5	282	afternoon.n.01; tree.n.01; policeman.n.01;	speak.v.01; walk.v.01; bend.v.06	Sheriff Jim Hopper	4	6
+424.5	1.5	283	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01	spwalk.v.01; bend.v.06; stare.v.02; grab.v.01	Sheriff Jim Hopper	4	6
+426.0	1.5	284	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01	walk.v.01; stare.v.02; hold.v.01	Sheriff Jim Hopper	4	6
+427.5	1.5	285	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01	walk.v.01; stare.v.02; hold.v.01	Sheriff Jim Hopper	4	6
+429.0	1.5	286	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01	walk.v.01; stare.v.02; hold.v.01	Sheriff Jim Hopper	4	6
+430.5	1.5	287	afternoon.n.01; tree.n.01; policeman.n.01; bike.n.01	walk.v.01; stare.v.02; hold.v.01	Sheriff Jim Hopper	4	6

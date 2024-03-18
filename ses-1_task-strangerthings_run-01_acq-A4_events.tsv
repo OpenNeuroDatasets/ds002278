@@ -1,0 +1,335 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2				5	3
+4.5	1.5	3				5	3
+6.0	1.5	4	star.n.03			5	3
+7.5	1.5	5	star.n.03; word.n.01			5	3
+9.0	1.5	6	star.n.03; word.n.01			5	3
+10.5	1.5	7	star.n.03; word.n.01			5	3
+12.0	1.5	8	star.n.03; word.n.01			5	3
+13.5	1.5	9	star.n.03; word.n.01			5	3
+15.0	1.5	10	star.n.03; word.n.01			5	3
+16.5	1.5	11	star.n.03; word.n.01			5	3
+18.0	1.5	12	star.n.03; building.n.01			5	3
+19.5	1.5	13	star.n.03; building.n.01			5	3
+21.0	1.5	14	star.n.03; building.n.01			5	3
+22.5	1.5	15	star.n.03; building.n.01			5	3
+24.0	1.5	16	star.n.03; word.n.01; building.n.01			5	3
+25.5	1.5	17	word.n.01; building.n.01			5	3
+27.0	1.5	18	word.n.01; building.n.01			5	3
+28.5	1.5	19	word.n.01; building.n.01			5	3
+30.0	1.5	20	word.n.01; building.n.01; light.n.02			5	3
+31.5	1.5	21	light.n.02; door.n.01	flicker.v.03		5	3
+33.0	1.5	22	light.n.02; door.n.01	flicker.v.03		5	3
+34.5	1.5	23	light.n.02; door.n.01	flicker.v.03		5	3
+36.0	1.5	24	light.n.02; door.n.01	flicker.v.03		5	3
+37.5	1.5	25	light.n.02; door.n.01	flicker.v.03		5	3
+39.0	1.5	26	light.n.02; door.n.01	flicker.v.03		5	3
+40.5	1.5	27	light.n.02; door.n.01	flicker.v.03		5	3
+42.0	1.5	28	light.n.02; door.n.01	flicker.v.03		5	3
+43.5	1.5	29	light.n.02; door.n.01	flicker.v.03		5	3
+45.0	1.5	30	light.n.02; door.n.01	flicker.v.03		5	3
+46.5	1.5	31	light.n.02; door.n.01	flicker.v.03		5	3
+48.0	1.5	32	door.n.01	barge in.v.01	Mr. Clarke	5	4
+49.5	1.5	33	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	4
+51.0	1.5	34	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	3
+52.5	1.5	35	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	3
+54.0	1.5	36	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	3
+55.5	1.5	37	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	3
+57.0	1.5	38	hallway.n.01; light.n.02; elevator.n.01	flicker.v.03; run.v.01	Mr. Clarke	5	3
+58.5	1.5	39	hallway.n.01; light.n.02; elevator.n.01	flicker.v.03; run.v.01	Mr. Clarke	5	3
+60.0	1.5	40	hallway.n.01; light.n.02; elevator.n.01	gasp.v.01	Mr. Clarke	5	3
+61.5	1.5	41	hallway.n.01; light.n.02; elevator.n.01	press.v.01	Mr. Clarke	5	3
+63.0	1.5	42	hallway.n.01; light.n.02; elevator.n.01	press.v.01; gasp.v.01	Mr. Clarke	5	3
+64.5	1.5	43	hallway.n.01; light.n.02; elevator.n.01	turn.v.01	Mr. Clarke	5	3
+66.0	1.5	44	hallway.n.01; light.n.02; elevator.n.01	press.v.01; gasp.v.01	Mr. Clarke	5	3
+67.5	1.5	45	hallway.n.01; light.n.02; elevator.n.01	press.v.01; gasp.v.01; open.v.01	Mr. Clarke	5	3
+69.0	1.5	46	light.n.02; elevator.n.01	move.v.03; enter.v.01	Mr. Clarke	5	3
+70.5	1.5	47	light.n.02; elevator.n.01	press.v.01	Mr. Clarke	5	3
+72.0	1.5	48	light.n.02; elevator.n.01	press.v.01	Mr. Clarke	5	3
+73.5	1.5	49	light.n.02; elevator.n.01	move.v.03	Mr. Clarke	5	3
+75.0	1.5	50	light.n.02; elevator.n.01	flicker.v.03; gasp.v.01	Mr. Clarke	5	3
+76.5	1.5	51	light.n.02; elevator.n.01	flicker.v.03; gasp.v.01	Mr. Clarke	5	3
+78.0	1.5	52	light.n.02; elevator.n.01	hyperventilate.v.02	Mr. Clarke	5	3
+79.5	1.5	53	light.n.02; elevator.n.01	hyperventilate.v.02	Mr. Clarke	5	3
+81.0	1.5	54	hallway.n.01; light.n.02; elevator.n.01	flicker.v.03; gasp.v.01	Mr. Clarke	5	3
+82.5	1.5	55	hallway.n.01; light.n.02	flicker.v.03; gasp.v.01	Mr. Clarke	5	3
+84.0	1.5	56	hallway.n.01; light.n.02	flicker.v.03; gasp.v.01	Mr. Clarke	5	3
+85.5	1.5	57	hallway.n.01; light.n.02; elevator.n.01	flicker.v.03; gasp.v.01	Mr. Clarke	5	3
+87.0	1.5	58	light.n.02; elevator.n.01	look.v.01; growl.v.01	Mr. Clarke	5	3
+88.5	1.5	59	light.n.02; elevator.n.01	look.v.01; growl.v.01	Mr. Clarke	5	3
+90.0	1.5	60	light.n.02; elevator.n.01	flicker.v.03; look.v.01	Mr. Clarke	5	3
+91.5	1.5	61	light.n.02; elevator.n.01	flicker.v.03; gasp.v.01; look.v.01	Mr. Clarke	5	3
+93.0	1.5	62	light.n.02; elevator.n.01	close.v.01; scream.v.01; take.v.03	Mr. Clarke	5	3
+94.5	1.5	63	light.n.02; elevator.n.01	close.v.01		5	3
+96.0	1.5	64	light.n.02; elevator.n.01	close.v.01		5	3
+97.5	1.5	65	light.n.02; elevator.n.01	expel.v.01		5	3
+99.0	1.5	66	light.n.02; elevator.n.01	expel.v.01		5	3
+100.5	1.5	67	light.n.02; elevator.n.01	expel.v.01		5	3
+102.0	1.5	68	sprinkler.n.01; house.n.01	expel.v.01; speak.v.01	Mike Wheeler	5	3
+103.5	1.5	69	sprinkler.n.01; house.n.01	expel.v.01; speak.v.01	Mike Wheeler	5	3
+105.0	1.5	70	sprinkler.n.01; house.n.01	expel.v.01; speak.v.01	Mike Wheeler	5	3
+106.5	1.5	71	room.n.01	speak.v.01	Mike Wheeler	5	3
+108.0	1.5	72	room.n.01	speak.v.01	Mike Wheeler	5	3
+109.5	1.5	73	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson	5	3
+111.0	1.5	74	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+112.5	1.5	75	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+114.0	1.5	76	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+115.5	1.5	77	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+117.0	1.5	78	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+118.5	1.5	79	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+120.0	1.5	80	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+121.5	1.5	81	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+123.0	1.5	82	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+124.5	1.5	83	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+126.0	1.5	84	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+127.5	1.5	85	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+129.0	1.5	86	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+130.5	1.5	87	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+132.0	1.5	88	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+133.5	1.5	89	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+135.0	1.5	90	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+136.5	1.5	91	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+138.0	1.5	92	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+139.5	1.5	93	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+141.0	1.5	94	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+142.5	1.5	95	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+144.0	1.5	96	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+145.5	1.5	97	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+147.0	1.5	98	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+148.5	1.5	99	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+150.0	1.5	100	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+151.5	1.5	101	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+153.0	1.5	102	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+154.5	1.5	103	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+156.0	1.5	104	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+157.5	1.5	105	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+159.0	1.5	106	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+160.5	1.5	107	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+162.0	1.5	108	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+163.5	1.5	109	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+165.0	1.5	110	room.n.01	speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+166.5	1.5	111	room.n.01	speak.v.01; stand up.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+168.0	1.5	112	room.n.01	speak.v.01; stand up.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+169.5	1.5	113	room.n.01	speak.v.01; run.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+171.0	1.5	114	room.n.01	speak.v.01; run.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+172.5	1.5	115	room.n.01	speak.v.01; worry.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+174.0	1.5	116	room.n.01	speak.v.01; worry.v.01	Dustin Henderson	5	3
+175.5	1.5	117	room.n.01	speak.v.01; worry.v.01; open.v.01	Dustin Henderson; Karen Wheeler	5	3
+177.0	1.5	118	room.n.01	speak.v.01; worry.v.01	Dustin Henderson; Karen Wheeler; Mike Wheeler	5	3
+178.5	1.5	119	room.n.01	speak.v.01; worry.v.01	Mike Wheeler; Dustin Henderson	5	3
+180.0	1.5	120	room.n.01; stairs.n.01	speak.v.01; worry.v.01	Dustin Henderson; Karen Wheeler; Mike Wheeler	5	3
+181.5	1.5	121	room.n.01; stairs.n.01	speak.v.01; worry.v.01	Dustin Henderson; Karen Wheeler; Mike Wheeler	5	3
+183.0	1.5	122	room.n.01; stairs.n.01	speak.v.01; worry.v.01; climb.v.01	Dustin Henderson; Karen Wheeler; Mike Wheeler	5	3
+184.5	1.5	123	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+186.0	1.5	124	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+187.5	1.5	125	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+189.0	1.5	126	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+190.5	1.5	127	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+192.0	1.5	128	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+193.5	1.5	129	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+195.0	1.5	130	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler	5	3
+196.5	1.5	131	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler	5	3
+198.0	1.5	132	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+199.5	1.5	133	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+201.0	1.5	134	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+202.5	1.5	135	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+204.0	1.5	136	kitchen.n.01	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+205.5	1.5	137	kitchen.n.01; television.n.02	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+207.0	1.5	138	kitchen.n.01; television.n.02	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+208.5	1.5	139	kitchen.n.01; television.n.02	speak.v.01	Mike Wheeler; Karen Wheeler; Ted Wheeler	5	3
+210.0	1.5	140	kitchen.n.01; stairs.n.01; television.n.02	trip.v.01	Mike Wheeler; Dustin Henderson; Karen Wheeler; Ted Wheeler	5	3
+211.5	1.5	141	room.n.01; stairs.n.01	speak.v.01	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+213.0	1.5	142	room.n.01	speak.v.01	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+214.5	1.5	143	room.n.01	speak.v.01	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+216.0	1.5	144	room.n.01	speak.v.01	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+217.5	1.5	145	room.n.01	pack.v.04	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+219.0	1.5	146	room.n.01	pack.v.04	Mike Wheeler; Dustin Henderson; Lucas Sinclair	5	3
+220.5	1.5	147	room.n.01	walk.v.01; lift.v.01; look.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	5	3
+222.0	1.5	148	room.n.01; stairs.n.01	speak.v.01; climb.v.01; look.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	5	3
+223.5	1.5	149	room.n.01; stairs.n.01	speak.v.01; open.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	5	3
+225.0	1.5	150	room.n.01; stairs.n.01	climb.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	5	3
+226.5	1.5	151	room.n.01	look.v.01; move.v.03	Dustin Henderson	5	3
+228.0	1.5	152	room.n.01; stairs.n.01	speak.v.01; climb.v.01; look.v.01	Dustin Henderson	5	3
+229.5	1.5	153	stairs.n.01	speak.v.01; climb.v.01	Dustin Henderson	5	3
+231.0	1.5	154	stairs.n.01	speak.v.01; walk.v.01	Dustin Henderson	5	3
+232.5	1.5	155	hallway.n.01; bedroom.n.01	speak.v.01	Dustin Henderson; Nancy Wheeler	5	3
+234.0	1.5	156	hallway.n.01; bedroom.n.01	wave.v.01; speak.v.01	Dustin Henderson; Nancy Wheeler	5	3
+235.5	1.5	157	hallway.n.01; bedroom.n.01	wave.v.01; speak.v.01	Dustin Henderson; Nancy Wheeler	5	3
+237.0	1.5	158	hallway.n.01; bedroom.n.01	wave.v.01; speak.v.01	Dustin Henderson; Nancy Wheeler	5	3
+238.5	1.5	159	hallway.n.01; bedroom.n.01	wave.v.01; speak.v.01	Dustin Henderson; Nancy Wheeler	5	3
+240.0	1.5	160	hallway.n.01; bedroom.n.01	speak.v.01; look.v.01	Dustin Henderson; Nancy Wheeler	5	3
+241.5	1.5	161	hallway.n.01; bedroom.n.01	speak.v.01; look.v.01	Dustin Henderson; Nancy Wheeler	5	3
+243.0	1.5	162	hallway.n.01; bedroom.n.01	speak.v.01; look.v.01	Dustin Henderson; Nancy Wheeler	5	3
+244.5	1.5	163	hallway.n.01; bedroom.n.01	speak.v.01; look.v.01; move.v.03	Dustin Henderson; Nancy Wheeler	5	3
+246.0	1.5	164	hallway.n.01; bedroom.n.01	smile.v.01	Dustin Henderson; Nancy Wheeler	5	3
+247.5	1.5	165	hallway.n.01; bedroom.n.01	smile.v.01; close.v.01	Dustin Henderson; Nancy Wheeler	5	3
+249.0	1.5	166	hallway.n.01	stare.v.01; close.v.01	Dustin Henderson	5	3
+250.5	1.5	167	door.n.01	shut.v.01	Dustin Henderson	5	3
+252.0	1.5	168	garage.n.01	speak.v.01	Dustin Henderson; Will Byers	5	3
+253.5	1.5	169	garage.n.01	speak.v.01	Dustin Henderson; Will Byers; Mike Wheeler	5	3
+255.0	1.5	170	garage.n.01	speak.v.01	Dustin Henderson; Will Byers; Mike Wheeler	5	3
+256.5	1.5	171	garage.n.01	speak.v.01; mount.v.05	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+258.0	1.5	172	garage.n.01	speak.v.01; mount.v.05	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+259.5	1.5	173	garage.n.01	speak.v.01; mount.v.05	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+261.0	1.5	174	garage.n.01	speak.v.01; mount.v.05	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+262.5	1.5	175	garage.n.01	speak.v.01; mount.v.05	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+264.0	1.5	176	garage.n.01	speak.v.01; mount.v.05	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+265.5	1.5	177	garage.n.01	speak.v.01; ride.v.10	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+267.0	1.5	178	garage.n.01	speak.v.01; ride.v.10	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+268.5	1.5	179	garage.n.01	speak.v.01; ride.v.10	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+270.0	1.5	180	garage.n.01	speak.v.01; ride.v.10	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Will Byers	5	3
+271.5	1.5	181	garage.n.01	speak.v.01	Mike Wheeler; Will Byers	5	3
+273.0	1.5	182	garage.n.01	speak.v.01	Mike Wheeler; Will Byers	5	3
+274.5	1.5	183	garage.n.01	speak.v.01	Mike Wheeler; Will Byers	5	3
+276.0	1.5	184	garage.n.01	speak.v.01	Mike Wheeler; Will Byers	5	3
+277.5	1.5	185	garage.n.01	speak.v.01	Mike Wheeler; Will Byers	5	3
+279.0	1.5	186	garage.n.01	stare.v.01; ride.v.10	Mike Wheeler; Will Byers	5	3
+280.5	1.5	187	garage.n.01	stare.v.01; ride.v.10; speak.v.01	Mike Wheeler; Will Byers	5	3
+282.0	1.5	188	garage.n.01	stare.v.01; ride.v.10	Mike Wheeler; Will Byers	5	3
+283.5	1.5	189	garage.n.01	stare.v.01; ride.v.10; flicker.v.03	Mike Wheeler; Will Byers	5	3
+285.0	1.5	190	garage.n.01	stare.v.01; ride.v.10	Mike Wheeler; Will Byers	5	3
+286.5	1.5	191	garage.n.01	look.v.01	Mike Wheeler	5	3
+288.0	1.5	192	garage.n.01	walk.v.01	Mike Wheeler	5	3
+289.5	1.5	193	garage.n.01	move.v.03; turn off.v.01	Mike Wheeler	5	3
+291.0	1.5	194	garage.n.01	walk.v.01	Mike Wheeler	5	3
+292.5	1.5	195	tree.n.01; pole.n.01			5	3
+294.0	1.5	196	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+295.5	1.5	197	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+297.0	1.5	198	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+298.5	1.5	199	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
+300.0	1.5	200	tree.n.01; street.n.02	speak.v.01; ride.v.10	Dustin Henderson; Will Byers	5	3
+301.5	1.5	201	tree.n.01; street.n.02	speak.v.01; ride.v.10	Dustin Henderson; Will Byers	5	3
+303.0	1.5	202	tree.n.01; street.n.02	speak.v.01; ride.v.10	Dustin Henderson; Will Byers	5	3
+304.5	1.5	203	tree.n.01; street.n.02	speak.v.01; ride.v.10	Dustin Henderson; Will Byers	5	3
+306.0	1.5	204	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+307.5	1.5	205	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+309.0	1.5	206	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+310.5	1.5	207	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+312.0	1.5	208	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+313.5	1.5	209	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+315.0	1.5	210	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+316.5	1.5	211	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+318.0	1.5	212	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+319.5	1.5	213	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+321.0	1.5	214	tree.n.01; street.n.02	speak.v.01; ride.v.10; race.v.01	Dustin Henderson; Will Byers	5	3
+322.5	1.5	215	tree.n.01; street.n.02	ride.v.10; slow.v.01	Dustin Henderson	5	3
+324.0	1.5	216	tree.n.01; street.n.02	ride.v.10; slow.v.01; brake.v.02	Dustin Henderson	5	3
+325.5	1.5	217	tree.n.01; street.n.02	brake.v.02; halt.v.02	Dustin Henderson	5	3
+327.0	1.5	218	tree.n.01; street.n.02	exhale.v.01	Dustin Henderson	5	3
+328.5	1.5	219	tree.n.01; wire.n.02			5	3
+330.0	1.5	220	tree.n.01; wire.n.02			5	3
+331.5	1.5	221	tree.n.01; street.n.02; wire.n.02			5	3
+333.0	1.5	222	bicycle.n.01	ride.v.10	Will Byers	5	3
+334.5	1.5	223	bicycle.n.01	ride.v.10	Will Byers	5	3
+336.0	1.5	224	bicycle.n.01	ride.v.10	Will Byers	5	3
+337.5	1.5	225	bicycle.n.01	ride.v.10	Will Byers	5	3
+339.0	1.5	226	tree.n.01; street.n.02; wire.n.02; sign.n.02			5	3
+340.5	1.5	227	tree.n.01; street.n.02; wire.n.02; sign.n.02			5	3
+342.0	1.5	228	street.n.02; bicycle.n.01	pedal.v.01	Will Byers	5	3
+343.5	1.5	229	street.n.02; bicycle.n.01	pedal.v.01; ride.v.10	Will Byers	5	3
+345.0	1.5	230	bicycle.n.01	ride.v.10	Will Byers	5	3
+346.5	1.5	231	bicycle.n.01	ride.v.10	Will Byers	5	3
+348.0	1.5	232	bicycle.n.01	ride.v.10; die.v.04	Will Byers	5	3
+349.5	1.5	233	bicycle.n.01	ride.v.10	Will Byers	5	3
+351.0	1.5	234	bicycle.n.01	ride.v.10; turn on.v.03	Will Byers; unidentified figure	5	5
+352.5	1.5	235	bicycle.n.01	turn.v.01	Will Byers	5	3
+354.0	1.5	236	bicycle.n.01	crash.v.01	Will Byers	5	3
+355.5	1.5	237	bicycle.n.01	crash.v.01	Will Byers	5	3
+357.0	1.5	238	bicycle.n.01	crash.v.01	Will Byers	5	4
+358.5	1.5	239	bicycle.n.01; leaf.n.01	rise.v.01	Will Byers	5	3
+360.0	1.5	240	bicycle.n.01; leaf.n.01	rise.v.01	Will Byers	5	3
+361.5	1.5	241	leaf.n.01	stare.v.01	Will Byers	5	3
+363.0	1.5	242	tree.n.01	stare.v.01	Will Byers	5	3
+364.5	1.5	243	tree.n.01	stare.v.01	Will Byers	5	3
+366.0	1.5	244	tree.n.01	run.v.01	Will Byers	5	3
+367.5	1.5	245	bicycle.n.01	run.v.01	Will Byers	5	3
+369.0	1.5	246	bicycle.n.01	run.v.01	Will Byers	5	3
+370.5	1.5	247	tree.n.01	run.v.01	Will Byers	5	5
+372.0	1.5	248	tree.n.01	run.v.01	Will Byers	5	3
+373.5	1.5	249	tree.n.01	run.v.01	Will Byers	5	3
+375.0	1.5	250	tree.n.01	run.v.01	Will Byers	5	3
+376.5	1.5	251	tree.n.01; house.n.01	run.v.01	Will Byers	5	3
+378.0	1.5	252	tree.n.01; house.n.01	run.v.01	Will Byers	5	3
+379.5	1.5	253	house.n.01	open.v.01	Will Byers	5	3
+381.0	1.5	254	house.n.01	enter.v.01; bark.v.04	Will Byers	5	3
+382.5	1.5	255	house.n.01	close.v.01	Will Byers	5	3
+384.0	1.5	256	house.n.01	pet.v.01	Will Byers; dog	5	3
+385.5	1.5	257	house.n.01	bark.v.04	Will Byers	5	3
+387.0	1.5	258	house.n.01; hallway.n.01	bark.v.04	Will Byers	5	3
+388.5	1.5	259	house.n.01; hallway.n.01	bark.v.04	Will Byers	5	3
+390.0	1.5	260	hallway.n.01	speak.v.01	Will Byers	5	3
+391.5	1.5	261	hallway.n.01	enter.v.01; bark.v.04	Will Byers	5	3
+393.0	1.5	262	hallway.n.01	run.v.01	Will Byers	5	3
+394.5	1.5	263	hallway.n.01	run.v.01; bark.v.04	Will Byers	5	3
+396.0	1.5	264	window.n.01; blind.n.03	lift.v.01	Will Byers	5	3
+397.5	1.5	265	window.n.01	look.v.01; bark.v.04	Will Byers	5	3
+399.0	1.5	266	window.n.01	look.v.01	Will Byers; unidentified figure	5	3
+400.5	1.5	267	window.n.01	look.v.01	Will Byers; unidentified figure	5	5
+402.0	1.5	268	window.n.01	look.v.01	Will Byers; unidentified figure	5	5
+403.5	1.5	269	room.n.01; phone.n.01	lift.v.01	Will Byers	5	3
+405.0	1.5	270	room.n.01; phone.n.01	call.v.03	Will Byers	5	3
+406.5	1.5	271	room.n.01; phone.n.01	call.v.03	Will Byers	5	3
+408.0	1.5	272	room.n.01; phone.n.01	call.v.03	Will Byers	5	3
+409.5	1.5	273	room.n.01; phone.n.01	call.v.03	Will Byers	5	3
+411.0	1.5	274	room.n.01; phone.n.01	call.v.03	Will Byers	5	4
+412.5	1.5	275	room.n.01; phone.n.01	call.v.03; speak.v.01	Will Byers	5	4
+414.0	1.5	276	room.n.01; phone.n.01	call.v.03; speak.v.01; startle.v.02	Will Byers	5	3
+415.5	1.5	277	room.n.01; phone.n.01	call.v.03; scream.v.01; startle.v.02	Will Byers	5	3
+417.0	1.5	278	room.n.01; phone.n.01	call.v.03; bark.v.04	Will Byers; dog	5	3
+418.5	1.5	279	room.n.01; phone.n.01	call.v.03; bark.v.04; look.v.01	Will Byers	5	4
+420.0	1.5	280	room.n.01; phone.n.01	call.v.03; bark.v.04; look.v.01	Will Byers	5	3
+421.5	1.5	281	room.n.01; phone.n.01; door.n.01	call.v.03; bark.v.04; look.v.01	Will Byers	5	3
+423.0	1.5	282	door.n.01	growl.v.01	unidentified figure	5	3
+424.5	1.5	283	door.n.01	bark.v.04	unidentified figure; dog	5	3
+426.0	1.5	284	room.n.01; phone.n.01; door.n.01	bark.v.04	Will Byers; unidentified figure	5	3
+427.5	1.5	285	room.n.01; phone.n.01; door.n.01	bark.v.04; unlock.v.01	Will Byers	5	3
+429.0	1.5	286	room.n.01; phone.n.01; door.n.01	unlock.v.01; drop.v.01	Will Byers	5	5
+430.5	1.5	287	room.n.01; phone.n.01	drop.v.01; run.v.01	Will Byers	5	3
+432.0	1.5	288	room.n.01; phone.n.01	run.v.01	Will Byers	5	3
+433.5	1.5	289	room.n.01; phone.n.01; tree.n.01; house.n.01; door.n.01	run.v.01	Will Byers	5	3
+435.0	1.5	290	tree.n.01; house.n.01; door.n.01	run.v.01; exit.v.01	Will Byers	5	3
+436.5	1.5	291	tree.n.01; house.n.01	run.v.01	Will Byers	5	3
+438.0	1.5	292	tree.n.01; house.n.01	run.v.01	Will Byers	5	3
+439.5	1.5	293	tree.n.01; house.n.01	run.v.01; enter.v.01	Will Byers	5	3
+441.0	1.5	294	room.n.01	run.v.01	Will Byers	5	3
+442.5	1.5	295	room.n.01	rush.v.01	Will Byers	5	3
+444.0	1.5	296	room.n.01	rush.v.01	Will Byers	5	3
+445.5	1.5	297	room.n.01	scavenge.v.02	Will Byers	5	3
+447.0	1.5	298	room.n.01	scavenge.v.02	Will Byers	5	3
+448.5	1.5	299	room.n.01	scavenge.v.02	Will Byers	5	3
+450.0	1.5	300	room.n.01	scavenge.v.02	Will Byers	5	3
+451.5	1.5	301	room.n.01	load.v.02	Will Byers	5	3
+453.0	1.5	302	room.n.01	load.v.02	Will Byers	5	3
+454.5	1.5	303	room.n.01; door.n.01	gasp.v.01	Will Byers	5	3
+456.0	1.5	304	room.n.01; magazine.n.06	load.v.02	Will Byers	5	3
+457.5	1.5	305	room.n.01	load.v.02	Will Byers	5	3
+459.0	1.5	306	room.n.01; gun.n.01	load.v.02	Will Byers	5	3
+460.5	1.5	307	room.n.01; door.n.01	load.v.02	Will Byers	5	3
+462.0	1.5	308	room.n.01; gun.n.01	lift.v.01	Will Byers	5	3
+463.5	1.5	309	room.n.01; gun.n.01	cock.v.02	Will Byers	5	3
+465.0	1.5	310	room.n.01; gun.n.01	gasp.v.01; aim.v.01	Will Byers	5	3
+466.5	1.5	311	room.n.01; gun.n.01	gasp.v.01; aim.v.01	Will Byers	5	3
+468.0	1.5	312	room.n.01; gun.n.01	gasp.v.01; aim.v.01	Will Byers	5	3
+469.5	1.5	313	room.n.01; gun.n.01; door.n.01	gasp.v.01; aim.v.01	Will Byers	5	3
+471.0	1.5	314	room.n.01; gun.n.01; door.n.01	hyperventilate.v.02; aim.v.01	Will Byers	5	3
+472.5	1.5	315	room.n.01; gun.n.01; door.n.01	hyperventilate.v.02; aim.v.01	Will Byers	5	3
+474.0	1.5	316	room.n.01; gun.n.01	hyperventilate.v.02; aim.v.01	Will Byers	5	3
+475.5	1.5	317	room.n.01; gun.n.01	hyperventilate.v.02; aim.v.01	Will Byers	5	3
+477.0	1.5	318	room.n.01; gun.n.01	hyperventilate.v.02; aim.v.01	Will Byers	5	3
+478.5	1.5	319	room.n.01; gun.n.01	hyperventilate.v.02; lower.v.01; screech.v.01	Will Byers	5	3
+480.0	1.5	320	room.n.01	turn.v.01	Will Byers	5	3
+481.5	1.5	321	room.n.01	worry.v.01	Will Byers	5	3
+483.0	1.5	322	room.n.01	worry.v.01	Will Byers	5	3
+484.5	1.5	323	room.n.01; light.n.02	worry.v.01	Will Byers	5	3
+486.0	1.5	324	room.n.01; light.n.02			5	3
+487.5	1.5	325	room.n.01; light.n.02			5	3
+489.0	1.5	326	room.n.01; light.n.02			5	3
+490.5	1.5	327	room.n.01; light.n.02	dim.v.01		5	3
+492.0	1.5	328	room.n.01; light.n.02			5	3
+493.5	1.5	329	room.n.01; light.n.02			5	3
+495.0	1.5	330	room.n.01; light.n.02			5	3
+496.5	1.5	331	room.n.01; light.n.02			5	3
+498.0	1.5	332	room.n.01; light.n.02	dim.v.01		5	3
+499.5	1.5	333	room.n.01; light.n.02	dim.v.01		5	3
+501.0	1.5	334	room.n.01; light.n.02	dim.v.01		5	3
+502.5	1.5	335	room.n.01; light.n.02	dim.v.01		5	3

@@ -1,4 +1,5 @@
+**/anat/*_minIP*
 **/swi/*
-**/*scans.json
-**/*scans.tsv
-
+.heudiconv/
+.tmp/
+validator.txt

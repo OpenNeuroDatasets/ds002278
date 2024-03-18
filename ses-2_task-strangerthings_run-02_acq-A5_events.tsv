@@ -1,0 +1,251 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	toaster.n.02 , waffle.n.01 , jacket.n.01 , hand.n.01 , plate.n.04, person.n.02	appear.v.02 , pop.v.13 , reach out.v.01		5	3
+4.5	1.5	3	toaster.n.02 , waffle.n.01 , jacket.n.01 ,  boy.n.01, home.n.01 ,  	appear.v.02 , pop.v.13 , reach out.v.01, sneak.v.02	Mike Wheeler	5	3
+6.0	1.5	4	toaster.n.02 , waffle.n.01 , jacket.n.01 ,  boy.n.01, home.n.01 ,  	 sneak.v.03 , hide.v.01	Mike Wheeler	5	3
+7.5	1.5	5	toaster.n.02 , waffle.n.01 , jacket.n.01 ,  boy.n.01, home.n.01 ,  	 reach out.v.01, place.v.01	Mike Wheeler	5	3
+9.0	1.5	6	waffle.n.01 ,  boy.n.01, toddler.n.01 , woman.n.01	eat.v.01 , rush.v.01	Mike Wheeler, Nancy Wheeler 	5	3
+10.5	1.5	7	waffle.n.01 ,  boy.n.01, woman.n.02 , dining room.n.01, fork.n.01, table.n.02	eat.v.01 , rush.v.01, stare.v.01	Mike Wheeler, Nancy Wheeler 	5	4
+12.0	1.5	8	waffle.n.01 ,  boy.n.01 , woman.n.02 , dining room.n.01, fork.n.01 , table.n.02	eat.v.01 , rush.v.01, stare.v.02, wonder.v.02	Mike Wheeler, Nancy Wheeler 	5	4
+13.5	1.5	9	waffle.n.01 ,  boy.n.01 , woman.n.02 , dining room.n.01, fork.n.01 , table.n.02	eat.v.01 , rush.v.01, stare.v.02, wonder.v.02	Mike Wheeler, Nancy Wheeler 	5	4
+15.0	1.5	10	waffle.n.01 ,  boy.n.01 , woman.n.02 , dining room.n.01, fork.n.01, table.n.02	eat.v.01 , rush.v.01, speak.v.01, remark.v.01	Mike Wheeler, Nancy Wheeler 	4	3
+16.5	1.5	11	 boy.n.01 , woman.n.02 , dining room.n.01, fork.n.01, table.n.02, chair.n.01	eat.v.01 , speak.v.01 , stare.v.01	Mike Wheeler	5	3
+18.0	1.5	12	 boy.n.01 , woman.n.02 , dining room.n.01, chair.n.01	 speak.v.01 , question.v.01 	Mike Wheeler, Nancy Wheeler 	5	4
+19.5	1.5	13	 boy.n.01 , woman.n.02 , dining room.n.01 , chair.n.01	worry.v.01	Mike Wheeler, Nancy Wheeler 	6	4
+21.0	1.5	14	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01 , chair.n.01	reply.v.01	Nancy Wheeler 	6	4
+22.5	1.5	15	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01, chair.n.01	question.v.01, anger.v.01	Mike Wheeler	6	4
+24.0	1.5	16	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01, chair.n.01	question.v.01, anger.v.01	Mike Wheeler, Nancy Wheeler 	6	4
+25.5	1.5	17	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01, shoe.n.01, rug.n.01 , leg.n.01, leg.n.03 , chair.n.01 	kick.v.01	Mike Wheeler, Nancy Wheeler 	4	5
+27.0	1.5	18	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01, shoe.n.01, rug.n.01 , leg.n.01, leg.n.03 , chair.n.01 , mother.n. 01	kick.v.01 , anger.v.01 , question.n.01	Mike Wheeler, Nancy Wheeler 	4	6
+28.5	1.5	19	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01,  chair.n.01 , mother.n. 01 , newspaper.n.01 , curtain.n.01, plant.n.02 , breakfast.n.01	turn around.v.01 , worry.v.01	Mike Wheeler, Nancy Wheeler 	4	6
+30.0	1.5	20	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01,  chair.n.01 , newspaper.n.01 , curtain.n.01, plant.n.02 , breakfast.n.01	reply.v.01 , worry.v.01	Mike Wheeler, Nancy Wheeler 	5	5
+31.5	1.5	21	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01,  chair.n.01 , newspaper.n.01 , curtain.n.01, plant.n.02 , breakfast.n.01	ring.v.02	Mike Wheeler, Nancy Wheeler 	6	5
+33.0	1.5	22	 boy.n.01 , woman.n.02 , dining room.n.01 , fork.n.01,  chair.n.01 , newspaper.n.01 , curtain.n.01, plant.n.02 , breakfast.n.01 , radio.n.01 , quilt.n.01 ,	ring.v.02 , grip.v.01 , 	Mike Wheeler, Nancy Wheeler 	5	5
+34.5	1.5	23	 radio.n.01 , quilt.n.01 , sleepwear.n.01 , static.n.01	ring.v.02 , grip.v.01 , switch on.v.01	Eleven	6	5
+36.0	1.5	24	 radio.n.01 , quilt.n.01 , sleepwear.n.01 , static.n.01	grip.v.01 , switch on.v.01	Eleven	5	5
+37.5	1.5	25	 radio.n.01 , quilt.n.01 , sleepwear.n.01 , static.n.01	look out.v.01 , worry.v.01	Eleven	4	5
+39.0	1.5	26	jacket.n.01, quilt.n.01, person.n.01 , dimness.n.01	lift.v.02		5	5
+40.5	1.5	27	jacket.n.01, quilt.n.01, boy.n.01 , dimness.n.01	lift.v.02 , worry.v.01	Mike Wheeler	5	4
+42.0	1.5	28	quilt.n.01 , boy.n.01 , dimness.n.01	greet.v.01	Mike Wheeler	5	4
+43.5	1.5	29	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01 , leg.n.03	excite.v.01	Mike Wheeler, Eleven	6	6
+45.0	1.5	30	quilt.n.01 , boy.n.01 , dimness.n.01 	converse.v.01	Mike Wheeler, Eleven	5	5
+46.5	1.5	31	quilt.n.01 , boy.n.01 , dimness.n.01 	converse.v.01	Mike Wheeler	5	5
+48.0	1.5	32	quilt.n.01 , boy.n.01 , dimness.n.01 	converse.v.01	Mike Wheeler	5	5
+49.5	1.5	33	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01	converse.v.01	Mike Wheeler, Eleven	5	5
+51.0	1.5	34	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01	glance.v.01	Mike Wheeler, Eleven	5	5
+52.5	1.5	35	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01, leg.n.03	grab.v.03	Mike Wheeler, Eleven	5	5
+54.0	1.5	36	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01, leg.n.03, waffle.n.01	hand.v.01 ,	Mike Wheeler, Eleven	6	5
+55.5	1.5	37	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01, leg.n.03, waffle.n.01	hand.v.01 , accept.v.01	Mike Wheeler, Eleven	7	5
+57.0	1.5	38	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01, leg.n.03, waffle.n.01	accept.v.02, eat.v.01	Mike Wheeler, Eleven	7	5
+58.5	1.5	39	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01, leg.n.03, waffle.n.01	eat.v.01 , warn.v.02	Mike Wheeler, Eleven	4	5
+60.0	1.5	40	 boy.n.01 , dimness.n.01 , leg.n.03, 	warn.v.04 , ask.v.01	Mike Wheeler, Eleven	5	5
+61.5	1.5	41	 dimness.n.01 , girl.n.01, leg.n.03, waffle.n.01	warn.v.04 , ask.v.01 , worry.v.01 , instruct.v.02	Mike Wheeler, Eleven	4	6
+63.0	1.5	42	 dimness.n.01 , girl.n.01, waffle.n.01	look.v.01 , instruct.v.02	Eleven	4	6
+64.5	1.5	43	 dimness.n.01, boy.n.01 , leg.n.03	instruct.v.01	Mike Wheeler, Eleven	5	5
+66.0	1.5	44	 dimness.n.01 , girl.n.01, waffle.n.01, boy.n.01 , leg.n.03	instruct.v.01	Mike Wheeler	5	5
+67.5	1.5	45	 dimness.n.01 , boy.n.01 , leg.n.03	instruct.v.01, warn.v.01	Mike Wheeler	4	6
+69.0	1.5	46	 dimness.n.01 ,  boy.n.01 , leg.n.03	warn.v.01 , 	Mike Wheeler	4	6
+70.5	1.5	47	 dimness.n.01 ,  boy.n.01 , leg.n.03	warn.v.01, worry.v.01	Mike Wheeler	4	6
+72.0	1.5	48	 boy.n.01 , dimness.n.01 , girl.n.01, leg.n.03, waffle.n.01	ask.v.02, worry.v.01, stare.v.01	Mike Wheeler, Eleven	4	6
+73.5	1.5	49	 dimness.n.01 , girl.n.01,  waffle.n.01	stare.v.01, chew.v.01	Eleven	5	4
+75.0	1.5	50	 boy.n.01 , dimness.n.01 , leg.n.03	reassure.v.01	Mike Wheeler	6	4
+76.5	1.5	51	 boy.n.01 , dimness.n.01 ,  leg.n.03	reassure.v.01	Mike Wheeler	5	4
+78.0	1.5	52	 boy.n.01 , dimness.n.01 ,  leg.n.03	speak.v.01	Mike Wheeler	5	3
+79.5	1.5	53	 boy.n.01 , dimness.n.01 ,  leg.n.03	reassure.v.01	Mike Wheeler	6	3
+81.0	1.5	54	 dimness.n.01 , girl.n.01, boy.n.01 , leg.n.03	stare.v.01, chew.v.01	Mike Wheeler, Eleven	5	5
+82.5	1.5	55	 dimness.n.01 , girl.n.01	stare.v.01, chew.v.01	 Eleven	5	5
+84.0	1.5	56	 dimness.n.01 , girl.n.01, boy.n.01 , leg.n.03	deny.v.01, worry.v.01	Mike Wheeler, Eleven	4	6
+85.5	1.5	57	 dimness.n.01 , girl.n.01, boy.n.01 , leg.n.03	worry.v.01, perplex.v.01	Mike Wheeler	4	6
+87.0	1.5	58	 dimness.n.01 , girl.n.01, boy.n.01 , leg.n.03	chew.n.01, deny.v.01	Mike Wheeler, Eleven	3	7
+88.5	1.5	59	 dimness.n.01 , girl.n.01,  waffle.n.01	worry.v.01, perplex.v.01, shake.v.09	Eleven	3	7
+90.0	1.5	60	dimness.n.01, boy.n.01, 	worry.v.01, confuse.v.02, question.v.03	Mike Wheeler, Eleven	3	6
+91.5	1.5	61	dimness.n.01, boy.n.01, girl.n.01	worry.v.01, confuse.v.02, question.v.03	Mike Wheeler, Eleven	3	6
+93.0	1.5	62	dimness.n.01,  girl.n.01	worry.v.01, confuse.v.02, question.v.03	Mike Wheeler, Eleven	3	6
+94.5	1.5	63	dimness.n.01, boy.n.01, girl.n.01, waffle.n.01 	stare.v.01, chew.v.01, 	Eleven	4	4
+96.0	1.5	64	dimness.v.01, boy.v.01, girl.v.01, waffle.v.01 	stare.v.01, shake.v.09, 	Eleven	4	4
+97.5	1.5	65	boy.n.01, dimness.n.01, 	worry.v.01,	Mike Wheeler	4	4
+99.0	1.5	66	boy.n.01, dimness.n.01,  girl.n.01	worry.v.01, sympathize.v.02	Mike Wheeler	4	5
+100.5	1.5	67	boy.n.01, dimness.n.01, girl.n.01	fear.v.01, worry.v.01	Mike Wheeler, Eleven	4	5
+102.0	1.5	68	girl.n.01, dimness.n.01, 	fear.v.01, worry.v.01, stare.v.01	Eleven	4	3
+103.5	1.5	69	girl.n.01, dimness.n.01, boy.n.01, quilt.n.01, step.n.04	fear.v.01, worry.v.01, stare.v.01	Mike Wheeler, Eleven	4	3
+105.0	1.5	70	 dimness.n.01, boy.n.01, quilt.n.01, step.n.04	fear.v.01, worry.v.01, stare.v.01	Mike Wheeler,	4	4
+106.5	1.5	71	 dimness.n.01, boy.n.01, quilt.n.01, step.n.04	fear.v.01, worry.v.01, question.v.01	Mike Wheeler	4	5
+108.0	1.5	72	 dimness.n.01, boy.n.01, quilt.n.01, step.n.04, girl.n.01	fear.v.01, worry.v.01, question.v.01	Mike Wheeler, Eleven	4	5
+109.5	1.5	73	 dimness.n.01, girl.n.01	worry.v.01,contemplate.v.01	Eleven	5	3
+111.0	1.5	74	 dimness.n.01, girl.n.01	contemplate.v.01, shock.v.03, fear.v.01	Eleven	3	5
+112.5	1.5	75	 dimness.n.01, boy.n.01, quilt.n.01, girl.n.01, suspense.n.01	worry.v.01, stare.v.01	Mike Wheeler, Eleven	3	5
+114.0	1.5	76	 dimness.n.01, boy.n.01, quilt.n.01,  suspense.n.01	worry.v.01, stare.v.01, ask.v.02	Mike Wheeler	3	6
+115.5	1.5	77	 dimness.n.01, boy.n.01, quilt.n.01, girl.n.01, suspense.n.01	worry.v.01, stare.v.01, fear.v.01, ask.v.02	Mike Wheeler, Eleven	3	6
+117.0	1.5	78	 dimness.n.01,  quilt.n.01, girl.n.01, suspense.n.01	worry.v.01, stare.v.01, nod.v.02, fear.v.01	Eleven	3	7
+118.5	1.5	79	 dimness.n.01,  quilt.n.01, girl.n.01, suspense.n.01	worry.v.01, stare.v.01, nod.v.02, fear.v.01	Eleven	3	8
+120.0	1.5	80	 dimness.n.01, boy.n.01, quilt.n.01, girl.n.01, suspense.n.01	worry.v.01, stare.v.01, ask.v.02, fear.v.01	Mike Wheeler Eleven	3	7
+121.5	1.5	81	 dimness.n.01, boy.n.01, suspense.n.01	worry.v.01, stare.v.01, ask.v.02, fear.v.01	Mike Wheeler	4	6
+123.0	1.5	82	 dimness.n.01, boy.n.01, quilt.n.01, girl.n.01, suspense.n.01	worry.v.01, stare.v.01, ask.v.02, fear.v.01	Mike Wheeler, Eleven	4	7
+124.5	1.5	83	 dimness.n.01, quilt.n.01, girl.n.01, suspense.n.01, finger.n.01, sign.n.03	worry.v.01, stare.v.01,  fear.v.01, signalize.v.02, respond.v.01, raise.v.02	Eleven	2	8
+126.0	1.5	84	 dimness.n.01, quilt.n.01, girl.n.01, suspense.n.01, finger.n.01, sign.n.03	worry.v.01, stare.v.01,  fear.v.01, signalize.v.02, respond.v.01, lower.v.01	Eleven	2	8
+127.5	1.5	85	 dimness.n.01, quilt.n.01, girl.n.01, suspense.n.01, finger.n.01, sign.n.03, boy.n.01	worry.v.01, stare.v.01,  fear.v.01, signalize.v.02, respond.v.01, point.v.01	Mike Wheeler, Eleven	2	8
+129.0	1.5	86	 dimness.n.01, quilt.n.01,  suspense.n.01, finger.n.01, sign.n.03, boy.n.01	worry.v.01, stare.v.01,  fear.v.01, signalize.v.02, respond.v.01, point.v.01	Mike Wheeler	2	8
+130.5	1.5	87	 dimness.n.01, quilt.n.01,  suspense.n.01, finger.n.01, sign.n.03, boy.n.01, girl.n.01	worry.v.01, stare.v.01,  fear.v.01, signalize.v.02,  point.v.01, lower.v.01	Mike Wheeler, Eleven	3	7
+132.0	1.5	88	 dimness.n.01, quilt.n.01,  suspense.n.01,  girl.n.01	worry.v.01, stare.v.01,  fear.v.01	Eleven	4	6
+133.5	1.5	89	 dimness.n.01, quilt.n.01,  suspense.n.01,  girl.n.01	worry.v.01, stare.v.01,  fear.v.01, question.v.01	Eleven	4	6
+135.0	1.5	90	 dimness.n.01, quilt.n.01,  suspense.n.01, boy.n.01, girl.n.01	worry.v.01, stare.v.01,  fear.v.01	Mike Wheeler, Eleven	4	5
+136.5	1.5	91	 dimness.n.01, quilt.n.01,  boy.n.01, girl.n.01, daytime.n.01, leg.n.03, bin.n.01	turn to.v.02, startle.v.02, ask.v.02, worry.v.01	Mike Wheeler, Eleven	4	6
+138.0	1.5	92	 dimness.n.01, quilt.n.01,  boy.n.01, girl.n.01, daytime.n.01, leg.n.03,	turn around.v.01 , worry.v.01, direct.v.01	Mike Wheeler, Eleven	4	6
+139.5	1.5	93	 dimness.n.01, quilt.n.01,  boy.n.01, daytime.n.01, leg.n.03	insure.v.01, raise.v.02	Mike Wheeler	6	5
+141.0	1.5	94	 dimness.n.01, quilt.n.01,  boy.n.01, daytime.n.01, leg.n.03, girl.n.01, step.n.04	direct.v.01, lower.v.01, stand up.v.01	Mike Wheeler, Eleven	4	6
+142.5	1.5	95	 dimness.n.01, quilt.n.01, daytime.n.01, leg.n.03, girl.n.01,  leg.n.01	lower.v.01, sadden.v.02	Eleven	3	6
+144.0	1.5	96	 dimness.n.01, girl.n.01,  lantern.n.01	sadden.v.02	Eleven	3	6
+145.5	1.5	97	 dimness.n.01, girl.n.01,  lantern.n.01	sadden.v.02, lower.v.05, grimace.v.01	Eleven	3	6
+147.0	1.5	98	 dimness.n.01, girl.n.01,  lantern.n.01	sadden.v.02, lower.v.05, grimace.v.01	Eleven	3	6
+148.5	1.5	99	 dimness.n.01, girl.n.01,  lantern.n.01	sadden.v.02, lower.v.05, grimace.v.01	Eleven	3	6
+150.0	1.5	100	suit.n.01, briefcase.n.01, loudspeaker.n.01, hallway.n.01, light.n.02, people.n.01, 	rush.v.01, put on.v.01	Dr.Martin Brenner	5	5
+151.5	1.5	101	suit.n.01, briefcase.n.01, loudspeaker.n.01, hallway.n.01, light.n.02, people.n.01, watch.n.01	rush.v.01, check.v.02, brief.v.01	Dr.Martin Brenner	5	5
+153.0	1.5	102	suit.n.01, briefcase.n.01, loudspeaker.n.01, hallway.n.01, light.n.02, people.n.01, watch.n.01	rush.v.01,  brief.v.01	Dr.Martin Brenner	5	6
+154.5	1.5	103	suit.n.01, hallway.n.01, light.n.02, people.n.01, watch.n.01, headphone.n.01, loudspeaker.n.01	rush.v.01, check.v.02, brief.v.01, ready.v.02	Dr.Martin Brenner	5	6
+156.0	1.5	104	 headphone.n.01, loudspeaker.n.01, room.n.01	listen.v.01, fear.v.01, concern.v.02, demand.v.01	Dr.Martin Brenner	3	7
+157.5	1.5	105	 headphone.n.01, loudspeaker.n.01, room.n.02	listen.v.01, fear.v.01, concern.v.02	Dr.Martin Brenner	3	7
+159.0	1.5	106	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01	Dr.Martin Brenner	3	8
+160.5	1.5	107	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01, react.v.01	Dr.Martin Brenner	3	8
+162.0	1.5	108	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01, react.v.01	Dr.Martin Brenner	3	8
+163.5	1.5	109	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01, react.v.01	Dr.Martin Brenner	3	8
+165.0	1.5	110	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01, suspense.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01, react.v.01	Dr.Martin Brenner	3	8
+166.5	1.5	111	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01, suspense.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01, react.v.01	Dr.Martin Brenner	3	8
+168.0	1.5	112	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01, suspense.n.01	listen.v.01, fear.v.01, concern.v.02, react.v.01, beg.v.02	Dr.Martin Brenner	3	7
+169.5	1.5	113	 headphone.n.01, loudspeaker.n.01, room.n.02, suspense.n.01, recording.n.01	listen.v.01, fear.v.01, concern.v.02, react.v.01, beg.v.02	Dr.Martin Brenner	3	7
+171.0	1.5	114	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01	shout.v.01, call out.v.02, search.v.02		4	6
+172.5	1.5	115	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
+174.0	1.5	116	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
+175.5	1.5	117	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
+177.0	1.5	118	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
+178.5	1.5	119	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02		4	6
+180.0	1.5	120	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02		4	6
+181.5	1.5	121	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02		4	6
+183.0	1.5	122	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01		4	6
+184.5	1.5	123	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01, bark.v.05		4	6
+186.0	1.5	124	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01, bark.v.05		4	6
+187.5	1.5	125	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02,  bark.v.05, answer.v.01		4	6
+189.0	1.5	126	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	 ask.v.01, bark.v.05, concern.v.02		5	4
+190.5	1.5	127	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01, sheriff.n.01, hat.n.01	walk.v.01, search.v.02, wave.v.02, instruct.v.02	Sheriff Jim Hopper	5	4
+192.0	1.5	128	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01, sheriff.n.01, hat.n.01	walk.v.01, search.v.02, wave.v.02, instruct.v.02	Sheriff Jim Hopper	5	4
+193.5	1.5	129	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,  dog.n.01,	converse.v.01, search.v.02,	Sheriff Jim Hopper	5	4
+195.0	1.5	130	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,  	converse.v.01, search.v.02,  ask.v.01, reply.v.01	Sheriff Jim Hopper	5	4
+196.5	1.5	131	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,  car.n.01, woods.n.01	converse.v.01, search.v.02,  ask.v.01, reply.v.01	Sheriff Jim Hopper	5	3
+198.0	1.5	132	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,  car.n.01, woods.n.01	converse.v.01, search.v.02, reply.v.01, disapprove.v.02, walk off.v.02	Sheriff Jim Hopper	5	3
+199.5	1.5	133	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01	stare.v.01, walk off.v.02, instruct.v.02, shout.v.01	Sheriff Jim Hopper	5	4
+201.0	1.5	134	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01, crowd.n.01	instruct.v.02, shout.v.01, walk off.v.02	Sheriff Jim Hopper	5	3
+202.5	1.5	135	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, woods.n.01, crowd.n.01	instruct.v.02, walk off.v.02, stare.v.01	Sheriff Jim Hopper	5	3
+204.0	1.5	136	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01, crowd.n.01	instruct.v.02, shout.v.01, walk off.v.02		5	3
+205.5	1.5	137	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	ask.v.02, wonder.v.01, gossip.v.02		4	3
+207.0	1.5	138	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	ask.v.02, wonder.v.01, gossip.v.02		4	3
+208.5	1.5	139	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	disapprove.v.01, walk away.v.01		4	3
+210.0	1.5	140	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	disapprove.v.01, walk away.v.01, shout.v.01, call out.v.02		5	3
+211.5	1.5	141	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	follow up.v.01, ask.v.02		5	3
+213.0	1.5	142	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	call out.v.02		5	3
+214.5	1.5	143	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	shout.v.01, call out.v.02, search.v.02		5	3
+216.0	1.5	144	 daytime.n.01,  tree.n.01,  woods.n.01, school.n.01, student.n.01, school bus.n.01,	converse.v.01, drive.v.01, walk.v.01		5	3
+217.5	1.5	145	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01	converse.v.01, drive.v.01, walk.v.01		5	3
+219.0	1.5	146	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01	converse.v.01, drive.v.01, walk.v.01		5	3
+220.5	1.5	147	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01	converse.v.01, drive.v.01, walk.v.01, skateboard.v.01		5	3
+222.0	1.5	148	 daytime.n.01,  tree.n.01, school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01, 	converse.v.01, walk.v.01, skateboard.v.01		5	3
+223.5	1.5	149	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01, hallway.n.01, vending machine.n.01, bulletin board.n.01, light.n.02	converse.v.01,  walk.v.01, skateboard.v.01	Nancy Wheeler , 	5	3
+225.0	1.5	150	school.n.01, student.n.01, hallway.n.01, vending machine.n.01, bulletin board.n.01, light.n.02	converse.v.01, walk.v.01	Nancy Wheeler , 	5	3
+226.5	1.5	151	school.n.01, student.n.01, hallway.n.01, vending machine.n.01, bulletin board.n.01, light.n.02, book.n.02	converse.v.01, walk.v.01, study.v.05	Nancy Wheeler , 	5	3
+228.0	1.5	152	school.n.01, student.n.01, hallway.n.01,light.n.02, book.n.03, vending machine.n.01, bulletin board.n.01,	converse.v.01, walk.v.01, study.v.06, snatch.v.01	Nancy Wheeler , 	4	4
+229.5	1.5	153	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, exclaim.v.01, flick.v.08, annoy.v.01		4	6
+231.0	1.5	154	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, annoy.v.01, remark.v.01	Steve Harrington	4	6
+232.5	1.5	155	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, annoy.v.01, remark.v.01	Steve Harrington	4	6
+234.0	1.5	156	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.01	annoy.v.01, remark.v.01, assure.v.02	Steve Harrington, Nancy Wheeler	4	6
+235.5	1.5	157	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.02	annoy.v.01	Steve Harrington, Nancy Wheeler	4	4
+237.0	1.5	158	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.02, bulletin board.n.01	converse.v.01	Steve Harrington, Nancy Wheeler	4	6
+238.5	1.5	159	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.02, bulletin board.n.01	converse.v.01	Steve Harrington, Nancy Wheeler	4	6
+240.0	1.5	160	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.02, bulletin board.n.01	converse.v.01	Steve Harrington	4	6
+241.5	1.5	161	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.02, bulletin board.n.01	converse.v.01	Steve Harrington	4	6
+243.0	1.5	162	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.02, bulletin board.n.01	converse.v.01, ask.v.02, plan.v.01	Steve Harrington, Nancy Wheeler	4	6
+244.5	1.5	163	school.n.01, student.n.01, hallway.n.01,   locker.n.02,	converse.v.01, ask.v.02, plan.v.01, reply.v.01	Nancy Wheeler	5	5
+246.0	1.5	164	school.n.01, student.n.01, hallway.n.01,   locker.n.02,	converse.v.01, ask.v.02, plan.v.01, reply.v.01, hint.v.01	Nancy Wheeler	5	4
+247.5	1.5	165	school.n.01, student.n.01, hallway.n.01,   locker.n.02,	converse.v.01, ask.v.02, confuse.v.02	Nancy Wheeler	5	4
+249.0	1.5	166	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02	converse.v.01, reply.v.01, hint.v.01, chuckle.v.01, smile.v.01	Steve Harrington, Nancy Wheeler	5	5
+250.5	1.5	167	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02	converse.v.01, chuckle.v.01,  disapprove.v.01	Steve Harrington, Nancy Wheeler	5	5
+252.0	1.5	168	school.n.01, student.n.01, hallway.n.01,  	converse.v.01, reply.v.01, chuckle.v.01,  disapprove.v.01, mock.v.02	Steve Harrington, Nancy Wheeler	4	5
+253.5	1.5	169	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02	converse.v.01, chuckle.v.01,   mock.v.02	Steve Harrington	4	6
+255.0	1.5	170	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02	converse.v.01, chuckle.v.01,   mock.v.02, embarrass.v.01	Steve Harrington, Nancy Wheeler	4	6
+256.5	1.5	171	school.n.01, student.n.01, hallway.n.01,  light.n.02	 convince.v.01	Steve Harrington, Nancy Wheeler	4	6
+258.0	1.5	172	school.n.01, student.n.01, hallway.n.01,   light.n.02	question.v.03	Steve Harrington, Nancy Wheeler	4	6
+259.5	1.5	173	school.n.01, student.n.01, hallway.n.01,   light.n.02	decline.v.02, shake.v.09	Nancy Wheeler	4	5
+261.0	1.5	174	school.n.01, student.n.01, hallway.n.01,   light.n.02	dislike.v.01, 	Nancy Wheeler	4	5
+262.5	1.5	175	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02	dislike.v.01,  notice.v.02, look back.v.01, stare.v.01	Nancy Wheeler, Steve Harrington	4	6
+264.0	1.5	176	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02	dislike.v.01,  notice.v.02, look back.v.01, stare.v.01, comment.v.01	Nancy Wheeler, Steve Harrington	4	6
+265.5	1.5	177	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02, daytime.n.01, bulletin board.n.01	  notice.v.02,  stare.v.01, comment.v.01, stick.v.01	Nancy Wheeler, Steve Harrington, Johnathan Byers	3	5
+267.0	1.5	178	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02, daytime.n.01, bulletin board.n.01	  notice.v.02,  stare.v.01,  stick.v.01	Nancy Wheeler, Steve Harrington, Johnathan Byers	3	5
+268.5	1.5	179	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02, daytime.n.01, bulletin board.n.01	  notice.v.02,  stare.v.01,  stick.v.01, concern.v.02	Nancy Wheeler, Steve Harrington, Jonathan Byers	3	5
+270.0	1.5	180	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01		3	6
+271.5	1.5	181	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01		3	6
+273.0	1.5	182	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01, push.v.01, mock.v.01, dissapprove.v.02	Steve Harrington	2	7
+274.5	1.5	183	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01, push.v.01, mock.v.01, dissapprove.v.02	Steve Harrington, Nancy Wheeler	2	7
+276.0	1.5	184	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	 dissapprove.v.02, concern.v.02	Steve Harrington, Nancy Wheeler	3	6
+277.5	1.5	185	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	 dissapprove.v.02, concern.v.02	Steve Harrington, Nancy Wheeler	3	6
+279.0	1.5	186	school.n.01,  daytime.n.01, tack.n.01, description.n.01	walk away.v.01, stick.v.01	Steve Harrington, Nancy Wheeler, Jonathan Byers	3	5
+280.5	1.5	187	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	 stick.v.01	Jonathan Byers	4	5
+282.0	1.5	188	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	greet.v.01,  turn to.v.02	Jonathan Byers, Nancy Wheeler	6	4
+283.5	1.5	189	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	greet.v.01,  turn to.v.02	Jonathan Byers, Nancy Wheeler	6	4
+285.0	1.5	190	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	 turn to.v.02	Jonathan Byers, Nancy Wheeler	5	4
+286.5	1.5	191	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	talk.v.02	Jonathan Byers, Nancy Wheeler	5	4
+288.0	1.5	192	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	talk.v.02	Jonathan Byers, Nancy Wheeler	5	4
+289.5	1.5	193	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	concern.v.02, grimace.v.01	 Nancy Wheeler	4	4
+291.0	1.5	194	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	concern.v.02, grimace.v.01, condole.v.01	 Nancy Wheeler	4	4
+292.5	1.5	195	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	concern.v.02, grimace.v.01, condole.v.01	 Nancy Wheeler, Jonathan Byers	4	4
+294.0	1.5	196	school.n.01, daytime.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	stare.v.02, turn to.v.02	 Nancy Wheeler, Jonathan Byers	5	6
+295.5	1.5	197	school.n.01, daytime.n.01,  student.n.01, hallway.n.01,   light.n.02	stare.v.02, turn to.v.02	 Nancy Wheeler, Jonathan Byers, Steve Harrington	5	6
+297.0	1.5	198	school.n.01, daytime.n.01,  student.n.01, hallway.n.01,   light.n.02	stare.v.02, face.v.05	 Nancy Wheeler, Jonathan Byers, Steve Harrington	5	6
+298.5	1.5	199	school.n.01, daytime.n.01,  student.n.01, hallway.n.01,   light.n.02	stare.v.02, talk.v.02	 Nancy Wheeler, Jonathan Byers	5	6
+300.0	1.5	200	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	grimace.v.01, talk.v.02, condole.v.01	Nancy Wheeler, Jonathan Byers	4	7
+301.5	1.5	201	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	grimace.v.01, stare.v.02	 Jonathan Byers	5	5
+303.0	1.5	202	school.n.01, daytime.n.01,  student.n.01, hallway.n.01,   light.n.02	concern.v.02, condole.v.01	Nancy Wheeler	6	4
+304.5	1.5	203	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	agree.v.01	Johnathan Byers	4	4
+306.0	1.5	204	school.n.01, daytime.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	grimace.v.01, stare.v.02	 Nancy Wheeler, Jonathan Byers	4	4
+307.5	1.5	205	school.n.01, daytime.n.01,  student.n.01, hallway.n.01,   light.n.02	grimace.v.01, stare.v.02	 Nancy Wheeler	4	4
+309.0	1.5	206	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	condole.v.01, assure.v.02	 Nancy Wheeler	6	5
+310.5	1.5	207	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	condole.v.01, assure.v.02, stare.v.02	 Nancy Wheeler, Jonathan Byers 	5	4
+312.0	1.5	208	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	ring.v.01	Nancy Wheeler	5	7
+313.5	1.5	209	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	ring.v.01	Nancy Wheeler	5	7
+315.0	1.5	210	school.n.01, daytime.n.01, student.n.01, hallway.n.01,   light.n.02	ring.v.01	Nancy Wheeler	5	5
+316.5	1.5	211	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	smile.v.02, agree.v.01	Nancy Wheeler, Jonathan Byers	5	5
+318.0	1.5	212	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	smile.v.02, leave.v.01	Nancy Wheeler, Jonathan Byers	5	5
+319.5	1.5	213	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01	turn around.v.01	Jonathan Byers	5	3
+321.0	1.5	214	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02	walk off.v.02	Nancy Wheeler, Jonathan Byers, Steve Harrington 	5	3
+322.5	1.5	215	school.n.01, daytime.n.01, tack.n.01, description.n.01, poster.n.01, Bulletin board.n.01, student.n.01, hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01	walk off.v.02	Nancy Wheeler, Jonathan Byers, Steve Harrington 	5	3
+324.0	1.5	216	 daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01	announce.v.01, turn to.v.02	Jonathan Byers	5	3
+325.5	1.5	217	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,	Jonathan Byers	5	3
+327.0	1.5	218	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01	Jonathan Byers	5	3
+328.5	1.5	219	 daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01	Jonathan Byers	5	3
+330.0	1.5	220	 daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01	Jonathan Byers	5	3
+331.5	1.5	221	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01, open.v.01, leave.v.01	Jonathan Byers	4	5
+333.0	1.5	222	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01, open.v.01, leave.v.01	Jonathan Byers	4	5
+334.5	1.5	223	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01, leave.v.01, close.v.02	Jonathan Byers	4	5
+336.0	1.5	224	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,  close.v.02		5	3
+337.5	1.5	225	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,  close.v.02		5	3
+339.0	1.5	226	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	  close.v.02		5	3
+340.5	1.5	227	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01, desk.n.01, chair.n.01, book.n.02, arm.n.01	close.v.02, slam.v.02		5	6
+342.0	1.5	228	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01	slam.v.02, remove.v.01, sit.v.01		5	4
+343.5	1.5	229	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	remove.v.01, sit.v.01	Lucas Sinclair, Dustin Henderson	5	4
+345.0	1.5	230	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	look.v.01 , comment.v.01	Lucas Sinclair, Dustin Henderson	5	4
+346.5	1.5	231	desk.n.01, chair.n.01, book.n.02, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	look.v.01 , comment.v.01, remove.v.01	Lucas Sinclair, Dustin Henderson	5	4
+348.0	1.5	232	desk.n.01, chair.n.01, book.n.02, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	comment.v.01, converse.v.01	Lucas Sinclair, Dustin Henderson	5	4
+349.5	1.5	233	desk.n.01, chair.n.01, book.n.02, watch.n.01, classroom.n.01, student.n.01	comment.v.01, converse.v.01	Lucas Sinclair, Dustin Henderson	5	4
+351.0	1.5	234	desk.n.01, chair.n.01, book.n.02,  classroom.n.01, student.n.01	comment.v.01, converse.v.01	Lucas Sinclair, Dustin Henderson	5	4
+352.5	1.5	235	desk.n.01, chair.n.01,  classroom.n.01, student.n.01	comment.v.01, converse.v.01, worry.v.01	Lucas Sinclair	4	5
+354.0	1.5	236	desk.n.01, chair.n.01, classroom.n.01, student.n.01	comment.v.01, converse.v.01	Lucas Sinclair, Dustin Henderson	5	3
+355.5	1.5	237	desk.n.01, chair.n.01, book.n.02, classroom.n.01, student.n.01	converse.v.01	Lucas Sinclair, Dustin Henderson	5	3
+357.0	1.5	238	desk.n.01, chair.n.01, classroom.n.01, student.n.01	 converse.v.01, touch.v.01	Lucas Sinclair, Dustin Henderson	5	3
+358.5	1.5	239	desk.n.01, chair.n.01,  classroom.n.01, student.n.01	 converse.v.01, touch.v.01, lean.v.01	Lucas Sinclair, Dustin Henderson	5	3
+360.0	1.5	240	desk.n.01, chair.n.01, classroom.n.01	 converse.v.01, disapprove.v.02	Lucas Sinclair, Dustin Henderson	5	3
+361.5	1.5	241	 chair.n.01,  classroom.n.01, student.n.01	 converse.v.01, disapprove.v.02	Lucas Sinclair, Dustin Henderson	5	3
+363.0	1.5	242	 chair.n.01,  classroom.n.01, student.n.01	 converse.v.01, worry.v.01	Dustin Henderson	5	3
+364.5	1.5	243	 chair.n.01,  classroom.n.01, student.n.01, lamp.n.02, fish tank.n.01, door.n.01, 	 converse.v.01, worry.v.01, assure.v.01	Dustin Henderson, Lucas Sinclair	4	5
+366.0	1.5	244	 chair.n.01,  classroom.n.01, student.n.01	worry.v.01	Dustin Henderson	5	3
+367.5	1.5	245	 desk.n.01, chair.n.01,  classroom.n.01, student.n.03	converse.v.01	Lucas Sinclair	5	3
+369.0	1.5	246	 desk.n.01, chair.n.01,  classroom.n.01, student.n.02	converse.v.01	Lucas Sinclair	5	3
+370.5	1.5	247	 desk.n.01, chair.n.01,  classroom.n.01, student.n.01	converse.v.01, assure.v.01	Lucas Sinclair, Dustin Henderson	5	3
+372.0	1.5	248	 desk.n.01, chair.n.01,  classroom.n.01, student.n.00	converse.v.01, assure.v.01	Lucas Sinclair, Dustin Henderson	5	3
+373.5	1.5	249	 desk.n.01, chair.n.01,  classroom.n.01, student.n.01	converse.v.01, assure.v.01	Lucas Sinclair, Dustin Henderson	5	3
+375.0	1.5	250	 desk.n.01, chair.n.01,  classroom.n.01, student.n.01, book.n.01	worry.v.01, open.v.01	 Dustin Henderson	4	4
+376.5	1.5	251	 desk.n.01, chair.n.01,  classroom.n.01, student.n.01, book.n.01	worry.v.01, open.v.01, flip.v.04	 Dustin Henderson	4	5

@@ -1,0 +1,295 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	darkness.n.01; title.n.02			5	1
+4.5	1.5	3	darkness.n.01; title.n.02			5	1
+6.0	1.5	4	darkness.n.01; title.n.02			5	1
+7.5	1.5	5	darkness.n.01; title.n.02			5	1
+9.0	1.5	6	darkness.n.01; title.n.02			5	1
+10.5	1.5	7	darkness.n.01; title.n.02			5	1
+12.0	1.5	8	darkness.n.01; title.n.02; light.n.02			5	1
+13.5	1.5	9	light.n.02; wall.n.02; cable.n.02			5	1
+15.0	1.5	10	light.n.02; wall.n.02; cable.n.02			5	1
+16.5	1.5	11	light.n.02; wall.n.02; cable.n.02			5	1
+18.0	1.5	12	light.n.02; wall.n.02; cable.n.02			5	1
+19.5	1.5	13	light.n.02; darkness.n.02	rattle.v.02		5	1
+21.0	1.5	14	light.n.02; darkness.n.02; cable.n.02; door.n.01; wall.n.01	open.v.01; step.v.01	Jonathan Byers	5	2
+22.5	1.5	15	light.n.02; darkness.n.02; cable.n.02; door.n.01; wall.n.01	close.v.01; stare.v.01	Jonathan Byers	5	1
+24.0	1.5	16	light.n.02; darkness.n.02; cable.n.02; table.n.02; wall.n.01; bottle.n.01; book.n.01; couch.n.01; blanket.n.01; letter.n.02; cushion.n.03; person.n.01; glass.n.02	stare.v.01; slam.v.01	Jonathan Byers; Joyce Byers	5	3
+25.5	1.5	17	darkness.n.01; wall.n.01; couch.n.01; blanket.n.01; table.n.02; bottle.n.01; glass.n.02; letter.n.02; book.n.01; cushion.n.03; person.n.01	talk.v.01; sit up.v.02	Joyce Byers	5	1
+27.0	1.5	18	darkness.n.01; wall.n.01; couch.n.01; blanket.n.01; table.n.02; bottle.n.01; glass.n.02; letter.n.02; book.n.01; cushion.n.03; person.n.01; light.n.02; cable.n.02	sit up.v.02; stare.v.01	Jonathan Byers; Joyce Byers	5	1
+28.5	1.5	19	light.n.02; darkness.n.02; cable.n.02; wall.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+30.0	1.5	20	darkness.n.01; wall.n.01; bottle.n.01; blanket.n.01; couch.n.01; cushion.n.03; glass.n.02; letter.n.02; person.n.01; frame.n.011	talk.v.01	Joyce Byers	5	1
+31.5	1.5	21	darkness.n.01; wall.n.01; bottle.n.01; blanket.n.01; couch.n.01; cushion.n.03; glass.n.02; letter.n.02; person.n.01; frame.n.011	talk.v.01; turn.v.01	Joyce Byers	5	1
+33.0	1.5	22	darkness.n.01; wall.n.01; bottle.n.01; blanket.n.01; couch.n.01; cushion.n.03; glass.n.02; letter.n.02; person.n.01; frame.n.011; light.n.02; cable.n.02	talk.v.01; point.v.01; stare.v.01	Jonathan Byers; Joyce Byers	5	1
+34.5	1.5	23	light.n.02; darkness.n.02; cable.n.02; wall.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+36.0	1.5	24	light.n.02; darkness.n.02; cable.n.02; wall.n.01; table.n.02; curtain.n.01	talk.v.01; walk.v.01	Jonathan Byers	5	1
+37.5	1.5	25	light.n.02; darkness.n.02; cable.n.02; wall.n.01; table.n.02; curtain.n.01	talk.v.01; walk.v.01; stare.v.01	Jonathan Byers	5	1
+39.0	1.5	26	wall.n.01; curtain.n.01; tarp.n.01; darkness.n.01; cable.n.02; light.n.02	step.v.01; uncover.v.02	Jonathan Byers	5	1
+40.5	1.5	27	wall.n.01; curtain.n.01; tarp.n.01; darkness.n.01; cable.n.02; light.n.02	release.v.01; turn.v.01; stare.v.01	Jonathan Byers	5	1
+42.0	1.5	28	wall.n.01; curtain.n.01; tarp.n.01; darkness.n.01; cable.n.02; light.n.02; table.n.02; bottle.n.01; couch.n.01; cushion.n.03; book.n.01; candle.n.01; frame.n.011; letter.n.02; blanket.n.01; glass.n.02; person.n.01	talk.v.01; stare.v.01	Jonathan Byers; Joyce Byers	5	1
+43.5	1.5	29	darkness.n.01; wall.n.01; couch.n.01; blanket.n.01; table.n.02; bottle.n.01; glass.n.02; letter.n.02; book.n.01; cushion.n.03; person.n.01; frame.n.011; candle.n.01	talk.v.01; stare.v.01; exhale.v.01	Jonathan Byers; Joyce Byers	5	1
+45.0	1.5	30	darkness.n.01; wall.n.01; tarp.n.01; curtain.n.01	talk.v.01; step.v.01	Jonathan Byers	5	1
+46.5	1.5	31	darkness.n.01; wall.n.01; tarp.n.01; curtain.n.01	talk.v.01; step.v.01; stare.v.01	Jonathan Byers	5	1
+48.0	1.5	32	darkness.n.01; wall.n.01; tarp.n.01; letter.n.02; bottle.n.01; couch.n.01; blanket.n.01 glass.n.02; person.n.01	talk.v.01; stare.v.01	Jonathan Byers; Joyce Byers	5	1
+49.5	1.5	33	darkness.n.01; wall.n.01; bottle.n.01; blanket.n.01; couch.n.01; glass.n.02; letter.n.02; person.n.01	talk.v.01; stare.v.01; turn.v.01	Jonathan Byers; Joyce Byers	5	1
+51.0	1.5	34	darkness.n.01; wall.n.01; bottle.n.01; blanket.n.01; couch.n.01; glass.n.02; letter.n.02; person.n.01; tarp.n.01; curtain.n.01	stare.v.01; exhale.v.01	Jonathan Byers; Joyce Byers	5	1
+52.5	1.5	35	darkness.n.01; wall.n.01; tarp.n.01; curtain.n.01	talk.v.01; stare.v.01; exhale.v.01	Jonathan Byers	4	1
+54.0	1.5	36	darkness.n.01; wall.n.01; tarp.n.01; curtain.n.01	talk.v.01; stare.v.01; exhale.v.01	Jonathan Byers	4	1
+55.5	1.5	37	darkness.n.01; wall.n.01; tarp.n.01; curtain.n.01; person.n.01; couch.n.01; blanket.n.01; cushion.n.03	stare.v.01; gesture.v.01	Jonathan Byers; Joyce Byers	4	1
+57.0	1.5	38	darkness.n.01; wall.n.01; couch.n.01; blanket.n.01; cushion.n.03; person.n.01; curtain.n.01; painting.n.01	talk.v.01; stare.v.01	Jonathan Byers; Joyce Byers	5	1
+58.5	1.5	39	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+60.0	1.5	40	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; point.v.01; stare.v.01	Jonathan Byers	5	1
+61.5	1.5	41	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; point.v.01; stare.v.01	Jonathan Byers	5	1
+63.0	1.5	42	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+64.5	1.5	43	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+66.0	1.5	44	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+67.5	1.5	45	darkness.n.01; curtain.n.01; painting.n.01; wall.n.01; person.n.01	talk.v.01; yell.v.02	Jonathan Byers	5	2
+69.0	1.5	46	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01; point.v.01; stare.v.01	Jonathan Byers	5	1
+70.5	1.5	47	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01	Jonathan Byers	5	1
+72.0	1.5	48	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01	Jonathan Byers	5	1
+73.5	1.5	49	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01	Jonathan Byers	5	1
+75.0	1.5	50	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01	Jonathan Byers	5	1
+76.5	1.5	51	wall.n.01; person.n.01	talk.v.01; stare.v.01	Jonathan Byers	5	1
+78.0	1.5	52	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01; stare.v.01	Jonathan Byers	5	1
+79.5	1.5	53	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01	Jonathan Byers	5	1
+81.0	1.5	54	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03	talk.v.01	Jonathan Byers	5	1
+82.5	1.5	55	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01; stare.v.01	Jonathan Byers	5	1
+84.0	1.5	56	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011; lamp.n.02	talk.v.01; stare.v.01; exhale.v.01	Jonathan Byers	5	1
+85.5	1.5	57	wall.n.01; person.n.01; lamp.n.02; frame.n.011	talk.v.01; stare.v.01; exhale.v.01	Jonathan Byers	5	1
+87.0	1.5	58	wall.n.01; person.n.01; lamp.n.02; frame.n.011	exhale.v.01; inhale.v.02; stare.v.01	Jonathan Byers	5	1
+88.5	1.5	59	wall.n.01; person.n.01; lamp.n.02; frame.n.011	stare.v.01; exhale.v.01	Jonathan Byers	5	1
+90.0	1.5	60	wall.n.01; person.n.01; lamp.n.02; frame.n.011	talk.v.01; stare.v.01; exhale.v.01	Jonathan Byers	5	1
+91.5	1.5	61	wall.n.01; person.n.01; lamp.n.02; frame.n.011	talk.v.01; stare.v.01	Jonathan Byers	5	1
+93.0	1.5	62	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01	Jonathan Byers	5	1
+94.5	1.5	63	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01	Jonathan Byers	5	1
+96.0	1.5	64	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011; lamp.n.02	talk.v.01; stare.v.01	Jonathan Byers	5	1
+97.5	1.5	65	wall.n.01; person.n.01; lamp.n.02; frame.n.011	talk.v.01; exhale.v.01; cry.v.02	Jonathan Byers	3	1
+99.0	1.5	66	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011; lamp.n.02; painting.n.01	talk.v.01; step.v.01; stare.v.01	Jonathan Byers	4	1
+100.5	1.5	67	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01; stare.v.01		5	1
+102.0	1.5	68	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01		5	1
+103.5	1.5	69	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01; stare.v.01		5	1
+105.0	1.5	70	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	talk.v.01		5	1
+106.5	1.5	71	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011; lamp.n.02	stare.v.01	Jonathan Byers	4	1
+108.0	1.5	72	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011; lamp.n.02	stare.v.01; exhale.v.01	Jonathan Byers	4	1
+109.5	1.5	73	wall.n.01; light.n.02; person.n.01; hanger.n.02; clothes.n.01; tube.n.03; frame.n.011	stare.v.01; inhale.v.02		5	1
+111.0	1.5	74	wall.n.01; curtain.n.01; light.n.01; painting.n.01; person.n.01; radio.n.02	talk.v.01; point.v.01; stare.v.01	Jonathan Byers	5	1
+112.5	1.5	75	wall.n.01; curtain.n.01; light.n.01; painting.n.01; person.n.01; radio.n.02	talk.v.01; turn.v.01	Jonathan Byers	5	1
+114.0	1.5	76	wall.n.01; curtain.n.01; light.n.01; painting.n.01; person.n.01; radio.n.02	talk.v.01; turn.v.01; walk.v.01; stare.v.01	Jonathan Byers	5	1
+115.5	1.5	77	wall.n.01; lamp.n.02; painting.n.01; darkness.n.01	cry.v.02; sniffle.v.02; stare.v.01	Jonathan Byers	3	1
+117.0	1.5	78	wall.n.01; lamp.n.02; painting.n.01; darkness.n.01	stare.v.01	Jonathan Byers	3	1
+118.5	1.5	79	sky.n.01; house.n.01; tree.n.01; flag.n.01; leaf.n.01			5	1
+120.0	1.5	80	sky.n.01; house.n.01; tree.n.01; flag.n.01; leaf.n.01			5	1
+121.5	1.5	81	sky.n.01; house.n.01; tree.n.01; flag.n.01; leaf.n.01			5	1
+123.0	1.5	82	frame.n.011; mirror.n.01; suit.n.01; wall.n.01; window.n.01	talk.v.01; grunt.v.01; button.v.02	Mike Wheeler; Ted Wheeler	5	1
+124.5	1.5	83	frame.n.011; mirror.n.01; suit.n.01; wall.n.01; window.n.01	talk.v.01; button.v.02	Mike Wheeler; Ted Wheeler	5	1
+126.0	1.5	84	frame.n.011; mirror.n.01; suit.n.01; wall.n.01; window.n.01; flower.n.01; trophy.n.01	talk.v.01; button.v.02	Mike Wheeler; Ted Wheeler	5	1
+127.5	1.5	85	frame.n.011; mirror.n.01; suit.n.01; wall.n.01; window.n.01; flower.n.01; trophy.n.01	talk.v.01; gesture.v.01	Mike Wheeler; Ted Wheeler	5	1
+129.0	1.5	86	frame.n.011; mirror.n.01; suit.n.01; wall.n.01; window.n.01; flower.n.01; trophy.n.01	talk.v.01; gesture.v.01	Mike Wheeler; Ted Wheeler	5	1
+130.5	1.5	87	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; exhale.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+132.0	1.5	88	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	exhale.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+133.5	1.5	89	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	stare.v.01; comfort.v.01	Nancy Wheeler; Karen Wheeler	4	1
+135.0	1.5	90	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+136.5	1.5	91	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+138.0	1.5	92	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+139.5	1.5	93	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+141.0	1.5	94	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+142.5	1.5	95	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; stare.v.01; nod.v.01	Nancy Wheeler; Karen Wheeler	4	1
+144.0	1.5	96	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+145.5	1.5	97	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	talk.v.01; stare.v.01	Nancy Wheeler; Karen Wheeler	4	1
+147.0	1.5	98	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; clothes.n.01	stare.v.01; nod.v.01	Nancy Wheeler; Karen Wheeler	4	1
+148.5	1.5	99	frame.n.011; mirror.n.01; wall.n.01; curtain.n.01; tree.n.01; dog.n.01; sky.n.01	stare.v.01; walk.v.01	Nancy Wheeler; Karen Wheeler	4	1
+150.0	1.5	100	sky.n.01; tree.n.01; dog.n.01; hut.n.02	walk.v.01		5	1
+151.5	1.5	101	sky.n.01; tree.n.01; dog.n.01; hut.n.02; tire.n.01	walk.v.01		5	1
+153.0	1.5	102	sky.n.01; tree.n.01; dog.n.01; hut.n.02; tire.n.01; lamp.n.02; box.n.01; table.n.02; cushion.n.03; paper.n.01; drawing.n.02; lion.n.01; toy.n.01	walk.v.01		5	1
+154.5	1.5	103	cushion.n.03; lamp.n.02; paper.n.01; drawing.n.01; table.n.02; box.n.01; dog.n.01; lion.n.01; toy.n.01	lie down.v.01		4	1
+156.0	1.5	104	cushion.n.03; lamp.n.02; paper.n.01; drawing.n.01; table.n.02; box.n.01; dog.n.01; lion.n.01; toy.n.01	lie down.v.01		4	1
+157.5	1.5	105	cushion.n.03; lamp.n.02; paper.n.01; drawing.n.01; table.n.02; box.n.01; dog.n.01; lion.n.01; toy.n.01	lie down.v.01; whimper.v.01		3	1
+159.0	1.5	106	cushion.n.03; lamp.n.02; paper.n.01; drawing.n.01; table.n.02; box.n.01; dog.n.01; lion.n.01; toy.n.01			3	1
+160.5	1.5	107	cushion.n.03; lamp.n.02; paper.n.01; drawing.n.01; table.n.02; box.n.01; dog.n.01; lion.n.01; toy.n.01; tie.n.01; person.n.01; shirt.n.01; mirror.n.01	knot.v.02		5	1
+162.0	1.5	108	shirt.n.01; tie.n.01; person.n.01; mirror.n.01	hold.v.02		5	1
+163.5	1.5	109	shirt.n.01; tie.n.01; person.n.01; mirror.n.01	hold.v.02		5	1
+165.0	1.5	110	shirt.n.01; tie.n.01; mirror.n.01	hold.v.02	Jonathan Byers	5	1
+166.5	1.5	111	shirt.n.01; tie.n.01; mirror.n.01; wall.n.01	knot.v.02	Jonathan Byers	5	1
+168.0	1.5	112	shirt.n.01; tie.n.01; mirror.n.01; wall.n.01	knot.v.02	Jonathan Byers	5	1
+169.5	1.5	113	shirt.n.01; tie.n.01; mirror.n.01; wall.n.01	knot.v.02	Jonathan Byers	5	1
+171.0	1.5	114	shirt.n.01; tie.n.01; mirror.n.01; wall.n.01	knot.v.02	Jonathan Byers	5	1
+172.5	1.5	115	shirt.n.01; tie.n.01; mirror.n.01; wall.n.01	untie.v.02	Jonathan Byers	4	1
+174.0	1.5	116	shirt.n.01; mirror.n.01; wall.n.01	slam.v.04	Jonathan Byers	4	1
+175.5	1.5	117	light.n.01; window.n.01; lamp.n.02			5	1
+177.0	1.5	118	window.n.01; light.n.01; curtain.n.01; shelf.n.01; lamp.n.02; wall.n.01 		Joyce Byers	5	1
+178.5	1.5	119	window.n.01; light.n.01; curtain.n.01; shelf.n.01; lamp.n.02; wall.n.01 		Joyce Byers	4	1
+180.0	1.5	120	window.n.01; light.n.01; curtain.n.01; shelf.n.01; wall.n.01 	stare.v.01	Joyce Byers	4	1
+181.5	1.5	121	shelf.n.01; wall.n.01; bed.n.01; painting.n.01	blink.v.01	Joyce Byers	4	1
+183.0	1.5	122	shelf.n.01; wall.n.01; bed.n.01; painting.n.01	stare.v.01	Joyce Byers	4	1
+184.5	1.5	123	shelf.n.01; wall.n.01; bed.n.01; painting.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	stare.v.01; walk.v.01	Joyce Byers	4	1
+186.0	1.5	124	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	stare.v.01; walk.v.01	Joyce Byers	4	1
+187.5	1.5	125	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	stare.v.01; talk.v.01	Joyce Byers	4	1
+189.0	1.5	126	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	stare.v.01; talk.v.01	Joyce Byers	4	1
+190.5	1.5	127	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01; painting.n.01	talk.v.01; nod.v.01; exhale.v.01	Joyce Byers	3	1
+192.0	1.5	128	shelf.n.01; wall.n.01; bed.n.01; painting.n.01	nod.v.01; mouth.v.02	Joyce Byers	3	1
+193.5	1.5	129	shelf.n.01; wall.n.01; bed.n.01; painting.n.01; person.n.01	nod.v.01; mouth.v.02; grab.v.03	Joyce Byers	3	1
+195.0	1.5	130	shelf.n.01; wall.n.01; bed.n.01; painting.n.01; person.n.01	exhale.v.01	Joyce Byers	3	1
+196.5	1.5	131	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	hold.v.02; stand up.v.01	Joyce Byers	3	1
+198.0	1.5	132	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	step.v.01; exhale.v.01	Joyce Byers	3	1
+199.5	1.5	133	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	walk.v.01; talk.v.01	Joyce Byers	3	1
+201.0	1.5	134	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	walk.v.01; talk.v.01	Joyce Byers	4	1
+202.5	1.5	135	shelf.n.01; wall.n.01; bed.n.01; lamp.n.02; light.n.02; sign.n.02; globe.n.01; person.n.01; door.n.01	walk.v.01; talk.v.01		4	1
+204.0	1.5	136	sky.n.01; tree.n.01; church.n.01; person.n.01; tomb.n.01; car.n.01; cemetery.n.01; flower.n.01			5	1
+205.5	1.5	137	sky.n.01; tree.n.01; church.n.01; person.n.01; tomb.n.01; car.n.01; cemetery.n.01; flower.n.01	talk.v.01; stare.v.01		5	1
+207.0	1.5	138	sky.n.01; tree.n.01; church.n.01; person.n.01; tomb.n.01; car.n.01; cemetery.n.01; flower.n.01	talk.v.01; stare.v.01		5	1
+208.5	1.5	139	sky.n.01; tree.n.01; church.n.01; person.n.01; tomb.n.01; car.n.01; cemetery.n.01; flower.n.01	talk.v.01; stare.v.01	Ted Wheeler; Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Karen Wheeler; Joyce Byers; Jonathan Byers	5	1
+210.0	1.5	140	sky.n.01; tree.n.01; church.n.01; person.n.01; tomb.n.01; car.n.01; cemetery.n.01; flower.n.01; casket.n.01	talk.v.01; stare.v.01	Ted Wheeler; Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Karen Wheeler; Joyce Byers; Jonathan Byers	5	1
+211.5	1.5	141	sky.n.01; tree.n.01; church.n.01; person.n.01; tomb.n.01; car.n.01; cemetery.n.01; flower.n.01; casket.n.01	talk.v.01; stare.v.01	Ted Wheeler; Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Karen Wheeler; Joyce Byers; Jonathan Byers	5	1
+213.0	1.5	142	person.n.01; bible.n.01; ring.n.08	turn.v.01; stare.v.01	Joyce Byers	4	1
+214.5	1.5	143	person.n.01; bible.n.01; flower.n.01	stare.v.01; talk.v.01	Joyce Byers	4	1
+216.0	1.5	144	person.n.01; bible.n.01; flower.n.01	stare.v.01; talk.v.01	Joyce Byers	4	1
+217.5	1.5	145	person.n.01; bible.n.01; flower.n.01	stare.v.01; gesture.v.01	Joyce Byers	4	1
+219.0	1.5	146	person.n.01; flower.n.01	stare.v.01; gesture.v.01; nod.v.01; talk.v.01	Joyce Byers; Jonathan Byers	4	1
+220.5	1.5	147	person.n.01; flower.n.01	stare.v.01; gesture.v.01; talk.v.01	Joyce Byers; Jonathan Byers	4	1
+222.0	1.5	148	person.n.01; flower.n.01	stare.v.01; talk.v.01	Joyce Byers; Jonathan Byers	4	1
+223.5	1.5	149	person.n.01; flower.n.01	stare.v.01; talk.v.01	Jonathan Byers	4	1
+225.0	1.5	150	person.n.01; flower.n.01	stare.v.01	Jonathan Byers	4	1
+226.5	1.5	151	person.n.01; flower.n.01; sky.n.01	stare.v.01; talk.v.01	Jonathan Byers	4	1
+228.0	1.5	152	person.n.01; flower.n.01; sky.n.01	stare.v.01; talk.v.01		5	1
+229.5	1.5	153	person.n.01; flower.n.01; sky.n.01	stare.v.01; nod.v.01; talk.v.01	Lucas Sinclair	4	1
+231.0	1.5	154	person.n.01; sky.n.01	stare.v.01; gesture.v.01; talk.v.01	Lucas Sinclair; Dustin Henderson	4	1
+232.5	1.5	155	person.n.01; sky.n.01	stare.v.01; gesture.v.01; talk.v.01; turn.v.01	Lucas Sinclair; Dustin Henderson; Mike Wheeler; Karen Wheeler	4	1
+234.0	1.5	156	person.n.01; flower.n.01; sky.n.01	stare.v.01; talk.v.01; smile.v.01	Lucas Sinclair; Dustin Henderson; Mike Wheeler; Karen Wheeler	6	1
+235.5	1.5	157	person.n.01; flower.n.01	stare.v.01; talk.v.01; smile.v.01; tap.v.03; turn.v.01	Lucas Sinclair; Dustin Henderson; Mike Wheeler	6	1
+237.0	1.5	158	person.n.01; flower.n.01	stare.v.01; talk.v.01; smile.v.01; point.v.01	Lucas Sinclair; Dustin Henderson; Mike Wheeler	6	1
+238.5	1.5	159	person.n.01; flower.n.01	stare.v.01; talk.v.01; smile.v.01; cry.v.02	Lucas Sinclair; Dustin Henderson; Mike Wheeler	6	1
+240.0	1.5	160	person.n.01; flower.n.01	cry.v.02; sniffle.v.02; stare.v.01		3	1
+241.5	1.5	161	person.n.01; flower.n.01	stare.v.01; talk.v.01	Lucas Sinclair; Dustin Henderson; Mike Wheeler	5	1
+243.0	1.5	162	person.n.01; flower.n.01	stare.v.01; talk.v.01; smile.v.01	Lucas Sinclair; Dustin Henderson; Mike Wheeler	6	1
+244.5	1.5	163	person.n.01; flower.n.01; sky.n.01	stare.v.01; talk.v.01; smile.v.01; shush.v.01	Mike Wheeler; Dustin Henderson; Karen Wheeler	5	1
+246.0	1.5	164	person.n.01; flower.n.01; sky.n.01; casket.n.01	stare.v.01; toss.v.01	Mike Wheeler; Dustin Henderson; Karen Wheeler	3	1
+247.5	1.5	165	casket.n.01; flower.n.01			4	1
+249.0	1.5	166	casket.n.01; flower.n.01	toss.v.01		4	1
+250.5	1.5	167	casket.n.01; flower.n.01; person.n.01	walk.v.01		5	1
+252.0	1.5	168	chair.n.01; grass.n.01; person.n.01; tube.n.03; cartpet.n.01	walk.v.01; talk.v.01		5	1
+253.5	1.5	169	chair.n.01; grass.n.01; person.n.01	walk.v.01; talk.v.01		5	1
+255.0	1.5	170	chair.n.01; person.n.01; sky.n.01; purse.n.01	talk.v.01; step.v.01; hug.v.01	Joyce Byers; Karen Wheeler; Ted Wheeler; Lucas Sinclair	3	1
+256.5	1.5	171	person.n.01; sky.n.01; tree.n.01	talk.v.01; hug.v.01	Joyce Byers; Karen Wheeler; Ted Wheeler; Lucas Sinclair	3	1
+258.0	1.5	172	person.n.01; sky.n.01; tree.n.01	talk.v.01; shake.v.04	Joyce Byers; Karen Wheeler; Ted Wheeler; Lucas Sinclair; Jonathan Byers	3	1
+259.5	1.5	173	person.n.01; sky.n.01; tree.n.01; tomb.n.01	talk.v.01; shake.v.04	Joyce Byers; Karen Wheeler; Ted Wheeler; Jonathan Byers	3	1
+261.0	1.5	174	person.n.01; sky.n.01; tree.n.01; tomb.n.01	talk.v.01; shake.v.04; stare.v.01	Joyce Byers; Karen Wheeler; Ted Wheeler; Jonathan Byers	3	1
+262.5	1.5	175	person.n.01; sky.n.01; tree.n.01; tomb.n.01	walk.n.01; pat.v.02	Joyce Byers; Karen Wheeler; Ted Wheeler; Jonathan Byers	3	1
+264.0	1.5	176	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01; walk.v.01	Joyce Byers; Karen Wheeler; Ted Wheeler; Nancy Wheeler	3	1
+265.5	1.5	177	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01; walk.v.01	Joyce Byers; Karen Wheeler; Ted Wheeler; Nancy Wheeler	3	1
+267.0	1.5	178	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01; walk.v.01	Joyce Byers; Nancy Wheeler; Lucas Sinclair	3	1
+268.5	1.5	179	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01; walk.v.01	Joyce Byers; Lucas Sinclair	3	1
+270.0	1.5	180	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01	Joyce Byers	2	1
+271.5	1.5	181	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01; walk.v.01	Joyce Byers; Mike Wheeler	2	1
+273.0	1.5	182	person.n.01; sky.n.01; tree.n.01; tomb.n.01	stare.v.01; walk.v.01	Joyce Byers; Mike Wheeler	2	1
+274.5	1.5	183	person.n.01; sky.n.01; tree.n.01; tomb.n.01; window.n.01; curtain.n.01; toaster.n.02; jar.n.01; wall.n.01; light.n.01	stare.v.01	Joyce Byers	2	1
+276.0	1.5	184	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; knife.n.01	turn.v.01; stare.v.01; spread.v.01	Joyce Byers	5	1
+277.5	1.5	185	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; knife.n.01; bread.n.01; light.n.02; counter.n.04	step.v.01; talk.v.01	Joyce Byers	5	1
+279.0	1.5	186	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; knife.n.01; bread.n.01; light.n.02; counter.n.04	talk.v.01	Joyce Byers	5	1
+280.5	1.5	187	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; knife.n.01; bread.n.01; light.n.02; counter.n.04	turn.v.01; cut.v.01; smile.v.01	Joyce Byers; Will Byers	5	1
+282.0	1.5	188	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; knife.n.01; bread.n.01; light.n.02; counter.n.04; table.n.02	talk.v.01; point.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+283.5	1.5	189	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; knife.n.01; bread.n.01; light.n.02; counter.n.04; table.n.02; drawing.n.02; crayon.n.01; paper.n.01	talk.v.01; point.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+285.0	1.5	190	counter.n.04; table.n.02; chair.n.01; paper.n.01; crayon.n.01; wall.n.01	talk.v.01; draw.v.06	Will Byers	5	1
+286.5	1.5	191	counter.n.04; table.n.02; chair.n.01; paper.n.01; crayon.n.01; wall.n.01	talk.v.01; draw.v.06	Will Byers	5	1
+288.0	1.5	192	counter.n.04; table.n.02; chair.n.01; paper.n.01; crayon.n.01; wall.n.01	talk.v.01; draw.v.06	Will Byers	5	1
+289.5	1.5	193	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; light.n.02; counter.n.04; table.n.02; crayon.n.01; paper.n.01	talk.v.01; hold.v.02	Joyce Byers; Will Byers	5	1
+291.0	1.5	194	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; light.n.02; counter.n.04; table.n.02; bread.n.01	talk.v.01; draw.v.06; step.v.01	Joyce Byers; Will Byers	5	1
+292.5	1.5	195	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; light.n.02; counter.n.04; table.n.02; bread.n.01	talk.v.01; step.v.01; point.v.01	Joyce Byers; Will Byers	5	1
+294.0	1.5	196	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; light.n.02; counter.n.04; table.n.02; bread.n.01	talk.v.01; place.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+295.5	1.5	197	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; plate.n.04; light.n.02; counter.n.04; table.n.02; bread.n.01	talk.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+297.0	1.5	198	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; light.n.02; counter.n.04; table.n.02	talk.v.01; nod.v.01; hold.v.02	Joyce Byers; Will Byers	6	1
+298.5	1.5	199	window.n.01; light.n.01; curtain.n.01; jar..n.01; wall.n.01; toaster.n.02; bread.n.01; light.n.02; counter.n.04; table.n.02; paper.n.01	talk.v.01; hold.v.02; smile.v.01	Joyce Byers; Will Byers	7	1
+300.0	1.5	200	wall.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; drawing.n.02; bread.n.01; plate.n.04	talk.v.01; stare.v.01; smile.v.01	Joyce Byers; Will Byers	7	1
+301.5	1.5	201	wall.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; drawing.n.02; bread.n.01; plate.n.04	talk.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+303.0	1.5	202	wall.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; drawing.n.02; bread.n.01; plate.n.04	talk.v.01; gesture.v.01; nod.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+304.5	1.5	203	wall.n.01	talk.v.01; nod.v.01	Joyce Byers	5	1
+306.0	1.5	204	wall.n.01	talk.v.01; nod.v.01	Joyce Byers	5	1
+307.5	1.5	205	wall.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; drawing.n.02; bread.n.01; plate.n.04	talk.v.01; nod.v.01	Joyce Byers; Will Byers	5	1
+309.0	1.5	206	wall.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; drawing.n.02; bread.n.01; plate.n.04	talk.v.01; draw.v.06	Joyce Byers; Will Byers	5	1
+310.5	1.5	207	wall.n.01	talk.v.01; smile.v.01	Joyce Byers	7	1
+312.0	1.5	208	wall.n.01	talk.v.01; smile.v.01	Joyce Byers	7	1
+313.5	1.5	209	wall.n.01	talk.v.01; smile.v.01	Joyce Byers	7	1
+315.0	1.5	210	wall.n.01	talk.v.01; smile.v.01	Joyce Byers	7	1
+316.5	1.5	211	wall.n.01	talk.v.01; gesture.v.01	Joyce Byers	6	1
+318.0	1.5	212	wall.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; bread.n.01; plate.n.04	smile.v.01; laugh.v.01; pet.v.01	Joyce Byers; Will Byers	8	1
+319.5	1.5	213	crayon.n.01; table.n.02; counter.n.04; chair.n.01; paper.n.01; drawing.n.02; bread.n.01; plate.n.04	laugh.v.01; draw.v.06	Joyce Byers; Will Byers	8	1
+321.0	1.5	214	crayon.n.01; paper.n.01; drawing.n.02	draw.v.06	Will Byers	5	1
+322.5	1.5	215	crayon.n.01; paper.n.01; drawing.n.02	draw.v.06	Will Byers; Sheriff Jim Hopper	5	2
+324.0	1.5	216	couch.n.01	pant.v.01; wake up.v.02	Sheriff Jim Hopper	5	3
+325.5	1.5	217	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01	pant.v.01; stare.v.01	Sheriff Jim Hopper	5	3
+327.0	1.5	218	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01	startle.v.02; stare.v.01	Sheriff Jim Hopper	5	2
+328.5	1.5	219	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01; lamp.n.02	startle.v.02; get up.v.01; stare.v.01	Sheriff Jim Hopper	5	3
+330.0	1.5	220	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01; lamp.n.02	get up.v.01; uncover.v.02; stare.v.01	Sheriff Jim Hopper	5	3
+331.5	1.5	221	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01; lamp.n.02; painting.n.01	sit.v.01; stare.v.01; exhale.v.01	Sheriff Jim Hopper	5	3
+333.0	1.5	222	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01; lamp.n.02; painting.n.01	stare.v.01	Sheriff Jim Hopper	5	2
+334.5	1.5	223	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01; lamp.n.02; painting.n.01	stare.v.01; exhale.v.01; uncover.v.02	Sheriff Jim Hopper	5	2
+336.0	1.5	224	couch.n.01; table.n.02; window.n.01; curtain.n.01; can.n.01; pill.n.02; wall.n.01; gun.n.01; blanket.n.01; bottle.n.01; phone.n.01; lamp.n.02; counter.n.04; kitchen sink.n.01	stand up.v.01; step.v.01; grab.v.03; hold.v.02	Sheriff Jim Hopper	5	2
+337.5	1.5	225	couch.n.01; table.n.02; chair.n.01; can.n.01; kitchen sink.n.01; window.n.01; curtain.n.01; door.n.01; box.n.01; phone.n.01; lamp.n.02; fridge.n.01; counter.n.04; tv.n.01	run.v.01; hold.v.02; grab.v.03	Sheriff Jim Hopper	5	2
+339.0	1.5	226	window.n.01; door.n.01; sky.n.01; lamp.n.02; light.n.02; tree.n.01; gun.n.01; blind.n.03; plank.n.01	step.v.01; hold.v.02; stumble.v.01; open.v.01	Sheriff Jim Hopper	5	2
+340.5	1.5	227	window.n.01; door.n.01; sky.n.01; lamp.n.02; light.n.02; tree.n.01; gun.n.01; blind.n.03; plank.n.01	step.v.01; pant.v.01; hold.v.02	Sheriff Jim Hopper	5	2
+342.0	1.5	228	window.n.01; blind.n.03; staircase.n.01; plant.n.02; gun.n.01; door.n.01 	run.v.01; hold.v.02	Sheriff Jim Hopper	5	3
+343.5	1.5	229	window.n.01; blind.n.03; staircase.n.01; plant.n.02; gun.n.01; door.n.01; sky.n.01; cabin.n.01  	run.v.01; hold.v.02; pant.v.01	Sheriff Jim Hopper	5	2
+345.0	1.5	230	window.n.01; blind.n.03; staircase.n.01; plant.n.02; gun.n.01; door.n.01; sky.n.01; cabin.n.01 	pant.v.01; hold.v.01; turn.v.01	Sheriff Jim Hopper	5	2
+346.5	1.5	231	window.n.01; gun.n.01; sky.n.01; lake.n.01; tree.n.01; antenna.n.01; cabin.n.02	turn.v.01; hold.v.01; pant.v.01; look.v.04	Sheriff Jim Hopper	5	2
+348.0	1.5	232	window.n.01; gun.n.01; lake.n.01; tree.n.01; antenna.n.01; cabin.n.02	turn.v.01; look.v.04; hold.v.02	Sheriff Jim Hopper	5	1
+349.5	1.5	233	window.n.01; gun.n.01; lake.n.01; tree.n.01; antenna.n.01; cabin.n.02; mirror.n.01	turn.v.01; look.v.04; hold.v.02	Sheriff Jim Hopper	5	1
+351.0	1.5	234	mirror.n.01; wall.n.01; frame.n.011	exhale.v.01; stare.v.01; inspect.v.01	Sheriff Jim Hopper	5	1
+352.5	1.5	235	mirror.n.01; wall.n.01	exhale.v.01; stare.v.01; inspect.v.01	Sheriff Jim Hopper	5	1
+354.0	1.5	236	mirror.n.01; wall.n.01; frame.n.011	stare.v.01	Sheriff Jim Hopper	5	1
+355.5	1.5	237	mirror.n.01; wall.n.01; frame.n.011	stare.v.01	Sheriff Jim Hopper	5	1
+357.0	1.5	238	mirror.n.01; wall.n.01; frame.n.011	stare.v.01	Sheriff Jim Hopper	5	1
+358.5	1.5	239	mirror.n.01; wall.n.01; frame.n.011; light.n.02	unscrew.v.01; remove.v.01	Sheriff Jim Hopper	5	1
+360.0	1.5	240	mirror.n.01; wall.n.01; frame.n.011; light.n.02	unscrew.v.01; remove.v.01	Sheriff Jim Hopper	5	1
+361.5	1.5	241	mirror.n.01; wall.n.01; frame.n.011; light.n.02	unscrew.v.01; remove.v.01; hold.v.02	Sheriff Jim Hopper	5	1
+363.0	1.5	242	mirror.n.01; wall.n.01; frame.n.011; light.n.02; door.n.01; darkness.n.01. ceiling.n.01	step.v.01; look.v.04; hold.v.02	Sheriff Jim Hopper	5	2
+364.5	1.5	243	wall.n.01; ceiling.n.01; darkness.n.01; light.n.02	step.v.01; grab.v.03; look.v.04	Sheriff Jim Hopper	5	3
+366.0	1.5	244	wall.n.01; ceiling.n.01; darkness.n.01; light.n.02	unscrew.v.01; look.v.04	Sheriff Jim Hopper	5	3
+367.5	1.5	245	wall.n.01; ceiling.n.01; darkness.n.01; switch.n.01	remove.v.01; look.v.04	Sheriff Jim Hopper	5	3
+369.0	1.5	246	wall.n.01; darkness.n.01; painting.n.01	remove.v.01; look.v.04	Sheriff Jim Hopper	5	3
+370.5	1.5	247	cabinet.n.01; pot.n.01; stool.n.01; painting.n.01	grab.v.03; hold.v.02; look.v.04	Sheriff Jim Hopper	5	3
+372.0	1.5	248	cabinet.n.01; stove.n.01; bowl.n.03; knife.n.01; counter.n.04	open.v.01; grab.v.03; look.v.04	Sheriff Jim Hopper	5	4
+373.5	1.5	249	window.n.01; blind.n.03; knife.n.01; stove.n.01; kitchen sink.n.01; curtain.n.01; cup.n.01; router.n.02	grab.v.03; hold.v.02; look.v.04	Sheriff Jim Hopper	5	4
+375.0	1.5	250	kitchen sink.n.01; router.n.02; bottle.n.01; counter.n.04	remove.v.01; look.v.04	Sheriff Jim Hopper	5	4
+376.5	1.5	251	wall.n.01; fridge.n.01; window.n.01; blind.n.03	stare.v.01; look.v.04 	Sheriff Jim Hopper	5	4
+378.0	1.5	252	blind.n.03; curtain.n.01; table.n.02; can.n.01; magazine.n.01; chair.n.01	sweep.v.09; look.v.04	Sheriff Jim Hopper	5	4
+379.5	1.5	253	blind.n.03; curtain.n.01; table.n.02; chair.n.01; box.n.01	flip.v.08	Sheriff Jim Hopper	5	4
+381.0	1.5	254	phone.n.01; couch.n.01	grab.v.03; hold.v.02; look.v.04	Sheriff Jim Hopper	5	4
+382.5	1.5	255	phone.n.01; couch.n.01; kitchen sink.n.01; table.n.02; can.n.01; cutter.n.06	unscrew.v.01; remove.v.01; hold.v.02; slam.v.04	Sheriff Jim Hopper	5	4
+384.0	1.5	256	phone.n.01; couch.n.01; kitchen sink.n.01; table.n.02; can.n.01; cutter.n.06	slam.v.04; hold.v.02; remove.v.01; look.v.04	Sheriff Jim Hopper	5	4
+385.5	1.5	257	phone.n.01; couch.n.01; lamp.n.02; window.n.01	hold.v.02; stand up.v.01; look.v.04	Sheriff Jim Hopper	5	4
+387.0	1.5	258	counter.n.04; window.n.01; blind.n.03; wall.n.01; kitchen sink.n.01; lamp.n.02	throw.v.01; look.v.04; break.v.05	Sheriff Jim Hopper	5	4
+388.5	1.5	259	table.n.02; can.n.01; pill.n.02; bottle.n.01; magazine.n.01; wallet.n.01; lighter.n.02; cigarette.n.01; key.n.01; ashtray.n.01	grab.v.03; look.v.04	Sheriff Jim Hopper	5	4
+390.0	1.5	260	table.n.02; can.n.01; pill.n.02; bottle.n.01; magazine.n.01; wallet.n.01; lighter.n.02; cigarette.n.01; key.n.01; ashtray.n.01; couch.n.01; knife.n.01	hold.v.02; open.v.05; slash.v.03; look.v.04	Sheriff Jim Hopper	5	4
+391.5	1.5	261	couch.n.01; knife.n.01	slash.v.03; rip.v.01; look.v.04	Sheriff Jim Hopper	5	4
+393.0	1.5	262	couch.n.01; window.n.01; curtain.n.01; blind.n.03; wall.n.01	look.v.04; rip.v.01	Sheriff Jim Hopper	5	4
+394.5	1.5	263	couch.n.01; lamp.n.02; wall.n.01; darkness.n.01	stand up.v.01; step.v.01	Sheriff Jim Hopper	5	4
+396.0	1.5	264	wall.n.01; lamp.n.02; painting.n.01	throw.v.01; look.v.04; grab.v.03	Sheriff Jim Hopper	5	4
+397.5	1.5	265	wall.n.01; lamp.n.02; light.n.02	unscrew.v.01; remove.v.01; throw.v.01; break.v.05	Sheriff Jim Hopper	5	4
+399.0	1.5	266	wall.n.01; painting.n.01; book.n.01; shelf.n.01; radio.n.02	sweep.v.09; look.v.04; remove.v.01	Sheriff Jim Hopper	5	4
+400.5	1.5	267	wall.n.01; curtain.n.01; radio.n.02	grab.v.03; look.v.04	Sheriff Jim Hopper	5	4
+402.0	1.5	268	wall.n.01; curtain.n.01; radio.n.02; window.v.01; blind.n.03; saliva.n.01	throw.v.01; look.v.04; grab.v.03	Sheriff Jim Hopper	5	4
+403.5	1.5	269	wall.n.01; window.n.01; blind.n.03; curtain.n.01; can.n.01; drawer.n.01	look.v.04; bend.v.04	Sheriff Jim Hopper	5	4
+405.0	1.5	270	wall.n.01; painting.n.01; shelf.n.01; window.n.01; blind.n.03; curtain.n.01	look.v.04	Sheriff Jim Hopper	5	4
+406.5	1.5	271	wall.n.01; shelf.n.01; window.n.01; blind.n.03; curtain.n.01	stare.v.01	Sheriff Jim Hopper	5	4
+408.0	1.5	272	wall.n.01; shelf.n.01; window.n.01; blind.n.03; curtain.n.01	step.v.01; stare.v.01; gerab.v.03	Sheriff Jim Hopper	5	4
+409.5	1.5	273	wall.n.01; ceiling.n.01; lamp.n.02	unscrew.v.01; look.v.04	Sheriff Jim Hopper	5	4
+411.0	1.5	274	wall.n.01; ceiling.n.01; lamp.n.02	remove.v.01; look.v.04	Sheriff Jim Hopper	5	4
+412.5	1.5	275	wall.n.01; ceiling.n.01; light.n.02	grab.v.03; hold.v.02; look.v.04	Sheriff Jim Hopper	5	4
+414.0	1.5	276	wall.n.01; ceiling.n.01; light.n.02; mic.n.01; cable.n.02	pull.v.04; stare.v.01; remove.v.01	Sheriff Jim Hopper	5	3
+415.5	1.5	277	wall.n.01; mic.n.01; cable.n.02	stare.v.01; hold.v.02	Sheriff Jim Hopper	5	3
+417.0	1.5	278	wall.n.01; mic.n.01; cable.n.02	stare.v.01; hold.v.02; grab.v.03	Sheriff Jim Hopper	5	3
+418.5	1.5	279	wall.n.01; mic.n.01; cable.n.02	stare.v.01; hold.v.02; grab.v.03	Sheriff Jim Hopper	5	3
+420.0	1.5	280	wall.n.01; mic.n.01; cable.n.02; shelf.n.01	stare.v.01; hold.v.02	Sheriff Jim Hopper	5	3
+421.5	1.5	281	wall.n.01; mic.n.01; cable.n.02; shelf.n.01	stare.v.01; hold.v.02; flip.v.08	Sheriff Jim Hopper	5	3
+423.0	1.5	282	wall.n.01; mic.n.01; cable.n.02; shelf.n.01	stare.v.01; hold.v.02; exhale.v.01	Sheriff Jim Hopper	5	3
+424.5	1.5	283	wall.n.01; mic.n.01; cable.n.02; shelf.n.01	stare.v.01; hold.v.02; exhale.v.01	Sheriff Jim Hopper	5	3
+426.0	1.5	284	wall.n.01; mic.n.01; cable.n.02; shelf.n.01; table.n.02; cigarette.n.01; person.n.01; computer.n.01; mug.n.04; smoke.n.01; headphone.n.01	grunt.v.01; smoke.v.01; listen.v.01	Sheriff Jim Hopper; Dr. Martin Brenner	5	4
+427.5	1.5	285	wall.n.01; table.n.02; mug.n.04; smoke.n.01; cigarette.n.01; ashtray.n.01; pen.n.01; computer.n.01; headphone.n.01; darkness.n.01; person.n.01; light.n.02	listen.v.01; grab.v.03; write.v.02; stare.v.01	Dr. Martin Brenner	5	1
+429.0	1.5	286	wall.n.01; table.n.02; mug.n.04; smoke.n.01; cigarette.n.01; ashtray.n.01; pen.n.01; computer.n.01; headphone.n.01; darkness.n.01; person.n.01; light.n.02	listen.v.01; hold.v.02; smoke.v.01; stare.v.01	Dr. Martin Brenner	5	1
+430.5	1.5	287	wall.n.01; table.n.02; mug.n.04; smoke.n.01; cigarette.n.01; ashtray.n.01; pen.n.01; computer.n.01; headphone.n.01; darkness.n.01; person.n.01; light.n.02	listen.v.01; hold.v.02; smoke.v.01; stare.v.01	Dr. Martin Brenner	5	1
+432.0	1.5	288	wall.n.01; table.n.02; light.n.02; mug.n.04; smoke.n.01; cigarette.n.01; ashtray.n.01; computer.n.01; headphone.n.01; darkness.n.01; person.n.01	listen.v.01; hold.v.02; stare.v.01	Dr. Martin Brenner	5	1
+433.5	1.5	289	wall.n.01; table.n.02; light.n.02; mug.n.04; smoke.n.01; cigarette.n.01; ashtray.n.01; computer.n.01; headphone.n.01; darkness.n.01; person.n.01	listen.v.01; hold.v.02; stare.v.01	Dr. Martin Brenner	5	1
+435.0	1.5	290	wall.n.01; table.n.02; light.n.02; smoke.n.01; ashtray.n.01; computer.n.01; headphone.n.01; darkness.n.01; person.n.01	listen.v.01; hold.v.02; stare.v.01	Dr. Martin Brenner	5	1
+436.5	1.5	291	wall.n.01; table.n.02; light.n.02; computer.n.01; headphone.n.01; darkness.n.01; person.n.01	listen.v.01; hold.v.02; stare.v.01	Dr. Martin Brenner	5	1
+438.0	1.5	292	wall.n.01; table.n.02; light.n.02; computer.n.01; headphone.n.01; darkness.n.01; person.n.01	listen.v.01; hold.v.02; nod.v.01; grab.v.03	Dr. Martin Brenner	4	1
+439.5	1.5	293	light.n.02; headphone.n.01; person.n.01; computer.n.01; darkness.n.01	listen.v.01; grab.v.03; hold.v.02; remove.v.01	Dr. Martin Brenner	5	3
+441.0	1.5	294	light.n.02; headphone.n.01; person.n.01; computer.n.01; darkness.n.01	talk.v.01; place.v.01; stare.v.01; remove.v.01	Dr. Martin Brenner	5	1
+442.5	1.5	295	light.n.02; headphone.n.01; person.n.01; computer.n.01; darkness.n.01	nod.v.01; stare.v.01; hold.v.02; turn.v.01	Dr. Martin Brenner	5	1

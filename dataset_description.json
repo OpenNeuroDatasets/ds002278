@@ -9,15 +9,21 @@
         "Robert Laird",
         "Angela Laird"
     ],
-    "BIDSVersion": "1.2.1",
-    "DatasetDOI": "10.18112/openneuro.ds002278.v1.0.1",
-    "Funding": [],
+    "BIDSVersion": "1.5.0",
+    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "Funding": [
+    ],
     "HowToAcknowledge": "Please reference the OpenNeuro dataset identifier.",
     "License": "CC0",
     "Name": "Dense Investigation of Variability of Affect (DIVA)",
     "ReferencesAndLinks": [
         "https://nbclab.github.io/projects/diva",
         "https://github.com/NBCLab/localizer-task",
-        "https://github.com/NBCLab/stranger-things-task"
+        "https://github.com/NBCLab/film-viewing-task",
+        "https://github.com/NBCLab/probabilistic-selection-task",
+        "https://github.com/NBCLab/eirt-task",
+        "https://github.com/NBCLab/sorpf-task",
+        "https://github.com/NBCLab/arithmetic-task",
+        "https://github.com/NBCLab/pyfLoc"
     ]
 }

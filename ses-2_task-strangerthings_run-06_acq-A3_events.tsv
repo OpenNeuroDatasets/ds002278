@@ -61,17 +61,17 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 91.5	1.5	61	basement.n.01; light.n.02; chair.n.01; table.n.01; board game.n.01; stairs.n.01	stare.v.01; sit.v.01; approach.v.01; confuse.v.02; flip.v.08; focus.v.01; place.v.01	Eleven, Mike Wheeler, Dustin Henderson, Lucas Sinclair	4.0	1.0
 93.0	1.5	62	basement.n.01; light.n.02; chair.n.01; table.n.01; board game.n.01; stairs.n.01	stare.v.01; sit.v.01; approach.v.01; confuse.v.02; flip.v.08; focus.v.01; place.v.01	Eleven, Mike Wheeler, Dustin Henderson, Lucas Sinclair	4.0	1.0
 94.5	1.5	63	basement.n.01; light.n.02; chair.n.01; table.n.01; board game.n.01; stairs.n.01	stare.v.01; sit.v.01; approach.v.01; confuse.v.02; flip.v.08; focus.v.01; place.v.01	Eleven, Mike Wheeler, Dustin Henderson, Lucas Sinclair	4.0	1.0
-96.0	1.5	64	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02			5.0	1.0
-97.5	1.5	65	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01		5.0	1.0
-99.0	1.5	66	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01		5.0	1.0
-100.5	1.5	67	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01		5.0	1.0
-102.0	1.5	68	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01		5.0	1.0
-103.5	1.5	69	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01		5.0	1.0
-105.0	1.5	70	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01		5.0	1.0
-106.5	1.5	71	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	park.v.01		5.0	1.0
-108.0	1.5	72	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	park.v.01		5.0	1.0
-109.5	1.5	73	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01	park.v.01; turn off.v.01		5.0	1.0
-111.0	1.5	74	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01	park.v.01; turn off.v.01; open.v.01 		5.0	1.0
+96.0	1.5	64	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02	n/a	n/a	5.0	1.0
+97.5	1.5	65	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01	n/a	5.0	1.0
+99.0	1.5	66	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01	n/a	5.0	1.0
+100.5	1.5	67	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01	n/a	5.0	1.0
+102.0	1.5	68	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01	n/a	5.0	1.0
+103.5	1.5	69	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01	n/a	5.0	1.0
+105.0	1.5	70	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	driving.v.01	n/a	5.0	1.0
+106.5	1.5	71	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	park.v.01	n/a	5.0	1.0
+108.0	1.5	72	nighttime.n.01; automobile.n.01; light.n.02; tree.n.01; sign.n.02; road.n.01	park.v.01	n/a	5.0	1.0
+109.5	1.5	73	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01	park.v.01; turn off.v.01	n/a	5.0	1.0
+111.0	1.5	74	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01	park.v.01; turn off.v.01; open.v.01 	n/a	5.0	1.0
 112.5	1.5	75	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01	park.v.01; turn off.v.01; open.v.01 	Jonathan Byers	5.0	1.0
 114.0	1.5	76	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01	park.v.01; turn off.v.01; close.v.01 	Jonathan Byers	5.0	1.0
 115.5	1.5	77	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01; trunk.n.04; light.n.02	park.v.01; turn off.v.01; close.v.01 	Jonathan Byers	5.0	1.0
@@ -81,32 +81,32 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 121.5	1.5	81	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01; trunk.n.04; light.n.02	park.v.01; turn off.v.01; gather.v.01	Jonathan Byers	5.0	1.0
 123.0	1.5	82	nighttime.n.01; automobile.n.01; tree.n.01; sign.n.02; road.n.01; trunk.n.04; light.n.02	park.v.01; turn off.v.01; gather.v.01; close.v.01	Jonathan Byers	5.0	1.0
 124.5	1.5	83	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	1.0
-126.0	1.5	84	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-127.5	1.5	85	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-129.0	1.5	86	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-130.5	1.5	87	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-132.0	1.5	88	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-133.5	1.5	89	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-135.0	1.5	90	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-136.5	1.5	91	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-138.0	1.5	92	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	
-139.5	1.5	93	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-141.0	1.5	94	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-142.5	1.5	95	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-144.0	1.5	96	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01	Jonathan Byers	5.0	
-145.5	1.5	97	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; ask.v.01	Jonathan Byers	5.0	
-147.0	1.5	98	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	
-148.5	1.5	99	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	
-150.0	1.5	100	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	
-151.5	1.5	101	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	
-153.0	1.5	102	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-154.5	1.5	103	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-156.0	1.5	104	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-157.5	1.5	105	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	
-159.0	1.5	106	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; automobile.n.01 	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	
-160.5	1.5	107	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; automobile.n.01 	search.v.01; focus.v.01; wander.v.01	Jonathan Byers		
-162.0	1.5	108	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	
-163.5	1.5	109	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01; scream.v.02	Jonathan Byers	5.0	
+126.0	1.5	84	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+127.5	1.5	85	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+129.0	1.5	86	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+130.5	1.5	87	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+132.0	1.5	88	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+133.5	1.5	89	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+135.0	1.5	90	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+136.5	1.5	91	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+138.0	1.5	92	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01	Jonathan Byers	5.0	n/a
+139.5	1.5	93	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+141.0	1.5	94	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+142.5	1.5	95	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+144.0	1.5	96	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01	Jonathan Byers	5.0	n/a
+145.5	1.5	97	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; ask.v.01	Jonathan Byers	5.0	n/a
+147.0	1.5	98	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	n/a
+148.5	1.5	99	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	n/a
+150.0	1.5	100	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	n/a
+151.5	1.5	101	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	n/a
+153.0	1.5	102	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+154.5	1.5	103	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+156.0	1.5	104	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+157.5	1.5	105	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	n/a
+159.0	1.5	106	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; automobile.n.01 	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	5.0	n/a
+160.5	1.5	107	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; automobile.n.01 	search.v.01; focus.v.01; wander.v.01	Jonathan Byers	n/a	n/a
+162.0	1.5	108	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01	Jonathan Byers	5.0	n/a
+163.5	1.5	109	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01	search.v.01; photograph.v.01; scream.v.02	Jonathan Byers	5.0	n/a
 165.0	1.5	110	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01; alert.n.02 	search.v.01; photograph.v.01; scream.v.02	Jonathan Byers	3.0	3.0
 166.5	1.5	111	nighttime.n.01; tree.n.01; camera.n.01; sign.n.02; photograph.n.01; alert.n.02 	search.v.01; photograph.v.01; scream.v.02; hurry.v.01	Jonathan Byers	3.0	3.0
 168.0	1.5	112	nighttime.n.01; tree.n.01; camera.n.01; alert.n.02 	search.v.01; scream.v.02; hurry.v.01	Jonathan Byers	3.0	3.0

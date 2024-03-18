@@ -1,26 +1,26 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	word.n.01			5	3
-4.5	1.5	3	word.n.01			5	3
-6.0	1.5	4	word.n.01			5	3
-7.5	1.5	5	word.n.01			5	3
-9.0	1.5	6	word.n.01			5	3
-10.5	1.5	7	word.n.01			5	3
-12.0	1.5	8	word.n.01			5	3
-13.5	1.5	9	drawing.n.03			5	3
-15.0	1.5	10	drawing.n.03; key.n.01			5	3
-16.5	1.5	11	word.n.01; drawing.n.03			5	3
-18.0	1.5	12	word.n.01; drawing.n.03; key.n.01			5	3
-19.5	1.5	13	word.n.01; drawing.n.03; key.n.01; 			5	3
-21.0	1.5	14	word.n.01; drawing.n.03; key.n.01			5	3
-22.5	1.5	15	word.n.01; drawing.n.03; key.n.01			5	3
-24.0	1.5	16	word.n.01; drawing.n.03; key.n.01; bottle.n.01	speak.v.01		5	3
-25.5	1.5	17	word.n.01; drawing.n.03; key.n.01; bottle.n.01	speak.v.01		5	3
-27.0	1.5	18	word.n.01; bottle.n.01; sandwich.n.01	speak.v.01		5	3
-28.5	1.5	19	word.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01		5	3
-30.0	1.5	20	word.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01		5	3
-31.5	1.5	21	television.n.01; living room.n.01	speak.v.01		5	3
-33.0	1.5	22	television.n.01; living room.n.01	speak.v.01		5	3
-34.5	1.5	23	television.n.01; living room.n.01	speak.v.01		5	3
+3.0	1.5	2	word.n.01	n/a	n/a	5	3
+4.5	1.5	3	word.n.01	n/a	n/a	5	3
+6.0	1.5	4	word.n.01	n/a	n/a	5	3
+7.5	1.5	5	word.n.01	n/a	n/a	5	3
+9.0	1.5	6	word.n.01	n/a	n/a	5	3
+10.5	1.5	7	word.n.01	n/a	n/a	5	3
+12.0	1.5	8	word.n.01	n/a	n/a	5	3
+13.5	1.5	9	drawing.n.03	n/a	n/a	5	3
+15.0	1.5	10	drawing.n.03; key.n.01	n/a	n/a	5	3
+16.5	1.5	11	word.n.01; drawing.n.03	n/a	n/a	5	3
+18.0	1.5	12	word.n.01; drawing.n.03; key.n.01	n/a	n/a	5	3
+19.5	1.5	13	word.n.01; drawing.n.03; key.n.01; 	n/a	n/a	5	3
+21.0	1.5	14	word.n.01; drawing.n.03; key.n.01	n/a	n/a	5	3
+22.5	1.5	15	word.n.01; drawing.n.03; key.n.01	n/a	n/a	5	3
+24.0	1.5	16	word.n.01; drawing.n.03; key.n.01; bottle.n.01	speak.v.01	n/a	5	3
+25.5	1.5	17	word.n.01; drawing.n.03; key.n.01; bottle.n.01	speak.v.01	n/a	5	3
+27.0	1.5	18	word.n.01; bottle.n.01; sandwich.n.01	speak.v.01	n/a	5	3
+28.5	1.5	19	word.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01	n/a	5	3
+30.0	1.5	20	word.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01	n/a	5	3
+31.5	1.5	21	television.n.01; living room.n.01	speak.v.01	n/a	5	3
+33.0	1.5	22	television.n.01; living room.n.01	speak.v.01	n/a	5	3
+34.5	1.5	23	television.n.01; living room.n.01	speak.v.01	n/a	5	3
 36.0	1.5	24	television.n.01; living room.n.01; couch.n.01	sleep.v.01; speak.v.01	Hopper	5	3
 37.5	1.5	25	word.n.01; living room.n.01; couch.n.01	sleep.v.01; speak.v.01	Hopper	5	3
 39.0	1.5	26	word.n.01; living room.n.01; couch.n.01	sleep.v.01; speak.v.01	Hopper	5	3
@@ -35,10 +35,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 52.5	1.5	35	living room.n.01; couch.n.01	wake.v.01	Hopper	5	3
 54.0	1.5	36	living room.n.01; couch.n.01	wake.v.01	Hopper	5	3
 55.5	1.5	37	living room.n.01; couch.n.01; watch.n.01	bark.v.04; wake.v.01; sigh.v.01	Hopper	5	3
-57.0	1.5	38	lake.n.01; tree.n.01; word.n.01			5	3
-58.5	1.5	39	lake.n.01; tree.n.01; word.n.01			5	3
-60.0	1.5	40	lake.n.01; tree.n.01; word.n.01			5	3
-61.5	1.5	41	lake.n.01; tree.n.01			5	3
+57.0	1.5	38	lake.n.01; tree.n.01; word.n.01	n/a	n/a	5	3
+58.5	1.5	39	lake.n.01; tree.n.01; word.n.01	n/a	n/a	5	3
+60.0	1.5	40	lake.n.01; tree.n.01; word.n.01	n/a	n/a	5	3
+61.5	1.5	41	lake.n.01; tree.n.01	n/a	n/a	5	3
 63.0	1.5	42	lake.n.01; tree.n.01; cigarette.n.01	walk.v.01; ignite.v.01	Hopper	5	3
 64.5	1.5	43	lake.n.01; tree.n.01; cigarette.n.01	smoke.v.01	Hopper	5	3
 66.0	1.5	44	lake.n.01; tree.n.01; cigarette.n.01	smoke.v.01	Hopper	5	3
@@ -70,12 +70,12 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 105.0	1.5	70	living room.n.01; bottle.n.01; sandwich.n.01	grab.v.02; open.v.01	Hopper	5	3
 106.5	1.5	71	living room.n.01; bottle.n.01; sandwich.n.01; television.n.01	open.v.01	Hopper	5	3
 108.0	1.5	72	living room.n.01; bottle.n.01; sandwich.n.01; television.n.01	exit.v.01	Hopper	5	3
-109.5	1.5	73	living room.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01		5	3
-111.0	1.5	74	living room.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01		5	3
-112.5	1.5	75	tree.n.01			5	3
-114.0	1.5	76	tree.n.01; house.n.01			5	3
-115.5	1.5	77	tree.n.01; house.n.01; car.n.01	speak.v.01		5	3
-117.0	1.5	78	tree.n.01; house.n.01; car.n.01	speak.v.01		5	3
+109.5	1.5	73	living room.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01	n/a	5	3
+111.0	1.5	74	living room.n.01; bottle.n.01; sandwich.n.01; television.n.01	speak.v.01	n/a	5	3
+112.5	1.5	75	tree.n.01	n/a	n/a	5	3
+114.0	1.5	76	tree.n.01; house.n.01	n/a	n/a	5	3
+115.5	1.5	77	tree.n.01; house.n.01; car.n.01	speak.v.01	n/a	5	3
+117.0	1.5	78	tree.n.01; house.n.01; car.n.01	speak.v.01	n/a	5	3
 118.5	1.5	79	house.n.01; kitchen.n.01	speak.v.01; cook.v.01	Jonathan	5	3
 120.0	1.5	80	house.n.01; kitchen.n.01	speak.v.01; cook.v.01	Jonathan; Joyce	5	3
 121.5	1.5	81	house.n.01; kitchen.n.01; living room.n.01; couch.n.01	speak.v.01; cook.v.01	Jonathan; Joyce	5	3

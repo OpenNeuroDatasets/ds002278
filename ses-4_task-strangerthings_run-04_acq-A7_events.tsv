@@ -226,14 +226,14 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 339.0	1.5	226	lab.n.01; gear.n.04; alarm.n.02; light.n.02; goop.n.01; wire.n.01; remnant.n.01	look.v.02; stand.v.01; panic.v.01; pull.v.01	Scientist; Dr. Martin Brennar	3	8
 340.5	1.5	227	lab.n.01; gear.n.04; alarm.n.02; light.n.02; goop.n.01; wire.n.01; remnant.n.01	look.v.02; stand.v.01; panic.v.01; pull.v.01	Scientist; Dr. Martin Brennar	3	8
 342.0	1.5	228	lab.n.01; gear.n.04; alarm.n.02; light.n.02; goop.n.01; wire.n.01; remnant.n.01	look.v.02; stand.v.01; panic.v.01; pull.v.01	Scientist; Dr. Martin Brennar	3	8
-343.5	1.5	229	lab.n.01; goop.n.01			3	8
-345.0	1.5	230	lab.n.01; goop.n.01			3	8
-346.5	1.5	231	lab.n.01; goop.n.01			3	8
-348.0	1.5	232	lab.n.01; goop.n.01			3	8
-349.5	1.5	233	lab.n.01; goop.n.01			3	8
-351.0	1.5	234	lab.n.01; goop.n.01			3	8
-352.5	1.5	235	lab.n.01; goop.n.01			3	8
-354.0	1.5	236	lab.n.01; goop.n.01			3	8
+343.5	1.5	229	lab.n.01; goop.n.01	n/a	n/a	3	8
+345.0	1.5	230	lab.n.01; goop.n.01	n/a	n/a	3	8
+346.5	1.5	231	lab.n.01; goop.n.01	n/a	n/a	3	8
+348.0	1.5	232	lab.n.01; goop.n.01	n/a	n/a	3	8
+349.5	1.5	233	lab.n.01; goop.n.01	n/a	n/a	3	8
+351.0	1.5	234	lab.n.01; goop.n.01	n/a	n/a	3	8
+352.5	1.5	235	lab.n.01; goop.n.01	n/a	n/a	3	8
+354.0	1.5	236	lab.n.01; goop.n.01	n/a	n/a	3	8
 355.5	1.5	237	school.n.01; gymnasium.n.02; assembly.n.04	talk.v.01	Principal; Students; 	5	4
 357.0	1.5	238	school.n.01; gymnasium.n.02; assembly.n.04	talk.v.01	Principal; Students	5	4
 358.5	1.5	239	school.n.01; gymnasium.n.02; assembly.n.04	talk.v.01	Principal; Students	5	4

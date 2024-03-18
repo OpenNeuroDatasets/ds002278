@@ -1,7 +1,7 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	red.n.01; inside.n.01	dip.v.01		5	1
-4.5	1.5	3	red.n.01; soak.n.01; inside.n.01	dip.v.01		5	1
-6.0	1.5	4	red.n.01; soak.n.01; inside.n.01	dip.v.01		5	2
+3.0	1.5	2	red.n.01; inside.n.01	dip.v.01	n/a	5	1
+4.5	1.5	3	red.n.01; soak.n.01; inside.n.01	dip.v.01	n/a	5	1
+6.0	1.5	4	red.n.01; soak.n.01; inside.n.01	dip.v.01	n/a	5	2
 7.5	1.5	5	red.n.01; soak.n.01; inside.n.01; light.n.02	analyze.v.01	Jonathan Byers	5	1
 9.0	1.5	6	red.n.01; soak.n.01; inside.n.01; light.n.02	analyze.v.01	Jonathan Byers	5	1
 10.5	1.5	7	red.n.01; soak.n.01; inside.n.01; transition.n.02; picture.n.01	dip.v.01	Jonathan Byers	5	1
@@ -27,9 +27,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 40.5	1.5	27	red.n.01; inside.n.01; miss.n.01; picture.n.01; disquiet.v.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
 42.0	1.5	28	red.n.01; inside.n.01; miss.n.01; picture.n.01; disquiet.v.02	shift.v.02; analyze.v.01	Jonathan Byers	5	1
 43.5	1.5	29	red.n.01; inside.n.01; miss.n.01; disquiet.v.02; clothespin.n.01; light.v.02	remove.v.01; analyze.v.01	Jonathan Byers	5	1
-45.0	1.5	30	red.n.01; inside.n.01; disquiet.v.02; clothespin.n.01; light.v.02; motion.v.03	swing.v.03		5	2
-46.5	1.5	31	red.n.01; inside.n.01; disquiet.v.02; clothespin.n.01; light.v.02; motion.v.03	swing.v.03		5	2
-48.0	1.5	32	transition.n.02; red.n.01; green.n.01; light.n.02; transformation.n.01			5	1
+45.0	1.5	30	red.n.01; inside.n.01; disquiet.v.02; clothespin.n.01; light.v.02; motion.v.03	swing.v.03	n/a	5	2
+46.5	1.5	31	red.n.01; inside.n.01; disquiet.v.02; clothespin.n.01; light.v.02; motion.v.03	swing.v.03	n/a	5	2
+48.0	1.5	32	transition.n.02; red.n.01; green.n.01; light.n.02; transformation.n.01	n/a	n/a	5	1
 49.5	1.5	33	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01	Joyce Byers	5	1
 51.0	1.5	34	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01	Joyce Byers	5	1
 52.5	1.5	35	inside.n.01; window.n.01; light.n.02	stand up.v.01; lit.v.01; analyze.v.01	Joyce Byers	5	1
@@ -56,9 +56,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 84.0	1.5	56	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01	Joyce Byers	5	1
 85.5	1.5	57	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01; welcome.v.03	Joyce Byers	5	1
 87.0	1.5	58	inside.n.01;  light.n.02; door.n.01; miss.n.01; toddler.n.01	stand up.v.01; lit.v.01; open.v.01; relievev.01; welcome.v.03	Joyce Byers	5	1
-88.5	1.5	59	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	drive.v.01		5	1
-90.0	1.5	60	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02		5	1
-91.5	1.5	61	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02		5	1
+88.5	1.5	59	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	drive.v.01	n/a	5	1
+90.0	1.5	60	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02	n/a	5	1
+91.5	1.5	61	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02	n/a	5	1
 93.0	1.5	62	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; open.v.01	Sheriff Jim Hopper	5	1
 94.5	1.5	63	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; open.v.01	Sheriff Jim Hopper	5	1
 96.0	1.5	64	outside.n.01; vehicle.n.01; police.n.01; building.n.01; tree.n.01	park.v.02; close.v.01	Sheriff Jim Hopper	5	1
@@ -136,9 +136,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 204.0	1.5	136	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
 205.5	1.5	137	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
 207.0	1.5	138	inside.n.01;  light.n.02; table.n.02; computer.n.01; machine.n.01; window.n.01	focus.v.01; sit.v.01	Sheriff Jim Hopper	5	1
-208.5	1.5	139	inside.n.01; timer.n.01			5	1
-210.0	1.5	140	inside.n.01; timer.n.01			5	1
-211.5	1.5	141	inside.n.01; timer.n.01			5	1
+208.5	1.5	139	inside.n.01; timer.n.01	n/a	n/a	5	1
+210.0	1.5	140	inside.n.01; timer.n.01	n/a	n/a	5	1
+211.5	1.5	141	inside.n.01; timer.n.01	n/a	n/a	5	1
 213.0	1.5	142	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
 214.5	1.5	143	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
 216.0	1.5	144	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01	Joyce Byers	5	1
@@ -170,52 +170,52 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 255.0	1.5	170	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01	Joyce Byers	5	1
 256.5	1.5	171	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; sit.v.01; console.v.01; illuminate.v.01; intrigue.v.01; get up.v.01	Joyce Byers	5	1
 258.0	1.5	172	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	tick.v.01; console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	Joyce Byers	5	1
-259.5	1.5	173	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-261.0	1.5	174	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-262.5	1.5	175	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-264.0	1.5	176	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-265.5	1.5	177	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-267.0	1.5	178	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-268.5	1.5	179	inside.n.01; hallway.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01		5	1
-270.0	1.5	180	inside.n.01; hallway.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-271.5	1.5	181	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-273.0	1.5	182	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-274.5	1.5	183	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-276.0	1.5	184	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-277.5	1.5	185	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-279.0	1.5	186	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-280.5	1.5	187	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01		5	1
-282.0	1.5	188	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01; flicker.v.02		5	1
-283.5	1.5	189	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
-285.0	1.5	190	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
-286.5	1.5	191	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
-288.0	1.5	192	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02		5	1
-289.5	1.5	193	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02		5	1
-291.0	1.5	194	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02		5	1
-292.5	1.5	195	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02		5	1
-294.0	1.5	196	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01		5	1
-295.5	1.5	197	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; turn around.v.01		5	1
-297.0	1.5	198	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; turn around.v.01		5	1
-298.5	1.5	199	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01		5	1
-300.0	1.5	200	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01		5	1
-301.5	1.5	201	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01		5	1
-303.0	1.5	202	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01		5	1
-304.5	1.5	203	inside.n.01; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01		4	3
-306.0	1.5	204	inside.n.01; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01		4	3
-307.5	1.5	205	inside.n.01; timer.n.01	tick.v.01		5	1
+259.5	1.5	173	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+261.0	1.5	174	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+262.5	1.5	175	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+264.0	1.5	176	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+265.5	1.5	177	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+267.0	1.5	178	inside.n.01; hallway.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01; toddler.n.01; box.n.03	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+268.5	1.5	179	inside.n.01; hallway.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01	n/a	5	1
+270.0	1.5	180	inside.n.01; hallway.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01	console.v.01; illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+271.5	1.5	181	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+273.0	1.5	182	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+274.5	1.5	183	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+276.0	1.5	184	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+277.5	1.5	185	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+279.0	1.5	186	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+280.5	1.5	187	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01	n/a	5	1
+282.0	1.5	188	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; walk.v.01; push.v.01; flicker.v.02	n/a	5	1
+283.5	1.5	189	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02	n/a	5	1
+285.0	1.5	190	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02	n/a	5	1
+286.5	1.5	191	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02	n/a	5	1
+288.0	1.5	192	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; turn around.v.01; flicker.v.02	n/a	5	1
+289.5	1.5	193	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02	n/a	5	1
+291.0	1.5	194	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02	n/a	5	1
+292.5	1.5	195	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	illuminate.v.01; intrigue.v.01; observe.v.01; flicker.v.02	n/a	5	1
+294.0	1.5	196	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01	n/a	5	1
+295.5	1.5	197	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; turn around.v.01	n/a	5	1
+297.0	1.5	198	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; turn around.v.01	n/a	5	1
+298.5	1.5	199	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01	n/a	5	1
+300.0	1.5	200	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01	n/a	5	1
+301.5	1.5	201	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01	n/a	5	1
+303.0	1.5	202	inside.n.01; light.n.02; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01; lamp.n.02	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01	n/a	5	1
+304.5	1.5	203	inside.n.01; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01	n/a	4	3
+306.0	1.5	204	inside.n.01; daytime.n.01; toddler.n.01; door.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; shut off.v.01; walk.v.01; stare.v.01	n/a	4	3
+307.5	1.5	205	inside.n.01; timer.n.01	tick.v.01	n/a	5	1
 309.0	1.5	206	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01	Joyce Byers	5	1
 310.5	1.5	207	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01	Joyce Byers	5	1
 312.0	1.5	208	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01	Joyce Byers	5	1
 313.5	1.5	209	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01	Joyce Byers	5	1
 315.0	1.5	210	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01; wonder.v.01	Joyce Byers	5	1
 316.5	1.5	211	inside.n.01; kitchen.n.01; table.n.02; chair.n.01; window.n.01; light.n.02; daytime.n.01	tick.v.01; sit.v.01; console.v.01; get up.v.01; worry.v.01; wonder.v.01	Joyce Byers	5	1
-318.0	1.5	212	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
-319.5	1.5	213	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
-321.0	1.5	214	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
-322.5	1.5	215	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	intrigue.v.01; observe.v.01; stare.v.01		4	3
-324.0	1.5	216	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	frighten.v.01; observe.v.01; stare.v.01		4	3
-325.5	1.5	217	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	frighten.v.01; observe.v.01; stare.v.01		3	5
-327.0	1.5	218	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01; wall.n.01	frighten.v.01; observe.v.01; stare.v.01; deform.v.01		3	5
+318.0	1.5	212	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; stare.v.01	n/a	4	3
+319.5	1.5	213	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01	intrigue.v.01; observe.v.01; stare.v.01	n/a	4	3
+321.0	1.5	214	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	intrigue.v.01; observe.v.01; stare.v.01	n/a	4	3
+322.5	1.5	215	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	intrigue.v.01; observe.v.01; stare.v.01	n/a	4	3
+324.0	1.5	216	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	frighten.v.01; observe.v.01; stare.v.01	n/a	4	3
+325.5	1.5	217	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01	frighten.v.01; observe.v.01; stare.v.01	n/a	3	5
+327.0	1.5	218	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; window.n.01; wall.n.01	frighten.v.01; observe.v.01; stare.v.01; deform.v.01	n/a	3	5
 328.5	1.5	219	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; observe.v.01; stare.v.01; grab.v.03; yell.v.01	Joyce Byers	5	1
 330.0	1.5	220	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; observe.v.01; stare.v.01; grab.v.03; yell.v.01	Joyce Byers	5	1
 331.5	1.5	221	inside.n.01; daytime.n.01; toddler.n.01; bedroom.n.01; light.n.02	frighten.v.01; grab.v.03; yell.v.01; apologize.v.01	Joyce Byers	5	1
@@ -237,15 +237,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 355.5	1.5	237	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 357.0	1.5	238	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 358.5	1.5	239	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
-360.0	1.5	240	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02	answer.v.02; chop.v.01		5	1
+360.0	1.5	240	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02	answer.v.02; chop.v.01	n/a	5	1
 361.5	1.5	241	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 363.0	1.5	242	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 364.5	1.5	243	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 366.0	1.5	244	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 367.5	1.5	245	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 369.0	1.5	246	outside.n.01; school bus.n.01; bench.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; walk.v.01; sit.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
-370.5	1.5	247	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02; lamp.n.02	answer.v.02; chop.v.01; worry.v.01		5	1
-372.0	1.5	248	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02; lamp.n.02	answer.v.02; chop.v.01; worry.v.01		5	1
+370.5	1.5	247	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02; lamp.n.02	answer.v.02; chop.v.01; worry.v.01	n/a	5	1
+372.0	1.5	248	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01; knife.n.02; lamp.n.02	answer.v.02; chop.v.01; worry.v.01	n/a	5	1
 373.5	1.5	249	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01	Nancy Wheeler	5	1
 375.0	1.5	250	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02	Nancy Wheeler	5	1
 376.5	1.5	251	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
@@ -253,20 +253,20 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 379.5	1.5	253	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
 381.0	1.5	254	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; clarify.v.01	Nancy Wheeler	5	1
 382.5	1.5	255	outside.n.01; telephone.n.01; book.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; clarify.v.01	Nancy Wheeler	5	1
-384.0	1.5	256	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02		5	1
-385.5	1.5	257	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02		5	1
+384.0	1.5	256	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02	n/a	5	1
+385.5	1.5	257	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02	n/a	5	1
 387.0	1.5	258	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
 388.5	1.5	259	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
 390.0	1.5	260	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; clarify.v.01	Nancy Wheeler	5	1
-391.5	1.5	261	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01		5	1
-393.0	1.5	262	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01		5	1
-394.5	1.5	263	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01		5	1
+391.5	1.5	261	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01	n/a	5	1
+393.0	1.5	262	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01	n/a	5	1
+394.5	1.5	263	inside.n.01; telephone.n.01; kitchen.n.01; pot.n.01; daytime.n.01	answer.v.02; stand.v.02; worry.v.01	n/a	5	1
 396.0	1.5	264	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; clarify.v.01	Nancy Wheeler	5	1
 397.5	1.5	265	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
 399.0	1.5	266	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; answer.v.02; walk.v.01; apologize.v.01	Nancy Wheeler	5	1
 400.5	1.5	267	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; walk.v.01; hang up.v.01; sit.v.01	Nancy Wheeler	5	1
 402.0	1.5	268	outside.n.01; telephone.n.01; call.n.01; daytime.n.01	worry.v.01; stand.v.02; walk.v.01; sit.v.01	Nancy Wheeler	5	1
-403.5	1.5	269	outside.n.01; bell.n.01; automobile.n.01; daytime.n.01	walk.v.01; drive.v.01		5	1
+403.5	1.5	269	outside.n.01; bell.n.01; automobile.n.01; daytime.n.01	walk.v.01; drive.v.01	n/a	5	1
 405.0	1.5	270	outside.n.01; bell.n.01; automobile.n.01; daytime.n.01	walk.v.01; drive.v.01	Jonathan Byers	5	1
 406.5	1.5	271	outside.n.01; automobile.n.01; daytime.n.01	walk.v.01; bike.v.01; stare.v.01	Jonathan Byers	5	1
 408.0	1.5	272	outside.n.01; automobile.n.01; daytime.n.01	walk.v.01; bike.v.01; recognize.v.03	Jonathan Byers	5	1

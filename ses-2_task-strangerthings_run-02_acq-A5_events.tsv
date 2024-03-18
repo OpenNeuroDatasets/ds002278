@@ -1,5 +1,5 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	toaster.n.02 , waffle.n.01 , jacket.n.01 , hand.n.01 , plate.n.04, person.n.02	appear.v.02 , pop.v.13 , reach out.v.01		5	3
+3.0	1.5	2	toaster.n.02 , waffle.n.01 , jacket.n.01 , hand.n.01 , plate.n.04, person.n.02	appear.v.02 , pop.v.13 , reach out.v.01	n/a	5	3
 4.5	1.5	3	toaster.n.02 , waffle.n.01 , jacket.n.01 ,  boy.n.01, home.n.01 ,  	appear.v.02 , pop.v.13 , reach out.v.01, sneak.v.02	Mike Wheeler	5	3
 6.0	1.5	4	toaster.n.02 , waffle.n.01 , jacket.n.01 ,  boy.n.01, home.n.01 ,  	 sneak.v.03 , hide.v.01	Mike Wheeler	5	3
 7.5	1.5	5	toaster.n.02 , waffle.n.01 , jacket.n.01 ,  boy.n.01, home.n.01 ,  	 reach out.v.01, place.v.01	Mike Wheeler	5	3
@@ -23,7 +23,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 34.5	1.5	23	 radio.n.01 , quilt.n.01 , sleepwear.n.01 , static.n.01	ring.v.02 , grip.v.01 , switch on.v.01	Eleven	6	5
 36.0	1.5	24	 radio.n.01 , quilt.n.01 , sleepwear.n.01 , static.n.01	grip.v.01 , switch on.v.01	Eleven	5	5
 37.5	1.5	25	 radio.n.01 , quilt.n.01 , sleepwear.n.01 , static.n.01	look out.v.01 , worry.v.01	Eleven	4	5
-39.0	1.5	26	jacket.n.01, quilt.n.01, person.n.01 , dimness.n.01	lift.v.02		5	5
+39.0	1.5	26	jacket.n.01, quilt.n.01, person.n.01 , dimness.n.01	lift.v.02	n/a	5	5
 40.5	1.5	27	jacket.n.01, quilt.n.01, boy.n.01 , dimness.n.01	lift.v.02 , worry.v.01	Mike Wheeler	5	4
 42.0	1.5	28	quilt.n.01 , boy.n.01 , dimness.n.01	greet.v.01	Mike Wheeler	5	4
 43.5	1.5	29	quilt.n.01 , boy.n.01 , dimness.n.01 , girl.n.01 , leg.n.03	excite.v.01	Mike Wheeler, Eleven	6	6
@@ -111,19 +111,19 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 166.5	1.5	111	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01, suspense.n.01	listen.v.01, fear.v.01, concern.v.02, warn.v.01, react.v.01	Dr.Martin Brenner	3	8
 168.0	1.5	112	 headphone.n.01, loudspeaker.n.01, room.n.02, heartbeat.n.01, suspense.n.01	listen.v.01, fear.v.01, concern.v.02, react.v.01, beg.v.02	Dr.Martin Brenner	3	7
 169.5	1.5	113	 headphone.n.01, loudspeaker.n.01, room.n.02, suspense.n.01, recording.n.01	listen.v.01, fear.v.01, concern.v.02, react.v.01, beg.v.02	Dr.Martin Brenner	3	7
-171.0	1.5	114	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01	shout.v.01, call out.v.02, search.v.02		4	6
-172.5	1.5	115	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
-174.0	1.5	116	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
-175.5	1.5	117	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
-177.0	1.5	118	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02		4	6
-178.5	1.5	119	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02		4	6
-180.0	1.5	120	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02		4	6
-181.5	1.5	121	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02		4	6
-183.0	1.5	122	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01		4	6
-184.5	1.5	123	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01, bark.v.05		4	6
-186.0	1.5	124	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01, bark.v.05		4	6
-187.5	1.5	125	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02,  bark.v.05, answer.v.01		4	6
-189.0	1.5	126	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	 ask.v.01, bark.v.05, concern.v.02		5	4
+171.0	1.5	114	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01	shout.v.01, call out.v.02, search.v.02	n/a	4	6
+172.5	1.5	115	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02	n/a	4	6
+174.0	1.5	116	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02	n/a	4	6
+175.5	1.5	117	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02	n/a	4	6
+177.0	1.5	118	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01, bark.v.05, call out.v.02, search.v.02	n/a	4	6
+178.5	1.5	119	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02	n/a	4	6
+180.0	1.5	120	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02	n/a	4	6
+181.5	1.5	121	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01	shout.v.01,  call out.v.02, search.v.02	n/a	4	6
+183.0	1.5	122	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01	n/a	4	6
+184.5	1.5	123	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01, bark.v.05	n/a	4	6
+186.0	1.5	124	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02, ask.v.01, bark.v.05	n/a	4	6
+187.5	1.5	125	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	shout.v.01,  call out.v.02,  bark.v.05, answer.v.01	n/a	4	6
+189.0	1.5	126	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01	 ask.v.01, bark.v.05, concern.v.02	n/a	5	4
 190.5	1.5	127	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01, sheriff.n.01, hat.n.01	walk.v.01, search.v.02, wave.v.02, instruct.v.02	Sheriff Jim Hopper	5	4
 192.0	1.5	128	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, crowd.n.01, tree.n.01, dog.n.01, police.n.01, sheriff.n.01, hat.n.01	walk.v.01, search.v.02, wave.v.02, instruct.v.02	Sheriff Jim Hopper	5	4
 193.5	1.5	129	leaf.n.01, fall.n.01, daytime.n.01, trunk.n.01, tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,  dog.n.01,	converse.v.01, search.v.02,	Sheriff Jim Hopper	5	4
@@ -133,24 +133,24 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 199.5	1.5	133	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01	stare.v.01, walk off.v.02, instruct.v.02, shout.v.01	Sheriff Jim Hopper	5	4
 201.0	1.5	134	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01, crowd.n.01	instruct.v.02, shout.v.01, walk off.v.02	Sheriff Jim Hopper	5	3
 202.5	1.5	135	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, woods.n.01, crowd.n.01	instruct.v.02, walk off.v.02, stare.v.01	Sheriff Jim Hopper	5	3
-204.0	1.5	136	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01, crowd.n.01	instruct.v.02, shout.v.01, walk off.v.02		5	3
-205.5	1.5	137	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	ask.v.02, wonder.v.01, gossip.v.02		4	3
-207.0	1.5	138	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	ask.v.02, wonder.v.01, gossip.v.02		4	3
-208.5	1.5	139	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	disapprove.v.01, walk away.v.01		4	3
-210.0	1.5	140	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	disapprove.v.01, walk away.v.01, shout.v.01, call out.v.02		5	3
-211.5	1.5	141	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	follow up.v.01, ask.v.02		5	3
-213.0	1.5	142	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	call out.v.02		5	3
-214.5	1.5	143	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	shout.v.01, call out.v.02, search.v.02		5	3
-216.0	1.5	144	 daytime.n.01,  tree.n.01,  woods.n.01, school.n.01, student.n.01, school bus.n.01,	converse.v.01, drive.v.01, walk.v.01		5	3
-217.5	1.5	145	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01	converse.v.01, drive.v.01, walk.v.01		5	3
-219.0	1.5	146	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01	converse.v.01, drive.v.01, walk.v.01		5	3
-220.5	1.5	147	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01	converse.v.01, drive.v.01, walk.v.01, skateboard.v.01		5	3
-222.0	1.5	148	 daytime.n.01,  tree.n.01, school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01, 	converse.v.01, walk.v.01, skateboard.v.01		5	3
+204.0	1.5	136	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01, sheriff.n.01, hat.n.01, badge.n.02, radio.n.01,   woods.n.01, crowd.n.01	instruct.v.02, shout.v.01, walk off.v.02	n/a	5	3
+205.5	1.5	137	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	ask.v.02, wonder.v.01, gossip.v.02	n/a	4	3
+207.0	1.5	138	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	ask.v.02, wonder.v.01, gossip.v.02	n/a	4	3
+208.5	1.5	139	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	disapprove.v.01, walk away.v.01	n/a	4	3
+210.0	1.5	140	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	disapprove.v.01, walk away.v.01, shout.v.01, call out.v.02	n/a	5	3
+211.5	1.5	141	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	follow up.v.01, ask.v.02	n/a	5	3
+213.0	1.5	142	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	call out.v.02	n/a	5	3
+214.5	1.5	143	leaf.n.01, fall.n.01, daytime.n.01,  tree.n.01, , police.n.01,  hat.n.01, badge.n.02, radio.n.01,   woods.n.01, 	shout.v.01, call out.v.02, search.v.02	n/a	5	3
+216.0	1.5	144	 daytime.n.01,  tree.n.01,  woods.n.01, school.n.01, student.n.01, school bus.n.01,	converse.v.01, drive.v.01, walk.v.01	n/a	5	3
+217.5	1.5	145	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01	converse.v.01, drive.v.01, walk.v.01	n/a	5	3
+219.0	1.5	146	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01	converse.v.01, drive.v.01, walk.v.01	n/a	5	3
+220.5	1.5	147	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01	converse.v.01, drive.v.01, walk.v.01, skateboard.v.01	n/a	5	3
+222.0	1.5	148	 daytime.n.01,  tree.n.01, school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01, 	converse.v.01, walk.v.01, skateboard.v.01	n/a	5	3
 223.5	1.5	149	 daytime.n.01,  tree.n.01,  school.n.01, student.n.01, school bus.n.01, grass.n.01, sidewalk.n.01, skateboard.n.01, hallway.n.01, vending machine.n.01, bulletin board.n.01, light.n.02	converse.v.01,  walk.v.01, skateboard.v.01	Nancy Wheeler , 	5	3
 225.0	1.5	150	school.n.01, student.n.01, hallway.n.01, vending machine.n.01, bulletin board.n.01, light.n.02	converse.v.01, walk.v.01	Nancy Wheeler , 	5	3
 226.5	1.5	151	school.n.01, student.n.01, hallway.n.01, vending machine.n.01, bulletin board.n.01, light.n.02, book.n.02	converse.v.01, walk.v.01, study.v.05	Nancy Wheeler , 	5	3
 228.0	1.5	152	school.n.01, student.n.01, hallway.n.01,light.n.02, book.n.03, vending machine.n.01, bulletin board.n.01,	converse.v.01, walk.v.01, study.v.06, snatch.v.01	Nancy Wheeler , 	4	4
-229.5	1.5	153	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, exclaim.v.01, flick.v.08, annoy.v.01		4	6
+229.5	1.5	153	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, exclaim.v.01, flick.v.08, annoy.v.01	n/a	4	6
 231.0	1.5	154	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, annoy.v.01, remark.v.01	Steve Harrington	4	6
 232.5	1.5	155	school.n.01, student.n.01, hallway.n.01, light.n.02, book.n.03, locker.n.01	 walk.v.01, annoy.v.01, remark.v.01	Steve Harrington	4	6
 234.0	1.5	156	school.n.01, student.n.01, hallway.n.01,  book.n.03, locker.n.01	annoy.v.01, remark.v.01, assure.v.02	Steve Harrington, Nancy Wheeler	4	6
@@ -177,8 +177,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 265.5	1.5	177	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02, daytime.n.01, bulletin board.n.01	  notice.v.02,  stare.v.01, comment.v.01, stick.v.01	Nancy Wheeler, Steve Harrington, Johnathan Byers	3	5
 267.0	1.5	178	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02, daytime.n.01, bulletin board.n.01	  notice.v.02,  stare.v.01,  stick.v.01	Nancy Wheeler, Steve Harrington, Johnathan Byers	3	5
 268.5	1.5	179	school.n.01, student.n.01, hallway.n.01,   locker.n.02, light.n.02, daytime.n.01, bulletin board.n.01	  notice.v.02,  stare.v.01,  stick.v.01, concern.v.02	Nancy Wheeler, Steve Harrington, Jonathan Byers	3	5
-270.0	1.5	180	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01		3	6
-271.5	1.5	181	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01		3	6
+270.0	1.5	180	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01	n/a	3	6
+271.5	1.5	181	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01	n/a	3	6
 273.0	1.5	182	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01, push.v.01, mock.v.01, dissapprove.v.02	Steve Harrington	2	7
 274.5	1.5	183	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	comment.v.01, reply.v.01, dislike.v.01, push.v.01, mock.v.01, dissapprove.v.02	Steve Harrington, Nancy Wheeler	2	7
 276.0	1.5	184	school.n.01, student.n.01, hallway.n.01,   light.n.02, daytime.n.01,	 dissapprove.v.02, concern.v.02	Steve Harrington, Nancy Wheeler	3	6
@@ -221,11 +221,11 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 331.5	1.5	221	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01, open.v.01, leave.v.01	Jonathan Byers	4	5
 333.0	1.5	222	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01, open.v.01, leave.v.01	Jonathan Byers	4	5
 334.5	1.5	223	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01, walk away.v.01, leave.v.01, close.v.02	Jonathan Byers	4	5
-336.0	1.5	224	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,  close.v.02		5	3
-337.5	1.5	225	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,  close.v.02		5	3
-339.0	1.5	226	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	  close.v.02		5	3
-340.5	1.5	227	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01, desk.n.01, chair.n.01, book.n.02, arm.n.01	close.v.02, slam.v.02		5	6
-342.0	1.5	228	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01	slam.v.02, remove.v.01, sit.v.01		5	4
+336.0	1.5	224	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,  close.v.02	n/a	5	3
+337.5	1.5	225	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	announce.v.01,  close.v.02	n/a	5	3
+339.0	1.5	226	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01	  close.v.02	n/a	5	3
+340.5	1.5	227	daytime.n.01, poster.n.01, Bulletin board.n.01,  hallway.n.01,   light.n.02, car.n.01, school bus.n.01, window.n.01, door.n.01, vent.n.01, desk.n.01, chair.n.01, book.n.02, arm.n.01	close.v.02, slam.v.02	n/a	5	6
+342.0	1.5	228	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01	slam.v.02, remove.v.01, sit.v.01	n/a	5	4
 343.5	1.5	229	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	remove.v.01, sit.v.01	Lucas Sinclair, Dustin Henderson	5	4
 345.0	1.5	230	desk.n.01, chair.n.01, book.n.02, arm.n.01, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	look.v.01 , comment.v.01	Lucas Sinclair, Dustin Henderson	5	4
 346.5	1.5	231	desk.n.01, chair.n.01, book.n.02, book bag.n.01, watch.n.01, classroom.n.01, student.n.01, teacher.n.01, window.n.01	look.v.01 , comment.v.01, remove.v.01	Lucas Sinclair, Dustin Henderson	5	4

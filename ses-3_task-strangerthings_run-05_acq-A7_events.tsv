@@ -131,7 +131,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 196.5	1.5	131	lab.n.01; flashback.n.01; hallway.n.01	stand.v.01; look.v.01; cry.v.02; carry.v.06; walk.v.01	Eleven; Dr.Brenner	3	4
 198.0	1.5	132	lab.n.01; flashback.n.01; hallway.n.01	stand.v.01; look.v.01; cry.v.02; carry.v.06; walk.v.01	Eleven; Dr.Brenner	3	4
 199.5	1.5	133	lab.n.01; flashback.n.01; hallway.n.01	stand.v.01; look.v.01; cry.v.02; carry.v.06; walk.v.01	Eleven; Dr.Brenner	3	4
-201.0	1.5	134	sky.n.01; forest.n.02			5	4
+201.0	1.5	134	sky.n.01; forest.n.02	n/a	n/a	5	4
 202.5	1.5	135	forest.n.01; house.n.01	look.v.01; stand.01	Eleven	5	4
 204.0	1.5	136	forest.n.01; house.n.01	look.v.01; stand.01; call.v.04	Eleven; Mike Wheeler	5	4
 205.5	1.5	137	forest.n.01; house.n.01; bike.n.02	look.v.01; stand.01; call.v.04; turn.v.01; push.v.01; walk.v.01	Eleven; Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	4
@@ -227,9 +227,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 340.5	1.5	227	forest.n.01; car.n.01	look.v.01; examine.v.02; call.v.04	Nancy Wheeler 	5	4
 342.0	1.5	228	forest.n.01; car.n.01	look.v.01; examine.v.02; call.v.04	Nancy Wheeler 	5	4
 343.5	1.5	229	forest.n.01; car.n.01	look.v.01; examine.v.02; call.v.04	Nancy Wheeler 	5	4
-345.0	1.5	230	pool.n.01			5	4
-346.5	1.5	231	pool.n.01			5	4
-348.0	1.5	232	pool.n.01; house.n.01; gate.n.01			5	4
+345.0	1.5	230	pool.n.01	n/a	n/a	5	4
+346.5	1.5	231	pool.n.01	n/a	n/a	5	4
+348.0	1.5	232	pool.n.01; house.n.01; gate.n.01	n/a	n/a	5	4
 349.5	1.5	233	pool.n.01; house.n.01; gate.n.01	open.v.01; walk.v.01; look.v.01	Nancy Wheeler 	5	4
 351.0	1.5	234	pool.n.01; house.n.01; gate.n.01	open.v.01; walk.v.01; look.v.01	Nancy Wheeler 	5	4
 352.5	1.5	235	pool.n.01; house.n.01; gate.n.01	close.v.01; walk.v.01; look.v.01	Nancy Wheeler 	5	4

@@ -98,8 +98,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 147.0	1.5	98	office.n.01	speak.v.01	officer Jim Hopper	5	3
 148.5	1.5	99	office.n.01	stare.v.01; nod.v.01	Mike Wheeler; Lucas Sinclair ; Dustin Henderson; officer Jim Hopper	5	3
 150.0	1.5	100	office.n.01	speak.v.01	Mike Wheeler; Lucas Sinclair ; Dustin Henderson	5	3
-151.5	1.5	101	forest.n.01; tree.n.01			5	3
-153.0	1.5	102	forest.n.01; tree.n.01; flag.n.01			5	3
+151.5	1.5	101	forest.n.01; tree.n.01	n/a	n/a	5	3
+153.0	1.5	102	forest.n.01; tree.n.01; flag.n.01	n/a	n/a	5	3
 154.5	1.5	103	forest.n.01; tree.n.01; flag.n.01	walk.v.01	Joyce Byers	5	3
 156.0	1.5	104	forest.n.01; tree.n.01; flag.n.01	walk.v.01	Joyce Byers	5	3
 157.5	1.5	105	forest.n.01; tree.n.01; flag.n.01	walk.v.01	Joyce Byers	5	3
@@ -136,7 +136,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 204.0	1.5	136	room.n.01	speak.v.01	Joyce Byers; Will Byers	5	3
 205.5	1.5	137	room.n.01	speak.v.01	Joyce Byers; Will Byers	5	3
 207.0	1.5	138	room.n.01	speak.v.01	Joyce Byers; Will Byers	5	3
-208.5	1.5	139	room.n.01		Joyce Byers; Will Byers	5	3
+208.5	1.5	139	room.n.01	n/a	Joyce Byers; Will Byers	5	3
 210.0	1.5	140	room.n.01	sigh.v.01	Joyce Byers	5	3
 211.5	1.5	141	room.n.01	sigh.v.01	Joyce Byers	5	3
 213.0	1.5	142	forest.n.01; tree.n.01	speak.v.01	Joyce Byers; Jonathan Byers	5	3
@@ -150,7 +150,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 225.0	1.5	150	forest.n.01; tree.n.01	speak.v.01; walk.v.01	Joyce Byers; Jonathan Byers	5	3
 226.5	1.5	151	forest.n.01; tree.n.01	speak.v.01; walk.v.01	Joyce Byers; Jonathan Byers	5	3
 228.0	1.5	152	forest.n.01; tree.n.01	speak.v.01; walk.v.01	Joyce Byers; Jonathan Byers	5	3
-229.5	1.5	153	grill.n.01; burger.n.01	sizzle.v.01		5	3
+229.5	1.5	153	grill.n.01; burger.n.01	sizzle.v.01	n/a	5	3
 231.0	1.5	154	grill.n.01; burger.n.01	sizzle.v.01	Benny Hammond	5	3
 232.5	1.5	155	grill.n.01; burger.n.01	sizzle.v.01	Benny Hammond	5	3
 234.0	1.5	156	grill.n.01; burger.n.01	sizzle.v.01	Benny Hammond	5	3
@@ -250,9 +250,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 375.0	1.5	250	restaurant.n.01	stare.v.01; eat.v.01	Eleven	5	3
 376.5	1.5	251	restaurant.n.01	eat.v.01	Eleven	5	3
 378.0	1.5	252	restaurant.n.01; street.n.02; car.n.01	eat.v.01; drive.v.01	Eleven	5	3
-379.5	1.5	253	street.n.02; car.n.01	drive.v.01		5	3
-381.0	1.5	254	street.n.02; car.n.01	drive.v.01		5	3
-382.5	1.5	255	forest.n.01; tree.n.01			5	3
+379.5	1.5	253	street.n.02; car.n.01	drive.v.01	n/a	5	3
+381.0	1.5	254	street.n.02; car.n.01	drive.v.01	n/a	5	3
+382.5	1.5	255	forest.n.01; tree.n.01	n/a	n/a	5	3
 384.0	1.5	256	forest.n.01; tree.n.01	speak.v.01	officer Jim Hopper; officer Phil Callahan; officer Calvin Powell	5	3
 385.5	1.5	257	forest.n.01; tree.n.01; car.n.01	speak.v.01	officer Jim Hopper; officer Phil Callahan; officer Calvin Powell	5	3
 387.0	1.5	258	forest.n.01; tree.n.01; car.n.01	walk.v.01	officer Jim Hopper; officer Phil Callahan; officer Calvin Powell	5	3

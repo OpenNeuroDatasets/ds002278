@@ -1,0 +1,17 @@
+onset	duration	trial_type	response_time	tap_count	tap_duration	stim_file
+6.02	14.0	motor	1.7	62	12.37	n/a
+34.02	14.01	motor/auditory	0.9	49	13.2	audio/Ambush_in_Rattlesnake_Gulch.wav
+62.04	14.08	visual	n/a	0	n/a	n/a
+90.12	14.18	visual/auditory	n/a	0	n/a	audio/Bleu.wav
+118.3	14.01	motor/auditory	0.75	65	13.62	audio/Cumbish.wav
+146.34	14.08	visual/auditory	n/a	0	n/a	audio/Le_Baguette.wav
+174.42	14.01	motor	0.75	68	13.03	n/a
+202.44	14.18	visual	n/a	0	n/a	n/a
+230.62	14.11	visual/auditory	n/a	0	n/a	audio/Bollywood_Groove.wav
+258.74	14.01	motor/auditory	0.88	57	13.52	audio/Ukulele_Song.wav
+286.76	14.06	visual	n/a	0	n/a	n/a
+314.82	14.01	motor	0.9	68	13.45	n/a
+342.84	14.01	motor/auditory	0.86	78	13.42	audio/Ambush_in_Rattlesnake_Gulch.wav
+370.86	14.01	motor	0.8	63	14.65	n/a
+398.88	14.05	visual	n/a	0	n/a	n/a
+426.93	14.15	visual/auditory	n/a	0	n/a	audio/Funshine.wav

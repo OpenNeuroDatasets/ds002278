@@ -1,0 +1,4 @@
+onset	duration	trial_type	stim_file
+0.00	3.00	fixation	n/a
+3.00	499.50	fixation	stranger_things/S01E04/S01E04R04.mkv
+502.50	4.50	fixation	n/a

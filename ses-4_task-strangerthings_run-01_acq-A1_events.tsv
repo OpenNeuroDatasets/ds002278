@@ -1,20 +1,20 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	sky.n.01; star.n.01	n/a	n/a	4	3
-4.5	1.5	3	sky.n.01; star.n.01	n/a	n/a	4	3
-6.0	1.5	4	sky.n.01; star.n.01; nature.n.03	chirp.v.01	n/a	4	3
-7.5	1.5	5	sky.n.01; star.n.01; nature.n.03	chirp.v.01	n/a	4	3
-9.0	1.5	6	sky.n.01; star.n.01; tree.n.01	chirp.v.01	n/a	4	3
-10.5	1.5	7	sky.n.01; star.n.01; tree.n.01	chirp.v.01	n/a	4	3
-12.0	1.5	8	sky.n.01; star.n.01; tree.n.01; police.n.01	chirp.v.01	n/a	4	3
+3.0	1.5	2	sky.n.01; star.n.01			4	3
+4.5	1.5	3	sky.n.01; star.n.01			4	3
+6.0	1.5	4	sky.n.01; star.n.01; nature.n.03	chirp.v.01		4	3
+7.5	1.5	5	sky.n.01; star.n.01; nature.n.03	chirp.v.01		4	3
+9.0	1.5	6	sky.n.01; star.n.01; tree.n.01	chirp.v.01		4	3
+10.5	1.5	7	sky.n.01; star.n.01; tree.n.01	chirp.v.01		4	3
+12.0	1.5	8	sky.n.01; star.n.01; tree.n.01; police.n.01	chirp.v.01		4	3
 13.5	1.5	9	house.n.01; tree.n.01; police.n.01	talk.v.01	n/a 	4	3
 15.0	1.5	10	house.n.01; tree.n.01; police.n.01	talk.v.01	n/a 	4	3
-16.5	1.5	11	house.n.01; tree.n.01; police.n.01; flashlight.n.01	talk.v.01; search.v.01	n/a	4	3
-18.0	1.5	12	house.n.01; police.n.01; flashlight.n.01	search.v.01	n/a	4	3
-19.5	1.5	13	house.n.01; police.n.01; flashlight.n.01	search.v.01	n/a	4	4
-21.0	1.5	14	house.n.01; police.n.01; flashlight.n.01	search.v.01	n/a	4	4
-22.5	1.5	15	house.n.01; police.n.01; flashlight.n.01	search.v.01	n/a	4	4
-24.0	1.5	16	house.n.01; police.n.01; flashlight.n.01	search.v.01	n/a	4	4
-25.5	1.5	17	house.n.01; police.n.01; flashlight.n.01	search.v.01	n/a	4	4
+16.5	1.5	11	house.n.01; tree.n.01; police.n.01; flashlight.n.01	talk.v.01; search.v.01		4	3
+18.0	1.5	12	house.n.01; police.n.01; flashlight.n.01	search.v.01		4	3
+19.5	1.5	13	house.n.01; police.n.01; flashlight.n.01	search.v.01		4	4
+21.0	1.5	14	house.n.01; police.n.01; flashlight.n.01	search.v.01		4	4
+22.5	1.5	15	house.n.01; police.n.01; flashlight.n.01	search.v.01		4	4
+24.0	1.5	16	house.n.01; police.n.01; flashlight.n.01	search.v.01		4	4
+25.5	1.5	17	house.n.01; police.n.01; flashlight.n.01	search.v.01		4	4
 27.0	1.5	18	house.n.01; police.n.01; flashlight.n.01	search.v.01	Jim hopper	4	4
 28.5	1.5	19	house.n.01; police.n.01; flashlight.n.01	search.v.01	Jim hopper	4	4
 30.0	1.5	20	house.n.01; police.n.01; flashlight.n.01	search.v.01	Jim hopper	4	4
@@ -239,7 +239,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 358.5	1.5	239	television.n.01; newsman.n.01; time.n.02; distress.n.01	report.v.05; discover.v.02; watch.v.01	Ted wheeler, karen wheeler	4	4
 360.0	1.5	240	television.n.01; newsman.n.01; time.n.02; distress.n.01	report.v.05; discover.v.02; watch.v.01	Ted wheeler, karen wheeler	4	4
 361.5	1.5	241	television.n.01; newsman.n.01; distress.n.01; drawing.n.01	report.v.05; watch.v.01	Ted wheeler, karen wheeler	4	4
-363.0	1.5	242	drawing.n.01	look.v.01	n/a	4	3
+363.0	1.5	242	drawing.n.01	look.v.01		4	3
 364.5	1.5	243	drawing.n.01; sofa.n.01	look.v.01	Mike wheeler	4	3
 366.0	1.5	244	drawing.n.01; sofa.n.01	look.v.01	Mike wheeler	4	3
 367.5	1.5	245	drawing.n.01; sofa.n.01	look.v.01	Mike wheeler	4	3

@@ -55,28 +55,28 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 82.5	1.5	55	man.n.01; girl.n.01; kitchen.n.01; apron.n.01; sink.n.01; utensils.n.01	 walk.v.01; stare.v.01	Eleven	4	7
 84.0	1.5	56	girl.n.01; kitchen.n.01; dish.n.01; utensils.n.01; 	face.v.03; sit.v.01; 	Eleven	3	7
 85.5	1.5	57	girl.n.01; kitchen.n.01; dish.n.01; utensils.n.01; man.n.01;	face.v.03; sit.v.01; reach.v.03	Eleven	3	7
-87.0	1.5	58	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; smile.v.01 	n/a	4	7
-88.5	1.5	59	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; smile.v.01; ask.v.03; speak.v.03; 	n/a	4	7
-90.0	1.5	60	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; smile.v.01; ask.v.03; speak.v.03; 	n/a	4	7
-91.5	1.5	61	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 	n/a	4	7
-93.0	1.5	62	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 	n/a	4	7
-94.5	1.5	63	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 	n/a	4	7
-96.0	1.5	64	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 	n/a	4	7
-97.5	1.5	65	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	stare.v.01; open.v.01; speak.v.03; 	n/a	4	7
-99.0	1.5	66	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	stare.v.01; open.v.01; speak.v.03; 	n/a	4	7
-100.5	1.5	67	man.n.01; nighttime.n.01; woman.n.01; door.n.01; car.n.01; window.n.01; switch.n.01; apron.n.01	stare.v.01; open.v.01; speak.v.03; 	n/a	4	7
-102.0	1.5	68	man.n.01; nighttime.n.01; woman.n.01; door.n.01; car.n.01; window.n.01; switch.n.01; apron.n.01	stare.v.01; open.v.01; speak.v.03; look back.v.01;	n/a	4	7
+87.0	1.5	58	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; smile.v.01 		4	7
+88.5	1.5	59	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; smile.v.01; ask.v.03; speak.v.03; 		4	7
+90.0	1.5	60	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; smile.v.01; ask.v.03; speak.v.03; 		4	7
+91.5	1.5	61	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 		4	7
+93.0	1.5	62	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 		4	7
+94.5	1.5	63	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 		4	7
+96.0	1.5	64	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	open.v.01; speak.v.03; 		4	7
+97.5	1.5	65	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	stare.v.01; open.v.01; speak.v.03; 		4	7
+99.0	1.5	66	man.n.01; nighttime.n.01; woman.n.01; door.n.01 	stare.v.01; open.v.01; speak.v.03; 		4	7
+100.5	1.5	67	man.n.01; nighttime.n.01; woman.n.01; door.n.01; car.n.01; window.n.01; switch.n.01; apron.n.01	stare.v.01; open.v.01; speak.v.03; 		4	7
+102.0	1.5	68	man.n.01; nighttime.n.01; woman.n.01; door.n.01; car.n.01; window.n.01; switch.n.01; apron.n.01	stare.v.01; open.v.01; speak.v.03; look back.v.01;		4	7
 103.5	1.5	69	man.n.01; nighttime.n.01; woman.n.01; door.n.01; car.n.01; window.n.01; switch.n.01; girl.n.01; kitchen.n.01;	stare.v.01; open.v.01; speak.v.03; face.v.03	Eleven	3	7
 105.0	1.5	70	girl.n.01; kitchen.n.01; dish.n.01; man.n.01; woman.n.01; door.n.01; ladle.n.01; pan.n.01; cash register.n.01; 	face.v.03	eleven	3	7
-106.5	1.5	71	kitchen.n.01; dish.n.01; man.n.01; woman.n.01; door.n.01; ladle.n.01; pan.n.01; cash register.n.01; 	speak.v.03	n/a	3	7
-108.0	1.5	72	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; 	n/a	3	7
-109.5	1.5	73	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; smile.v.01	n/a	3	7
-111.0	1.5	74	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; smile.v.01; ask.v.03; look around.v.01	n/a	3	7
-112.5	1.5	75	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; smile.v.01; look around.v.01; turn to.v.02	n/a	3	7
-114.0	1.5	76	man.n.01; woman.n.01; nighttime.n.01; window.n.01; car.n.01; switch.n.01; 	walk.v.01 speak.v.03	n/a	3	7
-115.5	1.5	77	man.n.01; woman.n.01; nighttime.n.01; window.n.01;  door.n.01	walk.v.01 speak.v.03	n/a	3	7
-117.0	1.5	78	man.n.01; woman.n.01; nighttime.n.01; window.n.01;  door.n.01; table.n.01; cash register.n.01 	walk.v.01 speak.v.03	n/a	3	7
-118.5	1.5	79	man.n.01; woman.n.01; nighttime.n.01; window.n.01;  door.n.01; table.n.01; cash register.n.01; back.n.01	walk.v.01 speak.v.03	n/a	3	7
+106.5	1.5	71	kitchen.n.01; dish.n.01; man.n.01; woman.n.01; door.n.01; ladle.n.01; pan.n.01; cash register.n.01; 	speak.v.03		3	7
+108.0	1.5	72	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; 		3	7
+109.5	1.5	73	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; smile.v.01		3	7
+111.0	1.5	74	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; smile.v.01; ask.v.03; look around.v.01		3	7
+112.5	1.5	75	man.n.01; woman.n.01; nighttime.n.01	speak.v.03; smile.v.01; look around.v.01; turn to.v.02		3	7
+114.0	1.5	76	man.n.01; woman.n.01; nighttime.n.01; window.n.01; car.n.01; switch.n.01; 	walk.v.01 speak.v.03		3	7
+115.5	1.5	77	man.n.01; woman.n.01; nighttime.n.01; window.n.01;  door.n.01	walk.v.01 speak.v.03		3	7
+117.0	1.5	78	man.n.01; woman.n.01; nighttime.n.01; window.n.01;  door.n.01; table.n.01; cash register.n.01 	walk.v.01 speak.v.03		3	7
+118.5	1.5	79	man.n.01; woman.n.01; nighttime.n.01; window.n.01;  door.n.01; table.n.01; cash register.n.01; back.n.01	walk.v.01 speak.v.03		3	7
 120.0	1.5	80	man.n.01; woman.n.01; gun.n.01; girl.n.01; kitchen.n.01	hold.v.03; stare.v.01; flinch.v.01; shoot.v.03	eleven	1	9
 121.5	1.5	81	man.n.01; woman.n.01; gun.n.01; girl.n.01; kitchen.n.01; dish.n.01 ladle.n.01; pan.n.01; cash register.n.01	hold.v.03; stare.v.01; aim.v.01; fall.v.02	eleven	1	9
 123.0	1.5	82	man.n.01; woman.n.01; gun.n.01; girl.n.01; kitchen.n.01; dish.n.01 ladle.n.01; pan.n.01; cash register.n.01	hold.v.03; stare.v.01; aim.v.01; gasp.v.01 	eleven	1	9
@@ -84,19 +84,19 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 126.0	1.5	84	girl.n.01; table.n.01; door.n.01; kitchen.n.01; hallway.n.01	run.v.01; open.v.01	Eleven	1	9
 127.5	1.5	85	girl.n.01; storage.n.01; container.n.01; man.n.01; gun.n.01; 	run.v.01; aim.v.01; stare.v.01; gasp.v.01	Eleven	1	9
 129.0	1.5	86	girl.n.01; storage.n.01; container.n.01; man.n.01; gun.n.01; door.n.01; switch.n.01	 aim.v.01; stare.v.01; gasp.v.01	Eleven	1	9
-130.5	1.5	87	gun.n.01; door.n.01; switch.n.01; woman.n.01; men.n.01; window.n.01 	 aim.v.01; stare.v.01; walk.v.01; look around.v.01	n/a	1	9
-132.0	1.5	88	woman.n.01; men.n.01; window.n.01; nighttime.n.01; curtain.n.01	walk.v.01; look around.v.01	n/a	1	9
-133.5	1.5	89	woman.n.01; men.n.01; window.n.01; nighttime.n.01; curtain.n.01; hallway.n.01; door.n.01 	walk.v.01; face.v.03	n/a	1	9
-135.0	1.5	90	man.n.01; hallway.n.01; door.n.01	walk.v.01 speak.v.03	n/a	1	9
-136.5	1.5	91	man.n.01; walk.n.01; men.n.01; storage.n.01; container.n.01; lie.n.01; door.n.01	walk.v.01; stare.v.01 	n/a	1	9
-138.0	1.5	92	man.n.01; walk.n.01; men.n.01; storage.n.01; container.n.01; lie.n.01; door.n.01; spoon.n.01	 stare.v.01 	n/a	1	9
-139.5	1.5	93	man.n.01; woman.n.01; storage.n.01; cntainer.n.01	stare.v.01	n/a	2	9
-141.0	1.5	94	man.n.01; woman.n.01; storage.n.01; cntainer.n.01; door.n.01; nighttime.n.01	stare.v.01; walk.v.01; look around.v.01 	n/a	3	8
-142.5	1.5	95	light.n.02; man.n.01; stair.n.01; door.n.01	walk.v.01; look around.v.01	n/a	3	8
-144.0	1.5	96	light.n.02; man.n.01; stair.n.01; door.n.01	walk.v.01; look around.v.01	n/a	3	8
-145.5	1.5	97	light.n.02; man.n.01; stair.n.01; door.n.01; tree.n.01	look around.v.01	n/a	3	8
-147.0	1.5	98	light.n.02; man.n.01;  tree.n.01	look around.v.01	n/a	3	8
-148.5	1.5	99	light.n.02; man.n.01;  tree.n.01	look around.v.01	n/a	3	8
+130.5	1.5	87	gun.n.01; door.n.01; switch.n.01; woman.n.01; men.n.01; window.n.01 	 aim.v.01; stare.v.01; walk.v.01; look around.v.01		1	9
+132.0	1.5	88	woman.n.01; men.n.01; window.n.01; nighttime.n.01; curtain.n.01	walk.v.01; look around.v.01		1	9
+133.5	1.5	89	woman.n.01; men.n.01; window.n.01; nighttime.n.01; curtain.n.01; hallway.n.01; door.n.01 	walk.v.01; face.v.03		1	9
+135.0	1.5	90	man.n.01; hallway.n.01; door.n.01	walk.v.01 speak.v.03		1	9
+136.5	1.5	91	man.n.01; walk.n.01; men.n.01; storage.n.01; container.n.01; lie.n.01; door.n.01	walk.v.01; stare.v.01 		1	9
+138.0	1.5	92	man.n.01; walk.n.01; men.n.01; storage.n.01; container.n.01; lie.n.01; door.n.01; spoon.n.01	 stare.v.01 		1	9
+139.5	1.5	93	man.n.01; woman.n.01; storage.n.01; cntainer.n.01	stare.v.01		2	9
+141.0	1.5	94	man.n.01; woman.n.01; storage.n.01; cntainer.n.01; door.n.01; nighttime.n.01	stare.v.01; walk.v.01; look around.v.01 		3	8
+142.5	1.5	95	light.n.02; man.n.01; stair.n.01; door.n.01	walk.v.01; look around.v.01		3	8
+144.0	1.5	96	light.n.02; man.n.01; stair.n.01; door.n.01	walk.v.01; look around.v.01		3	8
+145.5	1.5	97	light.n.02; man.n.01; stair.n.01; door.n.01; tree.n.01	look around.v.01		3	8
+147.0	1.5	98	light.n.02; man.n.01;  tree.n.01	look around.v.01		3	8
+148.5	1.5	99	light.n.02; man.n.01;  tree.n.01	look around.v.01		3	8
 150.0	1.5	100	tree.n.01; nighttime.n.01; street.n.01; bicycle.n.01; kid.n.01	bicycle.v.01	lucas sinclair; mike wheeler; dustin henderson	4	7
 151.5	1.5	101	tree.n.01; nighttime.n.01; street.n.01; bicycle.n.01; kid.n.01	bicycle.v.01	lucas sinclair; mike wheeler; dustin henderson	4	7
 153.0	1.5	102	tree.n.01; nighttime.n.01; street.n.01; bicycle.n.01; kid.n.01	bicycle.v.01	lucas sinclair; mike wheeler; dustin henderson	4	7
@@ -125,8 +125,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 187.5	1.5	125	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03	 run.v.01; STAND.V.01	Dustin Henderson; Mike Wheeler; Lucas Sinclair	4	7
 189.0	1.5	126	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03	 run.v.01; STAND.V.01	Dustin Henderson; Mike Wheeler; Lucas Sinclair	4	7
 190.5	1.5	127	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03	 run.v.01; walk.v.01	Dustin Henderson; Mike Wheeler; Lucas Sinclair	4	7
-192.0	1.5	128	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03; man.n.01; hand.n.01; card.n.04; handwriting.n.01	 ask.v.03	n/a	5	4
-193.5	1.5	129	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03; man.n.01; hand.n.01; card.n.04; handwriting.n.01	 ask.v.03	n/a	5	4
+192.0	1.5	128	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03; man.n.01; hand.n.01; card.n.04; handwriting.n.01	 ask.v.03		5	4
+193.5	1.5	129	tree.n.01; nighttime.n.01;  kid.n.01; light.n.02; stripe.n.01; bar.n.03; man.n.01; hand.n.01; card.n.04; handwriting.n.01	 ask.v.03		5	4
 195.0	1.5	130	man.n.01; hand.n.01; card.n.04; handwriting.n.01; bedroom.n.01; woman.n.01	 ask.v.03; stare.v.01	Nancy Wheeler	5	4
 196.5	1.5	131	woman.n.01; bedroom.n.01; light.n.02; 	stare.v.01; answer.v.01	Nancy Wheeler 	5	4
 198.0	1.5	132	woman.n.01; bedroom.n.01; light.n.02; bed.n.01; curtain.n.01; window.n.01; lamp.n.02; man.n.01; card.n.04	stare.v.01; answer.v.01	Nancy Wheeler; Steve Harrington	5	4
@@ -211,13 +211,13 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 316.5	1.5	211	bedroom.n.01; woman.n.01; lamp.n.02	stare.v.01; smile.v.01; ask.v.03; face.v.03	nancy Wheeler 	7	6
 318.0	1.5	212	bedroom.n.01; woman.n.01; lamp.n.02	stare.v.01; smile.v.01; ask.v.03; face.v.03	nancy Wheeler 	7	6
 319.5	1.5	213	bedroom.n.01; woman.n.01; lamp.n.02; house.n.01; nighttime.n.01; door.n.01; porch.n.01; star.n.03; rain.n.01	stare.v.01; smile.v.01; ask.v.03; face.v.03	nancy Wheeler 	7	6
-321.0	1.5	214	 house.n.01; nighttime.n.01; door.n.01; porch.n.01; star.n.03; rain.n.01	n/a	n/a	4	7
-322.5	1.5	215	 house.n.01; nighttime.n.01; door.n.01; porch.n.01; star.n.03; rain.n.01; picture.n.01	n/a	n/a	4	7
-324.0	1.5	216	picture.n.01	lift.v.01	n/a	4	7
+321.0	1.5	214	 house.n.01; nighttime.n.01; door.n.01; porch.n.01; star.n.03; rain.n.01			4	7
+322.5	1.5	215	 house.n.01; nighttime.n.01; door.n.01; porch.n.01; star.n.03; rain.n.01; picture.n.01			4	7
+324.0	1.5	216	picture.n.01	lift.v.01		4	7
 325.5	1.5	217	picture.n.01; couch.n.01; lamp.n.02; man.n.01; table.n.01; ornament.n.01	lift.v.01; stare.v.01	Joyce Byers; Jonathan Byers	4	7
 327.0	1.5	218	picture.n.01; couch.n.01; lamp.n.02; man.n.01; table.n.01; ornament.n.01	lift.v.01; stare.v.01; speak.v.03	Joyce Byers; Jonathan Byers	4	7
 328.5	1.5	219	picture.n.01; couch.n.01; lamp.n.02; man.n.01; table.n.01; ornament.n.01	lift.v.01; stare.v.01; speak.v.03	Joyce Byers; Jonathan Byers	4	7
-330.0	1.5	220	hand.n.01; picture.n.01; table.n.01	speak.v.03; lift.v.01	n/a	4	7
+330.0	1.5	220	hand.n.01; picture.n.01; table.n.01	speak.v.03; lift.v.01		4	7
 331.5	1.5	221	picture.n.01; couch.n.01; lamp.n.02; man.n.01; table.n.01; ornament.n.01	cry.v.02; sniff.v.02	Joyce Byers; Jonathan Byers	2	7
 333.0	1.5	222	picture.n.01; couch.n.01; lamp.n.02; man.n.01; table.n.01; ornament.n.01	cry.v.02; sniff.v.02	Joyce Byers; Jonathan Byers	2	7
 334.5	1.5	223	picture.n.01; couch.n.01; lamp.n.02; man.n.01; table.n.01; ornament.n.01	cry.v.02; sniff.v.02	Joyce Byers; Jonathan Byers	2	7

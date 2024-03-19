@@ -1,19 +1,19 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
 3.0	1.5	2	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	ring.v.01; stand.v.01;  put aside.v.01	Mike Wheeler	6	7
 4.5	1.5	3	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	ring.v.01; stand.v.01;  put aside.v.01; walk.v.01	Mike Wheeler	6	7
-6.0	1.5	4	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	stand.v.01;  put aside.v.01; walk.v.01; instruct.v.02	n/a	6	5
-7.5	1.5	5	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02	n/a	6	5
-9.0	1.5	6	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02	n/a	6	5
-10.5	1.5	7	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02; raise.v.02	n/a	6	5
-12.0	1.5	8	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01	n/a	6	5
-13.5	1.5	9	classroom.n.01; kid.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01	n/a	6	5
-15.0	1.5	10	classroom.n.01; kid.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01	n/a	6	5
-16.5	1.5	11	classroom.n.01;  teacher.n.02	  instruct.v.02; turn to.v.02	n/a	4	5
-18.0	1.5	12	classroom.n.01;  teacher.n.02	  instruct.v.02; turn to.v.02	n/a	4	5
+6.0	1.5	4	classroom.n.01; kid.n.01; window.n.01; desk.n.01; book.n.02; 	stand.v.01;  put aside.v.01; walk.v.01; instruct.v.02		6	5
+7.5	1.5	5	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02		6	5
+9.0	1.5	6	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02		6	5
+10.5	1.5	7	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02; raise.v.02		6	5
+12.0	1.5	8	classroom.n.01; kid.n.01; window.n.01; desk.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01		6	5
+13.5	1.5	9	classroom.n.01; kid.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01		6	5
+15.0	1.5	10	classroom.n.01; kid.n.01; teacher.n.01	 walk.v.01; instruct.v.02; lower.v.01		6	5
+16.5	1.5	11	classroom.n.01;  teacher.n.02	  instruct.v.02; turn to.v.02		4	5
+18.0	1.5	12	classroom.n.01;  teacher.n.02	  instruct.v.02; turn to.v.02		4	5
 19.5	1.5	13	desk.n.01; classroom.n.01; kid.n.01; teacher.n.01; window.n.01; light.n.02	turn to.v.02; stand.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	4
 21.0	1.5	14	desk.n.01; classroom.n.01; kid.n.01; teacher.n.01; window.n.01; light.n.02	turn to.v.02; stand.v.01; question.v.03	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
-22.5	1.5	15	classroom.n.01; teacher.n.01; 	stare.v.02; reply.v.01	n/a	4	5
-24.0	1.5	16	classroom.n.01; teacher.n.01; 	stare.v.02; reply.v.01	n/a	3	5
+22.5	1.5	15	classroom.n.01; teacher.n.01; 	stare.v.02; reply.v.01		4	5
+24.0	1.5	16	classroom.n.01; teacher.n.01; 	stare.v.02; reply.v.01		3	5
 25.5	1.5	17	classroom.n.01; teacher.n.01; kid.n.01; light.v.02; window.v.01	stare.v.02; 	Mike Wheeler; Lucas Sinclair; Dustin Henderson	3	5
 27.0	1.5	18	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	answer.v.01; open.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
 28.5	1.5	19	classroom.n.01; teacher.n.01; kid.n.01;  window.v.01; lamp.v.02; door.n.01; book.n.01; shelf.n.01	open.v.01; rush.v.03	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
@@ -31,7 +31,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 46.5	1.5	31	kid.n.01; lamp.n.02	 smile.v.01; exclaim.v.01; curse.v.01	Lucas Sinclair	7	5
 48.0	1.5	32	kid.n.01; lamp.n.02; teacher.n.01;desk.n.01; headphones.n.01	call out.v.01; cross.v.04	Mike Wheeler; Lucas Sinclair; Dustin Henderson	4	6
 49.5	1.5	33	kid.n.01; lamp.n.02; teacher.n.01;desk.n.01; headphones.n.01	smile.v.01; cross.v.04; apologize.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	7	6
-51.0	1.5	34	teacher.n.01; equipment.n.01; hand.n.01	smile.v.01; cross.v.04; touch.v.01	n/a	7	5
+51.0	1.5	34	teacher.n.01; equipment.n.01; hand.n.01	smile.v.01; cross.v.04; touch.v.01		7	5
 52.5	1.5	35	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01	touch.v.01; lean.v.01; breathe.v.01	Mike Wheeler	5	4
 54.0	1.5	36	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; cross.v.04; stare.v.02; speak.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
 55.5	1.5	37	 equipment.n.01; hand.n.01; headphones.n.01; desk.n.01; microphone.n.01; teacher.n.01; shelf.n.01; door.n.01; lamp.n.02	lean.v.01; cross.v.04; stare.v.02; speak.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
@@ -98,9 +98,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 147.0	1.5	98	light.n.02; policeman.n.01	stare.v.02; question.v.03;	Sheriff Jim Hopper	2	8
 148.5	1.5	99	light.n.02; policeman.n.01; couch.n.01; window.n.01	stare.v.02; question.v.03; nod.v.01	Sheriff Jim Hopper; Mike Wheeler; Lucas sinclair; Dustin Henderson	2	8
 150.0	1.5	100	 couch.n.01; window.n.01	stare.v.02;  nod.v.01; respond.v.01	Mike Wheeler; Lucas sinclair; Dustin Henderson	2	8
-151.5	1.5	101	daylight.n.01; tree.n.01	n/a	n/a	5	1
-153.0	1.5	102	daylight.n.01; tree.n.01; flag.n.01	n/a	n/a	5	1
-154.5	1.5	103	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01	run.v.01	n/a	5	1
+151.5	1.5	101	daylight.n.01; tree.n.01			5	1
+153.0	1.5	102	daylight.n.01; tree.n.01; flag.n.01			5	1
+154.5	1.5	103	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01	run.v.01		5	1
 156.0	1.5	104	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
 157.5	1.5	105	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
 159.0	1.5	106	daylight.n.01; tree.n.01; flag.n.01; woman.n.01; trunk.n.01; fort.n.02	walk.v.01	Joyce Byers 	5	2
@@ -150,10 +150,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 225.0	1.5	150	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
 226.5	1.5	151	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
 228.0	1.5	152	daylight.n.01; fort.n.02; woman.n.01; tree.n.01; man.n.01; trunk.n.01; flag.n.01; curtain.v.01	 walk.v.01;  search.v.02; shout.v.01; flap.v.01	 Joyce Byers 	2	9
-229.5	1.5	153	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01	throw.v.01; cook.v.01; 	n/a	5	1
-231.0	1.5	154	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04	cook.v.01; look back.v.01	n/a	5	1
-232.5	1.5	155	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04	cook.v.01; look back.v.01	n/a	5	1
-234.0	1.5	156	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04; spatula.n.01	cook.v.01; pick up.v.01	n/a	5	1
+229.5	1.5	153	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01	throw.v.01; cook.v.01; 		5	1
+231.0	1.5	154	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04	cook.v.01; look back.v.01		5	1
+232.5	1.5	155	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04	cook.v.01; look back.v.01		5	1
+234.0	1.5	156	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04; spatula.n.01	cook.v.01; pick up.v.01		5	1
 235.5	1.5	157	patty.n.01; grill.n.01; smoke.n.01; cook.n.01; kitchen.n.01; plate.n.04; spatula.n.01; booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	cook.v.01; pick up.v.01; eat.v.01; stare.v.02	Eleven	6	3
 237.0	1.5	158	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02	Eleven	6	3
 238.5	1.5	159	 booth.n.01; man.n.01; burger.n.02; jukebox.n.01; condiment.n.01	 eat.v.01; stare.v.02; question.v.03	Eleven	6	3
@@ -199,11 +199,11 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 298.5	1.5	199	man.n.01; booth.n.01; burger.n.02; condiment.n.01; 	 stare.v.02;sigh.v.02	Eleven	5	2
 300.0	1.5	200	man.n.01; booth.n.01; burger.n.02; condiment.n.01; arm.n.01; mark.n.02                                                                    	 stare.v.02;sigh.v.02	Eleven	3	5
 301.5	1.5	201	man.n.01; booth.n.01; condiment.n.01; arm.n.01; mark.n.02                                                                    	 stare.v.02;sigh.v.02; pull away.v.01	Eleven	2	6
-303.0	1.5	202	man.n.01;                                                           	 stare.v.02;sigh.v.02; 	n/a	2	6
-304.5	1.5	203	man.n.01;                                                           	 stare.v.02;gesture.v.01; speak.v.01 	n/a	2	6
+303.0	1.5	202	man.n.01;                                                           	 stare.v.02;sigh.v.02; 		2	6
+304.5	1.5	203	man.n.01;                                                           	 stare.v.02;gesture.v.01; speak.v.01 		2	6
 306.0	1.5	204	girl.n.01; restaurant.n.01; daylight.n.01                                                           	 stare.v.02; frown.v.01	Eleven 	2	6
 307.5	1.5	205	girl.n.01; restaurant.n.01; daylight.n.01                                                          	 stare.v.02;  question.v.03	Eleven 	2	6
-309.0	1.5	206	Man.n.01                                           	 stare.v.02; frown.v.01; question.v.03	n/a	2	6
+309.0	1.5	206	Man.n.01                                           	 stare.v.02; frown.v.01; question.v.03		2	6
 310.5	1.5	207	Man.n.01; girl.n.01                                    	 stare.v.02; frown.v.01; 	Eleven 	2	6
 312.0	1.5	208	girl.n.01                                    	 stare.v.02; speak.v.01	Eleven 	2	6
 313.5	1.5	209	girl.n.01; man.n.01                         	 stare.v.02; speak.v.01	Eleven 	2	6
@@ -214,27 +214,27 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 321.0	1.5	214	girl.n.01; man.n.01; booth.n.01; jukebox.n01; restaurant.n.01                	 stare.v.02; grab.v.01; turn.n.01	Eleven 	3	6
 322.5	1.5	215	girl.n.01; man.n.01;  restaurant.n.01; daylight.n.01                	 stare.v.02; grab.v.01; turn.n.01; answer.v.01	Eleven 	3	6
 324.0	1.5	216	girl.n.01; man.n.01; restaurant.n.01; daylight.n.01                	stare.v.02; blink.v.01	Eleven	4	7
-325.5	1.5	217	 man.n.01; restaurant.n.01; daylight.n.01	stare.v.02; blink.v.01; face.v.03	n/a	4	7
+325.5	1.5	217	 man.n.01; restaurant.n.01; daylight.n.01	stare.v.02; blink.v.01; face.v.03		4	7
 327.0	1.5	218	 man.n.01; girl.n.01; restaurant.n.01; daylight.n.01	stare.v.02; question.v.03	Eleven 	4	7
 328.5	1.5	219	 girl.n.01; resturant.n.01; daylight.n.01	stare.v.02; reply.v.01; point.v.01	Eleven 	4	7
 330.0	1.5	220	 girl.n.01; resturant.n.01; daylight.n.01	stare.v.02; question.v.03	Eleven 	4	7
 331.5	1.5	221	 girl.n.01; resturant.n.01; daylight.n.01	stare.v.02; question.v.03	Eleven 	4	7
-333.0	1.5	222	man.n.01; restaurant.n.01; daylight.n.01	stare.v.02; speak.v.01	n/a	6	7
-334.5	1.5	223	man.n.01; restaurant.n.01; daylight.n.01	speak.v.01	n/a	6	7
+333.0	1.5	222	man.n.01; restaurant.n.01; daylight.n.01	stare.v.02; speak.v.01		6	7
+334.5	1.5	223	man.n.01; restaurant.n.01; daylight.n.01	speak.v.01		6	7
 336.0	1.5	224	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	smile.v.01	Eleven	6	7
 337.5	1.5	225	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	smile.v.01; speak.v.01	Eleven	6	7
 339.0	1.5	226	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	smile.v.01; speak.v.01	Eleven	6	7
 340.5	1.5	227	man.n.01; restaurant.n.01; daylight.n.01; girl.n.01	stare.v.02; breathe.v.01	Eleven	4	6
-342.0	1.5	228	man.n.01; restaurant.n.01; daylight.n.01;  newspaper.n.01	stare.v.02; breathe.v.01; speak.v.01	n/a	4	6
-343.5	1.5	229	 newspaper.n.01; number.n.05	speak.v.01	n/a	4	6
-345.0	1.5	230	 newspaper.n.01; number.n.05; man.n.01; telephone.n.01	speak.v.01	n/a	4	6
+342.0	1.5	228	man.n.01; restaurant.n.01; daylight.n.01;  newspaper.n.01	stare.v.02; breathe.v.01; speak.v.01		4	6
+343.5	1.5	229	 newspaper.n.01; number.n.05	speak.v.01		4	6
+345.0	1.5	230	 newspaper.n.01; number.n.05; man.n.01; telephone.n.01	speak.v.01		4	6
 346.5	1.5	231	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; eat.v.01	Eleven	3	7
 348.0	1.5	232	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; eat.v.01	Eleven	3	7
-349.5	1.5	233	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01	n/a	3	7
-351.0	1.5	234	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01	n/a	3	7
-352.5	1.5	235	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01	n/a	3	7
-354.0	1.5	236	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01	n/a	3	7
-355.5	1.5	237	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01; turn.v.01	n/a	3	7
+349.5	1.5	233	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+351.0	1.5	234	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+352.5	1.5	235	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+354.0	1.5	236	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01		3	7
+355.5	1.5	237	man.n.01; telephone.n.01; kitchen.n.01;	speak.v.01; lean.v.01; turn.v.01		3	7
 357.0	1.5	238	man.n.01; telephone.n.01; kitchen.n.01; girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	speak.v.01; lean.v.01; turn.v.01; eat.v.01; 	Eleven	3	7
 358.5	1.5	239	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	eat.v.01; 	Eleven	4	5
 360.0	1.5	240	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01	 eat.v.01; glare.v.01	Eleven	4	5
@@ -245,14 +245,14 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 367.5	1.5	245	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; 	stare.v.01	Eleven	3	8
 369.0	1.5	246	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; window.n.01; curtain.n.01; chair.n.01; fan.n.01	stare.v.01; spin.v.01	Eleven	3	8
 370.5	1.5	247	girl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; window.n.01; curtain.n.01; chair.n.01; fan.n.01	stare.v.01; spin.v.01	Eleven	3	8
-372.0	1.5	248	window.n.01; curtain.n.01; fan.n.01	spin.v.01; stop.v.01	n/a	3	9
+372.0	1.5	248	window.n.01; curtain.n.01; fan.n.01	spin.v.01; stop.v.01		3	9
 373.5	1.5	249	window.n.01; curtain.n.01; fan.n.01; girl.n.01	spin.v.01; stop.v.01; stare.v.01	Eleven	2	9
 375.0	1.5	250	girl.n.01; fries.n.01	eat.v.01; 	Eleven	2	9
 376.5	1.5	251	irl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; 	eat.v.01; 	Eleven	4	7
 378.0	1.5	252	irl.n.01; booth.n.01; restaurant.n.01; tray.n.01; condiment.n.01; drink.n.01; road.n.01; daylight.n.02; tree.n.01; car.n.01; 	eat.v.01; 	Eleven	4	7
-379.5	1.5	253	 road.n.01; daylight.n.02; tree.n.01; car.n.01; dust.n.01	drive.n.01	n/a	5	6
-381.0	1.5	254	 road.n.01; daylight.n.02; tree.n.01;  dust.n.01	n/a	n/a	5	6
-382.5	1.5	255	 road.n.01; daylight.n.02; tree.n.01;  dust.n.01; wire.n.02	shout.v.01	n/a	4	6
+379.5	1.5	253	 road.n.01; daylight.n.02; tree.n.01; car.n.01; dust.n.01	drive.n.01		5	6
+381.0	1.5	254	 road.n.01; daylight.n.02; tree.n.01;  dust.n.01			5	6
+382.5	1.5	255	 road.n.01; daylight.n.02; tree.n.01;  dust.n.01; wire.n.02	shout.v.01		4	6
 384.0	1.5	256	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01	Sheriff Jim Hopper	4	6
 385.5	1.5	257	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01; walk.v.01	Sheriff Jim Hopper	4	6
 387.0	1.5	258	 road.n.01; daylight.n.02; tree.n.01;  wire.n.02; policeman.n.01; car.n.01	shout.v.01; walk.v.01	Sheriff Jim Hopper	4	6

@@ -1,18 +1,18 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	introduction.n.01; signature tune.n.01; creation.n.01	create.v.01; credit.v.01	n/a	3	2
-4.5	1.5	3	introduction.n.01; signature tune.n.01; creation.n.0; body.n.01	create.v.01; credit.v.01	n/a	3	3
-6.0	1.5	4	introduction.n.01; signature tune.n.01; creation.n.0; body.n.01	create.v.01; credit.v.01	n/a	3	3
-7.5	1.5	5	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01;	n/a	3	3
-9.0	1.5	6	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01	n/a	3	3
-10.5	1.5	7	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01	n/a	3	3
-12.0	1.5	8	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01	n/a	3	3
-13.5	1.5	9	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01	create.v.01; credit.v.01	n/a	3	3
-15.0	1.5	10	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01	create.v.01; credit.v.01	n/a	3	3
-16.5	1.5	11	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01; chirp.n.01	write.v.01	n/a	3	3
-18.0	1.5	12	forest.n.01; lake.n.01; chirp.n.01; dock.n.03	write.v.01	n/a	3	3
-19.5	1.5	13	forest.n.01; lake.n.01; chirp.n.01; dock.n.03; porch.n.01; chair.n.01	write.v.01	n/a	3	3
-21.0	1.5	14	forest.n.01; lake.n.01; chirp.n.01; dock.n.03; porch.n.01; chair.n.01	direct.v.03	n/a	3	3
-22.5	1.5	15	chirp.n.01; porch.n.01; chair.n.01	direct.v.03	n/a	3	3
+3.0	1.5	2	introduction.n.01; signature tune.n.01; creation.n.01	create.v.01; credit.v.01		3	2
+4.5	1.5	3	introduction.n.01; signature tune.n.01; creation.n.0; body.n.01	create.v.01; credit.v.01		3	3
+6.0	1.5	4	introduction.n.01; signature tune.n.01; creation.n.0; body.n.01	create.v.01; credit.v.01		3	3
+7.5	1.5	5	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01;		3	3
+9.0	1.5	6	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01		3	3
+10.5	1.5	7	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01		3	3
+12.0	1.5	8	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01		3	3
+13.5	1.5	9	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01	create.v.01; credit.v.01		3	3
+15.0	1.5	10	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01	create.v.01; credit.v.01		3	3
+16.5	1.5	11	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01; chirp.n.01	write.v.01		3	3
+18.0	1.5	12	forest.n.01; lake.n.01; chirp.n.01; dock.n.03	write.v.01		3	3
+19.5	1.5	13	forest.n.01; lake.n.01; chirp.n.01; dock.n.03; porch.n.01; chair.n.01	write.v.01		3	3
+21.0	1.5	14	forest.n.01; lake.n.01; chirp.n.01; dock.n.03; porch.n.01; chair.n.01	direct.v.03		3	3
+22.5	1.5	15	chirp.n.01; porch.n.01; chair.n.01	direct.v.03		3	3
 24.0	1.5	16	chirp.n.01; porch.n.01; chair.n.01; couch.n.01; bat.n.05	sleep.v.01; protect.v.01	joyce byers	3	3
 25.5	1.5	17	chirp.n.01; porch.n.01; chair.n.01; couch.n.01; bat.n.05	sleep.v.01; protect.v.01	joyce byers	3	3
 27.0	1.5	18	couch.n.01; bat.n.05; mom.n.01; voice.n.01	sleep.v.01; protect.v.01; awaken.v.01	joyce byers	3	3
@@ -28,10 +28,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 42.0	1.5	28	couch.n.01; bat.n.05; mom.n.01; time.n.02	awaken.v.01; confuse.v.04	joyce byers; jonathan byers 	3	3
 43.5	1.5	29	couch.n.01; mom.n.01; time.n.02	awaken.v.01; confuse.v.04; question.v.01	joyce byers; jonathan byers 	3	3
 45.0	1.5	30	couch.n.01; mom.n.01; time.n.02	awaken.v.01; confuse.v.04; question.v.01	joyce byers; jonathan byers 	3	3
-46.5	1.5	31	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 	n/a	3	2
-48.0	1.5	32	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 	n/a	3	2
-49.5	1.5	33	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 	n/a	3	2
-51.0	1.5	34	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01; knocking.n.01	blow.v.02; 	n/a	3	2
+46.5	1.5	31	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 		3	2
+48.0	1.5	32	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 		3	2
+49.5	1.5	33	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 		3	2
+51.0	1.5	34	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01; knocking.n.01	blow.v.02; 		3	2
 52.5	1.5	35	house.n.01; room.n.01; poster.n.01	open up.v.01; call.v.01; greet.v.01	karen wheeler; mike wheeler	3	2
 54.0	1.5	36	house.n.01; room.n.01; poster.n.01	open up.v.01; call.v.01; greet.v.01	karen wheeler; mike wheeler	3	2
 55.5	1.5	37	house.n.01; room.n.01; mom.n.01	open up.v.01; greet.v.01; feel.v.02; worry.v.01	karen wheeler; mike wheeler	3	2
@@ -92,7 +92,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 138.0	1.5	92	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01	talk.v.01; communicate.v.01; urge.v.01; confuse.v.01; come.v.01	mike wheeler, lucas	3	3
 139.5	1.5	93	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01	talk.v.01; communicate.v.01; urge.v.01; confuse.v.01; come.v.01	mike wheeler, lucas	3	3
 141.0	1.5	94	room.n.01; radio.n.01; antenna.n.02; suspense.n.01; coroner.n.01; office.n.01	talk.v.01; communicate.v.01; confuse.v.01	mike wheeler, lucas	3	3
-142.5	1.5	95	coroner.n.01; office.n.01	inhale.v.06	n/a	3	2
+142.5	1.5	95	coroner.n.01; office.n.01	inhale.v.06		3	2
 144.0	1.5	96	coroner.n.01; office.n.01; clerk.n.01; 	inhale.v.06; worry.v.01; wait.v.01	Jim hopper	3	2
 145.5	1.5	97	coroner.n.01; office.n.01; clerk.n.01; time.n.02	inhale.v.06; worry.v.01; rush.v.03; wait.v.01	Jim hopper	3	2
 147.0	1.5	98	coroner.n.01; office.n.01; clerk.n.01	rush.v.03; wait.v.01; justify.v.01; explain.v.01	Jim hopper	3	2
@@ -187,7 +187,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 280.5	1.5	187	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; leave.v.01; rush.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
 282.0	1.5	188	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; leave.v.01; rush.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
 283.5	1.5	189	office.n.01; waiting room.n.01; examiner.n.02; schoolbell.n.01; students.n.01; school.n.01	confuse.v.01; socialize.v.01; 	jonathan byers, jim hopper, joyce byers	3	3
-285.0	1.5	190	schoolbell.n.01; students.n.01; school.n.01	socialize.v.01; walking.n.01	n/a	3	3
+285.0	1.5	190	schoolbell.n.01; students.n.01; school.n.01	socialize.v.01; walking.n.01		3	3
 286.5	1.5	191	schoolbell.n.01; students.n.01; school.n.01; walking.v.01; alleyway.n.01	socialize.v.01; understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3
 288.0	1.5	192	school.n.01; alleyway.n.01; football.n.01; running.n.02	 understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3
 289.5	1.5	193	school.n.01; alleyway.n.01; football.n.01; running.n.02	 understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3

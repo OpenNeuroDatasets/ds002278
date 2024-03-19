@@ -1,115 +1,115 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	outdoors.n.01; daytime.n.01; tree.n.01; chair.n.01; porch.n.01	rock.v.01	n/a	5.0	1.0
-4.5	1.5	3	outdoors.n.01; daytime.n.01; tree.n.01; chair.n.01; porch.n.01	rock.v.01	n/a	5.0	1.0
-6.0	1.5	4	indoors.n.01; cigarette.n.01; sadness.n.01	smoking.v.01	n/a	5.0	1.0
-7.5	1.5	5	indoors.n.01; cigarette.n.01; sadness.n.01	smoking.v.01	n/a	5.0	1.0
-9.0	1.5	6	indoors.n.01; cigarette.n.01; sadness.n.01	smoking.v.01; illuminate.v.01	n/a	5.0	1.0
-10.5	1.5	7	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01	n/a	5.0	1.0
-12.0	1.5	8	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04	n/a	5.0	1.0
-13.5	1.5	9	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04	n/a	5.0	1.0
-15.0	1.5	10	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04	n/a	5.0	1.0
-16.5	1.5	11	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04	n/a	5.0	1.0
-18.0	1.5	12	indoors.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-19.5	1.5	13	indoors.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-21.0	1.5	14	indoors.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-22.5	1.5	15	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-24.0	1.5	16	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-25.5	1.5	17	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-27.0	1.5	18	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-28.5	1.5	19	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-30.0	1.5	20	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-31.5	1.5	21	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-33.0	1.5	22	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-34.5	1.5	23	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-36.0	1.5	24	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-37.5	1.5	25	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-39.0	1.5	26	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01	n/a	5.0	1.0
-40.5	1.5	27	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-42.0	1.5	28	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-43.5	1.5	29	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-45.0	1.5	30	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-46.5	1.5	31	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-48.0	1.5	32	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-49.5	1.5	33	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01	n/a	5.0	1.0
-51.0	1.5	34	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; push.v.01	n/a	5.0	1.0
-52.5	1.5	35	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; push.v.01	n/a	5.0	1.0
-54.0	1.5	36	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; open.v.01	n/a	5.0	1.0
-55.5	1.5	37	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; open.v.01; search.v.01	n/a	5.0	1.0
-57.0	1.5	38	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01	n/a	5.0	1.0
-58.5	1.5	39	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01	n/a	5.0	1.0
-60.0	1.5	40	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-61.5	1.5	41	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-63.0	1.5	42	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-64.5	1.5	43	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-66.0	1.5	44	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-67.5	1.5	45	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; whisper.v.01	n/a	5.0	1.0
-69.0	1.5	46	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; whisper.v.01	n/a	5.0	1.0
-70.5	1.5	47	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; whisper.v.01	n/a	5.0	1.0
-72.0	1.5	48	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01; relieved.v.01	n/a	5.0	1.0
-73.5	1.5	49	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01; relieved.v.01	n/a	5.0	1.0
-75.0	1.5	50	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; happiness.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01; relieved.v.01	n/a	5.0	1.0
-76.5	1.5	51	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-78.0	1.5	52	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-79.5	1.5	53	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01	n/a	5.0	1.0
-81.0	1.5	54	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; demand.v.01	n/a	5.0	1.0
-82.5	1.5	55	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; demand.v.01	n/a	5.0	1.0
-84.0	1.5	56	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01	n/a	5.0	1.0
-85.5	1.5	57	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01	n/a	5.0	1.0
-87.0	1.5	58	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01	n/a	5.0	1.0
-88.5	1.5	59	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01	n/a	5.0	1.0
-90.0	1.5	60	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01	n/a	5.0	1.0
-91.5	1.5	61	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01	n/a	5.0	1.0
-93.0	1.5	62	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01	n/a	5.0	1.0
-94.5	1.5	63	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01	n/a	5.0	1.0
-96.0	1.5	64	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01	n/a	5.0	1.0
-97.5	1.5	65	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01	n/a	5.0	1.0
-99.0	1.5	66	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01	n/a	5.0	1.0
-100.5	1.5	67	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01	n/a	5.0	1.0
-102.0	1.5	68	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01	n/a	5.0	1.0
-103.5	1.5	69	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01	n/a	5.0	1.0
-105.0	1.5	70	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; question.v.03	n/a	5.0	1.0
-106.5	1.5	71	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01	n/a	5.0	1.0
-108.0	1.5	72	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01	n/a	5.0	1.0
-109.5	1.5	73	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01	n/a	5.0	1.0
-111.0	1.5	74	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01	n/a	5.0	1.0
-112.5	1.5	75	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01	n/a	5.0	1.0
-114.0	1.5	76	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01	n/a	5.0	1.0
-115.5	1.5	77	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-117.0	1.5	78	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01	n/a	5.0	1.0
-118.5	1.5	79	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01	n/a	5.0	1.0
-120.0	1.5	80	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01	n/a	5.0	1.0
-121.5	1.5	81	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01	n/a	5.0	1.0
-123.0	1.5	82	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01	n/a	5.0	1.0
-124.5	1.5	83	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01	n/a	5.0	1.0
-126.0	1.5	84	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01	n/a	5.0	1.0
-127.5	1.5	85	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01	n/a	5.0	1.0
-129.0	1.5	86	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01	n/a	5.0	1.0
-130.5	1.5	87	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01	n/a	5.0	1.0
-132.0	1.5	88	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01; weep.v.01	n/a	5.0	1.0
-133.5	1.5	89	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01; weep.v.01	n/a	5.0	1.0
-135.0	1.5	90	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-136.5	1.5	91	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-138.0	1.5	92	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01; call out.v.02	n/a	5.0	1.0
-139.5	1.5	93	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-141.0	1.5	94	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-142.5	1.5	95	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-144.0	1.5	96	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01	n/a	5.0	1.0
-145.5	1.5	97	indoors.n.01; knife.n.01; can.n.01	open.v.01	n/a	5.0	1.0
-147.0	1.5	98	indoors.n.01; knife.n.01; can.n.01; light.n.02 	open.v.01	n/a	5.0	1.0
-148.5	1.5	99	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 	n/a	5.0	1.0
-150.0	1.5	100	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 	n/a	5.0	1.0
-151.5	1.5	101	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 	n/a	5.0	1.0
-153.0	1.5	102	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 	n/a	5.0	1.0
-154.5	1.5	103	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 	n/a	5.0	1.0
-156.0	1.5	104	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 	n/a	5.0	1.0
-157.5	1.5	105	indoors.n.01; can.n.01; light.n.02; brush.n.01; couch.n.01; candle.n.01	paint.v.02 	n/a	5.0	1.0
-159.0	1.5	106	indoors.n.01; can.n.01; light.n.02; brush.n.01; couch.n.01; candle.n.01	paint.v.02 	n/a	5.0	1.0
-160.5	1.5	107	indoors.n.01; can.n.01; light.n.02; brush.n.01; couch.n.01; candle.n.01	paint.v.02 	n/a	5.0	1.0
-162.0	1.5	108	indoors.n.01; bowl.n.01	mix.v.04	n/a	5.0	1.0
-163.5	1.5	109	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; open.v.01	n/a	5.0	1.0
-165.0	1.5	110	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; close.v.01	n/a	5.0	1.0
-166.5	1.5	111	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; close.v.01	n/a	5.0	1.0
-168.0	1.5	112	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01	n/a	5.0	1.0
+3.0	1.5	2	outdoors.n.01; daytime.n.01; tree.n.01; chair.n.01; porch.n.01	rock.v.01		5.0	1.0
+4.5	1.5	3	outdoors.n.01; daytime.n.01; tree.n.01; chair.n.01; porch.n.01	rock.v.01		5.0	1.0
+6.0	1.5	4	indoors.n.01; cigarette.n.01; sadness.n.01	smoking.v.01		5.0	1.0
+7.5	1.5	5	indoors.n.01; cigarette.n.01; sadness.n.01	smoking.v.01		5.0	1.0
+9.0	1.5	6	indoors.n.01; cigarette.n.01; sadness.n.01	smoking.v.01; illuminate.v.01		5.0	1.0
+10.5	1.5	7	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01		5.0	1.0
+12.0	1.5	8	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04		5.0	1.0
+13.5	1.5	9	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04		5.0	1.0
+15.0	1.5	10	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04		5.0	1.0
+16.5	1.5	11	indoors.n.01; cigarette.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; window.n.01	smoking.v.01; illuminate.v.01; bark.v.04		5.0	1.0
+18.0	1.5	12	indoors.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+19.5	1.5	13	indoors.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+21.0	1.5	14	indoors.n.01; sadness.n.01; dog.n.01; candle.n.01; kitchen.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+22.5	1.5	15	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+24.0	1.5	16	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+25.5	1.5	17	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+27.0	1.5	18	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+28.5	1.5	19	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+30.0	1.5	20	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+31.5	1.5	21	indoors.n.01; sadness.n.01; candle.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+33.0	1.5	22	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+34.5	1.5	23	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+36.0	1.5	24	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+37.5	1.5	25	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+39.0	1.5	26	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01		5.0	1.0
+40.5	1.5	27	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+42.0	1.5	28	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+43.5	1.5	29	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+45.0	1.5	30	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+46.5	1.5	31	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+48.0	1.5	32	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+49.5	1.5	33	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01	illuminate.v.01; touch.v.01		5.0	1.0
+51.0	1.5	34	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; push.v.01		5.0	1.0
+52.5	1.5	35	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; push.v.01		5.0	1.0
+54.0	1.5	36	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; open.v.01		5.0	1.0
+55.5	1.5	37	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; open.v.01; search.v.01		5.0	1.0
+57.0	1.5	38	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01		5.0	1.0
+58.5	1.5	39	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01		5.0	1.0
+60.0	1.5	40	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+61.5	1.5	41	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+63.0	1.5	42	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+64.5	1.5	43	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+66.0	1.5	44	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+67.5	1.5	45	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; whisper.v.01		5.0	1.0
+69.0	1.5	46	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; whisper.v.01		5.0	1.0
+70.5	1.5	47	indoors.n.01; sadness.n.01; television.n.01; attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; whisper.v.01		5.0	1.0
+72.0	1.5	48	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01; relieved.v.01		5.0	1.0
+73.5	1.5	49	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01; relieved.v.01		5.0	1.0
+75.0	1.5	50	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; happiness.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01; relieved.v.01		5.0	1.0
+76.5	1.5	51	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+78.0	1.5	52	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+79.5	1.5	53	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01		5.0	1.0
+81.0	1.5	54	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; demand.v.01		5.0	1.0
+82.5	1.5	55	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; demand.v.01		5.0	1.0
+84.0	1.5	56	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01		5.0	1.0
+85.5	1.5	57	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01		5.0	1.0
+87.0	1.5	58	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; surprise.v.01		5.0	1.0
+88.5	1.5	59	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01		5.0	1.0
+90.0	1.5	60	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01		5.0	1.0
+91.5	1.5	61	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01		5.0	1.0
+93.0	1.5	62	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01		5.0	1.0
+94.5	1.5	63	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01		5.0	1.0
+96.0	1.5	64	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01		5.0	1.0
+97.5	1.5	65	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; weep.v.01		5.0	1.0
+99.0	1.5	66	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01		5.0	1.0
+100.5	1.5	67	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01		5.0	1.0
+102.0	1.5	68	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01		5.0	1.0
+103.5	1.5	69	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; relieved.v.01; tranquilize.v.01		5.0	1.0
+105.0	1.5	70	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; question.v.03		5.0	1.0
+106.5	1.5	71	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01		5.0	1.0
+108.0	1.5	72	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01		5.0	1.0
+109.5	1.5	73	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	illuminate.v.01; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01		5.0	1.0
+111.0	1.5	74	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01		5.0	1.0
+112.5	1.5	75	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01		5.0	1.0
+114.0	1.5	76	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01		5.0	1.0
+115.5	1.5	77	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+117.0	1.5	78	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01		5.0	1.0
+118.5	1.5	79	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01		5.0	1.0
+120.0	1.5	80	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01		5.0	1.0
+121.5	1.5	81	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01		5.0	1.0
+123.0	1.5	82	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01		5.0	1.0
+124.5	1.5	83	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; demand.v.01		5.0	1.0
+126.0	1.5	84	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01		5.0	1.0
+127.5	1.5	85	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01		5.0	1.0
+129.0	1.5	86	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01		5.0	1.0
+130.5	1.5	87	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01		5.0	1.0
+132.0	1.5	88	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01; weep.v.01		5.0	1.0
+133.5	1.5	89	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; supplicate.v.01; weep.v.01		5.0	1.0
+135.0	1.5	90	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+136.5	1.5	91	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+138.0	1.5	92	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01; call out.v.02		5.0	1.0
+139.5	1.5	93	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+141.0	1.5	94	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+142.5	1.5	95	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+144.0	1.5	96	indoors.n.01;  attention.n.01; window.n.01; shelf.n.01; box.n.03; couch.n.01	dim.v.02; touch.v.01; search.v.01; grab.v.01; sit.v.01; wait.v.01; analyze.v.01; upset.v.01; weep.v.01		5.0	1.0
+145.5	1.5	97	indoors.n.01; knife.n.01; can.n.01	open.v.01		5.0	1.0
+147.0	1.5	98	indoors.n.01; knife.n.01; can.n.01; light.n.02 	open.v.01		5.0	1.0
+148.5	1.5	99	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 		5.0	1.0
+150.0	1.5	100	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 		5.0	1.0
+151.5	1.5	101	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 		5.0	1.0
+153.0	1.5	102	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 		5.0	1.0
+154.5	1.5	103	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 		5.0	1.0
+156.0	1.5	104	indoors.n.01; can.n.01; light.n.02; brush.n.01	paint.v.02 		5.0	1.0
+157.5	1.5	105	indoors.n.01; can.n.01; light.n.02; brush.n.01; couch.n.01; candle.n.01	paint.v.02 		5.0	1.0
+159.0	1.5	106	indoors.n.01; can.n.01; light.n.02; brush.n.01; couch.n.01; candle.n.01	paint.v.02 		5.0	1.0
+160.5	1.5	107	indoors.n.01; can.n.01; light.n.02; brush.n.01; couch.n.01; candle.n.01	paint.v.02 		5.0	1.0
+162.0	1.5	108	indoors.n.01; bowl.n.01	mix.v.04		5.0	1.0
+163.5	1.5	109	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; open.v.01		5.0	1.0
+165.0	1.5	110	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; close.v.01		5.0	1.0
+166.5	1.5	111	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; close.v.01		5.0	1.0
+168.0	1.5	112	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01		5.0	1.0
 169.5	1.5	113	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01	Nancy Wheeler	5.0	1.0
 171.0	1.5	114	indoors.n.01; bowl.n.01; door.n.01	mix.v.04; walk in.v.01; call out.v.02; worry.v.01	Nancy Wheeler	5.0	1.0
 172.5	1.5	115	indoors.n.01; bowl.n.01; door.n.01	walk in.v.01; call out.v.02; worry.v.01	Nancy Wheeler	5.0	1.0
@@ -192,7 +192,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 288.0	1.5	192	outdoors.n.01; daytime.n.01; tree.n.01; automobile.n.01; siren.n.03; light.n.02; road.n.01	alarm.v.02; hurry.v.01; drive.v.01	Sheriff Jim Hopper	5.0	1.0
 289.5	1.5	193	outdoors.n.01; daytime.n.01; tree.n.01; automobile.n.01; siren.n.03; light.n.02; road.n.01	alarm.v.02; hurry.v.01; drive.v.01	Sheriff Jim Hopper	5.0	1.0
 291.0	1.5	194	outdoors.n.01; daytime.n.01; tree.n.01; automobile.n.01; siren.n.03; light.n.02; road.n.01	alarm.v.02; hurry.v.01; drive.v.01	Sheriff Jim Hopper	5.0	1.0
-292.5	1.5	195	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	walk.v.01	n/a	5.0	1.0
+292.5	1.5	195	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	walk.v.01		5.0	1.0
 294.0	1.5	196	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	walk.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 295.5	1.5	197	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	walk.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 297.0	1.5	198	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	walk.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
@@ -227,72 +227,72 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 340.5	1.5	227	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; house.n.01	stop.v.01; irritate.v.01; upset.v.01; reject.v.01; argue.v.02	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 342.0	1.5	228	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; house.n.01	stop.v.01; irritate.v.01; upset.v.01; argue.v.02; shout.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 343.5	1.5	229	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; house.n.01; siren.n.01; focus.n.01	stop.v.01; irritate.v.01; upset.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-345.0	1.5	230	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01	stop.v.01; listen.v.01	n/a	5.0	1.0
-346.5	1.5	231	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01	stop.v.01; listen.v.01	n/a	5.0	1.0
-348.0	1.5	232	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01	stop.v.01; listen.v.01	n/a	5.0	1.0
-349.5	1.5	233	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01; ambulance.n.01	stop.v.01; listen.v.01	n/a	5.0	1.0
+345.0	1.5	230	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01	stop.v.01; listen.v.01		5.0	1.0
+346.5	1.5	231	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01	stop.v.01; listen.v.01		5.0	1.0
+348.0	1.5	232	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01	stop.v.01; listen.v.01		5.0	1.0
+349.5	1.5	233	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01; ambulance.n.01	stop.v.01; listen.v.01		5.0	1.0
 351.0	1.5	234	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01; ambulance.n.01	stop.v.01; listen.v.01; stare.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 352.5	1.5	235	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; focus.n.01; police.n.01; ambulance.n.01	stop.v.01; listen.v.01; stare.v.01; hurry.v.01; run.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-354.0	1.5	236	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01	drive.v.01	n/a	5.0	1.0
+354.0	1.5	236	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01	drive.v.01		5.0	1.0
 355.5	1.5	237	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; bike.n.02; puddle.n.02	drive.v.01; bike.v.01; hurry.v.01	Mike Wheeler, Eleven	5.0	1.0
 357.0	1.5	238	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; bike.n.02; puddle.n.02	drive.v.01; bike.v.01; hurry.v.01	Mike Wheeler, Eleven	5.0	1.0
 358.5	1.5	239	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; bike.n.02; puddle.n.02	drive.v.01; bike.v.01; hurry.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 360.0	1.5	240	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; bike.n.02; puddle.n.02	drive.v.01; bike.v.01; hurry.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 361.5	1.5	241	outdoors.n.01; nighttime.n.01; tree.n.01; light.n.02; siren.n.01; bike.n.02; puddle.n.02	drive.v.01; bike.v.01; hurry.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-363.0	1.5	242	indoors.n.01; wall.n.01; brush.v.02	paint.v.01	n/a	5.0	1.0
-364.5	1.5	243	indoors.n.01; wall.n.01; brush.v.02	paint.v.01	n/a	5.0	1.0
-366.0	1.5	244	indoors.n.01; wall.n.01; brush.v.02	paint.v.01; inhale.v.01	n/a	5.0	1.0
-367.5	1.5	245	indoors.n.01; wall.n.01; brush.v.02	paint.v.01; exhale.v.01	n/a	5.0	1.0
-369.0	1.5	246	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01	put down.v.01	n/a	5.0	1.0
-370.5	1.5	247	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01; anxiousness.n.02	put down.v.01	n/a	5.0	1.0
-372.0	1.5	248	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01; anxiousness.n.02	whisper.v.01	n/a	5.0	1.0
-373.5	1.5	249	indoors.n.01; window.n.01	whisper.v.01; supplicate.v.01	n/a	5.0	1.0
-375.0	1.5	250	indoors.n.01; window.n.01	whisper.v.01; supplicate.v.01	n/a	5.0	1.0
-376.5	1.5	251	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01; anxiousness.n.02	surprise.v.01; illuminate.v.01	n/a	5.0	1.0
-378.0	1.5	252	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01	n/a	5.0	1.0
-379.5	1.5	253	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01	n/a	5.0	1.0
-381.0	1.5	254	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; supplicate.v.01	n/a	5.0	1.0
-382.5	1.5	255	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-384.0	1.5	256	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-385.5	1.5	257	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-387.0	1.5	258	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-388.5	1.5	259	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-390.0	1.5	260	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-391.5	1.5	261	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-393.0	1.5	262	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01	n/a	5.0	1.0
-394.5	1.5	263	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-396.0	1.5	264	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-397.5	1.5	265	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-399.0	1.5	266	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-400.5	1.5	267	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01; confuse.v.02; supplicate.v.01	n/a	5.0	1.0
-402.0	1.5	268	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01; confuse.v.02; supplicate.v.01	n/a	5.0	1.0
-403.5	1.5	269	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01; confuse.v.02; supplicate.v.01	n/a	5.0	1.0
-405.0	1.5	270	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-406.5	1.5	271	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-408.0	1.5	272	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-409.5	1.5	273	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-411.0	1.5	274	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	5.0	1.0
-412.5	1.5	275	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	3.0	5.0
-414.0	1.5	276	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02	n/a	3.0	7.0
-415.5	1.5	277	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02	n/a	3.0	7.0
-417.0	1.5	278	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02	n/a	3.0	8.0
-418.5	1.5	279	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01	n/a	3.0	7.0
-420.0	1.5	280	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01	n/a	3.0	8.0
-421.5	1.5	281	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01	n/a	3.0	8.0
-423.0	1.5	282	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; hand.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01	n/a	3.0	8.0
-424.5	1.5	283	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; body.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; terrify.v.01	n/a	3.0	8.0
-426.0	1.5	284	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; body.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; terrify.v.01	n/a	3.0	8.0
-427.5	1.5	285	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; body.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; terrify.v.01; hurry.v.01; run.v.01	n/a	3.0	8.0
-429.0	1.5	286	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; light.n.02; siren.n.01	bike.v.01	n/a	5.0	1.0
+363.0	1.5	242	indoors.n.01; wall.n.01; brush.v.02	paint.v.01		5.0	1.0
+364.5	1.5	243	indoors.n.01; wall.n.01; brush.v.02	paint.v.01		5.0	1.0
+366.0	1.5	244	indoors.n.01; wall.n.01; brush.v.02	paint.v.01; inhale.v.01		5.0	1.0
+367.5	1.5	245	indoors.n.01; wall.n.01; brush.v.02	paint.v.01; exhale.v.01		5.0	1.0
+369.0	1.5	246	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01	put down.v.01		5.0	1.0
+370.5	1.5	247	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01; anxiousness.n.02	put down.v.01		5.0	1.0
+372.0	1.5	248	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01; anxiousness.n.02	whisper.v.01		5.0	1.0
+373.5	1.5	249	indoors.n.01; window.n.01	whisper.v.01; supplicate.v.01		5.0	1.0
+375.0	1.5	250	indoors.n.01; window.n.01	whisper.v.01; supplicate.v.01		5.0	1.0
+376.5	1.5	251	indoors.n.01; brush.n.01; couch.n.01; candle.n.01; wall.n.01; alphabet.n.01; can.n.01; anxiousness.n.02	surprise.v.01; illuminate.v.01		5.0	1.0
+378.0	1.5	252	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01		5.0	1.0
+379.5	1.5	253	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01		5.0	1.0
+381.0	1.5	254	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; supplicate.v.01		5.0	1.0
+382.5	1.5	255	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+384.0	1.5	256	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+385.5	1.5	257	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+387.0	1.5	258	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+388.5	1.5	259	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+390.0	1.5	260	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+391.5	1.5	261	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+393.0	1.5	262	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; understand.v.01		5.0	1.0
+394.5	1.5	263	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+396.0	1.5	264	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+397.5	1.5	265	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+399.0	1.5	266	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+400.5	1.5	267	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01; confuse.v.02; supplicate.v.01		5.0	1.0
+402.0	1.5	268	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01; confuse.v.02; supplicate.v.01		5.0	1.0
+403.5	1.5	269	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; dim.v.02; signal.v.01; confuse.v.02; supplicate.v.01		5.0	1.0
+405.0	1.5	270	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+406.5	1.5	271	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+408.0	1.5	272	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+409.5	1.5	273	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+411.0	1.5	274	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		5.0	1.0
+412.5	1.5	275	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		3.0	5.0
+414.0	1.5	276	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	relieve.v.01; illuminate.v.01; signal.v.01; confuse.v.02		3.0	7.0
+415.5	1.5	277	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02		3.0	7.0
+417.0	1.5	278	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02		3.0	8.0
+418.5	1.5	279	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01		3.0	7.0
+420.0	1.5	280	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01		3.0	8.0
+421.5	1.5	281	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01		3.0	8.0
+423.0	1.5	282	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; hand.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; scared.v.01		3.0	8.0
+424.5	1.5	283	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; body.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; terrify.v.01		3.0	8.0
+426.0	1.5	284	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; body.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; terrify.v.01		3.0	8.0
+427.5	1.5	285	indoors.n.01; wall.n.01; alphabet.n.01; anxiousness.n.02; body.n.01	illuminate.v.01; signal.v.01; confuse.v.02; flicker.v.02; terrify.v.01; hurry.v.01; run.v.01		3.0	8.0
+429.0	1.5	286	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; light.n.02; siren.n.01	bike.v.01		5.0	1.0
 430.5	1.5	287	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; light.n.02; siren.n.01	bike.v.01; hurry.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 432.0	1.5	288	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; light.n.02; siren.n.01	bike.v.01; hurry.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 433.5	1.5	289	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	bike.v.01; hurry.v.01; drive.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-435.0	1.5	290	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01	n/a	5.0	1.0
-436.5	1.5	291	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01	n/a	5.0	1.0
-438.0	1.5	292	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01	n/a	5.0	1.0
-439.5	1.5	293	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01	n/a	5.0	1.0
-441.0	1.5	294	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01	n/a	5.0	1.0
-442.5	1.5	295	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02	bike.v.01	n/a	5.0	1.0
+435.0	1.5	290	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01		5.0	1.0
+436.5	1.5	291	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01		5.0	1.0
+438.0	1.5	292	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01		5.0	1.0
+439.5	1.5	293	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01		5.0	1.0
+441.0	1.5	294	outdoors.n.01; nighttime.n.01; light.n.02; tree.n.01; light.n.02; siren.n.01; police.n.01	drive.v.01		5.0	1.0
+442.5	1.5	295	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02	bike.v.01		5.0	1.0
 444.0	1.5	296	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02	bike.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 445.5	1.5	297	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	bike.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 447.0	1.5	298	outdoors.n.01; nighttime.n.01; bike.n.02; light.n.02; tree.n.01	bike.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
@@ -307,7 +307,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 460.5	1.5	307	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01; search.v.01	Sheriff Jim Hopper	5.0	1.0
 462.0	1.5	308	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01; search.v.01	Sheriff Jim Hopper	5.0	1.0
 463.5	1.5	309	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01; search.v.01	Sheriff Jim Hopper	5.0	1.0
-465.0	1.5	310	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01	n/a	5.0	1.0
+465.0	1.5	310	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01		5.0	1.0
 466.5	1.5	311	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01	Sheriff Jim Hopper	5.0	1.0
 468.0	1.5	312	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01	Sheriff Jim Hopper	5.0	1.0
 469.5	1.5	313	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01	drive.v.01	Sheriff Jim Hopper	5.0	1.0
@@ -326,11 +326,11 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 489.0	1.5	326	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	walk.v.01; hurry.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 490.5	1.5	327	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	walk.v.01; focus.v.01; sneak.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 492.0	1.5	328	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	walk.v.01; focus.v.01; sneak.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-493.5	1.5	329	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; turn around.v.01	n/a	5.0	1.0
-495.0	1.5	330	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 	n/a	5.0	1.0
-496.5	1.5	331	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 	n/a	5.0	1.0
-498.0	1.5	332	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 	n/a	5.0	1.0
-499.5	1.5	333	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 	n/a	5.0	1.0
+493.5	1.5	329	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; turn around.v.01		5.0	1.0
+495.0	1.5	330	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 		5.0	1.0
+496.5	1.5	331	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 		5.0	1.0
+498.0	1.5	332	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 		5.0	1.0
+499.5	1.5	333	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02	uncover.v.02; carry.v.01 		5.0	1.0
 501.0	1.5	334	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; ambulance.n.01	close.v.01; hurry.v.01; worry.v.01	Sheriff Jim Hopper	5.0	1.0
 502.5	1.5	335	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; ambulance.n.01	close.v.01; hurry.v.01; worry.v.01	Sheriff Jim Hopper	5.0	1.0
 504.0	1.5	336	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; ambulance.n.01	close.v.01; hurry.v.01; worry.v.01	Sheriff Jim Hopper	5.0	1.0
@@ -342,9 +342,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 513.0	1.5	342	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	focus.v.01; sneak.v.01; analyze.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 514.5	1.5	343	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	focus.v.01; sneak.v.01; analyze.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 516.0	1.5	344	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	focus.v.01; sneak.v.01; analyze.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-517.5	1.5	345	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02; police.n.01	uncover.v.02; carry.v.01 	n/a	5.0	1.0
-519.0	1.5	346	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02; police.n.01	uncover.v.02; carry.v.01 	n/a	5.0	1.0
-520.5	1.5	347	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02; police.n.01	uncover.v.02; carry.v.01 	n/a	5.0	1.0
+517.5	1.5	345	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02; police.n.01	uncover.v.02; carry.v.01 		5.0	1.0
+519.0	1.5	346	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02; police.n.01	uncover.v.02; carry.v.01 		5.0	1.0
+520.5	1.5	347	outdoors.n.01; nighttime.n.01; vehicle.n.01; light.n.02; siren.n.01; firefighter.n.01; water.n.02; police.n.01	uncover.v.02; carry.v.01 		5.0	1.0
 522.0	1.5	348	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	focus.v.01; sneak.v.01; analyze.v.01	Lucas Sinclair	5.0	1.0
 523.5	1.5	349	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	focus.v.01; sneak.v.01; analyze.v.01; sorrow.v.01	Lucas Sinclair	5.0	1.0
 525.0	1.5	350	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01	focus.v.01; sneak.v.01; analyze.v.01; sorrow.v.01	Lucas Sinclair	5.0	1.0
@@ -376,12 +376,12 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 564.0	1.5	376	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01; sadness.n.01; agression.n.01; tear.n.01; bike.n.02; siren.n.01	upset.v.01; leave.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 565.5	1.5	377	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01; sadness.n.01; agression.n.01; tear.n.01; bike.n.02; siren.n.01	upset.v.01; leave.v.01	Mike Wheeler, Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
 567.0	1.5	378	outdoors.n.01; nighttime.n.01; light.n.02; fire truck.n.01; sadness.n.01; tear.n.01; siren.n.01	upset.v.01; leave.v.01	Eleven, Lucas Sinclair, Dustin Henderson	5.0	1.0
-568.5	1.5	379	outdoors.n.01; nighttime.n.01; tree.n.01	hurry.v.01; run.n.01; terrify.v.01	n/a	5.0	1.0
-570.0	1.5	380	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; run.n.01; terrify.v.01	n/a	5.0	1.0
-571.5	1.5	381	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; run.n.01; terrify.v.01	n/a	5.0	1.0
-573.0	1.5	382	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01	n/a	5.0	1.0
-574.5	1.5	383	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01	n/a	5.0	1.0
-576.0	1.5	384	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01	n/a	5.0	1.0
+568.5	1.5	379	outdoors.n.01; nighttime.n.01; tree.n.01	hurry.v.01; run.n.01; terrify.v.01		5.0	1.0
+570.0	1.5	380	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; run.n.01; terrify.v.01		5.0	1.0
+571.5	1.5	381	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; run.n.01; terrify.v.01		5.0	1.0
+573.0	1.5	382	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01		5.0	1.0
+574.5	1.5	383	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01		5.0	1.0
+576.0	1.5	384	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01		5.0	1.0
 577.5	1.5	385	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01; relieve.v.01	Jonathan Byers	5.0	1.0
 579.0	1.5	386	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01; relieve.v.01; close.v.01	Jonathan Byers	5.0	1.0
 580.5	1.5	387	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	hurry.v.01; terrify.v.01; stop.v.01; relieve.v.01; hug.v.01	Jonathan Byers	5.0	1.0
@@ -414,4 +414,4 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 621.0	1.5	414	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02; siren.n.01	stop.v.01; relieve.v.01; hug.v.01	Jonathan Byers	5.0	1.0
 622.5	1.5	415	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02; siren.n.01	stop.v.01; relieve.v.01; hug.v.01	Jonathan Byers	5.0	1.0
 624.0	1.5	416	outdoors.n.01; nighttime.n.01; tree.n.01; automobile.n.01; light.n.02; siren.n.01	stop.v.01; relieve.v.01; hug.v.01	Jonathan Byers	5.0	1.0
-625.5	1.5	417	n/a	n/a	n/a	n/a	n/a
+625.5	1.5	417					

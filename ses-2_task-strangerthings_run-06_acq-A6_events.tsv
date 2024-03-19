@@ -69,7 +69,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 103.5	1.5	69	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01	drive.v.01	unnamed character	1	1
 105.0	1.5	70	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01	drive.v.01	unnamed character	1	1
 106.5	1.5	71	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01	drive.v.01	unnamed character	1	1
-108.0	1.5	72	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01	n/a	unnamed character	1	1
+108.0	1.5	72	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01		unnamed character	1	1
 109.5	1.5	73	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01	turn off.v.01	unnamed character	1	1
 111.0	1.5	74	sign.n.02; darkness.n.01; forest.n.01; car.n.01; telephone wire.n.01	open.v.01	Jonathan Byers	1	1
 112.5	1.5	75	sign.n.02; darkness.n.01; forest.n.01; car.n.01	open.v.01	Jonathan Byers	1	1
@@ -216,4 +216,4 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 324.0	1.5	216	 camera.n.01; forest.n.01	fidget.v.01; stare.v.01	Jonathan Byers	1	1
 325.5	1.5	217	camera.n.01; forest.n.01	stare.v.01	Jonathan Byers	1	1
 327.0	1.5	218	pool.n.01; chair.n.01; photography.n.01; camera.n.01; forest.n.01; photo.n.01	stare.v.01	Jonathan Byers	1	1
-328.5	1.5	219	photo.n.01; chair.n.01; house.n.01; pool.n.01	n/a	Nancy Wheeler; Steve Harrington	1	1
+328.5	1.5	219	photo.n.01; chair.n.01; house.n.01; pool.n.01		Nancy Wheeler; Steve Harrington	1	1

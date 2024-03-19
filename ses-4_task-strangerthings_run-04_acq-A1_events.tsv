@@ -63,8 +63,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 94.5	1.5	63	school.n.01; hallway.n.01; disguise.n.01;  teacher.n.01; assembly.n.03; lie.n.01; upset.n.01; inquiring.n.01; cousin.n.01; sweden.n.01; 	surprise.v.01; query.v.03; introduce.v.01; 	mike wheeler, eleven, lucas, dustin henderson, scott clarke, 	2	3
 96.0	1.5	64	school.n.01; hallway.n.01; disguise.n.01;  teacher.n.01; assembly.n.03; lie.n.01; upset.n.01; inquiring.n.01; cousin.n.01; sweden.n.01; 	surprise.v.01; query.v.03; introduce.v.01; 	mike wheeler, eleven, lucas, dustin henderson, scott clarke, 	2	3
 97.5	1.5	65	school.n.01; hallway.n.01; disguise.n.01;  teacher.n.01; assembly.n.03;   loudspeaker.n.01; 	query.v.03; walk.v.01; speaking.v.01; 	mike wheeler, eleven, lucas, dustin henderson, scott clarke, 	2	3
-99.0	1.5	66	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03	sit.v.01; listen.v.01; speaking.v.01; 	n/a	2	2
-100.5	1.5	67	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03	sit.v.01; listen.v.01; speaking.v.01; 	n/a	2	2
+99.0	1.5	66	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03	sit.v.01; listen.v.01; speaking.v.01; 		2	2
+100.5	1.5	67	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03	sit.v.01; listen.v.01; speaking.v.01; 		2	2
 102.0	1.5	68	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03; interruption.n.01; silence.n.01; 	sit.v.01; listen.v.01; speaking.v.01; 	mike wheeler, eleven, lucas, dustin henderson, scott clarke, 	2	2
 103.5	1.5	69	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03; interruption.n.01; silence.n.01; 	sit.v.01; listen.v.01; speaking.v.01; stare.v.01 	mike wheeler, eleven, lucas, dustin henderson, scott clarke, 	2	2
 105.0	1.5	70	school.n.01; assembly.n.03; students.n.01; faculty.n.01; principal.n.01; gymnasium.n.01; lesson.n.03; interruption.n.01; silence.n.01; 	sit.v.01; listen.v.01; speaking.v.01; stare.v.01 	mike wheeler, eleven, lucas, dustin henderson, scott clarke, 	2	2
@@ -233,15 +233,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 349.5	1.5	233	hazmat.n.01; scientist.n.01; radiocommunication.n.01; connection.n.01; siren.n.03; winch.n.01; haste.n.01; suspense.n.01; death.n.01; blood.n.01; 	worry.v.01; upset.v.02; frighten.v.01;  witness.v.01; reel.v.03; confuse.v.05; disappoint.v.01; regenerate.v.01; 	Martin brenner	3	5
 351.0	1.5	234	hazmat.n.01; scientist.n.01; radiocommunication.n.01; connection.n.01; siren.n.03; winch.n.01; haste.n.01; suspense.n.01; death.n.01; blood.n.01; 	worry.v.01; upset.v.02; frighten.v.01;  witness.v.01; reel.v.03; confuse.v.05; disappoint.v.01; regenerate.v.01; 	Martin brenner	3	5
 352.5	1.5	235	hazmat.n.01; scientist.n.01; radiocommunication.n.01; connection.n.01; siren.n.03; winch.n.01; haste.n.01; suspense.n.01; death.n.01; blood.n.01; 	worry.v.01; upset.v.02; frighten.v.01;  witness.v.01; reel.v.03; confuse.v.05; disappoint.v.01; regenerate.v.01; 	Martin brenner	3	5
-354.0	1.5	236	portal.n.01; hazmat.n.01; scientist.n.01; siren.n.03; winch.n.01;  suspense.n.01; death.n.01; blood.n.01; school.n.01; assembly.n.01; prinicipal.n.01	worry.v.01; frighten.v.01; reel.v.03; confuse.v.05; disappoint.v.01; regenerate.v.01; close.v.01; speak.v.01; 	n/a	3	5
-355.5	1.5	237	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-357.0	1.5	238	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-358.5	1.5	239	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-360.0	1.5	240	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-361.5	1.5	241	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-363.0	1.5	242	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-364.5	1.5	243	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
-366.0	1.5	244	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	n/a	3	3
+354.0	1.5	236	portal.n.01; hazmat.n.01; scientist.n.01; siren.n.03; winch.n.01;  suspense.n.01; death.n.01; blood.n.01; school.n.01; assembly.n.01; prinicipal.n.01	worry.v.01; frighten.v.01; reel.v.03; confuse.v.05; disappoint.v.01; regenerate.v.01; close.v.01; speak.v.01; 		3	5
+355.5	1.5	237	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+357.0	1.5	238	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+358.5	1.5	239	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+360.0	1.5	240	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+361.5	1.5	241	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+363.0	1.5	242	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+364.5	1.5	243	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
+366.0	1.5	244	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 		3	3
 367.5	1.5	245	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	lucas, mike wheeler, dustin henderson, eleven 	3	3
 369.0	1.5	246	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	lucas, mike wheeler, dustin henderson, eleven 	3	3
 370.5	1.5	247	school.n.01; assembly.n.01; prinicipal.n.01; eulogy.n.01; quality.n.01; counselor.n.01; grief.n.01; 	speak.v.01; listen.v.01; praise.v.01; 	lucas, mike wheeler, dustin henderson, eleven 	3	3

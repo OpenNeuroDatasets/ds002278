@@ -1,5 +1,5 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	toaster.n.02; plate.n.04; waffle.n.01; phone.n.01	 reach.v.03	n/a	5	4
+3.0	1.5	2	toaster.n.02; plate.n.04; waffle.n.01; phone.n.01	 reach.v.03		5	4
 4.5	1.5	3	toaster.n.02; waffle.n.01; coat.n.01	reach.v.03; hide.v.01	Mike Wheeler	4	6
 6.0	1.5	4	toaster.n.02; waffle.n.01; coat.n.01	reach.v.03; serve.v.05	Mike Wheeler	4	5
 7.5	1.5	5	waffle.n.01	eat.v.02; devour.v.03	Mike Wheeler; Nancy Wheeler; Mike's little sister	5	4
@@ -221,9 +221,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 331.5	1.5	221	school.n.01;hallway.n.01; sign.n.03	walk.v.01; leave.v.01	Jonathan Byers	5	5
 333.0	1.5	222	school.n.01;hallway.n.01; sign.n.03	walk.v.01; leave.v.01	Jonathan Byers	5	5
 334.5	1.5	223	school.n.01;hallway.n.01;door.n.01	walk.v.01; leave.v.01	Jonathan Byers	5	5
-336.0	1.5	224	school.n.01;hallway.n.01; door.n.01	close.v.02	n/a	5	5
-337.5	1.5	225	school.n.01;hallway.n.01;door.n.01	close.v.02	n/a	5	5
-339.0	1.5	226	school.n.01;hallway.n.01; door.n.01	close.v.02	n/a	5	5
+336.0	1.5	224	school.n.01;hallway.n.01; door.n.01	close.v.02		5	5
+337.5	1.5	225	school.n.01;hallway.n.01;door.n.01	close.v.02		5	5
+339.0	1.5	226	school.n.01;hallway.n.01; door.n.01	close.v.02		5	5
 340.5	1.5	227	school.n.01; desk.n.01; book.n.01; classroom.n.01	drop.v.02	Dustin Henderson	5	5
 342.0	1.5	228	school.n.01; desk.n.01; book.n.01; classroom.n.01	drop.v.02; sit.v.01	Lucas Sinclair	5	5
 343.5	1.5	229	school.n.01; desk.n.01; book.n.01; classroom.n.01	sit.v.01; turn.v.01	Dustin henderson; Lucas Sinclair	5	5

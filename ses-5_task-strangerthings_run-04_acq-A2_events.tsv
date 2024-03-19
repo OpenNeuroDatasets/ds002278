@@ -1,10 +1,10 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	wall.n.01; water.n.01; shower.n.01; person.n.01	shower.v.03	n/a	5	1
-4.5	1.5	3	wall.n.01; water.n.01; shower.n.01; person.n.01	shower.v.03	n/a	5	1
-6.0	1.5	4	wall.n.01; water.n.01; shower.n.01; person.n.01	shower.v.03	n/a	5	1
-7.5	1.5	5	wall.n.01; water.n.01; shower.n.01; person.n.01; light.n.01 door.n.01	shower.v.03	n/a	5	1
-9.0	1.5	6	door.n.01; wall.n.01; light.n.01	n/a	n/a	5	1
-10.5	1.5	7	wall.n.01; chair.n.01	n/a	n/a	5	1
+3.0	1.5	2	wall.n.01; water.n.01; shower.n.01; person.n.01	shower.v.03		5	1
+4.5	1.5	3	wall.n.01; water.n.01; shower.n.01; person.n.01	shower.v.03		5	1
+6.0	1.5	4	wall.n.01; water.n.01; shower.n.01; person.n.01	shower.v.03		5	1
+7.5	1.5	5	wall.n.01; water.n.01; shower.n.01; person.n.01; light.n.01 door.n.01	shower.v.03		5	1
+9.0	1.5	6	door.n.01; wall.n.01; light.n.01			5	1
+10.5	1.5	7	wall.n.01; chair.n.01			5	1
 12.0	1.5	8	chair.n.01; backpack.n.01	search.v.02	Joyce Byers	5	1
 13.5	1.5	9	chair.n.01; backpack.n.01; wall.n.01; light.n.02; cable.n.02	hold.v.02	Joyce Byers	5	1
 15.0	1.5	10	chair.n.01; wall.n.01; light.n.02; cable.n.02; letter.n.02; couch.n.01	hold.v.02; open.v.05	Joyce Byers	5	1
@@ -18,11 +18,11 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 27.0	1.5	18	chair.n.01; backpack.n.01; light.n.01; light.n.02; cable.n.02 	gesture.v.01	Joyce Byers	4	1
 28.5	1.5	19	chair.n.01; backpack.n.01; light.n.01; light.n.02; cable.n.02 	gesture.v.01	Joyce Byers	4	1
 30.0	1.5	20	chair.n.01; wall.n.01; light.n.02; cable.n.02; blind.n.03; rake.n.03; window.n.01	turn.v.01	Joyce Byers	4	1
-31.5	1.5	21	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01	n/a	n/a	5	1
-33.0	1.5	22	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01	n/a	n/a	5	1
-34.5	1.5	23	wall.n.01; window.n.01; blind.n.03; club.n.05; mallet.n.01; bat.n.05	n/a	n/a	5	1
-36.0	1.5	24	wall.n.01; window.n.01; blind.n.03; mallet.n.01; bat.n.05; shelf.n.01	n/a	n/a	5	1
-37.5	1.5	25	wall.n.01; window.n.01; blind.n.03; mallet.n.01; bat.n.05; shelf.n.01	n/a	n/a	5	1
+31.5	1.5	21	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01			5	1
+33.0	1.5	22	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01			5	1
+34.5	1.5	23	wall.n.01; window.n.01; blind.n.03; club.n.05; mallet.n.01; bat.n.05			5	1
+36.0	1.5	24	wall.n.01; window.n.01; blind.n.03; mallet.n.01; bat.n.05; shelf.n.01			5	1
+37.5	1.5	25	wall.n.01; window.n.01; blind.n.03; mallet.n.01; bat.n.05; shelf.n.01			5	1
 39.0	1.5	26	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01; door.n.01; shovel.n.01; box.n.01; bike.n.02; trash can.n.01; bat.n.05	grab.v.03; hold.v.02	Nancy Wheeler	5	1
 40.5	1.5	27	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01; door.n.01; shovel.n.01; box.n.01; bike.n.02; trash can.n.01; bat.n.05	hold.v.02; step.v.01; stare.v.01	Nancy Wheeler	5	1
 42.0	1.5	28	wall.n.01; window.n.01; blind.n.03; rake.n.03; club.n.05; mallet.n.01; door.n.01; shovel.n.01; box.n.01; bike.n.02; trash can.n.01; bat.n.05	hold.v.02; swing.v.01; step.v.01	Nancy Wheeler	5	1
@@ -239,9 +239,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 358.5	1.5	239	tree.n.01; bush.n.03; gun.n.01; log.n.01; smoke.n.01	hold.v.02; stare.v.01	Jonathan Byers; Nancy Wheeler	5	1
 360.0	1.5	240	tree.n.01; bush.n.03; gun.n.01	hold.v.02; exhale.v.01; smile.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	6	1
 361.5	1.5	241	tree.n.01; bush.n.03; gun.n.01	hold.v.02; exhale.v.01; smile.v.01; stare.v.01	Jonathan Byers; Nancy Wheeler	6	1
-363.0	1.5	242	table.n.02; can.n.01; blind.n.03; chair.n.01; newspaper.n.01; curtain.n.01; gun.n.01	n/a	n/a	5	1
-364.5	1.5	243	table.n.02; can.n.01; blind.n.03; chair.n.01; newspaper.n.01; gun.n.01	n/a	n/a	5	1
-366.0	1.5	244	table.n.02; can.n.01; chair.n.01; newspaper.n.01; gun.n.01	n/a	Sheriff Jim Hopper	5	1
+363.0	1.5	242	table.n.02; can.n.01; blind.n.03; chair.n.01; newspaper.n.01; curtain.n.01; gun.n.01			5	1
+364.5	1.5	243	table.n.02; can.n.01; blind.n.03; chair.n.01; newspaper.n.01; gun.n.01			5	1
+366.0	1.5	244	table.n.02; can.n.01; chair.n.01; newspaper.n.01; gun.n.01		Sheriff Jim Hopper	5	1
 367.5	1.5	245	table.n.02; can.n.01; chair.n.01; newspaper.n.01; gun.n.01; phone.n.01; outlet.n.02; rubber band.n.01	hold.v.02; stare.v.01	Sheriff Jim Hopper	5	1
 369.0	1.5	246	table.n.02; can.n.01; chair.n.01; newspaper.n.01; gun.n.01; phone.n.01; outlet.n.02; rubber band.n.01; fridge.n.01	hold.v.02; stare.v.01	Sheriff Jim Hopper	5	1
 370.5	1.5	247	table.n.02; chair.n.01; newspaper.n.01; gun.n.01; phone.n.01; outlet.n.02; rubber band.n.01; fridge.n.01	hold.v.02; talk.v.01	Sheriff Jim Hopper	5	1

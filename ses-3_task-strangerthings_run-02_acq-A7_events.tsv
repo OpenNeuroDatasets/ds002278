@@ -199,8 +199,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 298.5	1.5	199	car.n.01; lab.n.01; fence.n.01; post.n.01	drive.v.01; talk.v.01; request.v.01	Sheriff Jim Hopper; Police Officers; guard	5	4
 300.0	1.5	200	car.n.01; lab.n.01; fence.n.01; post.n.01	drive.v.01; talk.v.01; request.v.01	Sheriff Jim Hopper; Police Officers; guard	5	4
 301.5	1.5	201	car.n.01; lab.n.01; fence.n.01; post.n.01	drive.v.01; talk.v.01; request.v.01	Sheriff Jim Hopper; Police Officers; guard	5	4
-303.0	1.5	202	room.n.01; table.n.01; trash.n.01	n/a	n/a	5	4
-304.5	1.5	203	room.n.01; table.n.01; trash.n.01	n/a	n/a	5	4
+303.0	1.5	202	room.n.01; table.n.01; trash.n.01			5	4
+304.5	1.5	203	room.n.01; table.n.01; trash.n.01			5	4
 306.0	1.5	204	room.n.01; table.n.01; trash.n.01; couch.n.01	sit.v.01; look.v.01	Eleven	5	4
 307.5	1.5	205	room.n.01; table.n.01; trash.n.01; couch.n.01	sit.v.01; look.v.01	Eleven	5	4
 309.0	1.5	206	room.n.01; couch.n.01; toy.n.01; radio.n.03	sit.v.01; look.v.01; levitate.v.01	Eleven	5	4
@@ -218,8 +218,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 327.0	1.5	218	room.n.01; couch.n.01; radio.n.03; static.n.01	look.v.01; stand.v.01	Eleven	5	4
 328.5	1.5	219	room.n.01; couch.n.01; radio.n.03; static.n.01	look.v.01; leave.v.01	Eleven	5	4
 330.0	1.5	220	room.n.01; couch.n.01; radio.n.03; static.n.01; stairs.n.01	look.v.01; leave.v.01	Eleven	5	4
-331.5	1.5	221	house.n.01; hallway.n.01	n/a	n/a	5	4
-333.0	1.5	222	house.n.01; hallway.n.01	n/a	n/a	5	4
+331.5	1.5	221	house.n.01; hallway.n.01			5	4
+333.0	1.5	222	house.n.01; hallway.n.01			5	4
 334.5	1.5	223	house.n.01; hallway.n.01	walk.v.01; look.v.01	Eleven	5	4
 336.0	1.5	224	house.n.01; hallway.n.01	walk.v.01; look.v.01	Eleven	5	4
 337.5	1.5	225	house.n.01; hallway.n.01	walk.v.01; look.v.01	Eleven	5	4
@@ -309,4 +309,4 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 463.5	1.5	309	house.n.01; television.n.01	kneel.v.01; remember.v.02	Eleven	5	4
 465.0	1.5	310	house.n.01; television.n.01	kneel.v.01; remember.v.02	Eleven	5	4
 466.5	1.5	311	house.n.01; television.n.01	stand.v.01	Eleven	5	4
-468.0	1.5	312	blackness.v.02	n/a	n/a	5	4
+468.0	1.5	312	blackness.v.02			5	4

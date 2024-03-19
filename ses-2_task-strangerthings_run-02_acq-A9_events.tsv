@@ -221,9 +221,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 331.5	1.5	221	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02	exit.v.01	Jonathan Byers	5	4
 333.0	1.5	222	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	exit.v.01	Jonathan Byers	5	4
 334.5	1.5	223	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	exit.v.01; close.v.02	Jonathan Byers	5	4
-336.0	1.5	224	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	close.v.02	n/a	5	4
-337.5	1.5	225	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	 close.v.02	n/a	5	4
-339.0	1.5	226	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	 close.v.02	n/a	5	4
+336.0	1.5	224	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	close.v.02		5	4
+337.5	1.5	225	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	 close.v.02		5	4
+339.0	1.5	226	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01	 close.v.02		5	4
 340.5	1.5	227	 pin.n.09; car.n.01; door.n.01; a/c.n.01; sign.n.02; bus.n.01; light.n.01; classroom.n.01	 close.v.02; drop.v.02	n/a 	5	4
 342.0	1.5	228	book bag.n.01; chair.n.01; book.n.01; watch.n.01	set down.v.04; sit.n.01	Lucas Sinclair	5	4
 343.5	1.5	229	book bag.n.01; chair.n.01; book.n.01; watch.n.01	remove.v.01	Lucas Sinclair; Dustin Henderson	5	4

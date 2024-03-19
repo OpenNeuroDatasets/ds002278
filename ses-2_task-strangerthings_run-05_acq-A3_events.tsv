@@ -61,19 +61,19 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 91.5	1.5	61	dining table.n.01; lamp.n.02	dining.v.01; analyze.v.01; upset.v.01; stare.v.01	Nancy Wheeler; Lucas Sinclair; Mike Wheeler; Dustin Henderson	5	1
 93.0	1.5	62	dining table.n.01; lamp.n.02	dining.v.01; analyze.v.01; upset.v.01; stare.v.01	Nancy Wheeler; Lucas Sinclair; Mike Wheeler; Dustin Henderson	5	1
 94.5	1.5	63	dining table.n.01; lamp.n.02	dining.v.01; analyze.v.01; upset.v.01; stare.v.01	Nancy Wheeler; Lucas Sinclair; Mike Wheeler; Dustin Henderson	5	1
-96.0	1.5	64	nighttime.n.01; restaurant.n.01; police.n.01	bark.v.04	n/a	5	1
-97.5	1.5	65	nighttime.n.01; restaurant.n.01; police.n.01	bark.v.04	n/a	5	1
-99.0	1.5	66	nighttime.n.01; restaurant.n.01; police.n.01	bark.v.04	n/a	5	1
-100.5	1.5	67	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01	n/a	5	1
-102.0	1.5	68	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01	n/a	5	1
-103.5	1.5	69	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01; search.v.02	n/a	5	1
-105.0	1.5	70	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01; search.v.02	n/a	5	1
-106.5	1.5	71	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01; search.v.02	n/a	5	1
-108.0	1.5	72	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01	n/a	5	1
-109.5	1.5	73	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01	n/a	5	1
-111.0	1.5	74	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01	n/a	5	1
-112.5	1.5	75	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01	n/a	5	1
-114.0	1.5	76	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01	n/a	5	1
+96.0	1.5	64	nighttime.n.01; restaurant.n.01; police.n.01	bark.v.04		5	1
+97.5	1.5	65	nighttime.n.01; restaurant.n.01; police.n.01	bark.v.04		5	1
+99.0	1.5	66	nighttime.n.01; restaurant.n.01; police.n.01	bark.v.04		5	1
+100.5	1.5	67	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01		5	1
+102.0	1.5	68	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01		5	1
+103.5	1.5	69	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01; search.v.02		5	1
+105.0	1.5	70	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01; search.v.02		5	1
+106.5	1.5	71	nighttime.n.01; restaurant.n.01; police.n.01; flag.n.01; flashlight.n.01 	bark.v.04; yell.v.01; search.v.02		5	1
+108.0	1.5	72	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01		5	1
+109.5	1.5	73	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01		5	1
+111.0	1.5	74	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01		5	1
+112.5	1.5	75	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01		5	1
+114.0	1.5	76	nighttime.n.01; tree.n.01; dog.n.01; flashlight.n.01	search.v.02; yell.v.01		5	1
 115.5	1.5	77	nighttime.n.01; tree.n.01; flashlight.n.01	search.v.02; yell.v.01	Sheriff Jim Hopper	5	1
 117.0	1.5	78	nighttime.n.01; tree.n.01; flashlight.n.01	search.v.02; yell.v.01	Sheriff Jim Hopper	5	1
 118.5	1.5	79	nighttime.n.01; tree.n.01; flashlight.n.01	search.v.02; yell.v.01	Sheriff Jim Hopper	5	1
@@ -119,9 +119,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 178.5	1.5	119	nighttime.n.01; tree.n.01; flashlight.n.01; hurry.n.01; focus.n.01; fence.n.01; light.n.02	search.v.02; analyze.v.01	Sheriff Jim Hopper	5	1
 180.0	1.5	120	nighttime.n.01; tree.n.01; flashlight.n.01; hurry.n.01; focus.n.01; fence.n.01; light.n.02	search.v.02; analyze.v.01	Sheriff Jim Hopper	5	1
 181.5	1.5	121	nighttime.n.01; tree.n.01; flashlight.n.01; hurry.n.01; focus.n.01; fence.n.01; light.n.02	search.v.02; analyze.v.01	Sheriff Jim Hopper	5	1
-183.0	1.5	122	nighttime.n.01; device.n.01; button.n.02	n/a	n/a	5	1
-184.5	1.5	123	nighttime.n.01; device.n.01; button.n.02	n/a	n/a	5	1
-186.0	1.5	124	nighttime.n.01; device.n.01; button.n.02	transmit.v.03	n/a	5	1
+183.0	1.5	122	nighttime.n.01; device.n.01; button.n.02			5	1
+184.5	1.5	123	nighttime.n.01; device.n.01; button.n.02			5	1
+186.0	1.5	124	nighttime.n.01; device.n.01; button.n.02	transmit.v.03		5	1
 187.5	1.5	125	nighttime.n.01; device.n.01; button.n.02; tent.n.02	transmit.v.03	Eleven	5	1
 189.0	1.5	126	nighttime.n.01; device.n.01; button.n.02; tent.n.02	transmit.v.03	Eleven	5	1
 190.5	1.5	127	nighttime.n.01; device.n.01; button.n.02; tent.n.02; basement.n.01; lamp.n.02; tray.n.01	transmit.v.03	Eleven; Mike Wheeler	5	1
@@ -169,14 +169,14 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 253.5	1.5	169	nighttime.n.01; device.n.01; button.n.02; tent.n.02; basement.n.01; lamp.n.02; tray.n.01	transmit.v.03; approach.v.01; stare.v.01; explain.v.01	Eleven; Mike Wheeler; Dustin Henderson; Lucass Sinclair	5	1
 255.0	1.5	170	nighttime.n.01; device.n.01; button.n.02; tent.n.02; basement.n.01; lamp.n.02; tray.n.01	transmit.v.03; approach.v.01; stare.v.01; explain.v.01	Eleven; Mike Wheeler; Dustin Henderson; Lucass Sinclair	5	1
 256.5	1.5	171	nighttime.n.01; device.n.01; button.n.02; tent.n.02; basement.n.01; lamp.n.02; tray.n.01	transmit.v.03; approach.v.01; stare.v.01; explain.v.01	Eleven; Mike Wheeler; Dustin Henderson; Lucass Sinclair	5	1
-258.0	1.5	172	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01	n/a	5	1
-259.5	1.5	173	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01	n/a	5	1
-261.0	1.5	174	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01	n/a	5	1
-262.5	1.5	175	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01	n/a	5	1
-264.0	1.5	176	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01	n/a	5	1
-265.5	1.5	177	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01; demand.v.01	n/a	5	1
-267.0	1.5	178	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01; demand.v.01	n/a	5	1
-268.5	1.5	179	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01; demand.v.01; pull over.v.01	n/a	5	1
+258.0	1.5	172	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01		5	1
+259.5	1.5	173	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01		5	1
+261.0	1.5	174	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01		5	1
+262.5	1.5	175	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01		5	1
+264.0	1.5	176	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01		5	1
+265.5	1.5	177	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01; demand.v.01		5	1
+267.0	1.5	178	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01; demand.v.01		5	1
+268.5	1.5	179	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	driving.v.01; demand.v.01; pull over.v.01		5	1
 270.0	1.5	180	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	ask.v.01; pull over.v.01	Nancy Wheeler	5	1
 271.5	1.5	181	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	analyze.v.01; pull over.v.01	Nancy Wheeler	5	1
 273.0	1.5	182	nighttime.n.01; tree.n.01; automobile.n.01; light.n.02	analyze.v.01; pull over.v.01	Nancy Wheeler	5	1
@@ -230,11 +230,11 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 345.0	1.5	230	nighttime.n.01; house.n.01; tree.n.01; door.n.01; stair.n.01	wait.v.01; open.v.01	Nancy Wheeler; Steve Harrington	5	1
 346.5	1.5	231	nighttime.n.01; house.n.01; tree.n.01; door.n.01; stair.n.01	wait.v.01; open.v.01; smile.v.02	Nancy Wheeler; Steve Harrington	5	1
 348.0	1.5	232	nighttime.n.01; house.n.01; tree.n.01; door.n.01; stair.n.01	wait.v.01; open.v.01; smile.v.02; welcome.v.02	Nancy Wheeler; Steve Harrington	5	1
-349.5	1.5	233	nighttime.n.01; clothes.n.01; floor.n.01	n/a	n/a	5	1
-351.0	1.5	234	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01	n/a	n/a	5	1
-352.5	1.5	235	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01	n/a	n/a	5	1
-354.0	1.5	236	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01	n/a	n/a	5	1
-355.5	1.5	237	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01; beer.n.01; think.n.01	lay.v.02	n/a	5	1
+349.5	1.5	233	nighttime.n.01; clothes.n.01; floor.n.01			5	1
+351.0	1.5	234	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01			5	1
+352.5	1.5	235	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01			5	1
+354.0	1.5	236	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01			5	1
+355.5	1.5	237	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01; beer.n.01; think.n.01	lay.v.02		5	1
 357.0	1.5	238	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01; beer.n.01; think.n.01	lay.v.02	Sheriff Jim Hopper	5	1
 358.5	1.5	239	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01; beer.n.01; think.n.01	lay.v.02	Sheriff Jim Hopper	5	1
 360.0	1.5	240	nighttime.n.01; clothes.n.01; floor.n.01; bed.n.01; beer.n.01; think.n.01	lay.v.02	Sheriff Jim Hopper	5	1

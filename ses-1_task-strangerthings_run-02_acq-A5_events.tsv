@@ -1,29 +1,29 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	black.n.01, title.n.01	appear.v.02	n/a	5	1
-4.5	1.5	3	black.n.01, title.n.01	appear.v.02	n/a	5	1
-6.0	1.5	4	black.n.01, title.n.01	zoom in.v.01	n/a	5	1
-7.5	1.5	5	black.n.01, title.n.01	zoom in.v.01	n/a	5	1
-9.0	1.5	6	black.n.01, title.n.01	zoom in.v.01	n/a	5	1
-10.5	1.5	7	black.n.01, title.n.01	zoom in.v.01	n/a	5	1
-12.0	1.5	8	black.n.01, title.n.01, drawing.n.01, key.n.01, wallpaper.n.01	zoom in.v.01	n/a	5	1
-13.5	1.5	9	black.n.01, title.n.01, drawing.n.01, key.n.01, wallpaper.n.01	zoom in.v.01	n/a	5	1
-15.0	1.5	10	 drawing.n.01, key.n.01, wallpaper.n.01	n/a	n/a	5	1
-16.5	1.5	11	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01	n/a	n/a	5	1
-18.0	1.5	12	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01	n/a	n/a	5	1
-19.5	1.5	13	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01, switch.n.01, window.n.01, curtain.n.01, light.n.04	n/a	n/a	5	1
-21.0	1.5	14	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01, switch.n.01, window.n.01, curtain.n.01, light.n.04	n/a	n/a	5	1
-22.5	1.5	15	window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01	n/a	n/a	5	1
-24.0	1.5	16	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01	n/a	n/a	5	1
-25.5	1.5	17	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01	n/a	n/a	5	1
-27.0	1.5	18	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01	n/a	n/a	5	1
-28.5	1.5	19	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01, television.n.01	n/a	n/a	5	1
-30.0	1.5	20	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01, television.n.01	n/a	n/a	5	1
-31.5	1.5	21	 window.n.01, curtain.n.01, light.n.04, can.n.01, television.n.01, fireplace.n.01	n/a	n/a	5	1
-33.0	1.5	22	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01	n/a	n/a	5	1
-34.5	1.5	23	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, 	n/a	n/a	5	1
-36.0	1.5	24	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, legs.n.01	n/a	n/a	5	1
-37.5	1.5	25	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, legs.n.01	n/a	n/a	5	1
-39.0	1.5	26	 window.n.01, curtain.n.01, light.n.04,  hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, blanket.n.01	n/a	n/a	5	1
+3.0	1.5	2	black.n.01, title.n.01	appear.v.02		5	1
+4.5	1.5	3	black.n.01, title.n.01	appear.v.02		5	1
+6.0	1.5	4	black.n.01, title.n.01	zoom in.v.01		5	1
+7.5	1.5	5	black.n.01, title.n.01	zoom in.v.01		5	1
+9.0	1.5	6	black.n.01, title.n.01	zoom in.v.01		5	1
+10.5	1.5	7	black.n.01, title.n.01	zoom in.v.01		5	1
+12.0	1.5	8	black.n.01, title.n.01, drawing.n.01, key.n.01, wallpaper.n.01	zoom in.v.01		5	1
+13.5	1.5	9	black.n.01, title.n.01, drawing.n.01, key.n.01, wallpaper.n.01	zoom in.v.01		5	1
+15.0	1.5	10	 drawing.n.01, key.n.01, wallpaper.n.01			5	1
+16.5	1.5	11	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01			5	1
+18.0	1.5	12	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01			5	1
+19.5	1.5	13	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01, switch.n.01, window.n.01, curtain.n.01, light.n.04			5	1
+21.0	1.5	14	 drawing.n.01, key.n.01, wallpaper.n.01, text.n.01, switch.n.01, window.n.01, curtain.n.01, light.n.04			5	1
+22.5	1.5	15	window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01			5	1
+24.0	1.5	16	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01			5	1
+25.5	1.5	17	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01			5	1
+27.0	1.5	18	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01			5	1
+28.5	1.5	19	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01, television.n.01			5	1
+30.0	1.5	20	 window.n.01, curtain.n.01, light.n.04, pill bottle.n.01, desk.n.01, box.n.01, container.n.01, plate.n.04, sandwich.n.01, can.n.01, television.n.01			5	1
+31.5	1.5	21	 window.n.01, curtain.n.01, light.n.04, can.n.01, television.n.01, fireplace.n.01			5	1
+33.0	1.5	22	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01			5	1
+34.5	1.5	23	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, 			5	1
+36.0	1.5	24	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, legs.n.01			5	1
+37.5	1.5	25	 window.n.01, curtain.n.01, light.n.04,  television.n.01, fireplace.n.01, hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, legs.n.01			5	1
+39.0	1.5	26	 window.n.01, curtain.n.01, light.n.04,  hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, blanket.n.01			5	1
 40.5	1.5	27	 window.n.01, curtain.n.01, light.n.04,  hallway.n.01, desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, blanket.n.01, man.n.01	sleep.v.01	Sheriff Jim Hopper	5	1
 42.0	1.5	28	 window.n.01, curtain.n.01, light.n.04,  desk.n.01, can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, blanket.n.01, man.n.01	sleep.v.01	Sheriff Jim Hopper	5	1
 43.5	1.5	29	 window.n.01, curtain.n.01, light.n.04,  can.n.01, clothes.n.01, mess.n.01, lamp.n.01, sofa.n.01, blanket.n.01, man.n.01	sleep.v.01	Sheriff Jim Hopper	5	1
@@ -35,10 +35,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 52.5	1.5	35	 window.n.01, curtain.n.01, light.n.04,  lamp.n.01, sofa.n.01, blanket.n.01, man.n.01, pillow.n.01, alcohol.n.01, watch.n.01	look.v.01, 	Sheriff Jim Hopper	5	2
 54.0	1.5	36	 window.n.01, curtain.n.01, light.n.04,  lamp.n.01, sofa.n.01, blanket.n.01, man.n.01, pillow.n.01, alcohol.n.01, watch.n.01	look.v.01, grab.v.03	Sheriff Jim Hopper	5	2
 55.5	1.5	37	 window.n.01, curtain.n.01, light.n.04,  lamp.n.01, sofa.n.01, blanket.n.01, man.n.01, pillow.n.01, alcohol.n.01, watch.n.01, daylight.n.01, tree.n.01, lake.v.01, 	release.v.01, sleep.v.01, snore.v.01	Sheriff Jim Hopper	5	2
-57.0	1.5	38	daylight.n.01, tree.n.01, lake.v.01, title.n.01	n/a	n/a	6	2
-58.5	1.5	39	daylight.n.01, tree.n.01, lake.v.01, title.n.01, birdhouse.n.01	n/a	n/a	6	2
-60.0	1.5	40	daylight.n.01, tree.n.01, lake.n.01, title.n.01, birdhouse.n.01	n/a	n/a	6	2
-61.5	1.5	41	daylight.n.01, tree.n.01, lake.n.01, title.n.01, birdhouse.n.01	n/a	n/a	6	2
+57.0	1.5	38	daylight.n.01, tree.n.01, lake.v.01, title.n.01			6	2
+58.5	1.5	39	daylight.n.01, tree.n.01, lake.v.01, title.n.01, birdhouse.n.01			6	2
+60.0	1.5	40	daylight.n.01, tree.n.01, lake.n.01, title.n.01, birdhouse.n.01			6	2
+61.5	1.5	41	daylight.n.01, tree.n.01, lake.n.01, title.n.01, birdhouse.n.01			6	2
 63.0	1.5	42	daylight.n.01, tree.n.01, lake.n.01,  birdhouse.n.01, man.n.01, cigarette.n.01	walk.v.01, light.v.02, 	Sheriff Jim Hopper	4	2
 64.5	1.5	43	daylight.n.01, tree.n.01, lake.n.01,  birdhouse.n.01, man.n.01, cigarette.n.01	light.v.02, put away.v.04, smoke.v.01	Sheriff Jim Hopper	4	2
 66.0	1.5	44	daylight.n.01, tree.n.01, lake.n.01,  birdhouse.n.01, man.n.01, cigarette.n.01	light.v.02, put away.v.04, smoke.v.01	Sheriff Jim Hopper	4	2
@@ -55,7 +55,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 82.5	1.5	55	 shower.n.01; towel.n.01; mirror.n.01; bathroom.n.01; toothbrush.n.01	 brush.v.01	Sheriff Jim Hopper	6	4
 84.0	1.5	56	 mirror.n.01; bathroom.n.01; toothbrush.n.01; sink.n.01; toothpaste.n.01	throw.v.04; smoke.v.01; raise.v.02	Sheriff Jim Hopper	6	4
 85.5	1.5	57	mirror.n.01; bathroom.n.01; toothbrush.n.01; sink.n.01; toothpaste.n.01; cigarette.n.01	 smoke.v.01; raise.v.02; spray.v.01	Sheriff Jim Hopper	6	4
-87.0	1.5	58	bathroom.n.01; pill bottle.n.01; sink.n.01	open.v.01	n/a	6	4
+87.0	1.5	58	bathroom.n.01; pill bottle.n.01; sink.n.01	open.v.01		6	4
 88.5	1.5	59	bathroom.n.01; pill bottle.n.01; sink.n.01; mirror.n.01; beer.n.01	open.v.01; consume.v.02	Sheriff Jim Hopper	4	5
 90.0	1.5	60	bathroom.n.01; ; sink.n.01; mirror.n.01; beer.n.01	open.v.01; consume.v.02; drink.v.02	Sheriff Jim Hopper	4	5
 91.5	1.5	61	bathroom.n.01; mirror.n.01; cigarette.n.01	smoke.v.01	Sheriff Jim Hopper	3	4
@@ -70,12 +70,12 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 105.0	1.5	70	kitchen.n.01; table.n.01; window.n.01; curtains.n.01; fridge.n.01; hat.n.01; key.n.01; door.n.01	grab.v.01	Sheriff Jim Hopper	5	4
 106.5	1.5	71	kitchen.n.01; table.n.01; window.n.01; curtains.n.01; fridge.n.01; hat.n.01; door.n.01; television.n.01	close.v.01	Sheriff Jim Hopper	5	4
 108.0	1.5	72	kitchen.n.01; table.n.01; window.n.01; curtains.n.01; fridge.n.01; hat.n.01; door.n.01; television.n.01	close.v.01	Sheriff Jim Hopper	5	4
-109.5	1.5	73	table.n.01; window.n.01; curtains.n.01; door.n.01; television.n.01	n/a	n/a	5	3
-111.0	1.5	74	table.n.01; window.n.01; curtains.n.01; door.n.01; television.n.01; tree.n.01; daylight.n.01	n/a	n/a	5	3
-112.5	1.5	75	tree.n.01; daylight.n.01; 	n/a	n/a	5	2
-114.0	1.5	76	tree.n.01; daylight.n.01; house.n.01	n/a	n/a	5	2
-115.5	1.5	77	tree.n.01; daylight.n.01; house.n.01; car.n.01; front yard.n.01; laundry.n.01	n/a	n/a	5	2
-117.0	1.5	78	tree.n.01; daylight.n.01; house.n.01; car.n.01; front yard.n.01; laundry.n.01	n/a	n/a	5	2
+109.5	1.5	73	table.n.01; window.n.01; curtains.n.01; door.n.01; television.n.01			5	3
+111.0	1.5	74	table.n.01; window.n.01; curtains.n.01; door.n.01; television.n.01; tree.n.01; daylight.n.01			5	3
+112.5	1.5	75	tree.n.01; daylight.n.01; 			5	2
+114.0	1.5	76	tree.n.01; daylight.n.01; house.n.01			5	2
+115.5	1.5	77	tree.n.01; daylight.n.01; house.n.01; car.n.01; front yard.n.01; laundry.n.01			5	2
+117.0	1.5	78	tree.n.01; daylight.n.01; house.n.01; car.n.01; front yard.n.01; laundry.n.01			5	2
 118.5	1.5	79	kitchen.n.01; curtain.n.01; stove.n.01; table.n.01; man.n.01; door.n.01; sink.n.01; breakfast.n.01	cook.v.01; turn to.v.02	Jonathan Byers	6	2
 120.0	1.5	80	kitchen.n.01; curtain.n.01; stove.n.01; table.n.01; man.n.01; door.n.01; sink.n.01; breakfast.n.01; couch.n.01; shelf.n.01	cook.v.01; turn to.v.02; search.v.01	Jonathan Byers	6	2
 121.5	1.5	81	couch.n.01; shelf.n.01; blanket.n.01; lamp.n.01; table.n.01	search.v.01	Joyce Byers	5	4
@@ -135,27 +135,27 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 202.5	1.5	135	telephone.n.01; hallway.n.01; window.n.01; daylight.n.01; door.n.01; fridge.n.01	hang up.v.01; look away.v.01	Joyce Byers; Jonathan Byers	4	5
 204.0	1.5	136	telephone.n.01; hallway.n.01; window.n.01; daylight.n.01; door.n.01; fridge.n.01	 look away.v.01	Joyce Byers; Jonathan Byers	4	5
 205.5	1.5	137	telephone.n.01; hallway.n.01; window.n.01; daylight.n.01	breathe.v.01	Joyce Byers	4	5
-207.0	1.5	138	people.n.01; grass.n.01; sidewalk.n.01; school.n.02; car.n.01; tree trunk.n.01	walk.v.01; drive.v.01	n/a	5	2
-208.5	1.5	139	people.n.01; grass.n.01; sidewalk.n.01; school.n.02; car.n.01; tree trunk.n.01; school bus.n.01; 	walk.v.01; drive.v.01; bicycle.v.01	n/a	5	2
+207.0	1.5	138	people.n.01; grass.n.01; sidewalk.n.01; school.n.02; car.n.01; tree trunk.n.01	walk.v.01; drive.v.01		5	2
+208.5	1.5	139	people.n.01; grass.n.01; sidewalk.n.01; school.n.02; car.n.01; tree trunk.n.01; school bus.n.01; 	walk.v.01; drive.v.01; bicycle.v.01		5	2
 210.0	1.5	140	people.n.01; grass.n.01; sidewalk.n.01; school.n.02; car.n.01;  school bus.n.01; 	walk.v.01; drive.v.01; bicycle.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 211.5	1.5	141	people.n.01; grass.n.01; sidewalk.n.01; school.n.02; car.n.01;  school bus.n.01; 	walk.v.01; drive.v.01; bicycle.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 213.0	1.5	142	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01	walk.v.01;  bicycle.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 214.5	1.5	143	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01; car.n.01; water tower.n.01	walk.v.01;  bicycle.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 216.0	1.5	144	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01; car.n.01; water tower.n.01	walk.v.01;  bicycle.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
-217.5	1.5	145	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01; car.n.01; water tower.n.01	walk.v.01;  bicycle.v.01	n/a	5	2
-219.0	1.5	146	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01; car.n.01; water tower.n.01	walk.v.01;  bicycle.v.01	n/a	5	2
-220.5	1.5	147	rack.n.01; leg.n.01; pant.n.02; sneaker.n.01; bicycle.n.01	ring.v.01; place.v.01	n/a	5	2
-222.0	1.5	148	rack.n.01; leg.n.01; pant.n.02; sneaker.n.01; bicycle.n.01	ring.v.01; place.v.01	n/a	5	2
-223.5	1.5	149	rack.n.01; leg.n.01; pant.n.02; sneaker.n.01; bicycle.n.01	ring.v.01; place.v.01; comment.v.01	n/a	5	2
+217.5	1.5	145	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01; car.n.01; water tower.n.01	walk.v.01;  bicycle.v.01		5	2
+219.0	1.5	146	people.n.01; grass.n.01;  school.n.02; car.n.01;  school bus.n.01; road.n.01; tree.n.01; car.n.01; water tower.n.01	walk.v.01;  bicycle.v.01		5	2
+220.5	1.5	147	rack.n.01; leg.n.01; pant.n.02; sneaker.n.01; bicycle.n.01	ring.v.01; place.v.01		5	2
+222.0	1.5	148	rack.n.01; leg.n.01; pant.n.02; sneaker.n.01; bicycle.n.01	ring.v.01; place.v.01		5	2
+223.5	1.5	149	rack.n.01; leg.n.01; pant.n.02; sneaker.n.01; bicycle.n.01	ring.v.01; place.v.01; comment.v.01		5	2
 225.0	1.5	150	rack.n.01; bicycle.n.01; people.n.01	ring.v.01; place.v.01; comment.v.01; walk.v.01; stare.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 226.5	1.5	151	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	ring.v.01; place.v.01; comment.v.01; walk.v.01; stare.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 228.0	1.5	152	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	converse.v.01; walk.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 229.5	1.5	153	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	converse.v.01; walk.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 231.0	1.5	154	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	converse.v.01; walk.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
 232.5	1.5	155	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	converse.v.01; walk.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
-234.0	1.5	156	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	exclaim.v.01; walk.v.01	n/a	5	2
+234.0	1.5	156	rack.n.01; bicycle.n.01; people.n.01; fence.n.01; building.n.01; grass.n.01	exclaim.v.01; walk.v.01		5	2
 235.5	1.5	157	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	exclaim.v.01; walk.v.01; turn to.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	5	2
-237.0	1.5	158	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	walk.v.01; turn to.v.01; bully.v.02	n/a	3	5
+237.0	1.5	158	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	walk.v.01; turn to.v.01; bully.v.02		3	5
 238.5	1.5	159	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	walk.v.01; turn to.v.01; bully.v.02; frown.v.01	mike Wheeler; Lucas Sinclair; Dustin Henderson	3	5
 240.0	1.5	160	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	walk.v.01; turn to.v.01; bully.v.02; frown.v.01;	mike Wheeler; Lucas Sinclair; Dustin Henderson	3	5
 241.5	1.5	161	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	 frown.v.01;turn to.v.01; approach.v.01	mike Wheeler; Lucas Sinclair; Dustin Henderson	3	5
@@ -169,8 +169,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 253.5	1.5	169	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; exclaim.v.01; 	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
 255.0	1.5	170	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; exclaim.v.01; 	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
 256.5	1.5	171	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; explain.v.03	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
-258.0	1.5	172	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; mock.v.02	n/a	2	6
-259.5	1.5	173	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; mock.v.02	n/a	2	6
+258.0	1.5	172	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; mock.v.02		2	6
+259.5	1.5	173	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	turn to.v.01; mock.v.02		2	6
 261.0	1.5	174	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	point.v.01; command.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
 262.5	1.5	175	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	point.v.01; command.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	7
 264.0	1.5	176	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	take off.v.02	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	7
@@ -178,7 +178,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 267.0	1.5	178	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	contort.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	7
 268.5	1.5	179	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	contort.v.01; disgust.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	7
 270.0	1.5	180	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	contort.v.01; disgust.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	7
-271.5	1.5	181	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	punch.v.01; walk.v.01	n/a	3	5
+271.5	1.5	181	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	punch.v.01; walk.v.01		3	5
 273.0	1.5	182	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	punch.v.01; walk.v.01; shove.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
 274.5	1.5	183	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	pick up.v.01; walk.v.01; comment.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
 276.0	1.5	184	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	pick up.v.01; walk.v.01; comment.v.01; turn to.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	2	6
@@ -186,7 +186,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 279.0	1.5	186	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	crouch.v.01; walk.v.01; comment.v.01; turn to.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
 280.5	1.5	187	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	crouch.v.01; walk.v.01; comment.v.01; turn to.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
 282.0	1.5	188	 people.n.01; fence.n.01; building.n.01; grass.n.01; daylight.n.01	stand up.v.01; walk.v.01; comment.v.01; turn to.v.01	Mike Wheeler; Lucas Sinclair; Dustin Henderson	6	5
-283.5	1.5	189	school.n.02; people.n.01; car.n.01; daylight.n.01; bicycle.n.01; rack.n.01	walk.v.01	n/a	5	3
+283.5	1.5	189	school.n.02; people.n.01; car.n.01; daylight.n.01; bicycle.n.01; rack.n.01	walk.v.01		5	3
 285.0	1.5	190	school.n.02; people.n.01; car.n.01; daylight.n.01; bicycle.n.01; rack.n.01	walk.v.01; converse.n.01	Nancy Wheeler	5	3
 286.5	1.5	191	school.n.02; people.n.01; daylight.n.01; bicycle.n.01; rack.n.01	walk.v.01; converse.v.01; look to.v.01 	Nancy Wheeler	5	3
 288.0	1.5	192	school.n.02; people.n.01; daylight.n.01; bicycle.n.01; rack.n.01	walk.v.01; converse.v.01; look to.v.01 	Nancy Wheeler	5	3
@@ -203,13 +203,13 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 304.5	1.5	203	people.n.01; daylight.n.01; locker.n.01	 turn to.v.01; converse.v.02	Nancy Wheeler	6	4
 306.0	1.5	204	people.n.01; daylight.n.01; locker.n.01	 turn to.v.01; grin.v.01; reach.v.03; spin.v.03	Nancy Wheeler	6	4
 307.5	1.5	205	people.n.01; daylight.n.01; locker.n.01	 turn to.v.01; grin.v.01; reach.v.03; spin.v.03; converse.v.01	Nancy Wheeler	6	4
-309.0	1.5	206	daylight.n.01; locker.n.01; woman.n.01; 	 grin.v.01; converse.v.01; lean.v.01	n/a	6	4
-310.5	1.5	207	daylight.n.01; locker.n.01; woman.n.01; 	 grin.v.01; converse.v.01; lean.v.01; mock.v.01	n/a	6	4
+309.0	1.5	206	daylight.n.01; locker.n.01; woman.n.01; 	 grin.v.01; converse.v.01; lean.v.01		6	4
+310.5	1.5	207	daylight.n.01; locker.n.01; woman.n.01; 	 grin.v.01; converse.v.01; lean.v.01; mock.v.01		6	4
 312.0	1.5	208	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; spin.v.03; converse.v.01	Nancy Wheeler	6	4
 313.5	1.5	209	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; spin.v.03; converse.v.01	Nancy Wheeler	6	4
 315.0	1.5	210	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; spin.v.03; converse.v.01; turn to.v.01	Nancy Wheeler	6	4
 316.5	1.5	211	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; spin.v.03; converse.v.01; turn to.v.01; exclaim.v.01	Nancy Wheeler	6	4
-318.0	1.5	212	 daylight.n.01; locker.n.01	converse.v.01; shrug.v.01	n/a	6	4
+318.0	1.5	212	 daylight.n.01; locker.n.01	converse.v.01; shrug.v.01		6	4
 319.5	1.5	213	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; converse.v.01; turn to.v.01;  furrow.v.03	Nancy Wheeler	6	4
 321.0	1.5	214	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; converse.v.01; turn to.v.01;  furrow.v.03	Nancy Wheeler	6	3
 322.5	1.5	215	people.n.01; daylight.n.01; locker.n.01	 grin.v.01; reach.v.03; converse.v.01; turn to.v.01;  furrow.v.03	Nancy Wheeler	6	3
@@ -218,9 +218,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 327.0	1.5	218	people.n.01; daylight.n.01; locker.n.01	 reach.v.03; converse.v.01; turn to.v.01;  disapprove.v.01; explain.v.01; grin.v.01	Nancy Wheeler	6	3
 328.5	1.5	219	people.n.01; daylight.n.01; locker.n.01	converse.v.01; turn to.v.01;   explain.v.01; grin.v.01; smile.v.01; put away.v.04	Nancy Wheeler	6	3
 330.0	1.5	220	people.n.01; daylight.n.01; locker.n.01	converse.v.01; turn to.v.01;   explain.v.01; grin.v.01; smile.v.01; put away.v.04	Nancy Wheeler	6	3
-331.5	1.5	221	locker.n.01; arm.n.01; note.n.01; book.n.01; calculator.n.02	grab.v.01	n/a	6	5
-333.0	1.5	222	locker.n.01; arm.n.01; note.n.01; book.n.01; calculator.n.02	unfold.v.03	n/a	6	5
-334.5	1.5	223	locker.n.01; arm.n.01; note.n.01; book.n.01; calculator.n.02; woman.n.01	unfold.v.03; question.v.03	n/a	6	5
+331.5	1.5	221	locker.n.01; arm.n.01; note.n.01; book.n.01; calculator.n.02	grab.v.01		6	5
+333.0	1.5	222	locker.n.01; arm.n.01; note.n.01; book.n.01; calculator.n.02	unfold.v.03		6	5
+334.5	1.5	223	locker.n.01; arm.n.01; note.n.01; book.n.01; calculator.n.02; woman.n.01	unfold.v.03; question.v.03		6	5
 336.0	1.5	224	people.n.01; daylight.n.01; locker.n.01	question.v.03; smile.v.01	Nancy Wheeler	7	5
 337.5	1.5	225	people.n.01; daylight.n.01; locker.n.01	smile.v.01; turn to.v.01	Nancy Wheeler	7	5
 339.0	1.5	226	people.n.01; daylight.n.01; locker.n.01; mirror.n.01; man.n.01; bathroom.n.01; 	smile.v.01; turn to.v.01; kiss.v.01	Nancy Wheeler	4	4

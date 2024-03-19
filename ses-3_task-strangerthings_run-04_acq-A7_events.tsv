@@ -9,9 +9,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 13.5	1.5	9	darkroom.n.01; tray.n.01; water.n.01; photo.n.01; image.n.03	look.v.01; develop.v.15; remove.v.01	Jonathan Byers	5	4
 15.0	1.5	10	darkroom.n.01; tray.n.01; water.n.01; photo.n.01; image.n.03	look.v.01; develop.v.15; remove.v.01	Jonathan Byers	5	4
 16.5	1.5	11	darkroom.n.01; tray.n.01; water.n.01; photo.n.01; image.n.03	look.v.01; develop.v.15; remove.v.01	Jonathan Byers	5	4
-18.0	1.5	12	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	n/a	Jonathan Byers	4	5
-19.5	1.5	13	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	n/a	Jonathan Byers	4	5
-21.0	1.5	14	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	n/a	Jonathan Byers	4	5
+18.0	1.5	12	darkroom.n.01; photo.n.01; image.n.03; girl.n.01		Jonathan Byers	4	5
+19.5	1.5	13	darkroom.n.01; photo.n.01; image.n.03; girl.n.01		Jonathan Byers	4	5
+21.0	1.5	14	darkroom.n.01; photo.n.01; image.n.03; girl.n.01		Jonathan Byers	4	5
 22.5	1.5	15	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	pin.v.02	Jonathan Byers	4	5
 24.0	1.5	16	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	pin.v.02	Jonathan Byers	4	5
 25.5	1.5	17	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	walk.v.01	Jonathan Byers; Student	4	5
@@ -26,10 +26,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 39.0	1.5	26	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	startle.v.02; remove.v.01; look.v.01; leave.v.01	Jonathan Byers; Student	4	5
 40.5	1.5	27	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	look.v.01; leave.v.01	Student	4	5
 42.0	1.5	28	darkroom.n.01; photo.n.01; image.n.03; girl.n.01	look.v.01; leave.v.01	Student	4	5
-43.5	1.5	29	darkroom.n.01; lightbulb.n.01	n/a	n/a	5	4
-45.0	1.5	30	darkroom.n.01; lightbulb.n.01	n/a	n/a	5	4
-46.5	1.5	31	darkroom.n.01; lightbulb.n.01	n/a	n/a	5	4
-48.0	1.5	32	darkroom.n.01; lightbulb.n.01	n/a	n/a	5	4
+43.5	1.5	29	darkroom.n.01; lightbulb.n.01			5	4
+45.0	1.5	30	darkroom.n.01; lightbulb.n.01			5	4
+46.5	1.5	31	darkroom.n.01; lightbulb.n.01			5	4
+48.0	1.5	32	darkroom.n.01; lightbulb.n.01			5	4
 49.5	1.5	33	house.n.01; hallway.n.01; decorations.n.01; lights.n.02	connect.v.01; stand.v.01; look.v.01	Joyce Byers	5	4
 51.0	1.5	34	house.n.01; hallway.n.01; decorations.n.01; lights.n.02	turn.v.01; stand.v.01; look.v.01	Joyce Byers	5	4
 52.5	1.5	35	house.n.01; hallway.n.01; decorations.n.01; lights.n.02	turn.v.01; stand.v.01; look.v.01	Joyce Byers	5	4
@@ -137,9 +137,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 205.5	1.5	137	building.n.01; library.n.01; file.n.01; computer.n.01; newspaper.n.01	search.v.03; concentrate.v.02; look.v.01	Sheriff Jim Hopper; Police Officer	5	5
 207.0	1.5	138	building.n.01; library.n.01; file.n.01; computer.n.01; newspaper.n.01	search.v.03; concentrate.v.02; look.v.01	Sheriff Jim Hopper; Police Officer	5	5
 208.5	1.5	139	building.n.01; library.n.01; file.n.01; computer.n.01; newspaper.n.01	search.v.03; concentrate.v.02; look.v.01	Sheriff Jim Hopper; Police Officer	5	5
-210.0	1.5	140	timer.n.01	n/a	n/a	5	4
-211.5	1.5	141	timer.n.01	n/a	n/a	5	4
-213.0	1.5	142	timer.n.01	n/a	n/a	5	4
+210.0	1.5	140	timer.n.01			5	4
+211.5	1.5	141	timer.n.01			5	4
+213.0	1.5	142	timer.n.01			5	4
 214.5	1.5	143	kitchen.n.01; light.n.01; table.n.01; timer.n.01	hold.v.01; sit.v.01; talk.v.01; explain.v.03	Joyce Byers; Karen Wheeler; child	4	4
 216.0	1.5	144	kitchen.n.01; light.n.01; table.n.01; timer.n.01	hold.v.01; sit.v.01; talk.v.01; explain.v.03	Joyce Byers; Karen Wheeler; child	4	4
 217.5	1.5	145	kitchen.n.01; light.n.01; table.n.01; timer.n.01	hold.v.01; sit.v.01; talk.v.01; explain.v.03	Joyce Byers; Karen Wheeler; child	4	4
@@ -202,7 +202,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 303.0	1.5	202	bedroom.n.01; door.n.01; bed.n.01; lamps.n.02; wall.v.01	stand.v.01; stare.v.01	child	5	5
 304.5	1.5	203	bedroom.n.01; door.n.01; bed.n.01; lamps.n.02; wall.v.01	stand.v.01; stare.v.01	child	5	5
 306.0	1.5	204	bedroom.n.01; door.n.01; bed.n.01; lamps.n.02; wall.v.01	stand.v.01; stare.v.01	child	5	5
-307.5	1.5	205	timer.n.01; ding.n.01	n/a	n/a	5	6
+307.5	1.5	205	timer.n.01; ding.n.01			5	6
 309.0	1.5	206	kitchen.n.01; light.n.01; table.n.01; timer.n.01; oven.n.01	talk.v.01; look.v.01; attend.v.02	Joyce Byers; Karen Wheeler	5	4
 310.5	1.5	207	kitchen.n.01; light.n.01; table.n.01; timer.n.01; oven.n.01	talk.v.01; look.v.01; attend.v.02; walk.v.01	Joyce Byers; Karen Wheeler	5	4
 312.0	1.5	208	kitchen.n.01; light.n.01; table.n.01; timer.n.01; oven.n.01	talk.v.01; look.v.01; attend.v.02; walk.v.01	Joyce Byers; Karen Wheeler	5	4

@@ -73,8 +73,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 109.5	1.5	73	building.n.01; lab.n.01; hallway.n.01; scientists.n.01	walk.v.01; look.v.01; question.v.02	Sheriff Jim Hopper; Police Officers; Official	5	4
 111.0	1.5	74	building.n.01; lab.n.01; hallway.n.01; scientists.n.01	walk.v.01; look.v.01; question.v.02	Sheriff Jim Hopper; Police Officers; Official	5	4
 112.5	1.5	75	building.n.01; lab.n.01; hallway.n.01; scientists.n.01	walk.v.01; look.v.01; question.v.02	Sheriff Jim Hopper; Police Officers; Official	5	4
-114.0	1.5	76	television.n.03; footage.n.01	n/a	n/a	5	4
-115.5	1.5	77	television.n.03; footage.n.01	n/a	n/a	5	4
+114.0	1.5	76	television.n.03; footage.n.01			5	4
+115.5	1.5	77	television.n.03; footage.n.01			5	4
 117.0	1.5	78	lab.n.01; room.n.01; scientists.n.01; television.n.03; footage.n.01	watch.v.01; talk.v.01	Sheriff Jim Hopper; Police Officers; Official	5	4
 118.5	1.5	79	lab.n.01; room.n.01; scientists.n.01; television.n.03; footage.n.01	watch.v.01; talk.v.01	Sheriff Jim Hopper; Police Officers; Official	5	4
 120.0	1.5	80	lab.n.01; room.n.01; scientists.n.01; television.n.03; footage.n.01	watch.v.01; talk.v.01	Sheriff Jim Hopper; Police Officers; Official	5	4
@@ -106,20 +106,20 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 159.0	1.5	106	building.n.01; woods.n.01; street.n.01; car.n.01; door.n.01	close.v.01; realize.v.02	Sheriff Jim Hopper; Police Officers	5	6
 160.5	1.5	107	building.n.01; woods.n.01; street.n.01; car.n.01	drive.v.01	Sheriff Jim Hopper; Police Officers	5	6
 162.0	1.5	108	building.n.01; woods.n.01; street.n.01; car.n.01	drive.v.01	Sheriff Jim Hopper; Police Officers	5	6
-163.5	1.5	109	building.n.01; woods.n.01; street.n.01; vent.n.01	n/a	n/a	5	4
-165.0	1.5	110	building.n.01; woods.n.01; street.n.01; vent.n.01	n/a	n/a	5	4
-166.5	1.5	111	building.n.01; woods.n.01; street.n.01; vent.n.01	n/a	n/a	5	4
-168.0	1.5	112	building.n.01; woods.n.01; street.n.01; vent.n.01	n/a	n/a	5	4
-169.5	1.5	113	vent.n.01	n/a	n/a	5	4
-171.0	1.5	114	vent.n.01	n/a	n/a	5	4
-172.5	1.5	115	vent.n.01	n/a	n/a	5	4
-174.0	1.5	116	vent.n.01	n/a	n/a	5	4
-175.5	1.5	117	vent.n.01; fan.n.01	n/a	n/a	5	4
-177.0	1.5	118	vent.n.01; fan.n.01	n/a	n/a	5	4
-178.5	1.5	119	vent.n.01; fan.n.01	n/a	n/a	5	4
-180.0	1.5	120	vent.n.01; fan.n.01	n/a	n/a	5	4
-181.5	1.5	121	vent.n.01; fan.n.01	n/a	n/a	5	4
-183.0	1.5	122	vent.n.01; fan.n.01; lab.n.01; dust.n.01	n/a	n/a	5	4
+163.5	1.5	109	building.n.01; woods.n.01; street.n.01; vent.n.01			5	4
+165.0	1.5	110	building.n.01; woods.n.01; street.n.01; vent.n.01			5	4
+166.5	1.5	111	building.n.01; woods.n.01; street.n.01; vent.n.01			5	4
+168.0	1.5	112	building.n.01; woods.n.01; street.n.01; vent.n.01			5	4
+169.5	1.5	113	vent.n.01			5	4
+171.0	1.5	114	vent.n.01			5	4
+172.5	1.5	115	vent.n.01			5	4
+174.0	1.5	116	vent.n.01			5	4
+175.5	1.5	117	vent.n.01; fan.n.01			5	4
+177.0	1.5	118	vent.n.01; fan.n.01			5	4
+178.5	1.5	119	vent.n.01; fan.n.01			5	4
+180.0	1.5	120	vent.n.01; fan.n.01			5	4
+181.5	1.5	121	vent.n.01; fan.n.01			5	4
+183.0	1.5	122	vent.n.01; fan.n.01; lab.n.01; dust.n.01			5	4
 184.5	1.5	123	vent.n.01; fan.n.01; lab.n.01; dust.n.01; vines.n.01; scientist.n.01	adjujst.v.01	scientist	5	4
 186.0	1.5	124	vent.n.01; fan.n.01; lab.n.01; dust.n.01; vines.n.01; scientist.n.01	adjujst.v.01	scientist	5	4
 187.5	1.5	125	vent.n.01; fan.n.01; lab.n.01; dust.n.01; vines.n.01; scientist.n.01	adjujst.v.01	scientist	5	4
@@ -138,8 +138,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 207.0	1.5	138	lab.n.01; dust.n.01; vines.n.01; scientist.n.01; machinery.n.01	adjujst.v.01; lower.v.01; look.v.01	Dr. Martin Brenner; Scientists	5	4
 208.5	1.5	139	lab.n.01; dust.n.01; vines.n.01; scientist.n.01; machinery.n.01; drill.n.01	adjujst.v.01; look.v.01; drill.v.01	Dr. Martin Brenner; Scientists	5	4
 210.0	1.5	140	lab.n.01; dust.n.01; vines.n.01; scientist.n.01; machinery.n.01; drill.n.01	adjujst.v.01; look.v.01; drill.v.01	Dr. Martin Brenner; Scientists	5	4
-211.5	1.5	141	field.n.01; power lines.n.01	n/a	n/a	5	4
-213.0	1.5	142	house.n.01; greenery.n.01	n/a	n/a	5	4
+211.5	1.5	141	field.n.01; power lines.n.01			5	4
+213.0	1.5	142	house.n.01; greenery.n.01			5	4
 214.5	1.5	143	house.n.01; stairs.n.01	walk.v.01	Eleven	5	4
 216.0	1.5	144	house.n.01; stairs.n.01	walk.v.01	Eleven	5	4
 217.5	1.5	145	house.n.01; stairs.n.01	walk.v.01	Eleven	5	4

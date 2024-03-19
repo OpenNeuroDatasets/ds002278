@@ -1,18 +1,18 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	subtitle.n.02	n/a	n/a	5	3
-4.5	1.5	3	subtitle.n.02	n/a	n/a	5	3
-6.0	1.5	4	subtitle.n.02	n/a	n/a	5	3
-7.5	1.5	5	subtitle.n.02	n/a	n/a	5	3
-9.0	1.5	6	subtitle.n.02	n/a	n/a	5	3
-10.5	1.5	7	subtitle.n.02	n/a	n/a	5	3
-12.0	1.5	8	subtitle.n.02	n/a	n/a	5	3
-13.5	1.5	9	forest.n.01; lake.n.01	n/a	n/a	5	3
-15.0	1.5	10	forest.n.01; lake.n.01	n/a	n/a	5	3
-16.5	1.5	11	forest.n.01; lake.n.01	n/a	n/a	5	3
-18.0	1.5	12	forest.n.01; lake.n.01	n/a	n/a	5	3
-19.5	1.5	13	forest.n.01; lake.n.01	n/a	n/a	5	3
-21.0	1.5	14	forest.n.01; house.n.01	n/a	n/a	5	3
-22.5	1.5	15	forest.n.01; house.n.01	n/a	n/a	5	3
+3.0	1.5	2	subtitle.n.02			5	3
+4.5	1.5	3	subtitle.n.02			5	3
+6.0	1.5	4	subtitle.n.02			5	3
+7.5	1.5	5	subtitle.n.02			5	3
+9.0	1.5	6	subtitle.n.02			5	3
+10.5	1.5	7	subtitle.n.02			5	3
+12.0	1.5	8	subtitle.n.02			5	3
+13.5	1.5	9	forest.n.01; lake.n.01			5	3
+15.0	1.5	10	forest.n.01; lake.n.01			5	3
+16.5	1.5	11	forest.n.01; lake.n.01			5	3
+18.0	1.5	12	forest.n.01; lake.n.01			5	3
+19.5	1.5	13	forest.n.01; lake.n.01			5	3
+21.0	1.5	14	forest.n.01; house.n.01			5	3
+22.5	1.5	15	forest.n.01; house.n.01			5	3
 24.0	1.5	16	forest.n.01; house.n.01; sofa.n.01; ax.n.01	sleep.v.01	Joyce Byers	5	3
 25.5	1.5	17	room.n.01; house.n.01; sofa.n.01; ax.n.01	sleep.v.01	Joyce Byers	5	3
 27.0	1.5	18	room.n.01; sofa.n.01; ax.n.01; voice.n.01	speak.v.01	Joyce Byers	5	4
@@ -29,8 +29,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 43.5	1.5	29	room.n.01; sofa.n.01	question.v.03; speak.v.01	Joyce Byers; Jonathan Byers	5	4
 45.0	1.5	30	room.n.01; sofa.n.01	question.v.03; speak.v.01	Joyce Byers; Jonathan Byers	5	4
 46.5	1.5	31	room.n.01; sofa.n.01	question.v.03; speak.v.01	Joyce Byers; Jonathan Byers	4	4
-48.0	1.5	32	house.n.01; trees.n.01	n/a	n/a	5	3
-49.5	1.5	33	house.n.01; trees.n.01	n/a	n/a	5	3
+48.0	1.5	32	house.n.01; trees.n.01			5	3
+49.5	1.5	33	house.n.01; trees.n.01			5	3
 51.0	1.5	34	house.n.01; trees.n.01	knock.v.04	Mike's mother	5	3
 52.5	1.5	35	room.n.01; house.n.01	open.v.01; enter.v.01	Mike's mother	5	3
 54.0	1.5	36	room.n.01; house.n.01	open.v.01; enter.v.01; speak.v.01	Mike's mother	5	3
@@ -91,8 +91,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 136.5	1.5	91	room.n.01; bed.n.01;radio.n.01	radio.v.01; speak.v.01; answer.v.01; direct.v.01	Mike Wheeler; Lucas Sinclair	4	4
 138.0	1.5	92	room.n.01; bed.n.01;radio.n.01	radio.v.01; speak.v.01; answer.v.01; direct.v.01	Mike Wheeler; Lucas Sinclair	4	4
 139.5	1.5	93	room.n.01; bed.n.01;radio.n.01	radio.v.01; speak.v.01; answer.v.01; direct.v.01	Mike Wheeler; Lucas Sinclair	4	4
-141.0	1.5	94	office.n.01	n/a	n/a	5	3
-142.5	1.5	95	office.n.01	n/a	n/a	5	3
+141.0	1.5	94	office.n.01			5	3
+142.5	1.5	95	office.n.01			5	3
 144.0	1.5	96	office.n.01; desk.n.01	sit.v.01; speak.v.01	Sheriff Jim Hopper; receptionist	5	3
 145.5	1.5	97	office.n.01; desk.n.01	sit.v.01; speak.v.01	Sheriff Jim Hopper; receptionist	5	3
 147.0	1.5	98	office.n.01; desk.n.01	sit.v.01; speak.v.01	Sheriff Jim Hopper; receptionist	5	3
@@ -186,8 +186,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 279.0	1.5	186	room.n.01; door.n.01	watch.v.01; speak.v.01; yell.v.01; leave.v.01; storm.v.01	Joyce Byers; Jonathan Byers; coroner; Sheriff Jim Hopper	4	5
 280.5	1.5	187	room.n.01; door.n.01	watch.v.01; speak.v.01; yell.v.01; leave.v.01; storm.v.01	Joyce Byers; Jonathan Byers; coroner; Sheriff Jim Hopper	4	5
 282.0	1.5	188	room.n.01; door.n.01	watch.v.01; speak.v.01; yell.v.01; leave.v.01; storm.v.01	Joyce Byers; Jonathan Byers; coroner; Sheriff Jim Hopper	4	5
-283.5	1.5	189	school.n.01; alarm.n.04	n/a	n/a	4	6
-285.0	1.5	190	school.n.01; alarm.n.04	n/a	n/a	4	5
+283.5	1.5	189	school.n.01; alarm.n.04			4	6
+285.0	1.5	190	school.n.01; alarm.n.04			4	5
 286.5	1.5	191	school.n.01; alley.n.01	talk.v.01; explain.v.03; question.v.05	Nancy Wheeler; Steve Harrington	4	4
 288.0	1.5	192	school.n.01; alley.n.01	talk.v.01; explain.v.03; question.v.05	Nancy Wheeler; Steve Harrington	4	4
 289.5	1.5	193	school.n.01; alley.n.01	talk.v.01; explain.v.03; question.v.05	Nancy Wheeler; Steve Harrington	4	4

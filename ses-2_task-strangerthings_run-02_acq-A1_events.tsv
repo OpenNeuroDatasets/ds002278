@@ -142,10 +142,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 213.0	1.5	142	forest.n.01; police.n.01; dog.n.01; bark.n.02	talk.v.01; search.v.01	phil calahan, calvin powell	6	4
 214.5	1.5	143	forest.n.01; police.n.01	search.v.01	phil calahan, calvin powell	6	4
 216.0	1.5	144	forest.n.01; police.n.01; highschool.n.01; student.n.01	search.v.01; drive.v.01	phil calahan, calvin powell	5	4
-217.5	1.5	145	highschool.n.01; student.n.01	drive.v.01; talk.v.01; walk.v.01	n/a	5	4
-219.0	1.5	146	highschool.n.01; student.n.01; music.n.01	drive.v.01; talk.v.01; walk.v.01	n/a	5	4
-220.5	1.5	147	highschool.n.01; student.n.01; music.n.01; skateboard.n.01	drive.v.01; talk.v.01; walk.v.01, skate.v.01	n/a	6	4
-222.0	1.5	148	highschool.n.01; student.n.01; music.n.01; skateboard.n.01	drive.v.01; talk.v.01; walk.v.01, skate.v.01	n/a	6	4
+217.5	1.5	145	highschool.n.01; student.n.01	drive.v.01; talk.v.01; walk.v.01		5	4
+219.0	1.5	146	highschool.n.01; student.n.01; music.n.01	drive.v.01; talk.v.01; walk.v.01		5	4
+220.5	1.5	147	highschool.n.01; student.n.01; music.n.01; skateboard.n.01	drive.v.01; talk.v.01; walk.v.01, skate.v.01		6	4
+222.0	1.5	148	highschool.n.01; student.n.01; music.n.01; skateboard.n.01	drive.v.01; talk.v.01; walk.v.01, skate.v.01		6	4
 223.5	1.5	149	highschool.n.01; student.n.01; hallway.n.01	talk.v.01; walk.v.01; read.v.01 	nancy wheeler, barbara holland 	6	4
 225.0	1.5	150	highschool.n.01; student.n.01; hallway.n.01	talk.v.01; walk.v.01; read.v.01; study.v.01	nancy wheeler, barbara holland 	6	4
 226.5	1.5	151	highschool.n.01; student.n.01; hallway.n.01	talk.v.01; walk.v.01; read.v.01; study.v.01	nancy wheeler, barbara holland 	6	4
@@ -224,7 +224,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 336.0	1.5	224	highschool.n.01; loudspeaker.n.01; assembly.n.03; door.n.02	announce.v.03; leave.v.01; support.v.01; close.v.01	 jonathan byers	4	3
 337.5	1.5	225	highschool.n.01; loudspeaker.n.01; assembly.n.03; door.n.02	announce.v.03; leave.v.01; support.v.01; close.v.01	 jonathan byers	4	3
 339.0	1.5	226	highschool.n.01; door.n.02	 leave.v.01; close.v.01	 jonathan byers	4	3
-340.5	1.5	227	highschool.n.01; door.n.02; desk.n.01; book.n.01	leave.v.01; close.v.01; slam.v.04	n/a	5	3
+340.5	1.5	227	highschool.n.01; door.n.02; desk.n.01; book.n.01	leave.v.01; close.v.01; slam.v.04		5	3
 342.0	1.5	228	class.n.02; desk.n.01; book.n.01	sit.v.01; slam.04	lucas sinclair	5	3
 343.5	1.5	229	class.n.02; desk.n.01; book.n.01	sit.v.01	lucas sinclair, dustin henderson	5	3
 345.0	1.5	230	class.n.02; desk.n.01; book.n.01; teacher.n.01	sit.v.01	lucas sinclair, dustin henderson	5	3

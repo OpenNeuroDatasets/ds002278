@@ -1,34 +1,34 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	n/a	n/a	n/a	5	3
-4.5	1.5	3	n/a	n/a	n/a	5	3
-6.0	1.5	4	star.n.03	n/a	n/a	5	3
-7.5	1.5	5	star.n.03; word.n.01	n/a	n/a	5	3
-9.0	1.5	6	star.n.03; word.n.01	n/a	n/a	5	3
-10.5	1.5	7	star.n.03; word.n.01	n/a	n/a	5	3
-12.0	1.5	8	star.n.03; word.n.01	n/a	n/a	5	3
-13.5	1.5	9	star.n.03; word.n.01	n/a	n/a	5	3
-15.0	1.5	10	star.n.03; word.n.01	n/a	n/a	5	3
-16.5	1.5	11	star.n.03; word.n.01	n/a	n/a	5	3
-18.0	1.5	12	star.n.03; building.n.01	n/a	n/a	5	3
-19.5	1.5	13	star.n.03; building.n.01	n/a	n/a	5	3
-21.0	1.5	14	star.n.03; building.n.01	n/a	n/a	5	3
-22.5	1.5	15	star.n.03; building.n.01	n/a	n/a	5	3
-24.0	1.5	16	star.n.03; word.n.01; building.n.01	n/a	n/a	5	3
-25.5	1.5	17	word.n.01; building.n.01	n/a	n/a	5	3
-27.0	1.5	18	word.n.01; building.n.01	n/a	n/a	5	3
-28.5	1.5	19	word.n.01; building.n.01	n/a	n/a	5	3
-30.0	1.5	20	word.n.01; building.n.01; light.n.02	n/a	n/a	5	3
-31.5	1.5	21	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-33.0	1.5	22	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-34.5	1.5	23	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-36.0	1.5	24	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-37.5	1.5	25	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-39.0	1.5	26	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-40.5	1.5	27	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-42.0	1.5	28	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-43.5	1.5	29	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-45.0	1.5	30	light.n.02; door.n.01	flicker.v.03	n/a	5	3
-46.5	1.5	31	light.n.02; door.n.01	flicker.v.03	n/a	5	3
+3.0	1.5	2				5	3
+4.5	1.5	3				5	3
+6.0	1.5	4	star.n.03			5	3
+7.5	1.5	5	star.n.03; word.n.01			5	3
+9.0	1.5	6	star.n.03; word.n.01			5	3
+10.5	1.5	7	star.n.03; word.n.01			5	3
+12.0	1.5	8	star.n.03; word.n.01			5	3
+13.5	1.5	9	star.n.03; word.n.01			5	3
+15.0	1.5	10	star.n.03; word.n.01			5	3
+16.5	1.5	11	star.n.03; word.n.01			5	3
+18.0	1.5	12	star.n.03; building.n.01			5	3
+19.5	1.5	13	star.n.03; building.n.01			5	3
+21.0	1.5	14	star.n.03; building.n.01			5	3
+22.5	1.5	15	star.n.03; building.n.01			5	3
+24.0	1.5	16	star.n.03; word.n.01; building.n.01			5	3
+25.5	1.5	17	word.n.01; building.n.01			5	3
+27.0	1.5	18	word.n.01; building.n.01			5	3
+28.5	1.5	19	word.n.01; building.n.01			5	3
+30.0	1.5	20	word.n.01; building.n.01; light.n.02			5	3
+31.5	1.5	21	light.n.02; door.n.01	flicker.v.03		5	3
+33.0	1.5	22	light.n.02; door.n.01	flicker.v.03		5	3
+34.5	1.5	23	light.n.02; door.n.01	flicker.v.03		5	3
+36.0	1.5	24	light.n.02; door.n.01	flicker.v.03		5	3
+37.5	1.5	25	light.n.02; door.n.01	flicker.v.03		5	3
+39.0	1.5	26	light.n.02; door.n.01	flicker.v.03		5	3
+40.5	1.5	27	light.n.02; door.n.01	flicker.v.03		5	3
+42.0	1.5	28	light.n.02; door.n.01	flicker.v.03		5	3
+43.5	1.5	29	light.n.02; door.n.01	flicker.v.03		5	3
+45.0	1.5	30	light.n.02; door.n.01	flicker.v.03		5	3
+46.5	1.5	31	light.n.02; door.n.01	flicker.v.03		5	3
 48.0	1.5	32	door.n.01	barge in.v.01	Mr. Clarke	5	4
 49.5	1.5	33	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	4
 51.0	1.5	34	hallway.n.01; light.n.02	flicker.v.03; run.v.01	Mr. Clarke	5	3
@@ -60,11 +60,11 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 90.0	1.5	60	light.n.02; elevator.n.01	flicker.v.03; look.v.01	Mr. Clarke	5	3
 91.5	1.5	61	light.n.02; elevator.n.01	flicker.v.03; gasp.v.01; look.v.01	Mr. Clarke	5	3
 93.0	1.5	62	light.n.02; elevator.n.01	close.v.01; scream.v.01; take.v.03	Mr. Clarke	5	3
-94.5	1.5	63	light.n.02; elevator.n.01	close.v.01	n/a	5	3
-96.0	1.5	64	light.n.02; elevator.n.01	close.v.01	n/a	5	3
-97.5	1.5	65	light.n.02; elevator.n.01	expel.v.01	n/a	5	3
-99.0	1.5	66	light.n.02; elevator.n.01	expel.v.01	n/a	5	3
-100.5	1.5	67	light.n.02; elevator.n.01	expel.v.01	n/a	5	3
+94.5	1.5	63	light.n.02; elevator.n.01	close.v.01		5	3
+96.0	1.5	64	light.n.02; elevator.n.01	close.v.01		5	3
+97.5	1.5	65	light.n.02; elevator.n.01	expel.v.01		5	3
+99.0	1.5	66	light.n.02; elevator.n.01	expel.v.01		5	3
+100.5	1.5	67	light.n.02; elevator.n.01	expel.v.01		5	3
 102.0	1.5	68	sprinkler.n.01; house.n.01	expel.v.01; speak.v.01	Mike Wheeler	5	3
 103.5	1.5	69	sprinkler.n.01; house.n.01	expel.v.01; speak.v.01	Mike Wheeler	5	3
 105.0	1.5	70	sprinkler.n.01; house.n.01	expel.v.01; speak.v.01	Mike Wheeler	5	3
@@ -192,7 +192,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 288.0	1.5	192	garage.n.01	walk.v.01	Mike Wheeler	5	3
 289.5	1.5	193	garage.n.01	move.v.03; turn off.v.01	Mike Wheeler	5	3
 291.0	1.5	194	garage.n.01	walk.v.01	Mike Wheeler	5	3
-292.5	1.5	195	tree.n.01; pole.n.01	n/a	n/a	5	3
+292.5	1.5	195	tree.n.01; pole.n.01			5	3
 294.0	1.5	196	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
 295.5	1.5	197	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
 297.0	1.5	198	tree.n.01; street.n.02	speak.v.01; ride.v.10	Will Byers; Dustin Henderson; Lucas Sinclair	5	3
@@ -216,15 +216,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 324.0	1.5	216	tree.n.01; street.n.02	ride.v.10; slow.v.01; brake.v.02	Dustin Henderson	5	3
 325.5	1.5	217	tree.n.01; street.n.02	brake.v.02; halt.v.02	Dustin Henderson	5	3
 327.0	1.5	218	tree.n.01; street.n.02	exhale.v.01	Dustin Henderson	5	3
-328.5	1.5	219	tree.n.01; wire.n.02	n/a	n/a	5	3
-330.0	1.5	220	tree.n.01; wire.n.02	n/a	n/a	5	3
-331.5	1.5	221	tree.n.01; street.n.02; wire.n.02	n/a	n/a	5	3
+328.5	1.5	219	tree.n.01; wire.n.02			5	3
+330.0	1.5	220	tree.n.01; wire.n.02			5	3
+331.5	1.5	221	tree.n.01; street.n.02; wire.n.02			5	3
 333.0	1.5	222	bicycle.n.01	ride.v.10	Will Byers	5	3
 334.5	1.5	223	bicycle.n.01	ride.v.10	Will Byers	5	3
 336.0	1.5	224	bicycle.n.01	ride.v.10	Will Byers	5	3
 337.5	1.5	225	bicycle.n.01	ride.v.10	Will Byers	5	3
-339.0	1.5	226	tree.n.01; street.n.02; wire.n.02; sign.n.02	n/a	n/a	5	3
-340.5	1.5	227	tree.n.01; street.n.02; wire.n.02; sign.n.02	n/a	n/a	5	3
+339.0	1.5	226	tree.n.01; street.n.02; wire.n.02; sign.n.02			5	3
+340.5	1.5	227	tree.n.01; street.n.02; wire.n.02; sign.n.02			5	3
 342.0	1.5	228	street.n.02; bicycle.n.01	pedal.v.01	Will Byers	5	3
 343.5	1.5	229	street.n.02; bicycle.n.01	pedal.v.01; ride.v.10	Will Byers	5	3
 345.0	1.5	230	bicycle.n.01	ride.v.10	Will Byers	5	3
@@ -321,15 +321,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 481.5	1.5	321	room.n.01	worry.v.01	Will Byers	5	3
 483.0	1.5	322	room.n.01	worry.v.01	Will Byers	5	3
 484.5	1.5	323	room.n.01; light.n.02	worry.v.01	Will Byers	5	3
-486.0	1.5	324	room.n.01; light.n.02	n/a	n/a	5	3
-487.5	1.5	325	room.n.01; light.n.02	n/a	n/a	5	3
-489.0	1.5	326	room.n.01; light.n.02	n/a	n/a	5	3
-490.5	1.5	327	room.n.01; light.n.02	dim.v.01	n/a	5	3
-492.0	1.5	328	room.n.01; light.n.02	n/a	n/a	5	3
-493.5	1.5	329	room.n.01; light.n.02	n/a	n/a	5	3
-495.0	1.5	330	room.n.01; light.n.02	n/a	n/a	5	3
-496.5	1.5	331	room.n.01; light.n.02	n/a	n/a	5	3
-498.0	1.5	332	room.n.01; light.n.02	dim.v.01	n/a	5	3
-499.5	1.5	333	room.n.01; light.n.02	dim.v.01	n/a	5	3
-501.0	1.5	334	room.n.01; light.n.02	dim.v.01	n/a	5	3
-502.5	1.5	335	room.n.01; light.n.02	dim.v.01	n/a	5	3
+486.0	1.5	324	room.n.01; light.n.02			5	3
+487.5	1.5	325	room.n.01; light.n.02			5	3
+489.0	1.5	326	room.n.01; light.n.02			5	3
+490.5	1.5	327	room.n.01; light.n.02	dim.v.01		5	3
+492.0	1.5	328	room.n.01; light.n.02			5	3
+493.5	1.5	329	room.n.01; light.n.02			5	3
+495.0	1.5	330	room.n.01; light.n.02			5	3
+496.5	1.5	331	room.n.01; light.n.02			5	3
+498.0	1.5	332	room.n.01; light.n.02	dim.v.01		5	3
+499.5	1.5	333	room.n.01; light.n.02	dim.v.01		5	3
+501.0	1.5	334	room.n.01; light.n.02	dim.v.01		5	3
+502.5	1.5	335	room.n.01; light.n.02	dim.v.01		5	3

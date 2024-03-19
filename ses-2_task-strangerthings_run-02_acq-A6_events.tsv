@@ -30,7 +30,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 45.0	1.5	30	tent.n.01; blanket.n.01; light.n.02; clothing.n.01	sepak.v.01; stare.v.01; glance.v.01	Miike Wheeler; Eleven	5	4
 46.5	1.5	31	desk.n.01; blanket.n.01; tent.n.01; light.n.02	speak.v.01	Mike Wheeler	1	1
 48.0	1.5	32	tent.n.01; blanket.n.01; desk.n.01	speak.v.01	Mike Wheeler; Eleven	1	1
-49.5	1.5	33	light.n.02; desk.n.01; tent.n.01; blanket.n.01	speak.v.01; laugh.v.01; glance.v.01	n/a	7	5
+49.5	1.5	33	light.n.02; desk.n.01; tent.n.01; blanket.n.01	speak.v.01; laugh.v.01; glance.v.01		7	5
 51.0	1.5	34	light.n.02; desk.n.01; tent.n.01; blanket.n.01	look.v.01; blink.v.01	Eleven; Mike Wheeler	5	1
 52.5	1.5	35	pocket.n.01; clothing.n.01; tent;n.01; blanket.n.01	glance.v.01; reach.v.06	Eleven; Mike Wheeler	5	5
 54.0	1.5	36	tent.n.01; light.n.02; blanket.n.01; pillow.n.01	extend.v.02; speak.v.01; give.v.03	Mike Wheeler; Eleven	8	1

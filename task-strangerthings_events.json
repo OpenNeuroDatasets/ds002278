@@ -1,6 +1,6 @@
 {
     "sample": {
-        "Description": "Volume index in the corresponding BOLD file."
+        "Description": "Volume index in the corresponding BOLD file in the raw dataset."
     },
     "nouns": {
         "Description": "Semicolon-separated list of nouns present in the clip, defined from WordNet.",
@@ -14,23 +14,11 @@
         "Description": "Semicolon-separated list of characters present in the clip."
     },
     "valence": {
-        "Description": "Annotator-estimated valence of the clip.",
-        "Levels": {
-            "1": "Negative",
-            "2": "Somewhat negative",
-            "3": "Neutral",
-            "4": "Somewhat positive",
-            "5": "Positive"
-        }
+        "Description": "Annotator-estimated valence of the clip, based on the Self-Assessment Manikin (SAM) scale proposed in Bradley & Lang (1994). Values range from 1 (negative) to 9 (positive).",
+        "TermURL": "https://doi.org/10.1016/0005-7916(94)90063-9"
     },
     "arousal": {
-        "Description": "Annotator-estimated arousal level of the clip.",
-        "Levels": {
-            "1": "Image is negative",
-            "2": "Image is somewhat negative",
-            "3": "Image is somewhat positive",
-            "4": "Image is positive",
-            "5": "Image is positive"
-        }
+        "Description": "Annotator-estimated arousal level of the clip, based on the Self-Assessment Manikin (SAM) scale proposed in Bradley & Lang (1994). Values range from 1 (calm) to 9 (excited).",
+        "TermURL": "https://doi.org/10.1016/0005-7916(94)90063-9"
     }
 }

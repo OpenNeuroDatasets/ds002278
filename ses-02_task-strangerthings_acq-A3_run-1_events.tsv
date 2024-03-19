@@ -1,9 +1,9 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2					
-4.5	1.5	3	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02			5.0	1.0
-6.0	1.5	4	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02; lightning.n.01			5.0	1.0
-7.5	1.5	5	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02; lightning.n.01			5.0	1.0
-9.0	1.5	6	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02; lightning.n.01	rain.v.01		5.0	1.0
+3.0	1.5	2	n/a	n/a	n/a	n/a	n/a
+4.5	1.5	3	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02	n/a	n/a	5.0	1.0
+6.0	1.5	4	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02; lightning.n.01	n/a	n/a	5.0	1.0
+7.5	1.5	5	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02; lightning.n.01	n/a	n/a	5.0	1.0
+9.0	1.5	6	nighttime.n.01; outdoors.n.01; house.n.01; light.n.02; thunder.n.02; lightning.n.01	rain.v.01	n/a	5.0	1.0
 10.5	1.5	7	indoors.n.01; couch.n.01; pillow.n.01	sit.v.01; hyperventilate.v.02	Eleven	5.0	1.0
 12.0	1.5	8	indoors.n.01; couch.n.01; pillow.n.01	sit.v.01; hyperventilate.v.02; question.v.03	Eleven	5.0	1.0
 13.5	1.5	9	indoors.n.01; couch.n.01; pillow.n.01	sit.v.01; hyperventilate.v.02; question.v.03	Eleven, Dustin Hernandez, Lucas Sinclair, Mike Wheeler	5.0	1.0
@@ -126,7 +126,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 189.0	1.5	126	indoors.n.01; light.n.02	worry.v.01	Mike Wheeler	5.0	1.0
 190.5	1.5	127	indoors.n.01; light.n.02	worry.v.01; ask.v.01	Mike Wheeler; Eleven	5.0	1.0
 192.0	1.5	128	indoors.n.01; light.n.02; silent.n.01	close.v.02	Mike Wheeler; Eleven	5.0	1.0
-193.5	1.5	129	indoors.n.01; light.n.02; silent.n.01		Mike Wheeler; Eleven	5.0	1.0
+193.5	1.5	129	indoors.n.01; light.n.02; silent.n.01	n/a	Mike Wheeler; Eleven	5.0	1.0
 195.0	1.5	130	indoors.n.01; light.n.02; silent.n.01	stare.v.01	Mike Wheeler; Eleven	5.0	1.0
 196.5	1.5	131	indoors.n.01; light.n.02; silent.n.01; tattoo.n.02; tent.n.01	demonstrate.v.01	Mike Wheeler; Eleven	5.0	1.0
 198.0	1.5	132	indoors.n.01; light.n.02; tattoo.n.02; tent.n.01	demonstrate.v.01; ask.v.01; stare.v.01; amaze.v.01	Mike Wheeler; Eleven	5.0	1.0
@@ -177,26 +177,26 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 265.5	1.5	177	indoors.n.01; pillow.n.01; thunder.n.02; lightning.n.01	upset.v.01; lay down.v.02	Eleven	5.0	1.0
 267.0	1.5	178	indoors.n.01; pillow.n.01; thunder.n.02; lightning.n.01	upset.v.01; lay down.v.02	Eleven	3.0	1.0
 268.5	1.5	179	indoors.n.01; pillow.n.01; thunder.n.02; lightning.n.01	upset.v.01; lay down.v.02	Eleven	1.0	1.0
-270.0	1.5	180					
-271.5	1.5	181					
-273.0	1.5	182					
-274.5	1.5	183					
-276.0	1.5	184					
-277.5	1.5	185					
-279.0	1.5	186					
-280.5	1.5	187	trees.n.01; daytime.n.01; outdoors.n.01			5.0	1.0
-282.0	1.5	188	trees.n.01; daytime.n.01; outdoors.n.01			5.0	1.0
-283.5	1.5	189	trees.n.01; daytime.n.01; outdoors.n.01			5.0	1.0
-285.0	1.5	190	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01			5.0	1.0
-286.5	1.5	191	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01			5.0	1.0
-288.0	1.5	192	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01			5.0	1.0
-289.5	1.5	193	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01			5.0	1.0
-291.0	1.5	194	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01; car.n.01; house.n.01			5.0	1.0
-292.5	1.5	195	trees.n.01; daytime.n.01; outdoors.n.01; car.n.01; house.n.01; laundry.n.01			5.0	1.0
-294.0	1.5	196	trees.n.01; daytime.n.01; outdoors.n.01; car.n.01; house.n.01; laundry.n.01			5.0	1.0
-295.5	1.5	197	indoors.n.01; photo.n.01			5.0	1.0
-297.0	1.5	198	indoors.n.01; photo.n.01; chair.n.01; table.n.01	sit.v.01		5.0	1.0
-298.5	1.5	199	indoors.n.01; photo.n.01; chair.n.01; table.n.01	sit.v.01		5.0	1.0
+270.0	1.5	180	n/a	n/a	n/a	n/a	n/a
+271.5	1.5	181	n/a	n/a	n/a	n/a	n/a
+273.0	1.5	182	n/a	n/a	n/a	n/a	n/a
+274.5	1.5	183	n/a	n/a	n/a	n/a	n/a
+276.0	1.5	184	n/a	n/a	n/a	n/a	n/a
+277.5	1.5	185	n/a	n/a	n/a	n/a	n/a
+279.0	1.5	186	n/a	n/a	n/a	n/a	n/a
+280.5	1.5	187	trees.n.01; daytime.n.01; outdoors.n.01	n/a	n/a	5.0	1.0
+282.0	1.5	188	trees.n.01; daytime.n.01; outdoors.n.01	n/a	n/a	5.0	1.0
+283.5	1.5	189	trees.n.01; daytime.n.01; outdoors.n.01	n/a	n/a	5.0	1.0
+285.0	1.5	190	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01	n/a	n/a	5.0	1.0
+286.5	1.5	191	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01	n/a	n/a	5.0	1.0
+288.0	1.5	192	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01	n/a	n/a	5.0	1.0
+289.5	1.5	193	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01	n/a	n/a	5.0	1.0
+291.0	1.5	194	trees.n.01; daytime.n.01; outdoors.n.01; shelter.n.01; truck.n.01; machine.n.01; car.n.01; house.n.01	n/a	n/a	5.0	1.0
+292.5	1.5	195	trees.n.01; daytime.n.01; outdoors.n.01; car.n.01; house.n.01; laundry.n.01	n/a	n/a	5.0	1.0
+294.0	1.5	196	trees.n.01; daytime.n.01; outdoors.n.01; car.n.01; house.n.01; laundry.n.01	n/a	n/a	5.0	1.0
+295.5	1.5	197	indoors.n.01; photo.n.01	n/a	n/a	5.0	1.0
+297.0	1.5	198	indoors.n.01; photo.n.01; chair.n.01; table.n.01	sit.v.01	n/a	5.0	1.0
+298.5	1.5	199	indoors.n.01; photo.n.01; chair.n.01; table.n.01	sit.v.01	n/a	5.0	1.0
 300.0	1.5	200	indoors.n.01; photo.n.01; chair.n.01; table.n.01; orange juice.n.01	sit.v.01	Jonathan Byers 	5.0	1.0
 301.5	1.5	201	indoors.n.01; photo.n.01; chair.n.01; table.n.01; orange juice.n.01; kitchen.n.01; breakfast.n.01	sit.v.01	Jonathan Byers 	5.0	1.0
 303.0	1.5	202	indoors.n.01; photo.n.01; chair.n.01; table.n.01; orange juice.n.01; kitchen.n.01; breakfast.n.01	sit.v.01	Jonathan Byers 	5.0	1.0

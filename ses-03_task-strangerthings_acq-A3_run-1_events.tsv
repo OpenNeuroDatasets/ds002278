@@ -1,92 +1,92 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2				3	3
-4.5	1.5	3				3	3
-6.0	1.5	4				3	3
-7.5	1.5	5	barf.n.01; blood.n.01; glasses.n.09; ground.n.07; unconscious.n.01	shattered.v.01		1	7
-9.0	1.5	6	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; shattered.v.01		1	7
-10.5	1.5	7	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; hyperventilating.v.02; shattered.v.01		1	7
-12.0	1.5	8	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; shattered.v.01		1	5
-13.5	1.5	9	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; reach out.v.01; shattered.v.01		1	5
-15.0	1.5	10	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; remove.v.01; shattered.v.01		1	5
-16.5	1.5	11	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	confused.v.02; orient.v.02; shattered.v.01		1	5
-18.0	1.5	12	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	7
-19.5	1.5	13	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	5
-21.0	1.5	14	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; cries.v.03		1	5
-22.5	1.5	15	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	5
-24.0	1.5	16	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	5
-25.5	1.5	17	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03		1	5
-27.0	1.5	18	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	5
-28.5	1.5	19	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	5
-30.0	1.5	20	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03		1	5
-31.5	1.5	21	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	5
-33.0	1.5	22	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03		1	5
-34.5	1.5	23	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02		1	9
-36.0	1.5	24	barf.n.01; blood.n.01; gasp.n.01; monster.n.02; fright.n.01	confused.v.02; orient.v.02; shout.v.03		1	9
+3.0	1.5	2	n/a	n/a	n/a	3	3
+4.5	1.5	3	n/a	n/a	n/a	3	3
+6.0	1.5	4	n/a	n/a	n/a	3	3
+7.5	1.5	5	barf.n.01; blood.n.01; glasses.n.09; ground.n.07; unconscious.n.01	shattered.v.01	n/a	1	7
+9.0	1.5	6	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; shattered.v.01	n/a	1	7
+10.5	1.5	7	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; hyperventilating.v.02; shattered.v.01	n/a	1	7
+12.0	1.5	8	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; shattered.v.01	n/a	1	5
+13.5	1.5	9	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; reach out.v.01; shattered.v.01	n/a	1	5
+15.0	1.5	10	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; remove.v.01; shattered.v.01	n/a	1	5
+16.5	1.5	11	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	confused.v.02; orient.v.02; shattered.v.01	n/a	1	5
+18.0	1.5	12	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	7
+19.5	1.5	13	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+21.0	1.5	14	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; cries.v.03	n/a	1	5
+22.5	1.5	15	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+24.0	1.5	16	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+25.5	1.5	17	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03	n/a	1	5
+27.0	1.5	18	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+28.5	1.5	19	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+30.0	1.5	20	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03	n/a	1	5
+31.5	1.5	21	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+33.0	1.5	22	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03	n/a	1	5
+34.5	1.5	23	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	9
+36.0	1.5	24	barf.n.01; blood.n.01; gasp.n.01; monster.n.02; fright.n.01	confused.v.02; orient.v.02; shout.v.03	n/a	1	9
 37.5	1.5	25	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
 39.0	1.5	26	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
 40.5	1.5	27	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
 42.0	1.5	28	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
-43.5	1.5	29	escape.n.01; fright.n.01	scared.v.01		1	7
-45.0	1.5	30	escape.n.01; fright.n.01	scared.v.01		1	7
+43.5	1.5	29	escape.n.01; fright.n.01	scared.v.01	n/a	1	7
+45.0	1.5	30	escape.n.01; fright.n.01	scared.v.01	n/a	1	7
 46.5	1.5	31	indoors.n.01; shirt.n.01	remove.v.01	Jonathan Byers	7	1
-48.0	1.5	32	indoors.n.01; lamp.n.02		Jonathan Byers	7	1
-49.5	1.5	33	indoors.n.01; lover.n.01		Jonathan Byers; Nancy Wheeler	7	1
-51.0	1.5	34	fright.n.01	drag.v.01		1	7
-52.5	1.5	35	escape.n.01; fright.n.01	climb.v.01		1	7
-54.0	1.5	36	escape.n.01; fright.n.01	climb.v.01		1	9
-55.5	1.5	37	door.n.01; pool.n.01; chair.n.01; light.n.02	steam.v.03		5	1
-57.0	1.5	38	outdoors.n.01; light.n.02; pool.n.01; chair.n.01; tree.n.01			5	1
+48.0	1.5	32	indoors.n.01; lamp.n.02	n/a	Jonathan Byers	7	1
+49.5	1.5	33	indoors.n.01; lover.n.01	n/a	Jonathan Byers; Nancy Wheeler	7	1
+51.0	1.5	34	fright.n.01	drag.v.01	n/a	1	7
+52.5	1.5	35	escape.n.01; fright.n.01	climb.v.01	n/a	1	7
+54.0	1.5	36	escape.n.01; fright.n.01	climb.v.01	n/a	1	9
+55.5	1.5	37	door.n.01; pool.n.01; chair.n.01; light.n.02	steam.v.03	n/a	5	1
+57.0	1.5	38	outdoors.n.01; light.n.02; pool.n.01; chair.n.01; tree.n.01	n/a	n/a	5	1
 58.5	1.5	39	indoors.n.01; bed.n.01; window.n.01	refuse.v.01	Jonathan Byers; Nancy Wheeler	7	1
 60.0	1.5	40	indoors.n.01; bed.n.01	caress.v.01	Jonathan Byers; Nancy Wheeler	7	1
 61.5	1.5	41	indoors.n.01; bed.n.01	caress.v.01	Jonathan Byers; Nancy Wheeler	7	1
 63.0	1.5	42	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
-64.5	1.5	43	escape.n.01; fright.n.01	climb.v.01		1	5
-66.0	1.5	44	escape.n.01; fright.n.01	climb.v.01		1	5
-67.5	1.5	45	escape.n.01; fright.n.01; fear.n.01	climb.v.01		1	7
-69.0	1.5	46	escape.n.01; fright.n.01; fear.n.01	climb.v.01		1	7
+64.5	1.5	43	escape.n.01; fright.n.01	climb.v.01	n/a	1	5
+66.0	1.5	44	escape.n.01; fright.n.01	climb.v.01	n/a	1	5
+67.5	1.5	45	escape.n.01; fright.n.01; fear.n.01	climb.v.01	n/a	1	7
+69.0	1.5	46	escape.n.01; fright.n.01; fear.n.01	climb.v.01	n/a	1	7
 70.5	1.5	47	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
-72.0	1.5	48	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01		1	7
-73.5	1.5	49	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; railing.n.01	climb.v.01; reach out.v.01		1	7
-75.0	1.5	50	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01		1	7
-76.5	1.5	51	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01		1	7
-78.0	1.5	52	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01		1	7
-79.5	1.5	53	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01		1	9
+72.0	1.5	48	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01	n/a	1	7
+73.5	1.5	49	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; railing.n.01	climb.v.01; reach out.v.01	n/a	1	7
+75.0	1.5	50	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	7
+76.5	1.5	51	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	7
+78.0	1.5	52	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	7
+79.5	1.5	53	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	9
 81.0	1.5	54	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
 82.5	1.5	55	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
 84.0	1.5	56	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
-85.5	1.5	57	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	drag.v.01; reach out.v.01		1	9
-87.0	1.5	58	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	climb.v.01; reach out.v.01		1	9
+85.5	1.5	57	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	drag.v.01; reach out.v.01	n/a	1	9
+87.0	1.5	58	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	climb.v.01; reach out.v.01	n/a	1	9
 88.5	1.5	59	indoors.n.01; bed.n.01; bed sheet.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
-90.0	1.5	60	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01		1	9
+90.0	1.5	60	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
 91.5	1.5	61	indoors.n.01; bed.n.01; bed sheet.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
 93.0	1.5	62	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
 94.5	1.5	63	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
-96.0	1.5	64	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01		1	9
+96.0	1.5	64	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
 97.5	1.5	65	indoors.n.01; bed.n.01; bed sheet.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
-99.0	1.5	66	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01		1	9
-100.5	1.5	67	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01		1	9
-102.0	1.5	68	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01; drag.v.01		1	9
-103.5	1.5	69	 top.n.03; railing.n.01	drop.v.01		1	7
-105.0	1.5	70	 top.n.03; railing.n.01			1	5
-106.5	1.5	71	 top.n.03; railing.n.01			1	5
-108.0	1.5	72	 top.n.03; railing.n.01			1	5
-109.5	1.5	73	 top.n.03; railing.n.01			1	5
-111.0	1.5	74	 top.n.03; railing.n.01			1	5
-112.5	1.5	75	 top.n.03; railing.n.01			1	5
-114.0	1.5	76	 top.n.03; railing.n.01			1	5
-115.5	1.5	77	 top.n.03; railing.n.01			1	5
-117.0	1.5	78				3	3
-118.5	1.5	79				3	3
-120.0	1.5	80				3	3
-121.5	1.5	81				3	3
-123.0	1.5	82				3	3
-124.5	1.5	83				3	3
-126.0	1.5	84				3	3
-127.5	1.5	85				3	3
-129.0	1.5	86	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01			5	2
-130.5	1.5	87	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01			5	2
-132.0	1.5	88	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01			5	2
-133.5	1.5	89	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01			5	1
+99.0	1.5	66	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
+100.5	1.5	67	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
+102.0	1.5	68	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01; drag.v.01	n/a	1	9
+103.5	1.5	69	 top.n.03; railing.n.01	drop.v.01	n/a	1	7
+105.0	1.5	70	 top.n.03; railing.n.01	n/a	n/a	1	5
+106.5	1.5	71	 top.n.03; railing.n.01	n/a	n/a	1	5
+108.0	1.5	72	 top.n.03; railing.n.01	n/a	n/a	1	5
+109.5	1.5	73	 top.n.03; railing.n.01	n/a	n/a	1	5
+111.0	1.5	74	 top.n.03; railing.n.01	n/a	n/a	1	5
+112.5	1.5	75	 top.n.03; railing.n.01	n/a	n/a	1	5
+114.0	1.5	76	 top.n.03; railing.n.01	n/a	n/a	1	5
+115.5	1.5	77	 top.n.03; railing.n.01	n/a	n/a	1	5
+117.0	1.5	78	n/a	n/a	n/a	3	3
+118.5	1.5	79	n/a	n/a	n/a	3	3
+120.0	1.5	80	n/a	n/a	n/a	3	3
+121.5	1.5	81	n/a	n/a	n/a	3	3
+123.0	1.5	82	n/a	n/a	n/a	3	3
+124.5	1.5	83	n/a	n/a	n/a	3	3
+126.0	1.5	84	n/a	n/a	n/a	3	3
+127.5	1.5	85	n/a	n/a	n/a	3	3
+129.0	1.5	86	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01	n/a	n/a	5	2
+130.5	1.5	87	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01	n/a	n/a	5	2
+132.0	1.5	88	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01	n/a	n/a	5	2
+133.5	1.5	89	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01	n/a	n/a	5	1
 135.0	1.5	90	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
 136.5	1.5	91	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
 138.0	1.5	92	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
@@ -182,14 +182,14 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 273.0	1.5	182	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; worry.v.01	female	5	1
 274.5	1.5	183	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; worry.v.01	female	5	1
 276.0	1.5	184	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; worry.v.01	female	5	1
-277.5	1.5	185	outdoors.n.01; daylight.n.01; tree.n.01			5	1
-279.0	1.5	186	outdoors.n.01; daylight.n.01; tree.n.01			5	1
-280.5	1.5	187	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03		5	1
-282.0	1.5	188	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03		5	1
-283.5	1.5	189	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03		5	1
-285.0	1.5	190	outdoors.n.01; daylight.n.01; tree.n.01; swing.n.02	swing.v.03		5	1
-286.5	1.5	191	outdoors.n.01; daylight.n.01; tree.n.01; swing.n.02	swing.v.03		5	1
-288.0	1.5	192	outdoors.n.01; daylight.n.01; chair.n.01; window.n.01; house.n.01; breeze.n.01; laundry.n.01			5	1
+277.5	1.5	185	outdoors.n.01; daylight.n.01; tree.n.01	n/a	n/a	5	1
+279.0	1.5	186	outdoors.n.01; daylight.n.01; tree.n.01	n/a	n/a	5	1
+280.5	1.5	187	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03	n/a	5	1
+282.0	1.5	188	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03	n/a	5	1
+283.5	1.5	189	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03	n/a	5	1
+285.0	1.5	190	outdoors.n.01; daylight.n.01; tree.n.01; swing.n.02	swing.v.03	n/a	5	1
+286.5	1.5	191	outdoors.n.01; daylight.n.01; tree.n.01; swing.n.02	swing.v.03	n/a	5	1
+288.0	1.5	192	outdoors.n.01; daylight.n.01; chair.n.01; window.n.01; house.n.01; breeze.n.01; laundry.n.01	n/a	n/a	5	1
 289.5	1.5	193	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	sleep.v.01	Jonathan Byers	5	1
 291.0	1.5	194	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	sleep.v.01	Jonathan Byers	5	1
 292.5	1.5	195	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	sleep.v.01	Jonathan Byers	5	1

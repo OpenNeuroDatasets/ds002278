@@ -1,7 +1,7 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	black.n.01			5	4
-4.5	1.5	3	black.n.01			5	4
-6.0	1.5	4	black.n.01			5	4
+3.0	1.5	2	black.n.01	n/a	n/a	5	4
+4.5	1.5	3	black.n.01	n/a	n/a	5	4
+6.0	1.5	4	black.n.01	n/a	n/a	5	4
 7.5	1.5	5	greenery.n.01; ground.n.01; bang.n.02; glasses.n.01; water.n.01; sand.n.01	lie.v.02; wake.v.05; gag.v.05	Barbara Holland	5	5
 9.0	1.5	6	greenery.n.01; ground.n.01; glasses.n.01; water.n.01; sand.n.01	lie.v.02; wake.v.05; gag.v.05	Barbara Holland	5	5
 10.5	1.5	7	greenery.n.01; ground.n.01; glasses.n.01; water.n.01; sand.n.01	lie.v.02; wake.v.05; gag.v.05	Barbara Holland	5	5
@@ -35,7 +35,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 52.5	1.5	35	greenery.n.01; wall.n.01 specks.n.02; monster.n.01	look.v.01; stand.v.01; scream.v.01; retreat.v.01; shock.v.03	Barbara Holland	4	6
 54.0	1.5	36	greenery.n.01; wall.n.01 specks.n.02; monster.n.01	look.v.01; stand.v.01; scream.v.01; retreat.v.01; shock.v.03	Barbara Holland	4	6
 55.5	1.5	37	greenery.n.01; wall.n.01 specks.n.02; monster.n.01	look.v.01; stand.v.01; scream.v.01; retreat.v.01; shock.v.03	Barbara Holland	4	6
-57.0	1.5	38	backyard.n.01; pool.n.01			4	6
+57.0	1.5	38	backyard.n.01; pool.n.01	n/a	n/a	4	6
 58.5	1.5	39	bedroom.n.01; bed.n.01	kiss.v.01; lie.v.02; look.v.01	Nancy Wheeler; Steve Harrington	5	5
 60.0	1.5	40	bedroom.n.01; bed.n.01	lie.v.02; look.v.01; think.v.06; talk.v.01	Nancy Wheeler; Steve Harrington	5	5
 61.5	1.5	41	bedroom.n.01; bed.n.01	lie.v.02; look.v.01; think.v.06; talk.v.01	Nancy Wheeler; Steve Harrington	5	5
@@ -66,26 +66,26 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 99.0	1.5	66	bedroom.n.01; bed.n.01	kiss.v.01; lie.v.02; look.v.01	Nancy Wheeler; Steve Harrington	5	5
 100.5	1.5	67	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01	look.v.01; drag.v.01; grab.v.01; scream.v.01; retreat.v.01	Barbara Holland	4	6
 102.0	1.5	68	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01	look.v.01; drag.v.01; grab.v.01; scream.v.01; release.v.01	Barbara Holland	4	6
-103.5	1.5	69	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-105.0	1.5	70	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-106.5	1.5	71	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-108.0	1.5	72	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-109.5	1.5	73	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-111.0	1.5	74	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-112.5	1.5	75	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-114.0	1.5	76	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-115.5	1.5	77	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02			4	6
-117.0	1.5	78	black.n.01			5	4
-118.5	1.5	79	subtitles.n.01			5	4
-120.0	1.5	80	subtitles.n.01			5	4
-121.5	1.5	81	subtitles.n.01			5	4
-123.0	1.5	82	subtitles.n.01			5	4
-124.5	1.5	83	subtitles.n.01			5	4
-126.0	1.5	84	subtitles.n.01			5	4
-127.5	1.5	85	subtitles.n.01			5	4
-129.0	1.5	86	bedroom.n.01; desk.n.01; dresser.n.01			5	4
-130.5	1.5	87	bedroom.n.01; desk.n.01; dresser.n.01			5	4
-132.0	1.5	88	bedroom.n.01; desk.n.01; dresser.n.01			5	4
+103.5	1.5	69	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+105.0	1.5	70	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+106.5	1.5	71	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+108.0	1.5	72	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+109.5	1.5	73	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+111.0	1.5	74	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+112.5	1.5	75	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+114.0	1.5	76	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+115.5	1.5	77	greenery.n.01; wall.n.01 specks.n.02; monster.n.01; ladder.n.01; silence.n.02	n/a	n/a	4	6
+117.0	1.5	78	black.n.01	n/a	n/a	5	4
+118.5	1.5	79	subtitles.n.01	n/a	n/a	5	4
+120.0	1.5	80	subtitles.n.01	n/a	n/a	5	4
+121.5	1.5	81	subtitles.n.01	n/a	n/a	5	4
+123.0	1.5	82	subtitles.n.01	n/a	n/a	5	4
+124.5	1.5	83	subtitles.n.01	n/a	n/a	5	4
+126.0	1.5	84	subtitles.n.01	n/a	n/a	5	4
+127.5	1.5	85	subtitles.n.01	n/a	n/a	5	4
+129.0	1.5	86	bedroom.n.01; desk.n.01; dresser.n.01	n/a	n/a	5	4
+130.5	1.5	87	bedroom.n.01; desk.n.01; dresser.n.01	n/a	n/a	5	4
+132.0	1.5	88	bedroom.n.01; desk.n.01; dresser.n.01	n/a	n/a	5	4
 133.5	1.5	89	bedroom.n.01; desk.n.01; dresser.n.01; bed.n.01	sit.v.01; look.v.01	Nancy Wheeler	5	4
 135.0	1.5	90	bedroom.n.01; desk.n.01; dresser.n.01; bed.n.01	sit.v.01; look.v.01	Nancy Wheeler	5	4
 136.5	1.5	91	bedroom.n.01; desk.n.01; dresser.n.01; bed.n.01	sit.v.01; look.v.01	Nancy Wheeler	5	4
@@ -182,15 +182,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 273.0	1.5	182	hallway.n.01; stairs.n.01; lights.n.04	look.v.01	Karen Wheeler	3	5
 274.5	1.5	183	hallway.n.01; stairs.n.01; lights.n.04	look.v.01	Karen Wheeler	3	5
 276.0	1.5	184	hallway.n.01; stairs.n.01; lights.n.04	look.v.01	Karen Wheeler	3	5
-277.5	1.5	185	outside.n.01; trees.n.01			5	4
-279.0	1.5	186	outside.n.01; trees.n.01; swing.n.02			5	4
-280.5	1.5	187	outside.n.01; trees.n.01; swing.n.02			5	4
-282.0	1.5	188	outside.n.01; trees.n.01; swing.n.02			5	4
-283.5	1.5	189	outside.n.01; trees.n.01; swing.n.02			5	4
-285.0	1.5	190	outside.n.01; trees.n.01; swing.n.02			5	4
-286.5	1.5	191	outside.n.01; trees.n.01; swing.n.02			5	4
-288.0	1.5	192	house.n.01; porch.n.01			5	4
-289.5	1.5	193	house.n.01; porch.n.01			5	4
+277.5	1.5	185	outside.n.01; trees.n.01	n/a	n/a	5	4
+279.0	1.5	186	outside.n.01; trees.n.01; swing.n.02	n/a	n/a	5	4
+280.5	1.5	187	outside.n.01; trees.n.01; swing.n.02	n/a	n/a	5	4
+282.0	1.5	188	outside.n.01; trees.n.01; swing.n.02	n/a	n/a	5	4
+283.5	1.5	189	outside.n.01; trees.n.01; swing.n.02	n/a	n/a	5	4
+285.0	1.5	190	outside.n.01; trees.n.01; swing.n.02	n/a	n/a	5	4
+286.5	1.5	191	outside.n.01; trees.n.01; swing.n.02	n/a	n/a	5	4
+288.0	1.5	192	house.n.01; porch.n.01	n/a	n/a	5	4
+289.5	1.5	193	house.n.01; porch.n.01	n/a	n/a	5	4
 291.0	1.5	194	bedroom.n.01; bed.n.01	sleep.v.01	Jonathan Byers	5	4
 292.5	1.5	195	bedroom.n.01; bed.n.01	sleep.v.01; call.v.09	Jonathan Byers	5	4
 294.0	1.5	196	bedroom.n.01; bed.n.01	wake.v.02; call.v.09	Jonathan Byers	5	4

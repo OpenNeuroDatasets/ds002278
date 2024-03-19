@@ -143,7 +143,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 214.5	1.5	143	 house.n.01; trees.n.01; road.n.01; grass.n.01; stairs.n.01	climb.v.01; walk.v.01	Jonathan Byers	1	1
 216.0	1.5	144	 house.n.01; trees.n.01; road.n.01; grass.n.01; stairs.n.01	walk.v.01; climb.v.01; speak.v.01	Jonathan Byers	1	1
 217.5	1.5	145	 house.n.01; trees.n.01; road.n.01; grass.n.01; stairs.n.01; refrigerator.n.01; lamp.n.02; chair.n.01; laundry basket.n.01; door.n.01; table.n.02	walk.v.01; peer.v.01	Jonathan Byers	1	1
-219.0	1.5	146	refrigerator.n.01; lamp.n.02; chair.n.01; laundry basket.n.01; door.n.01; couch.n.01; table.n.02		no characters	1	1
+219.0	1.5	146	refrigerator.n.01; lamp.n.02; chair.n.01; laundry basket.n.01; door.n.01; couch.n.01; table.n.02	n/a	no characters	1	1
 220.5	1.5	147	refrigerator.n.01; lamp.n.02; chair.n.01; laundry basket.n.01; door.n.01; couch.n.01; table.n.02; television.n.01; house.n.01; trees.n.01; road.n.01; grass.n.01; stairs.n.01	peer.v.01; raise.v.02	Jonathan Byers	1	1
 222.0	1.5	148	 house.n.01; trees.n.01; road.n.01; grass.n.01; stairs.n.01; door.n.01	peer.v.01; knock.v.02	Jonathan Byers	1	1
 223.5	1.5	149	 house.n.01; trees.n.01; road.n.01; grass.n.01; stairs.n.01; door.n.01	shout.v.01	Jonathan Byers	1	1

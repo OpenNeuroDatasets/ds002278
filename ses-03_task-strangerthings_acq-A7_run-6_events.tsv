@@ -1,6 +1,6 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	house.n.01; porch.n.01; forest.n.02; bench.n.01			5	4
-4.5	1.5	3	house.n.01; porch.n.01; forest.n.02; bench.n.01			5	4
+3.0	1.5	2	house.n.01; porch.n.01; forest.n.02; bench.n.01	n/a	n/a	5	4
+4.5	1.5	3	house.n.01; porch.n.01; forest.n.02; bench.n.01	n/a	n/a	5	4
 6.0	1.5	4	house.n.01; room.n.01; cigarette.n.01; dog.n.01	smoke.v.01	Joyce Byers	5	4
 7.5	1.5	5	house.n.01; room.n.01; cigarette.n.01; dog.n.01	smoke.v.01	Joyce Byers	5	4
 9.0	1.5	6	house.n.01; room.n.01; cigarette.n.01; dog.n.01; decoration.n.01; lights.n.02	smoke.v.01	Joyce Byers	5	4

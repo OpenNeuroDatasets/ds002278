@@ -1,5 +1,5 @@
 onset	duration	sample	nouns	verbs	characters	valence	arousal
-3.0	1.5	2	toaster.n.02; waffle.n.01; inside.n.01	grab.v.03		5.0	1.0
+3.0	1.5	2	toaster.n.02; waffle.n.01; inside.n.01	grab.v.03	n/a	5.0	1.0
 4.5	1.5	3	toaster.n.02; waffle.n.01; inside.n.01; chair.n.01	securing.v.01	Mike Wheeler	5.0	5.0
 6.0	1.5	4	toaster.n.02; waffle.n.01; inside.n.01; chair.n.01	securing.v.01	Mike Wheeler	5.0	5.0
 7.5	1.5	5	toaster.n.02; waffle.n.01; inside.n.01; chair.n.01	placing.v.01	Mike Wheeler	5.0	3.0
@@ -127,7 +127,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 190.5	1.5	127	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; dog.n.01; search.n.01; law enforcement.n.01	seek.v.02	Sheriff Jim Hopper; people	5.0	1.0
 192.0	1.5	128	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; dog.n.01; search.n.01; law enforcement.n.01	seek.v.02	Sheriff Jim Hopper; people	5.0	1.0
 193.5	1.5	129	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; dog.n.01; search.n.01; law enforcement.n.01	seek.v.02	Sheriff Jim Hopper; people	5.0	1.0
-195.0	1.5	130	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; search.n.01; law enforcement.n.01	seek.v.02	Law enforcement		
+195.0	1.5	130	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; search.n.01; law enforcement.n.01	seek.v.02	Law enforcement	n/a	n/a
 196.5	1.5	131	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; search.n.01; law enforcement.n.01	seek.v.02	Sheriff Jim Hopper	5.0	1.0
 198.0	1.5	132	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; search.n.01; law enforcement.n.01	seek.v.02	Sheriff Jim Hopper; law enforcement	5.0	1.0
 199.5	1.5	133	leaves.n.01; outside.n.01; ground.n.01; nature.n.03; hat.n.01; search.n.01; law enforcement.n.01	seek.v.02; directing.v.01	law enforcement	5.0	1.0
@@ -221,10 +221,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 331.5	1.5	221	school.n.01; inside.n.01; student.n.01; stare.n.01; automobile.n.01; announcement.n.02; rush.n.01	walking.v.01; focused.v.01	Jonathan Byers	5.0	1.0
 333.0	1.5	222	school.n.01; inside.n.01; student.n.01; stare.n.01; automobile.n.01; announcement.n.02; rush.n.01; exit.n.01	walking.v.01; focused.v.01	Jonathan Byers	5.0	1.0
 334.5	1.5	223	school.n.01; inside.n.01; student.n.01; stare.n.01; automobile.n.01; announcement.n.02; rush.n.01; exit.n.01	walking.v.01; focused.v.01	Jonathan Byers	5.0	1.0
-336.0	1.5	224	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02		5.0	1.0
-337.5	1.5	225	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02		5.0	1.0
-339.0	1.5	226	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02		5.0	1.0
-340.5	1.5	227	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02		5.0	1.0
+336.0	1.5	224	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02	n/a	5.0	1.0
+337.5	1.5	225	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02	n/a	5.0	1.0
+339.0	1.5	226	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02	n/a	5.0	1.0
+340.5	1.5	227	school.n.01; inside.n.01; automobile.n.01; announcement.n.02	closing.v.02	n/a	5.0	1.0
 342.0	1.5	228	school.n.01; inside.n.01; book.n.01; sitting.n.02; watch.n.01; khakis.n.01	places.v.01	Lucas Sinclair	5.0	1.0
 343.5	1.5	229	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; stare.n.01	reaches.v.08	Lucas Sinclair	5.0	1.0
 345.0	1.5	230	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; stare.n.01	turn.v.01; reaches.v.08	Lucas Sinclair; Dustin Henderson 	5.0	1.0
@@ -248,4 +248,4 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 372.0	1.5	248	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; reasoning.n.01	conversing.v.01; enlightened.v.01	Lucas Sinclair; Dustin Henderson 	5.0	1.0
 373.5	1.5	249	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; reasoning.n.01	conversing.v.01; enlightened.v.01	Lucas Sinclair; Dustin Henderson 	5.0	1.0
 375.0	1.5	250	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; anxious.n.02	conversing.v.01	Lucas Sinclair; Dustin Henderson 	5.0	1.0
-376.5	1.5	251	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; anxious.n.02; stare.n.01; daydream.n.01; silence.n.02		Lucas Sinclair; Dustin Henderson 	5.0	1.0
+376.5	1.5	251	school.n.01; inside.n.01; book.n.01; sitting.n.02; backpack.n.01; anxious.n.02; stare.n.01; daydream.n.01; silence.n.02	n/a	Lucas Sinclair; Dustin Henderson 	5.0	1.0

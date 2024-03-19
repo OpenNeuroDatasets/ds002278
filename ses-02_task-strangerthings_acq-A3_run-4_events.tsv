@@ -40,35 +40,35 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 60.0	1.5	40	daytime.n.01; house.n.01; door.n.01; closet.n.03	hurry.v.01; open.v.01; worry.v.01; cry.v.02	Mike Wheeler	5	1
 61.5	1.5	41	daytime.n.01; house.n.01; door.n.01; closet.n.03	hurry.v.01; open.v.01; worry.v.01; cry.v.02	Mike Wheeler	5	1
 63.0	1.5	42	daytime.n.01; house.n.01; door.n.01; closet.n.03	hurry.v.01; open.v.01; worry.v.01; cry.v.02	Mike Wheeler	5	1
-64.5	1.5	43	daytime.n.01; cigarette.n.01; box.n.01	ring.v.01		5	1
-66.0	1.5	44	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01		5	1
-67.5	1.5	45	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01		5	1
-69.0	1.5	46	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01		5	1
-70.5	1.5	47	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01		5	1
-72.0	1.5	48	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01		5	1
-73.5	1.5	49	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01; connect.v.01		5	1
-75.0	1.5	50	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01		5	1
-76.5	1.5	51	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01		5	1
-78.0	1.5	52	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01		5	1
-79.5	1.5	53	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01		5	1
-81.0	1.5	54	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01		5	1
-82.5	1.5	55	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	pull.v.04		5	1
-84.0	1.5	56	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	pull.v.04		5	1
-85.5	1.5	57	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01		5	1
-87.0	1.5	58	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01		5	1
-88.5	1.5	59	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-90.0	1.5	60	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-91.5	1.5	61	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-93.0	1.5	62	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-94.5	1.5	63	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-96.0	1.5	64	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-97.5	1.5	65	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-99.0	1.5	66	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-100.5	1.5	67	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01		5	1
-102.0	1.5	68	daytime.n.01; outdoors.n.01 shrub.n.01; dog.n.01; police.n.01	search.v.02		5	1
-103.5	1.5	69	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01	search.v.02		5	1
-105.0	1.5	70	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01	search.v.02		5	1
-106.5	1.5	71	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01	search.v.02; climb.v.01		5	1
+64.5	1.5	43	daytime.n.01; cigarette.n.01; box.n.01	ring.v.01	n/a	5	1
+66.0	1.5	44	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01	n/a	5	1
+67.5	1.5	45	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01	n/a	5	1
+69.0	1.5	46	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01	n/a	5	1
+70.5	1.5	47	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01	n/a	5	1
+72.0	1.5	48	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01	n/a	5	1
+73.5	1.5	49	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	ring.v.01; unbox.v.01; connect.v.01	n/a	5	1
+75.0	1.5	50	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01	n/a	5	1
+76.5	1.5	51	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01	n/a	5	1
+78.0	1.5	52	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01	n/a	5	1
+79.5	1.5	53	daytime.n.01; telephone.n.01; house.n.01; lamp.n.02	connect.v.01; land line.n.01	n/a	5	1
+81.0	1.5	54	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01	n/a	5	1
+82.5	1.5	55	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	pull.v.04	n/a	5	1
+84.0	1.5	56	daytime.n.01; cigarette.n.01; box.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	pull.v.04	n/a	5	1
+85.5	1.5	57	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01	n/a	5	1
+87.0	1.5	58	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01	n/a	5	1
+88.5	1.5	59	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+90.0	1.5	60	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+91.5	1.5	61	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+93.0	1.5	62	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+94.5	1.5	63	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+96.0	1.5	64	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+97.5	1.5	65	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+99.0	1.5	66	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+100.5	1.5	67	daytime.n.01; cigarette.n.01; sofa.n.01; timer.n.01; telephone.n.01; house.n.01; television.n.01	turn around.v.01; sit.v.01	n/a	5	1
+102.0	1.5	68	daytime.n.01; outdoors.n.01 shrub.n.01; dog.n.01; police.n.01	search.v.02	n/a	5	1
+103.5	1.5	69	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01	search.v.02	n/a	5	1
+105.0	1.5	70	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01	search.v.02	n/a	5	1
+106.5	1.5	71	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01	search.v.02; climb.v.01	n/a	5	1
 108.0	1.5	72	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01	search.v.02; climb.v.01	Sheriff Jim Hopper	5	1
 109.5	1.5	73	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01	search.v.02; climb.v.01	Sheriff Jim Hopper	5	1
 111.0	1.5	74	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01	search.v.02; climb.v.01	Sheriff Jim Hopper	5	1
@@ -93,10 +93,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 139.5	1.5	93	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01; water.n.02; radio.n.01; tree.n.01 	search.v.02; climb.v.01	Sheriff Jim Hopper	5	1
 141.0	1.5	94	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01; water.n.02; radio.n.01; tree.n.01 	search.v.02; climb.v.01	Sheriff Jim Hopper	5	1
 142.5	1.5	95	daytime.n.01; outdoors.n.01 shrub.n.01; police.n.01; precaution.n.01; water.n.02; radio.n.01; tree.n.01 	search.v.02; climb.v.01	Sheriff Jim Hopper	5	1
-144.0	1.5	96	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01		5	1
-145.5	1.5	97	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; open.v.01		5	1
-147.0	1.5	98	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; open.v.01; stare.v.01		5	1
-148.5	1.5	99	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; stare.v.01		5	1
+144.0	1.5	96	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01	n/a	5	1
+145.5	1.5	97	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; open.v.01	n/a	5	1
+147.0	1.5	98	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; open.v.01; stare.v.01	n/a	5	1
+148.5	1.5	99	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; stare.v.01	n/a	5	1
 150.0	1.5	100	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	get out.v.01; close.v.01; stare.v.01; arrive.v.01	Sheriff Jim Hopper	5	1
 151.5	1.5	101	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	arrive.v.01; close.v.01; smoke.v.01	Sheriff Jim Hopper	5	1
 153.0	1.5	102	daytime.n.01; outdoors.n.01; store.n.01; firefighter.n.01; police.n.01; siren.n.04	arrive.v.01; close.v.01; smoke.v.01	Sheriff Jim Hopper	5	1
@@ -123,10 +123,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 184.5	1.5	123	daytime.n.01; indoors.n.01; store.n.01; police.n.01; dead.n.01; bug.n.01; blood.n.01; gun.n.01	arrive.v.01; stare.v.01; analyze.v.01; agree.v.01	Sheriff Jim Hopper	3	1
 186.0	1.5	124	daytime.n.01; indoors.n.01; store.n.01; police.n.01; dead.n.01; bug.n.01; blood.n.01; gun.n.01	arrive.v.01; stare.v.01; analyze.v.01; agree.v.01	Sheriff Jim Hopper	2	1
 187.5	1.5	125	daytime.n.01; indoors.n.01; store.n.01; police.n.01; dead.n.01; bug.n.01; blood.n.01; gun.n.01	arrive.v.01; stare.v.01; analyze.v.01; agree.v.01; shock.v.01	Sheriff Jim Hopper	2	1
-189.0	1.5	126	daytime.n.01; power lines.n.01; tree.n.01			5	1
-190.5	1.5	127	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01		5	1
-192.0	1.5	128	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01		5	1
-193.5	1.5	129	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01		5	1
+189.0	1.5	126	daytime.n.01; power lines.n.01; tree.n.01	n/a	n/a	5	1
+190.5	1.5	127	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01	n/a	5	1
+192.0	1.5	128	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01	n/a	5	1
+193.5	1.5	129	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01	n/a	5	1
 195.0	1.5	130	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01	Jonathan Byers	5	1
 196.5	1.5	131	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01; look out.v.01	Jonathan Byers	5	1
 198.0	1.5	132	daytime.n.01; power lines.n.01; tree.n.01; house.n.01; automobile.n.01	drive.v.01; look out.v.01	Jonathan Byers	5	1
@@ -232,9 +232,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 348.0	1.5	232	daytime.n.01; house.n.01; bedroom.n.01; confusion.n.01; lamp.n.02; toy.n.01; knob.n.02	vibrate.v.01; stare.v.01	Dustin Henderson, Lucas Sinclair; Eleven; Mike Wheeler	5	1
 349.5	1.5	233	daytime.n.01; house.n.01; bedroom.n.01; confusion.n.01; lamp.n.02; toy.n.01; knob.n.02	vibrate.v.01; stare.v.01; deny.v.04; bleeding.v.01	Dustin Henderson, Lucas Sinclair; Eleven; Mike Wheeler	5	1
 351.0	1.5	234	daytime.n.01; house.n.01; bedroom.n.01; confusion.n.01; lamp.n.02; toy.n.01; knob.n.02	vibrate.v.01; stare.v.01; deny.v.04; bleeding.v.01	Dustin Henderson, Lucas Sinclair; Eleven; Mike Wheeler	5	1
-352.5	1.5	235	daytime.n.01; outdoors.n.01; tree.n.01; excavator.n.02	work.v.01		5	1
-354.0	1.5	236	daytime.n.01; outdoors.n.01; tree.n.01; excavator.n.02	work.v.01		5	1
-355.5	1.5	237	daytime.n.01; outdoors.n.01; tree.n.01; excavator.n.02	work.v.01		5	1
+352.5	1.5	235	daytime.n.01; outdoors.n.01; tree.n.01; excavator.n.02	work.v.01	n/a	5	1
+354.0	1.5	236	daytime.n.01; outdoors.n.01; tree.n.01; excavator.n.02	work.v.01	n/a	5	1
+355.5	1.5	237	daytime.n.01; outdoors.n.01; tree.n.01; excavator.n.02	work.v.01	n/a	5	1
 357.0	1.5	238	daytime.n.01; outdoors.n.01; tree.n.01; automobile.n.01; tire.n.01 	demonstrate.v.01	Jonathan Byers	5	1
 358.5	1.5	239	daytime.n.01; outdoors.n.01; tree.n.01; automobile.n.01	demonstrate.v.01	Jonathan Byers	5	1
 360.0	1.5	240	daytime.n.01; outdoors.n.01; tree.n.01; automobile.n.01	demonstrate.v.01	Jonathan Byers	5	1
@@ -285,8 +285,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 427.5	1.5	285	daytime.n.01; outdoors.n.01; tree.n.01; house.n.01; picture.n.01	approach.v.01	Jonathan Byers	5	1
 429.0	1.5	286	daytime.n.01; outdoors.n.01; tree.n.01; house.n.01; picture.n.01	approach.v.01; joke.v.02	Jonathan Byers	5	1
 430.5	1.5	287	daytime.n.01; outdoors.n.01; tree.n.01; house.n.01; picture.n.01	approach.v.01; joke.v.02	Jonathan Byers	5	1
-432.0	1.5	288	daytime.n.01; lighter.n.01			5	1
-433.5	1.5	289	daytime.n.01; lighter.n.01	attempt.v.01		5	1
+432.0	1.5	288	daytime.n.01; lighter.n.01	n/a	n/a	5	1
+433.5	1.5	289	daytime.n.01; lighter.n.01	attempt.v.01	n/a	5	1
 435.0	1.5	290	daytime.n.01; cigarette.n.01	stare.v.01 	Sheriff Jim Hopper	5	1
 436.5	1.5	291	daytime.n.01; cigarette.n.01; lighter.n.01	stare.v.01; fire up.v.02; sit.v.01	Sheriff Jim Hopper	5	1
 438.0	1.5	292	daytime.n.01; cigarette.n.01; lighter.n.01	stare.v.01; fire up.v.02; sit.v.01	Sheriff Jim Hopper	5	1

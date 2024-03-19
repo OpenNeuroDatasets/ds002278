@@ -27,7 +27,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 40.5	1.5	27	indoors.n.01; tether.n.01; lamp.n.02	question.v.01	Mike Wheeler; Lucas Sinclair	5.0	1.0
 42.0	1.5	28	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; cap.n.01; backpack.n.01	display.v.01	Eleven; Mike Wheeler; Dustin Henderson; Lucas Sinclair	5.0	1.0
 43.5	1.5	29	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; cap.n.01; backpack.n.01	display.v.01;	Eleven; Mike Wheeler; Dustin Henderson; Lucas Sinclair	5.0	1.0
-45.0	1.5	30	indoors.n.01; table.n.02; binoculars.n.01; knife.n.02; hammer.n.02; candy.n.01; chip.n.04; banana.n.02	display.v.01;		5.0	1.0
+45.0	1.5	30	indoors.n.01; table.n.02; binoculars.n.01; knife.n.02; hammer.n.02; candy.n.01; chip.n.04; banana.n.02	display.v.01;	n/a	5.0	1.0
 46.5	1.5	31	indoors.n.01; lamp.n.02; cap.n.01; table.n.02; binoculars.n.01; knife.n.02; hammer.n.02; candy.n.01; chip.n.04; banana.n.02	display.v.01; analyze.v.01	Mike Wheeler; Lucas Sinclair	5.0	1.0
 48.0	1.5	32	indoors.n.01; lamp.n.02	explain.v.01; confuse.v.01	Lucas Sinclair	5.0	1.0
 49.5	1.5	33	indoors.n.01; lamp.n.02; cap.n.01; table.n.02; binoculars.n.01; knife.n.02; hammer.n.02; candy.n.01; chip.n.04; banana.n.02	display.v.01; analyze.v.01	Eleven; Mike Wheeler; Dustin Henderson; Lucas Sinclair	5.0	1.0
@@ -76,7 +76,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 114.0	1.5	76	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01	kneel.v.01; instruct.v.02	Eleven; Mike Wheeler	5.0	1.0
 115.5	1.5	77	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01	kneel.v.01; question.v.03	Eleven; Mike Wheeler	5.0	1.0
 117.0	1.5	78	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01	kneel.v.01; instruct.v.02	Eleven; Mike Wheeler	5.0	1.0
-118.5	1.5	79	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01; silence.n.02		Eleven; Mike Wheeler	5.0	1.0
+118.5	1.5	79	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01; silence.n.02	n/a	Eleven; Mike Wheeler	5.0	1.0
 120.0	1.5	80	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01; recall.n.04; watch.n.01	kneel.v.01	Eleven; Mike Wheeler	5.0	1.0
 121.5	1.5	81	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01; recall.n.04; watch.n.01	kneel.v.01; remove.v.01	Eleven; Mike Wheeler	5.0	1.0
 123.0	1.5	82	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; patience.n.01; recall.n.04; watch.n.01	kneel.v.01; give.v.03	Eleven; Mike Wheeler	5.0	1.0
@@ -94,7 +94,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 141.0	1.5	94	indoors.n.01; couch.n.01; lamp.n.02; pillow.n.01; watch.n.01; step.n.07	wear.v.02; hurry.v.02; gaze.v.01	Eleven	5.0	1.0
 142.5	1.5	95	indoors.n.01; carry.n.01; book.n.01	hold.v.02; trouble.v.02; walk.v.01	Nancy Wheeler 	4.0	1.0
 144.0	1.5	96	indoors.n.01; carry.n.01; book.n.01	hold.v.02; trouble.v.02; walk.v.01	Nancy Wheeler 	4.0	1.0
-145.5	1.5	97	indoors.n.01; carry.n.01; book.n.01	hold.v.02; walk.v.01; gaze.v.01		4.0	1.0
+145.5	1.5	97	indoors.n.01; carry.n.01; book.n.01	hold.v.02; walk.v.01; gaze.v.01	n/a	4.0	1.0
 147.0	1.5	98	indoors.n.01; carry.n.01; book.n.01; glimpse.n.01	hold.v.02; walk.v.01; gaze.v.01	Nancy Wheeler 	4.0	1.0
 148.5	1.5	99	indoors.n.01; carry.n.01; book.n.01	hold.v.02; trouble.v.02; walk.v.01	Nancy Wheeler 	4.0	1.0
 150.0	1.5	100	indoors.n.01; carry.n.01; book.n.01	hold.v.02; trouble.v.02; walk.v.01	Nancy Wheeler 	4.0	1.0
@@ -157,15 +157,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 235.5	1.5	157	indoors.n.01; classroom.n.01; desk.n.01; backpack.n.01	sit.v.01; notice.v.01; trouble.v.02; wonder.v.01	Nancy Wheeler	5.0	1.0
 237.0	1.5	158	indoors.n.01; classroom.n.01; desk.n.01; backpack.n.01	sit.v.01; notice.v.01; trouble.v.02; wonder.v.01	Nancy Wheeler	5.0	1.0
 238.5	1.5	159	indoors.n.01; classroom.n.01; desk.n.01; backpack.n.01	sit.v.01; notice.v.01; trouble.v.02; wonder.v.01	Nancy Wheeler	5.0	1.0
-240.0	1.5	160	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01		5.0	1.0
-241.5	1.5	161	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01		5.0	1.0
-243.0	1.5	162	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01		5.0	1.0
-244.5	1.5	163	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01		5.0	1.0
-246.0	1.5	164	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01	drive.v.01		5.0	1.0
-247.5	1.5	165	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01		5.0	1.0
-249.0	1.5	166	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01		5.0	1.0
-250.5	1.5	167	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01		5.0	1.0
-252.0	1.5	168	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01		5.0	1.0
+240.0	1.5	160	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01	n/a	5.0	1.0
+241.5	1.5	161	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01	n/a	5.0	1.0
+243.0	1.5	162	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01	n/a	5.0	1.0
+244.5	1.5	163	outdoors.n.01; jacket.n.01; american flag.n.01; hat.n.01; gate.n.01	drive.v.01	n/a	5.0	1.0
+246.0	1.5	164	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01	drive.v.01	n/a	5.0	1.0
+247.5	1.5	165	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01	n/a	5.0	1.0
+249.0	1.5	166	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01	n/a	5.0	1.0
+250.5	1.5	167	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01	n/a	5.0	1.0
+252.0	1.5	168	outdoors.n.01; tree.n.01; gate.n.01; automobile.n.01; police.n.01; barbwire.n.01; security.n.06	drive.v.01; approach.v.01	n/a	5.0	1.0
 253.5	1.5	169	outdoors.n.01; tree.n.01; automobile.n.01; police.n.01; security.n.06	drive.v.01; approach.v.01	Sheriff Jim Hopper	5.0	1.0
 255.0	1.5	170	outdoors.n.01; tree.n.01; automobile.n.01; police.n.01; security.n.06	drive.v.01; approach.v.01	Sheriff Jim Hopper	5.0	1.0
 256.5	1.5	171	outdoors.n.01; tree.n.01; automobile.n.01; police.n.01; security.n.06	drive.v.01; approach.v.01; deny.v.01	Sheriff Jim Hopper	5.0	1.0
@@ -199,15 +199,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 298.5	1.5	199	outdoors.n.01; tree.n.01; automobile.n.01; police.n.01; security.n.06	drive.v.01; ask.v.01; reassure.v.01	Sheriff Jim Hopper	5.0	1.0
 300.0	1.5	200	outdoors.n.01; tree.n.01; automobile.n.01; police.n.01; security.n.06	drive.v.01; ask.v.01	Sheriff Jim Hopper	5.0	1.0
 301.5	1.5	201	outdoors.n.01; tree.n.01; automobile.n.01; police.n.01; security.n.06	drive.v.01; nod.v.01	Sheriff Jim Hopper	5.0	1.0
-303.0	1.5	202	indoors.n.01; cookie.n.01; table.n.02; pillow.n.01			5.0	1.0
-304.5	1.5	203	indoors.n.01; cookie.n.01; table.n.02; pillow.n.01; banana.n.02; bag.n.01; wrapper.n.02			5.0	1.0
-306.0	1.5	204	indoors.n.01; cookie.n.01; table.n.02; pillow.n.01; banana.n.02; bag.n.01; wrapper.n.02			5.0	1.0
+303.0	1.5	202	indoors.n.01; cookie.n.01; table.n.02; pillow.n.01	n/a	n/a	5.0	1.0
+304.5	1.5	203	indoors.n.01; cookie.n.01; table.n.02; pillow.n.01; banana.n.02; bag.n.01; wrapper.n.02	n/a	n/a	5.0	1.0
+306.0	1.5	204	indoors.n.01; cookie.n.01; table.n.02; pillow.n.01; banana.n.02; bag.n.01; wrapper.n.02	n/a	n/a	5.0	1.0
 307.5	1.5	205	indoors.n.01; table.n.02; pillow.n.01; bag.n.01; wrapper.n.02; couch.n.01	stare.v.01; sit.v.01	Eleven	5.0	1.0
 309.0	1.5	206	indoors.n.01; pillow.n.01; couch.n.01	stare.v.01; sit.v.01	Eleven	5.0	1.0
 310.5	1.5	207	indoors.n.01; pillow.n.01; couch.n.01	stare.v.01; sit.v.01	Eleven	5.0	1.0
 312.0	1.5	208	indoors.n.01; pillow.n.01; couch.n.01; lamp.n.02; art.n.02	stare.v.01; sit.v.01	Eleven	5.0	1.0
 313.5	1.5	209	indoors.n.01; pillow.n.01; couch.n.01; lamp.n.02; art.n.02; staircase.n.01	stare.v.01; sit.v.01	Eleven	5.0	1.0
-315.0	1.5	210	indoors.n.01; gadget.n.01; light.n.02; chair.n.01; staircase.n.01			5.0	1.0
+315.0	1.5	210	indoors.n.01; gadget.n.01; light.n.02; chair.n.01; staircase.n.01	n/a	n/a	5.0	1.0
 316.5	1.5	211	indoors.n.01; pillow.n.01; couch.n.01	distract.v.01; fall.v.04	Eleven	5.0	1.0
 318.0	1.5	212	indoors.n.01; pillow.n.01; couch.n.01	distract.v.01; fall.v.04; reach out.v.01	Eleven	5.0	1.0
 319.5	1.5	213	indoors.n.01; pillow.n.01; couch.n.01; beeper.n.01	distract.v.01; reach out.v.01	Eleven	5.0	1.0
@@ -218,15 +218,15 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 327.0	1.5	218	indoors.n.01; pillow.n.01; couch.n.01	trouble.v.02; stand up.v.01	Eleven	5.0	1.0
 328.5	1.5	219	indoors.n.01; pillow.n.01; couch.n.01; lamp.n.02	trouble.v.02; stand up.v.01; walk.v.01	Eleven	5.0	1.0
 330.0	1.5	220	indoors.n.01; pillow.n.01; couch.n.01; lamp.n.02; staircase.n.01	walk.v.01; step.v.01	Eleven	5.0	1.0
-331.5	1.5	221	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01			5.0	1.0
-333.0	1.5	222	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01			5.0	1.0
+331.5	1.5	221	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	n/a	n/a	5.0	1.0
+333.0	1.5	222	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	n/a	n/a	5.0	1.0
 334.5	1.5	223	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	tiptoe.v.01	Eleven	5.0	1.0
 336.0	1.5	224	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	tiptoe.v.01	Eleven	5.0	1.0
 337.5	1.5	225	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	tiptoe.v.01	Eleven	5.0	1.0
 339.0	1.5	226	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	tiptoe.v.01	Eleven	5.0	1.0
 340.5	1.5	227	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	tiptoe.v.01	Eleven	5.0	1.0
 342.0	1.5	228	indoors.n.01; hallway.n.01; plant.n.01; sunlight.n.01	tiptoe.v.01	Eleven	5.0	1.0
-343.5	1.5	229	indoors.n.01; sofa.n.01	recline.v.01		5.0	1.0
+343.5	1.5	229	indoors.n.01; sofa.n.01	recline.v.01	n/a	5.0	1.0
 345.0	1.5	230	indoors.n.01; sofa.n.01; lamp.n.02	recline.v.01; sit.v.01	Eleven	5.0	1.0
 346.5	1.5	231	indoors.n.01; sofa.n.01; lamp.n.02	recline.v.01; sit.v.01	Eleven	5.0	1.0
 348.0	1.5	232	indoors.n.01; sofa.n.01; lamp.n.02	recline.v.01; sit.v.01; observe.v.03	Eleven	5.0	1.0
@@ -265,9 +265,9 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 397.5	1.5	265	indoors.n.01; sunlight.n.01; television.n.01; song.n.01	kneel.v.01; observe.v.03; intrigue.v.01	Eleven	5.0	1.0
 399.0	1.5	266	indoors.n.01; sunlight.n.01; television.n.01; song.n.01; discomfort.n.01	kneel.v.01; observe.v.03	Eleven	5.0	1.0
 400.5	1.5	267	indoors.n.01; sunlight.n.01; television.n.01; song.n.01; discomfort.n.01	kneel.v.01; observe.v.03	Eleven	5.0	1.0
-402.0	1.5	268	television.n.01; song.n.01; discomfort.n.01		Eleven	5.0	1.0
-403.5	1.5	269	song.n.01			5.0	1.0
-405.0	1.5	270	surgical gown.n.01			5.0	1.0
+402.0	1.5	268	television.n.01; song.n.01; discomfort.n.01	n/a	Eleven	5.0	1.0
+403.5	1.5	269	song.n.01	n/a	n/a	5.0	1.0
+405.0	1.5	270	surgical gown.n.01	n/a	n/a	5.0	1.0
 406.5	1.5	271	surgical gown.n.01; suit.n.03; gadget.n.01; soda.n.02	sit.v.01	Eleven	5.0	1.0
 408.0	1.5	272	surgical gown.n.01; suit.n.03; gadget.n.01; soda.n.02; lab coat.n.01; camera.n.01	sit.v.01	Eleven	5.0	1.0
 409.5	1.5	273	surgical gown.n.01; suit.n.03; gadget.n.01; soda.n.02; lab coat.n.01; camera.n.01	sit.v.01	Eleven	5.0	1.0
@@ -288,8 +288,8 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 432.0	1.5	288	surgical gown.n.01; gadget.n.01; soda.n.02; unwillingness.n.01	sit.v.01; stare.v.01; focus.n.01; shrivel.v.01	Eleven	5.0	1.0
 433.5	1.5	289	surgical gown.n.01; gadget.n.01; soda.n.02; unwillingness.n.01	sit.v.01; focus.n.01; shrivel.v.01	Eleven	5.0	1.0
 435.0	1.5	290	surgical gown.n.01; suit.n.03; gadget.n.01; lab coat.n.01	sit.v.01; focus.n.01; smile.v.01	Eleven	5.0	1.0
-436.5	1.5	291	suit.n.03; lab coat.n.01	stare.v.01		5.0	1.0
-438.0	1.5	292	suit.n.03; lab coat.n.01	stare.v.01		5.0	1.0
+436.5	1.5	291	suit.n.03; lab coat.n.01	stare.v.01	n/a	5.0	1.0
+438.0	1.5	292	suit.n.03; lab coat.n.01	stare.v.01	n/a	5.0	1.0
 439.5	1.5	293	surgical gown.n.01; gadget.n.01	sit.v.01; trouble.v.02	Eleven	5.0	1.0
 441.0	1.5	294	surgical gown.n.01; gadget.n.01	sit.v.01; trouble.v.02	Eleven	5.0	1.0
 442.5	1.5	295	surgical gown.n.01; suit.n.03; gadget.n.01; lab coat.n.01	sit.v.01; trouble.v.02	Eleven	5.0	1.0
@@ -306,7 +306,7 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 459.0	1.5	306	television.n.01; discomfort.n.01	kneel.v.01; observe.v.03	Eleven	5.0	1.0
 460.5	1.5	307	television.n.01; discomfort.n.01	kneel.v.01; observe.v.03; switch off.v.01	Eleven	3.0	1.0
 462.0	1.5	308	television.n.01; discomfort.n.02	kneel.v.01; observe.v.03; switch off.v.01; touch.v.01; hyperventilating.v.02	Eleven	3.0	1.0
-463.5	1.5	309	television.n.01; discomfort.n.02	kneel.v.01; observe.v.03; hyperventilating.v.02	Eleven	3.0	
+463.5	1.5	309	television.n.01; discomfort.n.02	kneel.v.01; observe.v.03; hyperventilating.v.02	Eleven	3.0	n/a
 465.0	1.5	310	television.n.01; discomfort.n.02	kneel.v.01; observe.v.03; hyperventilating.v.02	Eleven	3.0	1.0
 466.5	1.5	311	discomfort.n.02	stand up.v.01; hyperventilating.v.02	Eleven	3.0	1.0
-468.0	1.5	312					
+468.0	1.5	312	n/a	n/a	n/a	n/a	n/a

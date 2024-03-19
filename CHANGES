@@ -1,14 +1,8 @@
-2022/03/07
-- Add sub-Blossom ses-02 task-strangerthings run-1 scans to appropriate field maps' IntendedFor fields.
+2.0.0 2024-03-19
+  - Add full dataset (subjects PILOT02, Blossom, Bubbles, and Buttercup).
 
-2022/03/04
-- Merge in the physio files.
+1.0.1 2020-01-12
+  - Add pilot scan protocol PDF.
 
-2022/02/23
-- Fix T1w and T2w defacing.
-
-2021/09/08
-- Replace functional runs from sub-Blossom ses-01 because of a messed up conversion. The field maps look fine.
-
-1.0.0 Pilot data acquisition
-- Initial acquisition of pilot data for testing of complex-valued, multi-echo EPI data.
+1.0.0 2019-10-29
+  - Initial acquisition of pilot data for testing of complex-valued, multi-echo EPI data.

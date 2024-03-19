@@ -216,10 +216,10 @@ onset	duration	sample	nouns	verbs	characters	valence	arousal
 324.0	1.5	216	hideaway.n.02; outside.n.01; confrontation.n.01; fight.n.01; crying.n.01; body.n.01; national security agency.n.01; pursuit.n.01; gun.n.01; 	question.v.01; bleed.v.01; anger.v.01; instruct.v.02; urge.v.01; shout.v.01; drive off.v.01; 	jim hopper 	5	5
 325.5	1.5	217	hideaway.n.02; outside.n.01; confrontation.n.01; pursuit.n.01; gun.n.01; 	question.v.01; shout.v.01; drive off.v.01; 	jim hopper 	5	5
 327.0	1.5	218	hideaway.n.02; outside.n.01; confrontation.n.01; pursuit.n.01; gun.n.01; leaf.n.01; sculpture.n.01; 	question.v.01; shout.v.01; drive off.v.01; 	jim hopper 	3	3
-328.5	1.5	219	outside.n.01; leaf.n.01; sculpture.n.01; siren.n.04; mystery.n.01; 	na	na	3	3
-330.0	1.5	220	outside.n.01; leaf.n.01; sculpture.n.01; siren.n.04; mystery.n.01; 	na	na	3	3
-331.5	1.5	221	music.n.01; radio.n.02; cassette player.n.01	switch on.v.01; listen.v.01; 	na	3	3
-333.0	1.5	222	music.n.01; radio.n.02; cassette player.n.01	switch on.v.01; listen.v.01; 	na	3	3
+328.5	1.5	219	outside.n.01; leaf.n.01; sculpture.n.01; siren.n.04; mystery.n.01; 	n/a	n/a	3	3
+330.0	1.5	220	outside.n.01; leaf.n.01; sculpture.n.01; siren.n.04; mystery.n.01; 	n/a	n/a	3	3
+331.5	1.5	221	music.n.01; radio.n.02; cassette player.n.01	switch on.v.01; listen.v.01; 	n/a	3	3
+333.0	1.5	222	music.n.01; radio.n.02; cassette player.n.01	switch on.v.01; listen.v.01; 	n/a	3	3
 334.5	1.5	223	music.n.01; radio.n.02; cassette player.n.01; light.n.02; 	switch on.v.01; listen.v.01; expect.v.01; 	joyce byers 	3	3
 336.0	1.5	224	music.n.01; radio.n.02; cassette player.n.01; light.n.02; 	switch on.v.01; listen.v.01; expect.v.01; shout.v.01; 	joyce byers 	3	3
 337.5	1.5	225	music.n.01; radio.n.02; cassette player.n.01; light.n.02; 	switch on.v.01; listen.v.01; expect.v.01; shout.v.01; 	joyce byers 	3	3

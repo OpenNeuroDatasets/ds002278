@@ -1,5 +1,5 @@
 {
-    "Acknowledgements": "Thanks to Andrea Roman RT(R)(MR) for her assistance with data collection and to the FIU Office of Research and Economic Development for their continued support of the FIU Center of Imaging Science. Special thanks to Dr. Essa Yacoub and the University of Minnesota Center for Magnetic Resonance Research (CMRR) for graciously providing access to the multiband EPI sequence used for data acquisition.",
+    "Acknowledgements": "This project was supported by the Office of Research and Economic Development at Florida International University. We would like to thank Andrea Roman for her help with MRI sequence design and acquisition,  Raquel Rodriguez for her help with data acquisition, Ulises Ley for his help annotating Stranger Things clips, Erica Musser for her guidance and assistance in setting up and acquiring physiological data, and Jenna Silva-Rosas for help with scheduling MRI data collection. Additional thanks to the FIU Instructional & Research Computing Center (http://ircc.fiu.edu) for providing the computing resources that contributed to the research results reported within this paper. Special thanks to Dr. Essa Yacoub and the University of Minnesota Center for Magnetic Resonance Research (CMRR) for graciously providing access to the multiband EPI sequence used for data acquisition.",
     "Authors": [
         "Taylor Salo",
         "Katherine L. Bottenhorn",
@@ -21,6 +21,9 @@
     "BIDSVersion": "1.5.0",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "DatasetType": "raw",
+    "EthicsApprovals": [
+        "IRB-19-0226-AM02"
+    ],
     "Funding": [
     ],
     "HowToAcknowledge": "Please reference the OpenNeuro dataset identifier.",
@@ -33,7 +36,6 @@
         "https://github.com/NBCLab/probabilistic-selection-task",
         "https://github.com/NBCLab/eirt-task",
         "https://github.com/NBCLab/sorpf-task",
-        "https://github.com/NBCLab/arithmetic-task",
-        "https://github.com/NBCLab/pyfLoc"
+        "https://github.com/NBCLab/arithmetic-task"
     ]
 }

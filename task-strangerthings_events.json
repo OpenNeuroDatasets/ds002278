@@ -1,0 +1,36 @@
+{
+    "sample": {
+        "Description": "Volume index in the corresponding BOLD file."
+    },
+    "nouns": {
+        "Description": "Semicolon-separated list of nouns present in the clip, defined from WordNet.",
+        "TermURL": "https://wordnet.princeton.edu/"
+    },
+    "verbs": {
+        "Description": "Semicolon-separated list of verbs occurring in the clip, defined from WordNet.",
+        "TermURL": "https://wordnet.princeton.edu/"
+    },
+    "characters": {
+        "Description": "Semicolon-separated list of characters present in the clip."
+    },
+    "valence": {
+        "Description": "Annotator-estimated valence of the clip.",
+        "Levels": {
+            "1": "Negative",
+            "2": "Somewhat negative",
+            "3": "Neutral",
+            "4": "Somewhat positive",
+            "5": "Positive"
+        }
+    },
+    "arousal": {
+        "Description": "Annotator-estimated arousal level of the clip.",
+        "Levels": {
+            "1": "Image is negative",
+            "2": "Image is somewhat negative",
+            "3": "Image is somewhat positive",
+            "4": "Image is positive",
+            "5": "Image is positive"
+        }
+    }
+}

@@ -1,6 +1,5 @@
-2.0.0 2024-03-19
-  - Add full dataset (subjects PILOT02, Blossom, Bubbles, and Buttercup).
-
+2.0.0 2024-04-30
+  - Add imaging data for full dataset.
 1.0.1 2020-01-12
   - Add pilot scan protocol PDF.
 

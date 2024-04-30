@@ -19,7 +19,7 @@
         "Angela R. Laird"
     ],
     "BIDSVersion": "1.5.0",
-    "DatasetDOI": "10.1101/2024.04.16.589598",
+    "DatasetDOI": "doi:10.18112/openneuro.ds002278.v2.0.0",
     "DatasetType": "raw",
     "EthicsApprovals": [
         "IRB-19-0226-AM02"

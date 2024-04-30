@@ -20,5 +20,9 @@
     "arousal": {
         "Description": "Annotator-estimated arousal level of the clip, based on the Self-Assessment Manikin (SAM) scale proposed in Bradley & Lang (1994). Values range from 1 (calm) to 9 (excited).",
         "TermURL": "https://doi.org/10.1016/0005-7916(94)90063-9"
+    },
+    "stimulus": {
+        "Description": "The stimulus presented to the participant. This was used instead of 'stim_file' because the stimuli are not shareable within the dataset.",
+        "LongName": "Stimulus file"
     }
 }

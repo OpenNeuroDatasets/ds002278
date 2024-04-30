@@ -1,4 +1,4 @@
-onset	duration	trial_type	valence	stim_file	response	response_time
+onset	duration	trial_type	valence	stimulus	response	response_time
 2.015	5	VIEW	Neutral	stimuli/truck.bmp	2	0.59
 12.748	5	VIEW	Negative	stimuli/2700.jpg	2	0.324
 23.415	5	BETTER	Negative	stimuli/7380.jpg	2	0.291

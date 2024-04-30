@@ -1,4 +1,4 @@
-onset	duration	trial_type	response_time	tap_count	tap_duration	stim_file
+onset	duration	trial_type	response_time	tap_count	tap_duration	stimulus
 6.0	1.52	motor	1.17	12	1.17	n/a
 12.22	2.21	motor/auditory	0.66	18	1.67	audio/Shenzhen_Nightlife.wav
 20.24	1.46	visual	n/a	0	n/a	n/a

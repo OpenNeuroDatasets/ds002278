@@ -1,4 +1,4 @@
-onset	duration	trial_type	response_time	tap_count	tap_duration	stim_file
+onset	duration	trial_type	response_time	tap_count	tap_duration	stimulus
 6.02	2.72	visual/auditory	n/a	0	n/a	audio/Improv_for_Evil.wav
 12.14	2.61	motor/auditory	0.45	16	2.63	audio/Improv_for_Evil.wav
 20.05	0.51	motor	0.81	1	0.0	n/a

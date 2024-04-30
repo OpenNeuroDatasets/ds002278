@@ -1,4 +1,4 @@
-onset	duration	trial_type	response_time	tap_count	tap_duration	stim_file
+onset	duration	trial_type	response_time	tap_count	tap_duration	stimulus
 6.02	14.12	visual	n/a	0	n/a	n/a
 34.14	14.05	visual/auditory	n/a	0	n/a	audio/Desert_Conflict.wav
 62.2	14.01	motor	3.03	21	11.23	n/a

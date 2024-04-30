@@ -1,4 +1,4 @@
-onset	duration	trial_type	response_time	tap_count	tap_duration	stim_file
+onset	duration	trial_type	response_time	tap_count	tap_duration	stimulus
 6.02	4.12	visual/auditory	n/a	0	n/a	audio/Cumbish.wav
 14.56	2.49	visual	n/a	0	n/a	n/a
 20.05	1.31	motor	0.7	6	0.88	n/a

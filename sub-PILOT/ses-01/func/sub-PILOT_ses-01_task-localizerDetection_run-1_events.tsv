@@ -1,8 +1,8 @@
-onset	duration	trial_type	trial_number	response_time	tap_count	tap_duration	stim_file
+onset	duration	trial_type	trial_number	response_time	tap_count	tap_duration	stimulus
 6.01182376	14.5	fingertapping	1	1.68371238	88	13.63337779	n/a
 35.03160575	14.5	checkerboard	2	n/a	0	n/a	n/a
 64.04590267	14.5	checkerboard	3	n/a	0	n/a	n/a
-122.16320879999999	14.5	fingertapping	5	0.749750686	109	14.66684344	n/a
+122.1632088	14.5	fingertapping	5	0.749750686	109	14.66684344	n/a
 151.1827324	14.5	checkerboard	6	n/a	0	n/a	n/a
 209.3972893	14.5	fingertapping	8	0.916495725	118	13.93347223	n/a
 238.4168615	14.5	fingertapping	9	1.113820708	121	13.81685806	n/a

@@ -1,4 +1,4 @@
-onset	duration	trial_type	stim_file	prompt	response	response_time
+onset	duration	trial_type	stimulus	prompt	response	response_time
 3.01	1.5	Self	stimuli/task-sorpf/self.png	tells_lies	2	0.753
 7.716	1.5	Self	stimuli/task-sorpf/self.png	passionate	1	0.504
 12.476	1.5	Self	stimuli/task-sorpf/self.png	concerned	1	0.804

@@ -1,4 +1,4 @@
-onset	duration	trial_type	response_time	tap_count	tap_duration	stim_file
+onset	duration	trial_type	response_time	tap_count	tap_duration	stimulus
 6.02	14.07	visual/auditory	n/a	0	n/a	audio/Ambush_in_Rattlesnake_Gulch.wav
 34.09	14.01	motor	2.48	38	11.63	n/a
 62.1	14.01	motor/auditory	0.85	75	13.88	audio/Le_Baguette.wav

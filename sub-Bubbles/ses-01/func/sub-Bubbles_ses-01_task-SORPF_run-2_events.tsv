@@ -1,4 +1,4 @@
-onset	duration	trial_type	stim_file	prompt	response	response_time
+onset	duration	trial_type	stimulus	prompt	response	response_time
 3.013	1.5	Self	stimuli/task-sorpf/self.png	has_a_weird_nose	1	0.597
 7.6	1.5	Self	stimuli/task-sorpf/self.png	unattractive	2	0.412
 12.453	1.5	Self	stimuli/task-sorpf/self.png	honest	1	0.416

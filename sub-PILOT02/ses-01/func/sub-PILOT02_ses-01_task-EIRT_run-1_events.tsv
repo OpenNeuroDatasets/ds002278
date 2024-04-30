@@ -1,4 +1,4 @@
-onset	duration	trial_type	valence	trial_number	stim_file	response	response_time
+onset	duration	trial_type	valence	trial_number	stimulus	response	response_time
 2.01	5	VIEW	Neutral	1	stimuli/scarves.bmp	3	2.025
 13.41	5	SUPPRESS	Negative	2	stimuli/2205.jpg	2	1.034
 24.197	5	SUPPRESS	Negative	3	stimuli/9912.jpg	2	0.792
@@ -9,11 +9,11 @@ onset	duration	trial_type	valence	trial_number	stim_file	response	response_time
 78.42399999999999	5	VIEW	Negative	8	stimuli/9421.jpg	2	1.158
 89.624	5	VIEW	Neutral	9	stimuli/mug.bmp	3	0.61
 100.811	5	SUPPRESS	Negative	10	stimuli/2690.jpg	2	0.669
-112.01100000000001	5	SUPPRESS	Negative	11	stimuli/2710.jpg	1	0.5820000000000001
+112.011	5	SUPPRESS	Negative	11	stimuli/2710.jpg	1	0.5820000000000001
 122.691	5	SUPPRESS	Negative	12	stimuli/2490.jpg	2	0.64
 134.158	5	VIEW	Neutral	13	stimuli/lamp.bmp	3	0.5920000000000001
 144.905	5	VIEW	Negative	14	stimuli/9400.jpg	1	0.977
-156.265	5	VIEW	Negative	15	stimuli/9007.jpg	1	1.0070000000000001
+156.265	5	VIEW	Negative	15	stimuli/9007.jpg	1	1.007
 167.078	5	SUPPRESS	Negative	16	stimuli/2691.jpg	2	0.583
 178.331	5	VIEW	Neutral	17	stimuli/agate2.bmp	4	0.7070000000000001
 188.945	5	SUPPRESS	Negative	18	stimuli/6830.jpg	1	0.655
@@ -36,7 +36,7 @@ onset	duration	trial_type	valence	trial_number	stim_file	response	response_time
 375.733	5	RETHINK	Negative	35	stimuli/6312.jpg	1	0.914
 387.106	5	SUPPRESS	Negative	36	stimuli/9620.jpg	2	0.7170000000000001
 397.866	5	VIEW	Neutral	37	stimuli/rollingpin.bmp	3	0.777
-408.81300000000005	5	SUPPRESS	Negative	38	stimuli/6940.jpg	2	0.701
+408.8130000000001	5	SUPPRESS	Negative	38	stimuli/6940.jpg	2	0.701
 419.773	5	RETHINK	Negative	39	stimuli/9041.jpg	2	0.951
 431.24	5	SUPPRESS	Negative	40	stimuli/5970.jpg	2	0.8370000000000001
 442.186	5	VIEW	Neutral	41	stimuli/plate.bmp	4	0.5720000000000001

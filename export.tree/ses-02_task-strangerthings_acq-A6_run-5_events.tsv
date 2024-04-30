@@ -1,0 +1,296 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	bed.n.01; blanket.n.01; pillow.n.01; telephone.n.01; teddy bear.n.01; watch.n.01	speak.v.01; blink.v.01; lie down.v.01	Nancy Wheeler	1	1
+4.5	1.5	3	bed.n.01; blanket.n.01; pillow.n.01; telephone.n.01; teddy bear.n.01; watch.n.01	speak.v.01; blink.v.01; lie down.v.01	Nancy Wheeler	1	1
+6.0	1.5	4	bed.n.01; blanket.n.01; pillow.n.01; telephone.n.01; teddy bear.n.01; watch.n.01	speak.v.01; blink.v.01; lie down.v.01	Nancy Wheeler	1	1
+7.5	1.5	5	bed.n.01; blanket.n.01; pillow.n.01; telephone.n.01; teddy bear.n.01; watch.n.01; window.n.01; curtain.n.01; picture.n.01	speak.v.01; blink.v.01; lie down.v.01; sit up.v.02	Nancy Wheeler	1	1
+9.0	1.5	6	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02	Nancy Wheeler	1	1
+10.5	1.5	7	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02	Nancy Wheeler	1	1
+12.0	1.5	8	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02; blink.v.01	Nancy Wheeler	1	1
+13.5	1.5	9	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02; blink.v.01	Nancy Wheeler	1	1
+15.0	1.5	10	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02; blink.v.01	Nancy Wheeler	1	1
+16.5	1.5	11	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02; blink.v.01; shout.v.01; put aside.v.02	Nancy Wheeler	1	1
+18.0	1.5	12	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02; blink.v.01; shout.v.01; hold.v.02	Nancy Wheeler	1	1
+19.5	1.5	13	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02	speak.v.01; sit up.v.02; blink.v.01; hold.v.02	Nancy Wheeler	1	1
+21.0	1.5	14	watch.n.01; window.n.01; curtain.n.01; telephone.n.01; lamp.n.02; book.n.01; pen.n.01; table.n.02; plate.n.04; cabinet.n.01; chairs.n.01	speak.v.01; sit.v.01	Nancy Wheeler	1	1
+22.5	1.5	15	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01	sit.v.01; eat.v.01	Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Mr. Wheeler;  Mrs. Wheeler; Baby Holly	1	1
+24.0	1.5	16	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	sit.v.01; eat.v.01	Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Mr. Wheeler;  Mrs. Wheeler; Baby Holly	1	1
+25.5	1.5	17	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	eat.v.01; sit.v.01; turn.v.04	 Mike Wheeler; Dustin Henderson; Lucas Sinclair; Baby Holly	1	1
+27.0	1.5	18	 table.n.02; plate.n.04; chairs.n.01; plant.n.01; lamp.n.02; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; food.n.01; stairs.n.01;  picture frame.n.01	 sit.v.01; chew.v.01; fidget.v.01; stare.v.01; blink.v.01	Mrs. Wheeler; Baby Holly	1	1
+28.5	1.5	19	 stairs.n.01;  picture frame.n.01; cup.n.01; lamp.n.02	chew.v.01; stare.v.01; glance.v.01	Mrs. Wheeler	1	1
+30.0	1.5	20	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; stairs.n.01	 sit.v.01; fidget.v.01; stare.v.01	Lucas Sinclair; Mrs. Wheeler	1	1
+31.5	1.5	21	 stairs.n.01;  picture frame.n.01; cup.n.01; lamp.n.02	speak.v.01; stare.v.01	Mrs. Wheeler	1	1
+33.0	1.5	22	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01 stairs.n.01; picture frame.n.01	speak.v.01; stare.v.01	 Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	3
+34.5	1.5	23	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	speak.v.01; stare.v.01; turn.v.01	 Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	4
+36.0	1.5	24	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	speak.v.01; stare.v.01	 Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	4
+37.5	1.5	25	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	fidget.v.01; stare.v.01	 Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+39.0	1.5	26	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	smirk.v.01; speak.v.01	 Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	3
+40.5	1.5	27	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; stairs.n.01; lamp.n.02	turn.v.01; tap.v.03; speak.v.01	Lucas Sinclair	1	2
+42.0	1.5	28	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; stairs.n.01; lamp.n.02; plant.n.01	 tap.v.03; speak.v.01	Lucas Sinclair; Nancy Wheeler	1	1
+43.5	1.5	29	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; plant.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Mike Wheeler; Mrs. Wheeler	1	4
+45.0	1.5	30	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; plant.n.01	reach.v.03; grab.v.01; sip.v.01; speak.v.01	Nancy Wheeler; Mike Wheeler; Mrs. Wheeler	1	4
+46.5	1.5	31	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; plant.n.01	sip.v.01; tap.v.03; speak.v.01; lower.v.01	Nancy Wheeler; Mrs. Wheeler	1	1
+48.0	1.5	32	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; plant.n.01	sip.v.01; tap.v.03; speak.v.01; turn.v.01; blink.v.01	Nancy Wheeler; Mrs. Wheeler	1	1
+49.5	1.5	33	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; plant.n.01	speak.v.01; glance.v.01	Nancy Wheeler; Mrs. Wheeler	1	1
+51.0	1.5	34	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; plant.n.01	speak.v.01; glance.v.01	Nancy Wheeler; Mrs. Wheeler	1	1
+52.5	1.5	35	table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; plant.n.01; lamp.n.02	speak.v.01; glance.v.01	Nancy Wheeler; Mrs. Wheeler	1	1
+54.0	1.5	36	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; chairs.n.01	speak.v.01; cut.v.01; frown.v.01	Nancy Wheeler; Mrs. Wheeler	1	4
+55.5	1.5	37	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; chairs.n.01	speak.v.01; cut.v.01; frown.v.01	Nancy Wheeler; Mrs. Wheeler	1	4
+57.0	1.5	38	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01	speak.v.01; turn.v.01; glance.v.01; stare.v.01; fidget.v.01	Nancy Wheeler; Mike Wheeler; Mrs. Wheeler; Dustin Henderson; Lucas Sinclair	1	4
+58.5	1.5	39	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02	speak.v.01; stare.v.01; fidget.v.01	 Mike Wheeler; Mrs. Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+60.0	1.5	40	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; chairs.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Mrs. Wheeler	1	4
+61.5	1.5	41	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; plant.n.01; window.n.01; curtain.n.01; chairs.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Mrs. Wheeler	1	5
+63.0	1.5	42	 plate.n.04; table.n.02; silverware.n.01; cup.n.01; plant.n.01; window.n.01; curtain.n.01; chairs.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Mrs. Wheeler	1	3
+64.5	1.5	43	 plate.n.04; table.n.02; silverware.n.01; cup.n.01; plant.n.01; window.n.01; curtain.n.01; chairs.n.01	speak.v.01; stare.v.01; shrug.v.01	Nancy Wheeler	1	3
+66.0	1.5	44	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; plant.n.01; window.n.01; curtain.n.01; chairs.n.01	speak.v.01; stare.v.01; sigh.v.01	Nancy Wheeler; Mrs. Wheeler	1	4
+67.5	1.5	45	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; chairs.n.01	stare.v.01; turn.v.01; sigh.v.01; blink.v.01	Nancy Wheeler; Mrs. Wheeler	1	4
+69.0	1.5	46	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; chairs.n.01	speak.v.01; cut.v.01; frown.v.01; sigh.v.01	Nancy Wheeler; Mrs. Wheeler	1	5
+70.5	1.5	47	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01;  window.n.01; curtain.n.01; chairs.n.01	speak.v.01; thud.v.01; stare.v.01	Nancy Wheeler; Mrs. Wheeler	1	5
+72.0	1.5	48	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01;  window.n.01; curtain.n.01; chairs.n.01; picture frame.n.01; plant.n.01	nod.v.01; turn.v.01; blink.v.01	Nancy Wheeler; Mrs. Wheeler	1	4
+73.5	1.5	49	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02; picture frame.n.01	speak.v.01; turn.v.01; glance.v.01; stare.v.01; point.v.01	 Mike Wheeler; Mrs. Wheeler; Dustin Henderson; Lucas Sinclair	1	6
+75.0	1.5	50	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02; picture frame.n.01	shout.v.01; disagree.v.01	 Mike Wheeler; Mrs. Wheeler; Dustin Henderson; Lucas Sinclair	1	9
+76.5	1.5	51	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02; picture frame.n.01; plant.n.01	speak.v.01; turn.v.01	 Mike Wheeler; Mrs. Wheeler; Dustin Henderson; Lucas Sinclair; Nancy Wheeler	1	4
+78.0	1.5	52	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02; picture frame.n.01; plant.n.01	speak,v,01; turn.v.01; walk.v.01; stare.v.01	 Mrs. Wheeler; Nancy Wheeler; Eleven	1	6
+79.5	1.5	53	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02; picture frame.n.01; plant.n.01	choke.v.02; glance.v.01; sip.v.01 ; jump.v.02	 Mike Wheeler; Mrs. Wheeler; Eleven	1	8
+81.0	1.5	54	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; silverware.n.01; cups.n.01; bowl.n.01; napkins.n.01; lamp.n.02; stairs.n.02; picture frame.n.01	bang.v.01; turn.v.01; wipe off.v.01; gasp.v.01	 Mike Wheeler; Mrs. Wheeler; Dustin Henderson; Lucas Sinclair; Eleven	1	10
+82.5	1.5	55	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01;  cabinet.n.01; chairs.n.01	speak.v.01; stare.v.01; walk.v.01	 Mrs. Wheeler; Dustin Henderson; Eleven	1	7
+84.0	1.5	56	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; silverware.n.01; cups.n.01	speak.v.01; lean back.v.01; smirk.v.01	Dustin Henderson	1	4
+85.5	1.5	57	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01	walk.v.01; lean back.v.01; smirk.v.01	Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Mr. Wheeler;  Mrs. Wheeler; Eleven; Baby Holly	1	4
+87.0	1.5	58	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; chandelier.n.01; lamp.n.02; silverware.n.01; cups.n.01	turn.v.01; stare.v.01	Nancy Wheeler; Mike Wheeler; Dustin Henderson; Lucas Sinclair; Mr. Wheeler;  Mrs. Wheeler; Eleven; Baby Holly	1	4
+88.5	1.5	59	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; lamp.n.02; silverware.n.01; cups.n.01	turn.v.01; stare.v.01; blink.v.01	Mike Wheeler; Lucas Sinclair	1	4
+90.0	1.5	60	lamp.n.02; plate.n.04; stairs.n.01; table.n.02; silverware.n.01; cup.n.01; chairs.n.01; picture frame.n.01	stutter.v.01; set down.v.01; whine.v.01; frown.v.01	Mrs. Wheeler; Baby Holly	1	3
+91.5	1.5	61	 plate.n.04; table.n.02; silverware.n.01; cup.n.01; chairs.n.01; food.n.01	sink.v.01; speak.v.01; whine.v.01	Baby Holly	1	3
+93.0	1.5	62	 table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; silverware.n.01; cups.n.01	cower.v.02; speak.v.01; turn.v.01	Nancy Wheeler;  Mrs. Wheeler; Baby Holly	1	3
+94.5	1.5	63	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; window.n.01; curtain.n.01; plant.n.01; silverware.n.01; cups.n.01	whisper.v.01; stare.v.01; glance.v.01	Nancy Wheeler; Dustin Henderson	1	4
+96.0	1.5	64	cabinet.n.01; table.n.02; plate.n.04; chairs.n.01; silverware.n.01; cups.n.01; window.n.01; restaurant.n.01; sign.n.02	glance.v.01	Dustin Henderson	1	1
+97.5	1.5	65	window.n.01; restaurant.n.01; sign.n.02; curtain.n.01; door.n.01	walk.v.01; shout.v.01	Sheriff Jim Hooper 	1	1
+99.0	1.5	66	window.n.01; restaurant.n.01; sign.n.02; curtain.n.01; flashlight.n.01; police car.n.01; door.n.01	walk.v.01; shout.v.01	Sheriff Jim Hooper 	1	1
+100.5	1.5	67	window.n.01; restaurant.n.01; sign.n.02; curtain.n.01; flashlight.n.01;police car.n.01; door.n.01	walk.v.01; shout.v.01	Sheriff Jim Hooper 	1	1
+102.0	1.5	68	window.n.01; restaurant.n.01; American flag.n.01; curtain.n.01; flashlight.n.01; police car.n.01; door.n.01; plant.v.01	walk.v.01; shout.v.01	Sheriff Jim Hooper 	1	1
+103.5	1.5	69	window.n.01; restaurant.n.01; American flag.n.01; curtain.n.01; flashlight.n.01; police car.n.01; door.n.01; plant.v.01	walk.v.01; shout.v.01	Sheriff Jim Hooper 	1	1
+105.0	1.5	70	window.n.01; restaurant.n.01; American flag.n.01; curtain.n.01; flashlight.n.01;police car.n.01; door.n.01; plant.v.01; house.v.01; tree.v.01	walk.v.01; shout.v.01; searc h.v.01	Sheriff Jim Hooper 	1	1
+106.5	1.5	71	window.n.01; restaurant.n.01; American flag.n.01; curtain.n.01; flashlight.n.01; police car.n.01; door.n.01; plant.v.01; house.v.01; tree.v.01	walk.v.01; shout.v.01; searc h.v.01	Sheriff Jim Hooper 	1	1
+108.0	1.5	72	grass.n.01; tree.n.01; dog.n.01; flashlight.n.01; field.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+109.5	1.5	73	grass.n.01; tree.n.01; dog.n.01; flashlight.n.01; field.n.01	walk.v.01; search.v.01; run.v.01; bark.v.04	Sheriff Jim Hooper 	1	1
+111.0	1.5	74	grass.n.01; tree.n.01; dog.n.01; flashlight.n.01; field.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+112.5	1.5	75	grass.n.01; tree.n.01; dog.n.01; flashlight.n.01; field.n.01	walk.v.01; search.v.01; run.v.01; bark.v.04	Sheriff Jim Hooper 	1	1
+114.0	1.5	76	grass.n.01; tree.n.01; dog.n.01; flashlight.n.01; field.n.01	walk.v.01; search.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+115.5	1.5	77	grass.n.01; tree.n.01; dog.n.01; flashlight.n.01; field.n.01; forest.n.01	walk.v.01; search.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+117.0	1.5	78	flashlight.n.01; forest.n.01; tree.n.01	walk.v.01; search.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+118.5	1.5	79	flashlight.n.01; forest.n.01; tree.n.01	walk.v.01; search.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+120.0	1.5	80	flashlight.n.01; forest.n.01; tree.n.01	walk.v.01; search.v.01; speak.v.01; stare.v.01; touch.v.01	Sheriff Jim Hooper 	1	1
+121.5	1.5	81	flashlight.n.01; forest.n.01; tree.n.01	 speak.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+123.0	1.5	82	flashlight.n.01; forest.n.01; tree.n.01	 speak.v.01; stare.v.01; punch.v.01	Sheriff Jim Hooper 	1	4
+124.5	1.5	83	flashlight.n.01; forest.n.01; tree.n.01	 speak.v.01; stare.v.01; point.v.01; lower.v.01	Sheriff Jim Hooper 	1	3
+126.0	1.5	84	flashlight.n.01; forest.n.01; tree.n.01	 speak.v.01; stare.v.01; turn.v.01	Sheriff Jim Hooper 	1	3
+127.5	1.5	85	flashlight.n.01; forest.n.01; tree.n.01	 speak.v.01; stare.v.01; turn.v.01; whistle.v.06	Sheriff Jim Hooper 	1	5
+129.0	1.5	86	flashlight.n.01; forest.n.01; tree.n.01	 speak.v.01; stare.v.01; step.v.01; walk.v.01; whistle.v.06	Sheriff Jim Hooper 	1	5
+130.5	1.5	87	flashlight.n.01; forest.n.01; tree.n.01	 walk.v.01; whistle.v.06	Sheriff Jim Hooper 	1	5
+132.0	1.5	88	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	run.v.01; whistle.v.06	Sheriff Jim Hooper 	1	5
+133.5	1.5	89	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	 walk.v.01; whistle.v.06; speak.v.01	Sheriff Jim Hooper 	1	5
+135.0	1.5	90	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	walk.v.01; stare.v.01; speak.v.01; crouch.v.02	Sheriff Jim Hooper 	1	5
+136.5	1.5	91	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	look.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+138.0	1.5	92	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	look.v.01; stare.v.01; speak.v.01; crouch.v.02	Sheriff Jim Hooper 	1	1
+139.5	1.5	93	flashlight.n.01; tunnel.n.01	take.v.04; stare.v.01	Sheriff Jim Hooper 	1	1
+141.0	1.5	94	flashlight.n.01; forest.n.01; grass.n.01; tunnel.n.01	stare.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+142.5	1.5	95	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01; light.n.04	stare.v.01	Sheriff Jim Hooper 	1	4
+144.0	1.5	96	flashlight.n.01; tunnel.n.01; light.n.04	stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	4
+145.5	1.5	97	flashlight.n.01; tunnel.n.01; light.n.04	stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	4
+147.0	1.5	98	flashlight.n.01; tunnel.n.01; light.n.04	stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	4
+148.5	1.5	99	flashlight.n.01; tunnel.n.01; light.n.04	stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	4
+150.0	1.5	100	flashlight.n.01; tunnel.n.01; light.n.04; forest.n.01	 stare.v.01; speak.v.01; crouch.v.02	Sheriff Jim Hooper 	1	4
+151.5	1.5	101	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	 stare.v.01; speak.v.01; crouch.v.02	Sheriff Jim Hooper 	1	3
+153.0	1.5	102	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	 stare.v.01; walk.v.01; crouch.v.02	Sheriff Jim Hooper 	1	1
+154.5	1.5	103	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	 stare.v.01; walk.v.01	Sheriff Jim Hooper 	1	1
+156.0	1.5	104	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; tunnel.n.01	 stare.v.01; walk.v.01; crouch.v.02	Sheriff Jim Hooper 	1	1
+157.5	1.5	105	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	 walk.v.01; saearch.v.01	Sheriff Jim Hooper 	1	1
+159.0	1.5	106	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+160.5	1.5	107	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+162.0	1.5	108	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+163.5	1.5	109	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+165.0	1.5	110	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+166.5	1.5	111	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+168.0	1.5	112	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+169.5	1.5	113	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01	walk.v.01; search.v.01	Sheriff Jim Hooper 	1	1
+171.0	1.5	114	flashlight.n.01; forest.n.01; tree.n.01; grass.n.01; fence.n.01	walk.v.01; stare.v.01 	Sheriff Jim Hooper 	1	1
+172.5	1.5	115	 forest.n.01; tree.n.01; grass.n.01; fence.n.01; sign.n.02	stare.v.01	Sheriff Jim Hooper 	1	1
+174.0	1.5	116	forest.n.01; tree.n.01; grass.n.01; fence.n.01; sign.n.02	stare.v.01	Sheriff Jim Hooper 	1	1
+175.5	1.5	117	 forest.n.01; tree.n.01; grass.n.01; fence.n.01; sign.n.02	stare.v.01	Sheriff Jim Hooper 	1	1
+177.0	1.5	118	 forest.n.01; tree.n.01; fence.n.01; light.n.04	n/a	no characters	1	1
+178.5	1.5	119	 forest.n.01; tree.n.01; fence.n.01; light.n.04	n/a	no characters	1	1
+180.0	1.5	120	 forest.n.01; tree.n.01; fence.n.01	n/a	no characters	1	1
+181.5	1.5	121	 forest.n.01; tree.n.01; fence.n.01	n/a	no characters	1	1
+183.0	1.5	122	 forest.n.01; tree.n.01; fence.n.01; rug.n.01; pager.n.01	press.v.01; touch.v.01; turn.v.04	Eleven	1	1
+184.5	1.5	123	rug.n.01; pager.n.01	press.v.01; touch.v.01; turn.v.04	Eleven	1	1
+186.0	1.5	124	rug.n.01; pager.n.01	press.v.01; touch.v.01; turn.v.04	Eleven	1	1
+187.5	1.5	125	rug.n.01; pager.n.01; tent.n.01; light.n.02; blanket.n.01; bed.n.01	press.v.01; touch.v.01; turn.v.04; stare.v.01	Eleven	1	5
+189.0	1.5	126	rug.n.01; pager.n.01; tent.n.01; light.n.02; blanket.n.01; bed.n.01	press.v.01; touch.v.01; turn.v.04; stare.v.01; raise.v.01; speak.v.01	Eleven	1	5
+190.5	1.5	127	rug.n.01; pager.n.01; tent.n.01; light.n.02; blanket.n.01; bed.n.01; stairs.n.01; shelves.n.01; desk.n.01; books.n.01; lamp.n.02; tray.n.01; chair.n.01	walk.v.01; glance.v.01; stare.v.01	Eleven; Mike Wheeler	1	4
+192.0	1.5	128	stairs.n.01; shelves.n.01; desk.n.01; books.n.01; lamp.n.02; tray.n.01; chair.n.01	walk.v.01; stare.v.01	Mike Wheeler; Dustin Henderson	1	4
+193.5	1.5	129	stairs.n.01; shelves.n.01; desk.n.01; books.n.01; lamp.n.02; tray.n.01; chair.n.01	walk.v.01; stare.v.01	Mike Wheeler; Dustin Henderson	1	4
+195.0	1.5	130	stairs.n.01; shelves.n.01; desk.n.01; books.n.01; lamp.n.02; tray.n.01; chair.n.01	walk.v.01; lower.v.01; speak.v.01	Mike Wheeler; Dustin Henderson	1	1
+196.5	1.5	131	stairs.n.01; shelves.n.01; desk.n.01; books.n.01; lamp.n.02; tray.n.01; chair.n.01	walk.v.01; lower.v.01; speak.v.01; place.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+198.0	1.5	132	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; stairs.n.01; shelves.n.01; desk.n.01; books.n.01; lamp.n.02; chair.n.01	crouch.v.02; speak.v.01; stare.v.01; glance.v.01	Mike Wheeler; Dustin Henderson; Eleven	1	3
+199.5	1.5	133	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; lamp.n.02; poster.n.01	step.v.01; stare.v.01	Mike Wheeler; Dustin Henderson; Eleven; Lucas Sinclair	1	4
+201.0	1.5	134	 lamp.n.02; poster.n.01; blanket.n.01; shelves.n.01; desk.n.01	stare.v.01; step.v.01	 Dustin Henderson; Lucas Sinclair	1	3
+202.5	1.5	135	 lamp.n.02; poster.n.01; blanket.n.01; shelves.n.01; desk.n.01	stare.v.01; speak.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	3
+204.0	1.5	136	 lamp.n.02; poster.n.01; blanket.n.01; shelves.n.01; desk.n.01; stairs.n.01	crouch.v.02; speak.v.01; stare.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	3
+205.5	1.5	137	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; stairs.n.01; shelves.n.01; lamp.n.02	crouch.v.02; speak.v.01; stare.v.01; blink.v.01	Mike Wheeler; Dustin Henderson; Eleven; Lucas Sinclair	1	3
+207.0	1.5	138	 lamp.n.02; poster.n.01; blanket.n.01; shelves.n.01; desk.n.01	speak.v.01; stare.v.01	Dustin Henderson; Lucas Sinclair; Eleven	1	3
+208.5	1.5	139	 lamp.n.02; poster.n.01; blanket.n.01; shelves.n.01; tent.n.01; light.n.02	speak.v.01; turn.v.01; stare.v.01	Dustin Henderson; Lucas Sinclair	1	3
+210.0	1.5	140	 lamp.n.02; poster.n.01; blanket.n.01; shelves.n.01; tent.n.01; light.n.02	speak.v.01; lean.v.01; punch.v.01; glance.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	5
+211.5	1.5	141	 blanket.n.01; shelves.n.01; tent.n.01; light.n.02; window.n.01; curtain.n.01; desk.n.01	speak.v.01; punch.v.01; glance.v.01; blink.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Eleven	1	4
+213.0	1.5	142	  blanket.n.01; shelves.n.01; tent.n.01; light.n.02; window.n.01; curtain.n.01; desk.n.01	speak.v.01; blink.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair; Eleven	1	3
+214.5	1.5	143	 lamp.n.02; shelves.n.01; window.n.01; curtain.n.01; desk.n.01	speak.v.01; stare.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+216.0	1.5	144	 lamp.n.02; shelves.n.01; window.n.01; curtain.n.01; desk.n.01	speak.v.01; stare.v.01; blink.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+217.5	1.5	145	 lamp.n.02; shelves.n.01; window.n.01; curtain.n.01; desk.n.01	speak.v.01; stare.v.01; glance.v.01; blink.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+219.0	1.5	146	 lamp.n.02; shelves.n.01; window.n.01; curtain.n.01; desk.n.01; blanket.n.01	speak.v.01; stare.v.01	Mike Wheeler; Dustin Henderson; Lucas Sinclair	1	1
+220.5	1.5	147	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; shelves.n.01; lamp.n.02; poster.n.01	speak.v.01; stare.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Eleven	1	1
+222.0	1.5	148	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; shelves.n.01; lamp.n.02; poster.n.01	speak.v.01; stare.v.01; turn.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Eleven	1	1
+223.5	1.5	149	desk.n.01; blanket.n.01; shelves.n.01; lamp.n.02; poster.n.01	speak.v.01; stare.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair	1	1
+225.0	1.5	150	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; shelves.n.01; lamp.n.02	explain.v.02; speak.v.01; stare.v.01; turn.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Eleven	1	1
+226.5	1.5	151	 tent.n.01; light.n.02; blanket.n.01; bed.n.01	speak.v.01; stare.v.01	Eleven	1	1
+228.0	1.5	152	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; shelves.n.01; lamp.n.02	speak.v.01; stare.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Eleven	1	3
+229.5	1.5	153	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	speak.v.01; stare.v.01; blink.v.01; turn.v.01; frown.v.01	Dustin Henderson; Lucas Sinclair	1	1
+231.0	1.5	154	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	shrug.v.01; grimace.v.01	Dustin Henderson; Lucas Sinclair	1	1
+232.5	1.5	155	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	stutter.v.01; turn.v.01; stare.v.01	Dustin Henderson; Lucas Sinclair	1	3
+234.0	1.5	156	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	speak.v.01; explain.v.02; gesture.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	3
+235.5	1.5	157	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	speak.v.01; explain.v.02; gesture.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	3
+237.0	1.5	158	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	speak.v.01; sigh.v.01	Dustin Henderson; Lucas Sinclair	1	3
+238.5	1.5	159	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	speak.v.01; explain.v.02; gesture.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	3
+240.0	1.5	160	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	speak.v.01; explain.v.02; gesture.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	3
+241.5	1.5	161	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01; tent.n.01; blanket.n.01; light.n.01	speak.v.01; explain.v.02; turn.v.01; blink.v.01; stare.v.01	Dustin Henderson; Lucas Sinclair; Eleven	1	3
+243.0	1.5	162	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01; tent.n.01; blanket.n.01; light.n.01	speak.v.01; explain.v.02; stare.v.01; raise.v.02	Dustin Henderson; Lucas Sinclair; Eleven	1	3
+244.5	1.5	163	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	spit.v.01; speak.v.01; stare.v.01	Dustin Henderson; Lucas Sinclair	1	3
+246.0	1.5	164	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	clap.v.04; speak.v.01; shake.v.09	Dustin Henderson; Lucas Sinclair	1	1
+247.5	1.5	165	desk.n.01; shelves.n.01; lamp.n.02; poster.n.01	stare.v.01; grimace.v.01; speak.v.01	Dustin Henderson; Lucas Sinclair	1	1
+249.0	1.5	166	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01	stare.v.01; speak.v.01; blink.v.01; grimace.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	1
+250.5	1.5	167	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	stare.v.01; speak.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	1
+252.0	1.5	168	desk.n.01; shelves.n.01; lamp.n.02; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	stare.v.01; speak.v.01; blink.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	1
+253.5	1.5	169	desk.n.01; shelves.n.01; window.n.01; curtain.n.01; stairs.n.01; chair.n.01	stare.v.01; speak.v.01; gesture.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	1
+255.0	1.5	170	desk.n.01; shelves.n.01; window.n.01; curtain.n.01; stairs.n.01; chair.n.01; wipe.n.01	speak.v.01; stare.v.01	Dustin Henderson; Lucas Sinclair; Mike Wheeler	1	1
+256.5	1.5	171	 tent.n.01; light.n.02; blanket.n.01; bed.n.01	stare.v.01; glance.v.01	Eleven	1	1
+258.0	1.5	172	 tent.n.01; light.n.02; blanket.n.01; bed.n.01; tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	stare.v.01; drive.v.01	Eleven	1	1
+259.5	1.5	173	tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	drive.v.01	no characters	1	1
+261.0	1.5	174	tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	drive.v.01	no characters	1	1
+262.5	1.5	175	tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	drive.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+264.0	1.5	176	tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	drive.v.01; speak.v.01	Nancy Wheeler; Barbara	1	5
+265.5	1.5	177	tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	drive.v.01; speak.v.01	Nancy Wheeler; Barbara	1	5
+267.0	1.5	178	tree.n.01; car.n.01; road.n.01; telephone wire.n.01; grass.n.01 	drive.v.01; stop.v.01	Nancy Wheeler; Barbara	1	5
+268.5	1.5	179	tree.n.01; car.n.01; road.n.01; grass.n.01 	drive.v.01; stop.v.01; stare.v.01; turn.v.01	Nancy Wheeler; Barbara	1	5
+270.0	1.5	180	 car.n.01; road.n.01 	stop.v.01; stare.v.01; speak.v.01; turn.v.01; blink.v.01	Nancy Wheeler; Barbara	1	4
+271.5	1.5	181	car.n.01; road.n.01	stare.v.01; speak.v.01; turn.v.01; blink.v.01	Nancy Wheeler; Barbara	1	5
+273.0	1.5	182	car.n.01; road.n.01	 stare.v.01; speak.v.01; turn.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+274.5	1.5	183	car.n.01; road.n.01	 stare.v.01; speak.v.01; sigh.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+276.0	1.5	184	car.n.01; road.n.01	 stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+277.5	1.5	185	car.n.01; road.n.01	 stare.v.01; speak.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+279.0	1.5	186	car.n.01; road.n.01	exclaim.v.01; reach.v.03	Nancy Wheeler; Barbara	1	4
+280.5	1.5	187	car.n.01; road.n.01	stare.v.01; speak.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+282.0	1.5	188	car.n.01; road.n.01	stare.v.01; speak.v.01; smile.v.01	Nancy Wheeler; Barbara	1	1
+283.5	1.5	189	car.n.01; road.n.01	stare.v.01; speak.v.01; smile.v.01	Nancy Wheeler; Barbara	1	1
+285.0	1.5	190	car.n.01; road.n.01	stare.v.01; speak.v.01; exclaim.v.01; blink.v.01	Nancy Wheeler; Barbara	1	5
+286.5	1.5	191	car.n.01; road.n.01	laugh.v.01; disagree.v.01; stare.v.01; blink.v.01	Nancy Wheeler; Barbara	1	4
+288.0	1.5	192	car.n.01; road.n.01	smile.v.01; disagree.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	4
+289.5	1.5	193	car.n.01; road.n.01	blink.v.01; speak.v.01; exclaim.v.01	Nancy Wheeler; Barbara	1	1
+291.0	1.5	194	car.n.01; road.n.01	turn.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+292.5	1.5	195	car.n.01; road.n.01	stare.v.01; speak.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+294.0	1.5	196	car.n.01; road.n.01	turn.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+295.5	1.5	197	car.n.01; road.n.01	speak.v.01; lower.v.01; stare.v.01	Nancy Wheeler; Barbara	1	1
+297.0	1.5	198	car.n.01; road.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Barbara	1	1
+298.5	1.5	199	car.n.01; road.n.01	exclaim.v.01; lower.v.01; speak.v.01; stare.v.01	Nancy Wheeler; Barbara	1	4
+300.0	1.5	200	car.n.01; road.n.01	 lower.v.01; speak.v.01; stare.v.01	Nancy Wheeler; Barbara	1	4
+301.5	1.5	201	car.n.01; road.n.01	speak.v.01; stare.v.01	Nancy Wheeler; Barbara	1	1
+303.0	1.5	202	car.n.01; road.n.01	smirk.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+304.5	1.5	203	car.n.01; road.n.01	smirk.v.01; speak.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+306.0	1.5	204	car.n.01; road.n.01; seatbelt.n.01	speak.v.01; reach.v.03	Nancy Wheeler; Barbara	1	1
+307.5	1.5	205	car.n.01; road.n.01	fidget.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+309.0	1.5	206	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+310.5	1.5	207	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+312.0	1.5	208	car.n.01; road.n.01	undress.n.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+313.5	1.5	209	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01; smirk.v.01	Nancy Wheeler; Barbara	1	1
+315.0	1.5	210	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01; smirk.v.01	Nancy Wheeler; Barbara	1	1
+316.5	1.5	211	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01; smirk.v.01	Nancy Wheeler; Barbara	1	1
+318.0	1.5	212	car.n.01; road.n.01	undress.v.01; sigh.v.01	Nancy Wheeler; Barbara	1	1
+319.5	1.5	213	car.n.01; road.n.01	undress.v.01; glance.v.01	Nancy Wheeler; Barbara	1	1
+321.0	1.5	214	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01	Nancy Wheeler; Barbara	1	1
+322.5	1.5	215	car.n.01; road.n.01	undress.v.01; stare.v.01; speak.v.01; turn.v.01	Nancy Wheeler; Barbara	1	1
+324.0	1.5	216	car.n.01; road.n.01	undress.v.01; glance.v.01; stutter.v.01	Nancy Wheeler; Barbara	1	4
+325.5	1.5	217	car.n.01; road.n.01; house.n.01; tree.n.01; light.n.02	utter.v.02; stare.v.01	Nancy Wheeler; Barbara	1	1
+327.0	1.5	218	house.n.01; tree.n.01; light.n.01	walk.v.01	Nancy Wheeler; Barbara	1	1
+328.5	1.5	219	house.n.01; tree.n.01; light.n.01	walk.v.01	Nancy Wheeler; Barbara	1	1
+330.0	1.5	220	house.n.01; tree.n.01; light.n.01	walk.v.01	Nancy Wheeler; Barbara	1	1
+331.5	1.5	221	house.n.01; tree.n.01; light.n.01	walk.v.01	Nancy Wheeler; Barbara	1	1
+333.0	1.5	222	house.n.01; tree.n.01; light.n.01	walk.v.01	Nancy Wheeler; Barbara	1	1
+334.5	1.5	223	house.n.01; tree.n.01; light.n.01; doorbell.n.01	touch.v.01; step.v.01; stare.v.01; wiggle.v.01	Nancy Wheeler; Barbara	1	1
+336.0	1.5	224	door.n.01; window.n.01	stand.v.01; stare.v.01; wiggle.v.01	Nancy Wheeler; Barbara	1	2
+337.5	1.5	225	door.n.01; window.n.01	stand.v.01; stare.v.01; turn.v.01; wiggle.v.01	Nancy Wheeler; Barbara	1	1
+339.0	1.5	226	door.n.01; window.n.01	stand.v.01; stare.v.01; speak.v.01; wiggle.v.01	Nancy Wheeler; Barbara	1	1
+340.5	1.5	227	door.n.01; window.n.01	stand.v.01; stare.v.01; speak.v.01; wiggle.v.01; shrug.v.01	Nancy Wheeler; Barbara	1	1
+342.0	1.5	228	door.n.01; window.n.01	stand.v.01; stare.v.01; speak.v.01; wiggle.v.01	Nancy Wheeler; Barbara	1	1
+343.5	1.5	229	door.n.01; window.n.01	stand.v.01; stare.v.01; speak.v.01; wiggle.v.01; shrug.v.01; blink.v.01	Nancy Wheeler; Barbara	1	1
+345.0	1.5	230	door.n.01; window.n.01; stairs.n.01	open.v.01; stare.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	3
+346.5	1.5	231	door.n.01; window.n.01; stairs.n.01; plant.n.01; picture frame.n.01; couch.n.01	stare.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+348.0	1.5	232	door.n.01; window.n.01; stairs.n.01; plant.n.01; picture frame.n.01; couch.n.01	stare.v.01; blink.v.01; speak.v.01	Nancy Wheeler; Barbara; Steve Harrington	1	1
+349.5	1.5	233	clothes.n.01; carpet.n.01 	n/a	no characters	1	1
+351.0	1.5	234	clothes.n.01; carpet.n.01 	n/a	no characters	1	1
+352.5	1.5	235	clothes.n.01; carpet.n.01; bed.n.01	n/a	no characters	1	1
+354.0	1.5	236	clothes.n.01; carpet.n.01; bed.n.01; dresser.n.01; blanket.n.01	n/a	no characters	1	1
+355.5	1.5	237	clothes.n.01; carpet.n.01; bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02	sleeping.v.01	Sheriff Jim Hooper 	1	1
+357.0	1.5	238	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02	sleeping.v.01	Sheriff Jim Hooper 	1	1
+358.5	1.5	239	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	stretch.v.02	Sheriff Jim Hooper 	1	1
+360.0	1.5	240	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	push.v.01	Sheriff Jim Hooper 	1	1
+361.5	1.5	241	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	push.v.01; sit up.v.02	Sheriff Jim Hooper 	1	1
+363.0	1.5	242	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	push.v.01; sit up.v.02	Sheriff Jim Hooper 	1	1
+364.5	1.5	243	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	sit up.v.01	Sheriff Jim Hooper 	1	1
+366.0	1.5	244	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	sit up.v.01; reach.v.03	Sheriff Jim Hooper 	1	1
+367.5	1.5	245	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	sit up.v.01; reach.v.03	Sheriff Jim Hooper 	1	1
+369.0	1.5	246	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01	get dressed.v.01	Sheriff Jim Hooper 	1	1
+370.5	1.5	247	 bed.n.01; dresser.n.01; blanket.n.01; cup.n.01; lamp.n.02; curtain.n.01; picture frame.n.01; porch.n.01; forest.n.01; tree.n.01	get dressed.v.01; stand.v.01	Sheriff Jim Hooper 	1	1
+372.0	1.5	248	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01	stand.v.01	Sheriff Jim Hooper 	1	1
+373.5	1.5	249	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01	Sheriff Jim Hooper 	1	1
+375.0	1.5	250	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01	Sheriff Jim Hooper 	1	1
+376.5	1.5	251	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; walk.v.01	Sheriff Jim Hooper 	1	1
+378.0	1.5	252	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; walk.v.01	Sheriff Jim Hooper 	1	1
+379.5	1.5	253	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; walk.v.01	Sheriff Jim Hooper 	1	1
+381.0	1.5	254	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; walk.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+382.5	1.5	255	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; walk.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+384.0	1.5	256	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; walk.v.01; speak.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+385.5	1.5	257	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; stare.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+387.0	1.5	258	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; stare.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+388.5	1.5	259	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+390.0	1.5	260	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+391.5	1.5	261	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+393.0	1.5	262	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+394.5	1.5	263	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+396.0	1.5	264	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+397.5	1.5	265	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+399.0	1.5	266	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; blink.v.01	Sheriff Jim Hooper 	1	1
+400.5	1.5	267	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+402.0	1.5	268	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+403.5	1.5	269	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+405.0	1.5	270	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+406.5	1.5	271	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+408.0	1.5	272	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+409.5	1.5	273	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+411.0	1.5	274	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+412.5	1.5	275	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+414.0	1.5	276	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; sigh.v.01; smile.v.01	Sheriff Jim Hooper 	1	1
+415.5	1.5	277	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+417.0	1.5	278	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+418.5	1.5	279	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+420.0	1.5	280	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+421.5	1.5	281	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+423.0	1.5	282	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+424.5	1.5	283	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; speak.v.01	Sheriff Jim Hooper 	1	1
+426.0	1.5	284	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01	Sheriff Jim Hooper 	1	1
+427.5	1.5	285	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; turn.v.01; blink.v.01	Sheriff Jim Hooper 	1	1
+429.0	1.5	286	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01	stand.v.01; stare.v.01; turn.v.01; walk.v.01; blink.v.01; exhale.v.01	Sheriff Jim Hooper 	1	1
+430.5	1.5	287	 porch.n.01; forest.n.01; tree.n.01; smoke.n.01; lamp.n.02	stand.v.01; stare.v.01; turn.v.01; walk.v.01	Sheriff Jim Hooper 	1	1
+432.0	1.5	288	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01	stand.v.01; stare.v.01; walk.v.01	Sheriff Jim Hooper 	1	1
+433.5	1.5	289	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01	stand.v.01	Sheriff Jim Hooper 	1	1
+435.0	1.5	290	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01	stand.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+436.5	1.5	291	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01	stand.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+438.0	1.5	292	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01	stand.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+439.5	1.5	293	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01; turn.v.01	Sheriff Jim Hooper 	1	1
+441.0	1.5	294	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01	Sheriff Jim Hooper 	1	1
+442.5	1.5	295	lamp.n.02; porch.n.01; forest.n.01; tree.n.01; beer.n.01; smoke.n.01	stand.v.01	Sheriff Jim Hooper 	1	1
+444.0	1.5	296	darkness.n.01	n/a	no characters	1	1

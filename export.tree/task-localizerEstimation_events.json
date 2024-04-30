@@ -1,0 +1,19 @@
+{
+    "tap_count": {
+        "Description": "Number of button presses within duration of trial, including fixation following presentation of the stimulus.",
+        "LongName": "Tap count"
+    },
+    "tap_duration": {
+        "Description": "Duration of finger-tapping, from first button press to last button press within duration of trial and following fixation.",
+        "LongName": "Tap duration",
+        "Units": "[s] second"
+    },
+    "trial_number": {
+        "Description": "Trial number.",
+        "LongName": "Trial number"
+    },
+    "stimulus": {
+        "Description": "The stimulus presented to the participant. This was used instead of 'stim_file' because the stimuli are not shareable within the dataset.",
+        "LongName": "Stimulus file"
+    }
+}

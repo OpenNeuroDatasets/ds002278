@@ -1,0 +1,273 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	n/a	n/a	n/a	3	3
+4.5	1.5	3	n/a	n/a	n/a	3	3
+6.0	1.5	4	n/a	n/a	n/a	3	3
+7.5	1.5	5	barf.n.01; blood.n.01; glasses.n.09; ground.n.07; unconscious.n.01	shattered.v.01	n/a	1	7
+9.0	1.5	6	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; shattered.v.01	n/a	1	7
+10.5	1.5	7	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; hyperventilating.v.02; shattered.v.01	n/a	1	7
+12.0	1.5	8	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; shattered.v.01	n/a	1	5
+13.5	1.5	9	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; reach out.v.01; shattered.v.01	n/a	1	5
+15.0	1.5	10	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	shocked.v.03; confused.v.02; remove.v.01; shattered.v.01	n/a	1	5
+16.5	1.5	11	barf.n.01; blood.n.01; glasses.n.09; ground.n.07	confused.v.02; orient.v.02; shattered.v.01	n/a	1	5
+18.0	1.5	12	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	7
+19.5	1.5	13	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+21.0	1.5	14	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; cries.v.03	n/a	1	5
+22.5	1.5	15	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+24.0	1.5	16	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+25.5	1.5	17	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03	n/a	1	5
+27.0	1.5	18	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+28.5	1.5	19	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+30.0	1.5	20	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03	n/a	1	5
+31.5	1.5	21	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	5
+33.0	1.5	22	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02; shout.v.03	n/a	1	5
+34.5	1.5	23	barf.n.01; blood.n.01; ground.n.07	confused.v.02; orient.v.02	n/a	1	9
+36.0	1.5	24	barf.n.01; blood.n.01; gasp.n.01; monster.n.02; fright.n.01	confused.v.02; orient.v.02; shout.v.03	n/a	1	9
+37.5	1.5	25	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+39.0	1.5	26	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+40.5	1.5	27	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+42.0	1.5	28	indoors.n.01; bed.n.01	kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+43.5	1.5	29	escape.n.01; fright.n.01	scared.v.01	n/a	1	7
+45.0	1.5	30	escape.n.01; fright.n.01	scared.v.01	n/a	1	7
+46.5	1.5	31	indoors.n.01; shirt.n.01	remove.v.01	Jonathan Byers	7	1
+48.0	1.5	32	indoors.n.01; lamp.n.02	n/a	Jonathan Byers	7	1
+49.5	1.5	33	indoors.n.01; lover.n.01	n/a	Jonathan Byers; Nancy Wheeler	7	1
+51.0	1.5	34	fright.n.01	drag.v.01	n/a	1	7
+52.5	1.5	35	escape.n.01; fright.n.01	climb.v.01	n/a	1	7
+54.0	1.5	36	escape.n.01; fright.n.01	climb.v.01	n/a	1	9
+55.5	1.5	37	door.n.01; pool.n.01; chair.n.01; light.n.02	steam.v.03	n/a	5	1
+57.0	1.5	38	outdoors.n.01; light.n.02; pool.n.01; chair.n.01; tree.n.01	n/a	n/a	5	1
+58.5	1.5	39	indoors.n.01; bed.n.01; window.n.01	refuse.v.01	Jonathan Byers; Nancy Wheeler	7	1
+60.0	1.5	40	indoors.n.01; bed.n.01	caress.v.01	Jonathan Byers; Nancy Wheeler	7	1
+61.5	1.5	41	indoors.n.01; bed.n.01	caress.v.01	Jonathan Byers; Nancy Wheeler	7	1
+63.0	1.5	42	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+64.5	1.5	43	escape.n.01; fright.n.01	climb.v.01	n/a	1	5
+66.0	1.5	44	escape.n.01; fright.n.01	climb.v.01	n/a	1	5
+67.5	1.5	45	escape.n.01; fright.n.01; fear.n.01	climb.v.01	n/a	1	7
+69.0	1.5	46	escape.n.01; fright.n.01; fear.n.01	climb.v.01	n/a	1	7
+70.5	1.5	47	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+72.0	1.5	48	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01	n/a	1	7
+73.5	1.5	49	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; railing.n.01	climb.v.01; reach out.v.01	n/a	1	7
+75.0	1.5	50	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	7
+76.5	1.5	51	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	7
+78.0	1.5	52	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	7
+79.5	1.5	53	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	climb.v.01; reach out.v.01	n/a	1	9
+81.0	1.5	54	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+82.5	1.5	55	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+84.0	1.5	56	indoors.n.01; bed.n.01	caress.v.01; kissing.v.01	Jonathan Byers; Nancy Wheeler	7	1
+85.5	1.5	57	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01	drag.v.01; reach out.v.01	n/a	1	9
+87.0	1.5	58	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	climb.v.01; reach out.v.01	n/a	1	9
+88.5	1.5	59	indoors.n.01; bed.n.01; bed sheet.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
+90.0	1.5	60	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
+91.5	1.5	61	indoors.n.01; bed.n.01; bed sheet.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
+93.0	1.5	62	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
+94.5	1.5	63	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
+96.0	1.5	64	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
+97.5	1.5	65	indoors.n.01; bed.n.01; bed sheet.n.01	caress.v.01; kissing.v.01; hold.n.02	Jonathan Byers; Nancy Wheeler	7	1
+99.0	1.5	66	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
+100.5	1.5	67	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01	n/a	1	9
+102.0	1.5	68	escape.n.01; fright.n.01; fear.n.01; top.n.03; agony.n.01; grasp.n.01; railing.n.01	grip.v.01; drag.v.01	n/a	1	9
+103.5	1.5	69	 top.n.03; railing.n.01	drop.v.01	n/a	1	7
+105.0	1.5	70	 top.n.03; railing.n.01	n/a	n/a	1	5
+106.5	1.5	71	 top.n.03; railing.n.01	n/a	n/a	1	5
+108.0	1.5	72	 top.n.03; railing.n.01	n/a	n/a	1	5
+109.5	1.5	73	 top.n.03; railing.n.01	n/a	n/a	1	5
+111.0	1.5	74	 top.n.03; railing.n.01	n/a	n/a	1	5
+112.5	1.5	75	 top.n.03; railing.n.01	n/a	n/a	1	5
+114.0	1.5	76	 top.n.03; railing.n.01	n/a	n/a	1	5
+115.5	1.5	77	 top.n.03; railing.n.01	n/a	n/a	1	5
+117.0	1.5	78	n/a	n/a	n/a	3	3
+118.5	1.5	79	n/a	n/a	n/a	3	3
+120.0	1.5	80	n/a	n/a	n/a	3	3
+121.5	1.5	81	n/a	n/a	n/a	3	3
+123.0	1.5	82	n/a	n/a	n/a	3	3
+124.5	1.5	83	n/a	n/a	n/a	3	3
+126.0	1.5	84	n/a	n/a	n/a	3	3
+127.5	1.5	85	n/a	n/a	n/a	3	3
+129.0	1.5	86	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01	n/a	n/a	5	2
+130.5	1.5	87	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01	n/a	n/a	5	2
+132.0	1.5	88	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01	n/a	n/a	5	2
+133.5	1.5	89	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01	n/a	n/a	5	1
+135.0	1.5	90	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
+136.5	1.5	91	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
+138.0	1.5	92	indoors.n.01; lamp.n.02; cabinet.n.01; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
+139.5	1.5	93	indoors.n.01; lamp.n.02; desk.n.01; window.n.01; bed.n.01	sitting.v.01; stare.v.01	Nancy Wheeler	5	1
+141.0	1.5	94	indoors.n.01; lamp.n.02; desk.n.01; window.n.01; bed.n.01	sitting.v.01	Jonathan Byers; Nancy Wheeler	5	1
+142.5	1.5	95	indoors.n.01; lamp.n.02; desk.n.01; window.n.01; bed.n.01	sitting.v.01	Jonathan Byers; Nancy Wheeler	5	1
+144.0	1.5	96	indoors.n.01; lamp.n.02; desk.n.01; window.n.01; bed.n.01	sitting.v.01	Jonathan Byers; Nancy Wheeler	5	1
+145.5	1.5	97	indoors.n.01; lamp.n.02; desk.n.01; window.n.01; bed.n.01	sitting.v.01; putting on.v.01	Jonathan Byers; Nancy Wheeler	5	1
+147.0	1.5	98	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; putting on.v.01	Jonathan Byers; Nancy Wheeler	5	1
+148.5	1.5	99	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; putting on.v.01	Nancy Wheeler	5	1
+150.0	1.5	100	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; putting on.v.01	Nancy Wheeler	5	1
+151.5	1.5	101	indoors.n.01; window.n.01; bed.n.01	sitting.v.01	Nancy Wheeler	5	1
+153.0	1.5	102	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler	5	1
+154.5	1.5	103	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler	5	1
+156.0	1.5	104	indoors.n.01; window.n.01; bed.n.01	sitting.v.01	Nancy Wheeler	5	1
+157.5	1.5	105	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+159.0	1.5	106	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+160.5	1.5	107	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+162.0	1.5	108	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+163.5	1.5	109	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+165.0	1.5	110	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+166.5	1.5	111	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+168.0	1.5	112	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01	Nancy Wheeler; Jonathan Byers	5	1
+169.5	1.5	113	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01; stare.v.01	Nancy Wheeler; Jonathan Byers	5	1
+171.0	1.5	114	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01; stare.v.01	Nancy Wheeler	5	1
+172.5	1.5	115	indoors.n.01; window.n.01; bed.n.01	sitting.v.01; awaken.n.01; stare.v.01	Nancy Wheeler	5	1
+174.0	1.5	116	indoors.n.01; window.n.01; bed.n.01	sitting.v.01	Nancy Wheeler	5	1
+175.5	1.5	117	indoors.n.01; window.n.01; bed.n.01	sitting.v.01	Nancy Wheeler	5	1
+177.0	1.5	118	ourdoors.n.01; light.n.02; chair.n.01	slide.v.01	Nancy Wheeler	5	1
+178.5	1.5	119	ourdoors.n.01; light.n.02; chair.n.01	slide.v.01; exit.v.03; open.v.01	Nancy Wheeler	5	1
+180.0	1.5	120	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04	slide.v.01; exit.v.03; close.v.01	Nancy Wheeler	5	1
+181.5	1.5	121	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04	slide.v.01; exit.v.03; close.v.01	Nancy Wheeler	5	1
+183.0	1.5	122	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04	exit.v.03	Nancy Wheeler	5	1
+184.5	1.5	123	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01	leaves.v.01	Nancy Wheeler	5	1
+186.0	1.5	124	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; steps.n.04; pool.n.01	descend.v.01; leaves.v.01	Nancy Wheeler	5	1
+187.5	1.5	125	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; steps.n.04; pool.n.01	descend.v.01; leaves.v.01; walk.v.01	Nancy Wheeler	5	3
+189.0	1.5	126	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; pool.n.01; alert.n.01	pause.v.01	Nancy Wheeler	5	3
+190.5	1.5	127	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; pool.n.01; alert.n.01	pause.v.01	Nancy Wheeler	5	3
+192.0	1.5	128	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; pool.n.01; alert.n.01	pause.v.01; frighten.v.01	Nancy Wheeler	5	3
+193.5	1.5	129	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; pool.n.01; alert.n.01	rush.v.01; frighten.v.01	Nancy Wheeler	5	3
+195.0	1.5	130	ourdoors.n.01; light.n.02; chair.n.01; bag.n.04; jacket.n.01; steam.n.01; pool.n.01; alert.n.01	rush.v.01; frighten.v.01	Nancy Wheeler	5	3
+196.5	1.5	131	infoors.n.01; light.n.02; door.n.01; bag.n.04; jacket.n.01	open.v.01	Nancy Wheeler	5	3
+198.0	1.5	132	infoors.n.01; light.n.02; door.n.01; bag.n.04; jacket.n.01	open.v.01	Nancy Wheeler	5	3
+199.5	1.5	133	infoors.n.01; light.n.02; door.n.01; bag.n.04; jacket.n.01	closes.v.01	Nancy Wheeler	5	3
+201.0	1.5	134	infoors.n.01; light.n.02; door.n.01; bag.n.04; jacket.n.01	closes.v.01	Nancy Wheeler	4	3
+202.5	1.5	135	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01	turn on.v.01	Nancy Wheeler	4	3
+204.0	1.5	136	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; scare.n.01	upset.v.01	Nancy Wheeler; female	5	1
+205.5	1.5	137	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; scare.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+207.0	1.5	138	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; robe.n.01; reprimand.n.01	upset.v.01	Nancy Wheeler; female	5	1
+208.5	1.5	139	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; robe.n.01; reprimand.n.01	upset.v.01	Nancy Wheeler; female	5	1
+210.0	1.5	140	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; robe.n.01; reprimand.n.01	upset.v.01	Nancy Wheeler; female	5	1
+211.5	1.5	141	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01;  robe.n.01; reprimand.n.01	upset.v.01	Nancy Wheeler; female	5	1
+213.0	1.5	142	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01	upset.v.01	Nancy Wheeler	5	1
+214.5	1.5	143	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01	upset.v.01	Nancy Wheeler	5	1
+216.0	1.5	144	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+217.5	1.5	145	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+219.0	1.5	146	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+220.5	1.5	147	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+222.0	1.5	148	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+223.5	1.5	149	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01	upset.v.01	Nancy Wheeler; female	5	1
+225.0	1.5	150	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01; staircase.n.01	upset.v.01; grab.v.03	Nancy Wheeler; female	5	1
+226.5	1.5	151	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; reprimand.n.01; robe.n.01; staircase.n.01	upset.v.01; grab.v.03; wonder.v.01	Nancy Wheeler; female	5	1
+228.0	1.5	152	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01	upset.v.01; hesitate.v.01	Nancy Wheeler	5	1
+229.5	1.5	153	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; anxiousness.n.01	upset.v.01; hesitate.v.01	Nancy Wheeler	5	1
+231.0	1.5	154	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; question.v.05	Nancy Wheeler; female	5	1
+232.5	1.5	155	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+234.0	1.5	156	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+235.5	1.5	157	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+237.0	1.5	158	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+238.5	1.5	159	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+240.0	1.5	160	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+241.5	1.5	161	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01	Nancy Wheeler; female	5	1
+243.0	1.5	162	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01; halt.v.01	Nancy Wheeler; female	5	1
+244.5	1.5	163	infoors.n.01; light.n.02; lamp.n.02; bag.n.04; jacket.n.01; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01	Nancy Wheeler; female	5	1
+246.0	1.5	164	infoors.n.01; light.n.02; staircase.n.01; tension.n.05	understand.v.05; deduce.v.01; halt.v.01	Nancy Wheeler; female	5	1
+247.5	1.5	165	infoors.n.01; light.n.02; staircase.n.01; tension.n.05	understand.v.05; deduce.v.01; halt.v.01	Nancy Wheeler; female	5	1
+249.0	1.5	166	infoors.n.01; light.n.02; staircase.n.01; tension.n.05	understand.v.05; deduce.v.01; halt.v.01	Nancy Wheeler; female	5	1
+250.5	1.5	167	infoors.n.01; light.n.02; staircase.n.01; tension.n.05	understand.v.05; deduce.v.01; halt.v.01	Nancy Wheeler; female	5	1
+252.0	1.5	168	infoors.n.01; light.n.02; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01	Nancy Wheeler; female	5	1
+253.5	1.5	169	infoors.n.01; light.n.02; staircase.n.01; tension.n.05	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01	Nancy Wheeler; female	5	1
+255.0	1.5	170	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01	Nancy Wheeler; female	5	1
+256.5	1.5	171	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01	Nancy Wheeler; female	5	1
+258.0	1.5	172	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01	Nancy Wheeler; female	5	1
+259.5	1.5	173	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+261.0	1.5	174	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+262.5	1.5	175	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+264.0	1.5	176	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+265.5	1.5	177	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+267.0	1.5	178	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+268.5	1.5	179	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02; blink.n.01	upset.v.01; deduce.v.01; halt.v.01; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+270.0	1.5	180	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; deduce.v.01; disregard.v.02; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+271.5	1.5	181	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02; bag.n.04; jacket.n.01	upset.v.01; deduce.v.01; disregard.v.02; annoy.v.01; reassure.v.02	Nancy Wheeler; female	5	1
+273.0	1.5	182	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; worry.v.01	female	5	1
+274.5	1.5	183	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; worry.v.01	female	5	1
+276.0	1.5	184	infoors.n.01; light.n.02; staircase.n.01; tension.n.05; doubt.n.02	upset.v.01; worry.v.01	female	5	1
+277.5	1.5	185	outdoors.n.01; daylight.n.01; tree.n.01	n/a	n/a	5	1
+279.0	1.5	186	outdoors.n.01; daylight.n.01; tree.n.01	n/a	n/a	5	1
+280.5	1.5	187	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03	n/a	5	1
+282.0	1.5	188	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03	n/a	5	1
+283.5	1.5	189	outdoors.n.01; daylight.n.01; tree.n.01	swing.v.03	n/a	5	1
+285.0	1.5	190	outdoors.n.01; daylight.n.01; tree.n.01; swing.n.02	swing.v.03	n/a	5	1
+286.5	1.5	191	outdoors.n.01; daylight.n.01; tree.n.01; swing.n.02	swing.v.03	n/a	5	1
+288.0	1.5	192	outdoors.n.01; daylight.n.01; chair.n.01; window.n.01; house.n.01; breeze.n.01; laundry.n.01	n/a	n/a	5	1
+289.5	1.5	193	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	sleep.v.01	Jonathan Byers	5	1
+291.0	1.5	194	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	sleep.v.01	Jonathan Byers	5	1
+292.5	1.5	195	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	sleep.v.01	Jonathan Byers	5	1
+294.0	1.5	196	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	awaken.v.01	Jonathan Byers	5	1
+295.5	1.5	197	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02; confusion.n.02	awaken.v.01	Jonathan Byers	5	1
+297.0	1.5	198	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02; confusion.n.02	awaken.v.01	Jonathan Byers	5	1
+298.5	1.5	199	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02; confusion.n.02	awaken.v.01	Jonathan Byers	5	1
+300.0	1.5	200	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	awaken.v.01; alarm.v.02	Jonathan Byers	5	1
+301.5	1.5	201	indoors.n.01; bed.n.01; bed sheet.n.01; window.n.01; lamp.n.02	awaken.v.01; alarm.v.02	Jonathan Byers	5	1
+303.0	1.5	202	indoors.n.01; door.n.01; shirt.n.01	awaken.v.01; alarm.v.02; wear.v.09	Jonathan Byers	5	1
+304.5	1.5	203	indoors.n.01; door.n.01; shirt.n.01	awaken.v.01; alarm.v.02; wear.v.09; open.v.01	Jonathan Byers	5	1
+306.0	1.5	204	indoors.n.01; door.n.01; window.n.01; bed.n.01	open.v.01; concentrate.v.02	Jonathan Byers, female	5	1
+307.5	1.5	205	indoors.n.01; door.n.01; window.n.01; bed.n.01; lamp.n.02	open.v.01; concentrate.v.02	Jonathan Byers, female	5	1
+309.0	1.5	206	indoors.n.01; door.n.01; window.n.01; bed.n.01; lamp.n.02	concentrate.v.02; interrupt.v.03	Jonathan Byers, female	5	1
+310.5	1.5	207	indoors.n.01; door.n.01; window.n.01; bed.n.01; lamp.n.02	concentrate.v.02; interrupt.v.03; shout.v.03	Jonathan Byers, female	5	1
+312.0	1.5	208	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02	concentrate.v.02; interrupt.v.03; shout.v.03	Jonathan Byers, female	5	1
+313.5	1.5	209	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; question.n.01	concentrate.v.02; interrupt.v.03; shout.v.03	Jonathan Byers, female	5	1
+315.0	1.5	210	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; demand.n.01	concentrate.v.02; interrupt.v.03; shout.v.03; worry.v.01	Jonathan Byers, female	5	1
+316.5	1.5	211	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; demand.n.01; anxiousness.n.01	concentrate.v.02; interrupt.v.03; worry.v.01	Jonathan Byers, female	5	1
+318.0	1.5	212	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; demand.n.01; anxiousness.n.01	sit down.v.01; hold.v.02; concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+319.5	1.5	213	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+321.0	1.5	214	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+322.5	1.5	215	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+324.0	1.5	216	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+325.5	1.5	217	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+327.0	1.5	218	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+328.5	1.5	219	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+330.0	1.5	220	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01	Jonathan Byers, female	5	1
+331.5	1.5	221	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; call out.v.02	Jonathan Byers, female	5	1
+333.0	1.5	222	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02	Jonathan Byers, female	5	1
+334.5	1.5	223	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; call out.v.02	Jonathan Byers, female	5	1
+336.0	1.5	224	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; call out.v.02	Jonathan Byers, female	5	1
+337.5	1.5	225	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; call out.v.02	Jonathan Byers, female	5	1
+339.0	1.5	226	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; call out.v.02	Jonathan Byers, female	5	1
+340.5	1.5	227	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; turn on.v.03	Jonathan Byers, female	5	1
+342.0	1.5	228	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; outcry.v.02	Jonathan Byers, female	5	1
+343.5	1.5	229	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02	Jonathan Byers, female	5	1
+345.0	1.5	230	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02	Jonathan Byers, female	5	1
+346.5	1.5	231	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02	Jonathan Byers, female	5	1
+348.0	1.5	232	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+349.5	1.5	233	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+351.0	1.5	234	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+352.5	1.5	235	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+354.0	1.5	236	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+355.5	1.5	237	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+357.0	1.5	238	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+358.5	1.5	239	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+360.0	1.5	240	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02	Jonathan Byers, female	5	1
+361.5	1.5	241	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01	Jonathan Byers, female	5	1
+363.0	1.5	242	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+364.5	1.5	243	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+366.0	1.5	244	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; yell.n.02	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+367.5	1.5	245	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+369.0	1.5	246	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+370.5	1.5	247	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+372.0	1.5	248	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+373.5	1.5	249	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+375.0	1.5	250	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; deny.v.01; deduce.v.01	Jonathan Byers, female	5	1
+376.5	1.5	251	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; tranquilize.v.01	Jonathan Byers, female	5	1
+378.0	1.5	252	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+379.5	1.5	253	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; reassure.v.02; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+381.0	1.5	254	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; apologize.v.01	Jonathan Byers, female	5	1
+382.5	1.5	255	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+384.0	1.5	256	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+385.5	1.5	257	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+387.0	1.5	258	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+388.5	1.5	259	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; reassure.v.02	Jonathan Byers, female	5	1
+390.0	1.5	260	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; reassure.v.02	Jonathan Byers, female	5	1
+391.5	1.5	261	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; reassure.v.02	Jonathan Byers, female	5	1
+393.0	1.5	262	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; reassure.v.02	Jonathan Byers, female	5	1
+394.5	1.5	263	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; reassure.v.02	Jonathan Byers, female	5	1
+396.0	1.5	264	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; leave.v.01	Jonathan Byers, female	5	1
+397.5	1.5	265	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+399.0	1.5	266	indoors.n.01; bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01	Jonathan Byers, female	5	1
+400.5	1.5	267	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; leave.v.01	Jonathan Byers, female	5	1
+402.0	1.5	268	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; stare.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; leave.v.01	Jonathan Byers, female	5	1
+403.5	1.5	269	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; stare.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; leave.v.01	Jonathan Byers, female	5	1
+405.0	1.5	270	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; window.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; look around.v.01	female	5	1
+406.5	1.5	271	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; window.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; look around.v.01	female	5	1
+408.0	1.5	272	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; window.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; look around.v.01	female	5	1
+409.5	1.5	273	indoors.n.01; door.n.01;  bed.n.01; lamp.n.02; anxiousness.n.01; tears.n.01; window.n.01	concentrate.v.02; worry.v.01; tranquilize.v.01; sit down.v.01; look around.v.01	female	5	1

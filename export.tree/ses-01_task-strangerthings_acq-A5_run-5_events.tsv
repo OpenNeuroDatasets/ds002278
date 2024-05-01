@@ -1,0 +1,313 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	building.n.01; sky.n.01; daylight.n.01; dish.n.05; smoke.n.01	n/a	n/a	5	1
+4.5	1.5	3	building.n.01; sky.n.01; daylight.n.01; dish.n.05; smoke.n.01	n/a	n/a	5	1
+6.0	1.5	4	building.n.01; sky.n.01; daylight.n.01; dish.n.05; smoke.n.01; man.n.01; headphones.n.01 	listen.v.01 	n/a	5	1
+7.5	1.5	5	man.n.01; headphones.n.01; dark.n.01	listen.v.01; speak.v.03	n/a	4	4
+9.0	1.5	6	man.n.01; headphones.n.01; dark.n.01	listen.v.01; speak.v.03	n/a	4	4
+10.5	1.5	7	man.n.01; headphones.n.01; dark.n.01	listen.v.01; speak.v.03	n/a	4	4
+12.0	1.5	8	man.n.01; headphones.n.01; dark.n.01	listen.v.01; speak.v.03; tilt.v.01	n/a	4	4
+13.5	1.5	9	man.n.01; headphones.n.01; dark.n.01	listen.v.01; speak.v.03; tilt.v.01	n/a	4	4
+15.0	1.5	10	man.n.01; headphones.n.01; dark.n.01; people.n.01	listen.v.01; speak.v.03;	n/a	4	4
+16.5	1.5	11	man.n.01; headphones.n.01; dark.n.01	listen.v.01; speak.v.03;	n/a	4	4
+18.0	1.5	12	man.n.01; headphones.n.01; dark.n.01; people.n.01	listen.v.01; speak.v.03;	n/a	4	4
+19.5	1.5	13	 headphones.n.01; dark.n.01; people.n.01; desk.n.01; lamp.n.02; pen.n.01; paper.n.01; cup.n.03	listen.v.01; speak.v.03; turn.v.09	n/a	4	5
+21.0	1.5	14	 headphones.n.01; dark.n.01; people.n.01; desk.n.01; lamp.n.02; pen.n.01; paper.n.01; cup.n.03	listen.v.01; speak.v.03; turn.v.09; write.v.09	n/a	4	5
+22.5	1.5	15	 headphones.n.01; dark.n.01; people.n.01; desk.n.01; lamp.n.02; pen.n.01; paper.n.01; cup.n.03; cigarette.n.01	listen.v.01; speak.v.03; turn.v.09; write.v.09 smoke.v.01	n/a	4	5
+24.0	1.5	16	 headphones.n.01; dark.n.01; people.n.01; desk.n.01; lamp.n.02; pen.n.01; paper.n.01; cup.n.03; cigarette.n.01	listen.v.01; speak.v.03; write.v.09 smoke.v.01	n/a	4	5
+25.5	1.5	17	 headphones.n.01; dark.n.01; people.n.01; desk.n.01; lamp.n.02; pen.n.01; paper.n.01; cup.n.03; cigarette.n.01	listen.v.01; speak.v.03; write.v.09 smoke.v.01	n/a	4	5
+27.0	1.5	18	telephone.n.01; woman.n.01; daylight.n.02; 	hold.v.03; breathe.v.01; question.v.03	Joyce Byers 	3	6
+28.5	1.5	19	telephone.n.01; woman.n.01; daylight.n.02;	hold.v.03; breathe.v.01; speak.v.02	Joyce Byers 	3	6
+30.0	1.5	20	telephone.n.01; woman.n.01; daylight.n.02; man.n.01	hold.v.03; breathe.v.01; speak.v.02; question.v.03; sit.v.01	Joyce Byers; Jonathan Byers	3	6
+31.5	1.5	21	telephone.n.01; woman.n.01; man.n.01; couch.n.01; lamp.n.02; table.n.02	hold.v.03; speak.v.02; question.v.03; sit.v.01; 	Joyce Byers; Jonathan Byers	3	5
+33.0	1.5	22	telephone.n.01; woman.n.01; man.n.01; couch.n.01; lamp.n.02; table.n.02	hold.v.03; speak.v.02; question.v.03; sit.v.01; 	Joyce Byers; Jonathan Byers	3	5
+34.5	1.5	23	telephone.n.01; woman.n.01; man.n.01; couch.n.01; lamp.n.02; table.n.02; ruler.n.01; paper.n.01; pen.n.01	hold.v.03; speak.v.02; question.v.03; sit.v.01; write.v.07	Joyce Byers; Jonathan Byers	3	6
+36.0	1.5	24	man.n.01; table.n.02; ruler.n.01; paper.n.01; pen.n.01	hold.v.03; speak.v.02; sit.v.01; write.v.07	Joyce Byers; Jonathan Byers	3	7
+37.5	1.5	25	telephone.n.01; woman.n.01;	hold.v.03; speak.v.02; refuse.v.02	Joyce Byers 	3	7
+39.0	1.5	26	telephone.n.01; woman.n.01;	hold.v.03; speak.v.02; refuse.v.02; exclaim.v.01	Joyce Byers 	2	7
+40.5	1.5	27	telephone.n.01; woman.n.01; man.n.01	hold.v.03; speak.v.02; refuse.v.02; exclaim.v.01	Joyce Byers 	2	7
+42.0	1.5	28	telephone.n.01; woman.n.01; man.n.01	hang up.v.01; scream.v.01	Joyce Byers; Jonathan Byers	1	9
+43.5	1.5	29	window.n.01; daylight.n.02; woman.n.01; lamp.n.02; curtain.n.01	shout.v.01; pant.v.01; question.v.03	Joyce Byers	1	8
+45.0	1.5	30	man.n.01; couch.n.01; lamp.n.02; woman.n.01; living room.n.01	advise.v.01; sit.v.01; lean on.v.01	Joyce Byers; Jonathan Byers	2	5
+46.5	1.5	31	man.n.01; couch.n.01; lamp.n.02; woman.n.01; living room.n.01; vase.n.01	laugh.v.01; sigh.v.01	Joyce Byers; Jonathan Byers	2	5
+48.0	1.5	32	man.n.01; couch.n.01; lamp.n.02; woman.n.01; living room.n.01; telephone.n.01; vase.n.01	 sigh.v.01; grab.v.01; look.v.01	Joyce Byers; Jonathan Byers	2	6
+49.5	1.5	33	man.n.01; couch.n.01; lamp.n.02; woman.n.01; living room.n.01; telephone.n.01; vase.n.01	 sigh.v.01; grab.v.01; look.v.01; dial.v.02	Joyce Byers; Jonathan Byers	2	6
+51.0	1.5	34	man.n.01; woman.n.01; living room.n.01; telephone.n.01; 	 grab.v.01; dial.v.02	Joyce Byers; Jonathan Byers	2	6
+52.5	1.5	35	man.n.01; woman.n.01; living room.n.01; telephone.n.01; 	 hold.v.08; ring.v.01; breathe.v.01	Joyce Byers; Jonathan Byers	2	8
+54.0	1.5	36	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; ring.v.01; breathe.v.01	Joyce Byers; Jonathan Byers	2	7
+55.5	1.5	37	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; ring.v.01; laugh.v.01	Joyce Byers; Jonathan Byers	2	7
+57.0	1.5	38	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; ring.v.01; breathe.v.01	Joyce Byers; Jonathan Byers	2	7
+58.5	1.5	39	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; 	Joyce Byers; Jonathan Byers	2	7
+60.0	1.5	40	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; 	Joyce Byers; Jonathan Byers	2	7
+61.5	1.5	41	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; 	Joyce Byers; Jonathan Byers	2	7
+63.0	1.5	42	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; look.v.01	Joyce Byers; Jonathan Byers	2	7
+64.5	1.5	43	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; look.v.01; breathe.v.01; cry.v.01	Joyce Byers; Jonathan Byers	2	9
+66.0	1.5	44	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; look.v.01; sigh.v.01	Joyce Byers; Jonathan Byers	2	9
+67.5	1.5	45	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; look.v.01; sigh.v.01; beg.v.01	Joyce Byers; Jonathan Byers	2	9
+69.0	1.5	46	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01	 hold.v.08; speak.v.01; look.v.01; sigh.v.01; beg.v.01; ring.v.01	Joyce Byers; Jonathan Byers	2	9
+70.5	1.5	47	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01; lamp.n.02; vase.n.01	hang up.v.01; scream.v.01; throw.v.04	Joyce Byers; Jonathan Byers	1	10
+72.0	1.5	48	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01; lamp.n.02; vase.n.01	breathe.v.01; question.v.02; 	Joyce Byers; Jonathan Byers	1	8
+73.5	1.5	49	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01; lamp.n.02; vase.n.01	breathe.v.01; question.v.02; stare.v.01	Joyce Byers; Jonathan Byers	1	8
+75.0	1.5	50	man.n.01; woman.n.01; living room.n.01; telephone.n.01; voicemail.n.01; lamp.n.02; vase.n.01	breathe.v.01; question.v.02; stare.v.01; stand up.v.01	Joyce Byers; Jonathan Byers	3	8
+76.5	1.5	51	man.n.01; shelf.v.01; 	 stare.v.01; stand up.v.01	Jonathan Byers	3	8
+78.0	1.5	52	man.n.01; shelf.v.01; door.n.01; chair.n.01; window.n.01; front porch.n.01; plant.n.01; 	 stare.v.01; stand up.v.01; open.v.01	Jonathan Byers	3	8
+79.5	1.5	53	door.n.01; chair.n.01; window.n.01; front porch.n.01; plant.n.01; woman.n.01; 	open.v.01; run.v.01	Joyce Byers	6	8
+81.0	1.5	54	door.n.01; chair.n.01; window.n.01; front porch.n.01; plant.n.01; woman.n.01; man.n.01	 run.v.01; close.v.03; stare.v.02	Joyce Byers; Jonathan Byers	6	6
+82.5	1.5	55	door.n.01; window.n.01; front porch.n.01; woman.n.01; man.n.01	 stare.v.02	Joyce Byers; Jonathan Byers	6	6
+84.0	1.5	56	police.n.01; tree.n.01; road.n.01; daytime.n.01; police car.n.01; bicycle.n.01; grass.n.01	drive.v.01; walk.v.01; carry.v.01; pull up.v.01	Sheriff Jim Hopper	4	6
+85.5	1.5	57	police.n.01; tree.n.01; road.n.01; daytime.n.01; police car.n.01; bicycle.n.01; grass.n.01	drive.v.01; walk.v.01; carry.v.01; pull up.v.01	Sheriff Jim Hopper	4	6
+87.0	1.5	58	police.n.01; tree.n.01; road.n.01; daytime.n.01; police car.n.01; bicycle.n.01; grass.n.01	 walk.v.01; carry.v.01; pull up.v.01	Sheriff Jim Hopper	4	6
+88.5	1.5	59	police.n.01; tree.n.01; road.n.01; daytime.n.01; police car.n.01; bicycle.n.01; grass.n.01; 	 walk.v.01; carry.v.01; open.v.01; step out.v.01; 	Sheriff Jim Hopper;	4	6
+90.0	1.5	60	police.n.01; tree.n.01; road.n.01; daytime.n.01; police car.n.01; bicycle.n.01; grass.n.01; woman.n.01; man.n.01	 walk.v.01; carry.v.01; open.v.01; step out.v.01; stare.v.02; breathe.v.01	Sheriff Jim Hopper; Joyce Byers; Johnathan Byers 	4	6
+91.5	1.5	61	window.n.01; porch.n.01; woman.n.01; man.n.01	Breathe.v.01; stare.v.02	Joyce Byers; Jonathan Byers	3	7
+93.0	1.5	62	window.n.01; porch.n.01; woman.n.01; man.n.01; police.n.01; door.n.01; curtain.n.01; lamp.n.02	 stare.v.02; speak.v.01	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+94.5	1.5	63	woman.n.01; man.n.01; police.n.01; door.n.01; curtain.n.01; lamp.n.02; chair.n.01; living room.n.01	 stare.v.02; speak.v.01; walk.v.01 	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+96.0	1.5	64	woman.n.01; man.n.01; police.n.01; door.n.01; curtain.n.01; lamp.n.02; chair.n.01; living room.n.01	speak.v.01; walk.v.01; point.v.01; look around.v.01	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+97.5	1.5	65	woman.n.01; man.n.01; police.n.01; door.n.01; curtain.n.01; lamp.n.02; chair.n.01; living room.n.01	speak.v.01; walk.v.01; look around.v.01; follow.v.01	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+99.0	1.5	66	woman.n.01; man.n.01; police.n.01; door.n.01; curtain.n.01; lamp.n.02; chair.n.01; living room.n.01	speak.v.01; walk.v.01; look around.v.01; follow.v.01	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+100.5	1.5	67	woman.n.01; man.n.01; police.n.01; door.n.01; curtain.n.01; lamp.n.02; chair.n.01; living room.n.01	walk.v.01; look around.v.01; follow.v.01; mumble.v.01	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+102.0	1.5	68	woman.n.01; man.n.01; police.n.01;  curtain.n.01; chair.n.01; living room.n.01	walk.v.01; look around.v.01; follow.v.01; mumble.v.01	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+103.5	1.5	69	woman.n.01; man.n.01; window.n.01; hallway.n.01	walk.v.01; fllow.v.01; questin.v.03	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+105.0	1.5	70	woman.n.01; man.n.01; window.n.01; hallway.n.01	walk.v.01; fllow.v.01; questin.v.03	Joyce Byers; Jonathan Byers; Sheriff Jim Hopper	3	7
+106.5	1.5	71	man.n.01; window.n.01; door.n.01; kitchen.n.01; cabinet.n.01	question.v.03; walk.v.01	Sheriff Jim Hopper 	4	5
+108.0	1.5	72	man.n.01; window.n.01; door.n.01; kitchen.n.01; cabinet.n.01; sink.n.01	question.v.03; walk.v.01	Sheriff Jim Hopper 	4	5
+109.5	1.5	73	man.n.01; window.n.01; kitchen.n.01; cabinet.n.01; sink.n.01; appliances.n.01; counter.n.04	 walk.v.01; look.v.01	Sheriff Jim Hopper 	4	5
+111.0	1.5	74	man.n.01; window.n.01; kitchen.n.01; cabinet.n.01; sink.n.01; appliances.n.01; counter.n.04	 walk.v.01; look.v.01;  speak.v.01	Sheriff Jim Hopper 	4	5
+112.5	1.5	75	man.n.01; window.n.01; kitchen.n.01; cabinet.n.01; sink.n.01; appliances.n.01; counter.n.04	 walk.v.01; speak.v.01; turn to.v.02	Sheriff Jim Hopper 	4	5
+114.0	1.5	76	man.n.01; window.n.01; kitchen.n.01; cabinet.n.01; sink.n.01; appliances.n.01; counter.n.04; lamp.n.02	 walk.v.01; speak.v.01; turn to.v.02; yell.v.01	Sheriff Jim Hopper; Joyce Byers	4	6
+115.5	1.5	77	lamp.n.02; kitchen.n.02; window.n.01; cabinet.n.01; woman.n.01; man.n.01	yell.v.01; look away.v.01	Sheriff Jim Hopper; Joyce Byers	3	7
+117.0	1.5	78	kitchen.n.02; window.n.01; cabinet.n.01; man.n.01	 look away.v.01; speak.v.01	Sheriff Jim Hopper; 	3	7
+118.5	1.5	79	kitchen.n.02; window.n.01; cabinet.n.01; man.n.01; wood.n.01; wall.n.01; hole.n.02	 look.v.01; speak.v.01	Sheriff Jim Hopper; 	3	7
+120.0	1.5	80	kitchen.n.02; window.n.01; cabinet.n.01; man.n.01; wood.n.01; wall.n.01; hole.n.02	 look.v.01; question.v.03; reach.v.03; touch.v.01	Sheriff Jim Hopper; 	3	8
+121.5	1.5	81	 wood.n.01; wall.n.01; hole.n.02; woman.n.01; lamp.n.02	 look.v.01; reach.v.03; touch.v.01; reply.v.01	Sheriff Jim Hopper; Joyce Byers	4	6
+123.0	1.5	82	kitchen.n.02; window.n.01; cabinet.n.01; man.n.01; woman.n.01; lamp.n.02	speak.v.01; look.v.01	Sheriff Jim Hopper; Joyce Byers	4	6
+124.5	1.5	83	kitchen.n.01; cabinet.n.01; window.n.01; sink.n.01; refrigerator.n.01; man.n.01; woman.n.01 	open.v.01; look.v.01	Sheriff Jim Hopper; Joyce Byers	4	5
+126.0	1.5	84	kitchen.n.01; cabinet.n.01; window.n.01; sink.n.01; refrigerator.n.01; man.n.01; woman.n.01; daylight.n.01	open.v.01; look.v.01; question.v.03	Sheriff Jim Hopper; Joyce Byers	4	5
+127.5	1.5	85	kitchen.n.01; cabinet.n.01; window.n.01; sink.n.01; refrigerator.n.01; man.n.01; woman.n.01; daylight.n.01	open.v.01; look.v.01; question.v.03; face.v.03	Sheriff Jim Hopper; Joyce Byers	4	5
+129.0	1.5	86	kitchen.n.01; cabinet.n.01; window.n.01; sink.n.01; refrigerator.n.01; man.n.01; woman.n.01; daylight.n.01	open.v.01; question.v.03; face.v.03; bark.v.04; hold.v.03	Sheriff Jim Hopper; Joyce Byers	6	7
+130.5	1.5	87	kitchen.n.01; cabinet.n.01; window.n.01; sink.n.01; refrigerator.n.01; man.n.01; woman.n.01; daylight.n.01	 bark.v.04; look.v.01; walk.v.01 	Sheriff Jim Hopper; Joyce Byers	6	7
+132.0	1.5	88	kitchen.n.01; cabinet.n.01; window.n.01; sink.n.01; refrigerator.n.01; man.n.01; woman.n.01; daylight.n.01; dog.n.01; grass.n.01	 bark.v.04; look.v.01; walk.v.01 	Sheriff Jim Hopper; Joyce Byers	7	7
+133.5	1.5	89	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; stair.n.01	bark.v.04; open.v.01; walk.v.01; wag.v.02; look.v.01	Sheriff Jim Hopper 	7	7
+135.0	1.5	90	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; stair.n.01	walk.v.01; wag.v.02; look.v.01	Sheriff Jim Hopper 	7	7
+136.5	1.5	91	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; stair.n.01	walk.v.01; wag.v.02; look.v.01	Sheriff Jim Hopper; Joyce Byers 	7	7
+138.0	1.5	92	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; stair.n.01	walk.v.01; wag.v.02; look.v.01; bark.v.04	Sheriff Jim Hopper; Joyce Byers 	7	7
+139.5	1.5	93	window.n.01; daylight.n.01; dog.n.01; grass.n.01;  tree.n.01; shed.n.01; house.n.01; backyard.n.01	walk.v.01; look.v.01; 	Sheriff Jim Hopper; 	7	7
+141.0	1.5	94	window.n.01; daylight.n.01; dog.n.01; grass.n.01;  tree.n.01; shed.n.01; house.n.01; backyard.n.01	walk.v.01; look.v.01; reach.v.01; pat.v.01	Sheriff Jim Hopper; 	7	7
+142.5	1.5	95	window.n.01; daylight.n.01; dog.n.01; grass.n.01;  tree.n.01; shed.n.01; house.n.01; backyard.n.01	walk.v.01; look.v.01; reach.v.01; pat.v.01; crouch.v.01	Sheriff Jim Hopper; Joyce Byers 	7	7
+144.0	1.5	96	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; 	walk.v.01; look.v.01; reach.v.01; pat.v.01; crouch.v.01	Sheriff Jim Hopper; Joyce Byers 	7	6
+145.5	1.5	97	window.n.01; daylight.n.01; dog.n.01; grass.n.01;  tree.n.01; shed.n.01; house.n.01; backyard.n.01	walk.v.01; look.v.01; crouch.v.01; grab.v.01	Sheriff Jim Hopper; Joyce Byers 	5	3
+147.0	1.5	98	window.n.01; daylight.n.01; dog.n.01; grass.n.01;  tree.n.01; shed.n.01; house.n.01; backyard.n.01	walk.v.01; look.v.01; crouch.v.01; grab.v.01	Sheriff Jim Hopper; Joyce Byers 	5	3
+148.5	1.5	99	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; 	walk.v.01; look.v.01; crouch.v.01; grab.v.01	Sheriff Jim Hopper; Joyce Byers 	5	3
+150.0	1.5	100	window.n.01; daylight.n.01; door.n.01; dog.n.01; grass.n.01; stair.n.01	walk.v.01; grab.v.01; stand.v.01; stare.v.02	Sheriff Jim Hopper; Joyce Byers 	5	4
+151.5	1.5	101	daylight.n.01; shed.n.01; tree.n.01; grass.n.01; door.n.01	stand up.v.01; open.v.01; place.v.01	Sheriff Jim Hopper	5	4
+153.0	1.5	102	daylight.n.01; shed.n.01; tree.n.01; grass.n.01; door.n.01	place.v.01; walk.v.01	Sheriff Jim Hopper	5	4
+154.5	1.5	103	daylight.n.01; shed.n.01; tree.n.01; grass.n.01; door.n.01	walk.v.01	Sheriff Jim Hopper 	5	5
+156.0	1.5	104	daylight.n.01; shed.n.01; tree.n.01; grass.n.01; door.n.01	walk.v.01	Sheriff Jim Hopper 	5	5
+157.5	1.5	105	daylight.n.01; shed.n.01; tree.n.01; door.n.01	walk.v.01	Sheriff Jim Hopper 	5	5
+159.0	1.5	106	daylight.n.01; shed.n.01;door.n.01	walk.v.01	Sheriff Jim Hopper 	5	5
+160.5	1.5	107	daylight.n.01; shed.n.01;door.n.01	walk.v.01	Sheriff Jim Hopper 	5	5
+162.0	1.5	108	daylight.n.01; shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01	walk.v.01; reach.v.01; open.v.01	Sheriff Jim Hopper 	5	5
+163.5	1.5	109	daylight.n.01; shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01	 open.v.01; enter.v.01	Sheriff Jim Hopper 	4	6
+165.0	1.5	110	daylight.n.01; shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01	 open.v.01; enter.v.01; close.v.03	Sheriff Jim Hopper 	4	6
+166.5	1.5	111	shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01	close.v.03; turn on.v.01	Sheriff Jim Hopper 	4	6
+168.0	1.5	112	shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01; light.n.01	turn on.v.01	Sheriff Jim Hopper 	4	6
+169.5	1.5	113	shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01; light.n.01	turn on.v.01	Sheriff Jim Hopper 	4	6
+171.0	1.5	114	shed.n.01;door.n.01; lightbulb.n.01; darkness.n.01; light.n.01	stand.v.01	Sheriff Jim Hopper 	4	7
+172.5	1.5	115	lightbulb.n.01; darkness.n.01; light.n.01	walk.v.01	Sheriff Jim Hopper 	4	7
+174.0	1.5	116	lightbulb.n.01; darkness.n.01; light.n.01	walk.v.01	Sheriff Jim Hopper 	4	7
+175.5	1.5	117	lightbulb.n.01; darkness.n.01; light.n.01	walk.v.01	Sheriff Jim Hopper 	4	7
+177.0	1.5	118	lightbulb.n.01; darkness.n.01; light.n.01	walk.v.01	Sheriff Jim Hopper 	4	7
+178.5	1.5	119	lightbulb.n.01; darkness.n.01; light.n.01; shelf.n.01	walk.v.01; look.v.01	Sheriff Jim Hopper 	4	7
+180.0	1.5	120	light.n.01; shelf.n.01; box.n.01; window.n.01; hand.n.01	 look.v.01; reach.v.01	Sheriff Jim Hopper 	4	6
+181.5	1.5	121	 light.n.01; shelf.n.01; box.n.01; window.n.01; hand.n.01	look.v.01; reach.v.01; pick up.v.01	Sheriff Jim Hopper 	4	6
+183.0	1.5	122	light.n.01; shelf.n.01;  window.n.01; 	 look.v.01; 	Sheriff Jim Hopper 	4	6
+184.5	1.5	123	light.n.01; shelf.n.01;  window.n.01; 	 look.v.01; 	Sheriff Jim Hopper 	4	6
+186.0	1.5	124	light.n.01; shelf.n.01;  window.n.01; 	 look.v.01; 	Sheriff Jim Hopper 	4	6
+187.5	1.5	125	light.n.01; shelf.n.01;  window.n.01; 	 look.v.01; walk.v.01	Sheriff Jim Hopper 	4	6
+189.0	1.5	126	light.n.01; shelf.n.01;  window.n.01; arm.n.01	 look.v.01; walk.v.01; reach.v.01	Sheriff Jim Hopper 	3	7
+190.5	1.5	127	light.n.01; shelf.n.01;  window.n.01; lightbulb.n.01	look back.v.01; flicker.v.03	Sheriff Jim Hopper 	3	7
+192.0	1.5	128	light.n.01; shelf.n.01;  window.n.01; lightbulb.n.01; darkness.n.01	look back.v.01; flicker.v.03	Sheriff Jim Hopper 	3	7
+193.5	1.5	129	darkness.n.01; 	walk.v.01	Sheriff Jim Hopper 	3	6
+195.0	1.5	130	darkness.n.01; blanket.n.01; furniture.n.01; 	walk.v.01; stare.v.02	Sheriff Jim Hopper 	3	6
+196.5	1.5	131	darkness.n.01; blanket.n.01; furniture.n.01; window.n.01; 	n/a	Sheriff Jim Hopper 	3	6
+198.0	1.5	132	darkness.n.01; blanket.n.01; furniture.n.01; window.n.01; man.n.01; caulk.n.01; hardware.n.01	walk.v.01; stare.v.02	Sheriff Jim Hopper 	3	6
+199.5	1.5	133	darkness.n.01; blanket.n.01; furniture.n.01; window.n.01; man.n.01; caulk.n.01; hardware.n.01	 stare.v.02; stand.v.01	Sheriff Jim Hopper 	3	5
+201.0	1.5	134	darkness.n.01; blanket.n.01; furniture.n.01; window.n.01; man.n.01; caulk.n.01; hardware.n.01	 stare.v.02; reach.v.01	Sheriff Jim Hopper 	3	5
+202.5	1.5	135	darkness.n.01; face.n.01; 	turn on.v.01	Sheriff Jim Hopper 	4	5
+204.0	1.5	136	light.n.02;  blanket.n.01; furniture.n.01; wood.n.01	shine.v.07	Sheriff Jim Hopper 	4	5
+205.5	1.5	137	light.n.02;  blanket.n.01; furniture.n.01; wood.n.01; darkness.n.01; face.n.01	shine.v.07	Sheriff Jim Hopper 	4	5
+207.0	1.5	138	shelf.n.01; window.n.01; man.n.01; flashlight.n.01; wire.n.02	shine.v.07; walk.v.01	Sheriff Jim Hopper 	4	6
+208.5	1.5	139	shelf.n.01; window.n.01; man.n.01; flashlight.n.01; wire.n.02	shine.v.07; walk.v.01	Sheriff Jim Hopper 	4	6
+210.0	1.5	140	shelf.n.01; window.n.01; man.n.01; flashlight.n.01; wire.n.02; light.n.02	shine.v.07; walk.v.01; crouch.v.01	Sheriff Jim Hopper 	4	6
+211.5	1.5	141	flashlight.n.01; light.n.02; badge.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+213.0	1.5	142	flashlight.n.01; light.n.02; badge.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+214.5	1.5	143	flashlight.n.01; light.n.02; badge.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+216.0	1.5	144	 light.n.02; shelf.n.01; back.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+217.5	1.5	145	 light.n.02;  badge.n.01; flashlight.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+219.0	1.5	146	 light.n.02;  badge.n.01; flashlight.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+220.5	1.5	147	 light.n.02;  badge.n.01; flashlight.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+222.0	1.5	148	 light.n.02;  badge.n.01; flashlight.n.01; back.n.01	crouch.v.01; look.v.01; shine.v.07	Sheriff Jim Hopper 	4	6
+223.5	1.5	149	back.n.01; shelf.n.01; wire.n.02; container.n.01; countertop.n.01; light.n.01; window.n.01	crouch.v.01; stand up.v.01; shine.v.07 	Sheriff Jim Hopper 	4	7
+225.0	1.5	150	back.n.01; shelf.n.01; wire.n.02; container.n.01; countertop.n.01; light.n.02; window.n.01; lightbulb.n.02	stand up.v.01; look back.v.01; shout.v.01; turn on.v.01	Sheriff Jim Hopper 	4	8
+226.5	1.5	151	shelf.n.01; wire.n.02; container.n.01; countertop.n.01; light.n.02; window.n.01; lightbulb.n.02; man.n.01; police.n.01	 look back.v.01; shout.v.01; question.v.03	Sheriff Jim Hopper 	6	8
+228.0	1.5	152	shelf.n.01; wire.n.02; container.n.01; countertop.n.01; light.n.02; window.n.01; lightbulb.n.02; man.n.01; police.n.01	shout.v.01; question.v.03	Sheriff Jim Hopper 	6	6
+229.5	1.5	153	shelf.n.01; wire.n.02; container.n.01; countertop.n.01; light.n.02; window.n.01; lightbulb.n.02; man.n.01; police.n.01	 question.v.03	Sheriff Jim Hopper 	6	6
+231.0	1.5	154	man.n.01; police.n.01; lightbulb.n.01; window.n.01; caulk.n.01; container.n.01	question.v.03;	Sheriff Jim Hopper 	6	6
+232.5	1.5	155	 lightbulb.n.01; window.n.01; wire.n.02; column.n.04	walk.v.01;	Sheriff Jim Hopper 	6	6
+234.0	1.5	156	man.n.01; police.n.01; lightbulb.n.01; window.n.01; wire.n.02; column.n.04	walk.v.01;	Sheriff Jim Hopper 	6	6
+235.5	1.5	157	man.n.01; police.n.01; lightbulb.n.01; window.n.01; light.n.02; shed.n.01; door.n.01; trees.n.01; grass.n.01; shelf.n.01; caulk.n.01	pace.v.01; question.v.03; follow.v.01; open.v.01	Sheriff Jim Hopper 	4	6
+237.0	1.5	158	man.n.01; police.n.01;shed.n.01; trees.n.01; grass.n.01; daylight.n.02	pace.v.01; question.v.03; follow.v.01; close.v.03	Sheriff Jim Hopper 	4	6
+238.5	1.5	159	man.n.01; police.n.01;shed.n.01; trees.n.01; grass.n.01; daylight.n.02	pace.v.01; follow.v.01; instruct.v.02	Sheriff Jim Hopper 	4	6
+240.0	1.5	160	man.n.01; police.n.01;shed.n.01; trees.n.01; grass.n.01; daylight.n.02	pace.v.01; follow.v.01; instruct.v.02; approach.v.01	Sheriff Jim Hopper 	5	6
+241.5	1.5	161	man.n.01; police.n.01;shed.n.01;  trees.n.01; grass.n.01; daylight.n.02; flashlight.n.01	pace.v.01; follow.v.01; instruct.v.02; approach.v.01; hand.v.01; carry.v.02	Sheriff Jim Hopper 	5	6
+243.0	1.5	162	man.n.01; police.n.01;shed.n.01; trees.n.01; grass.n.01; daylight.n.02; flashlight.n.01	pace.v.01; follow.v.01; question.v.03	Sheriff Jim Hopper 	5	6
+244.5	1.5	163	man.n.01; police.n.01;shed.n.01; door.n.01; trees.n.01; grass.n.01; daylight.n.02;  stair.n.01; railing.n.01; window.n.01	pace.v.01; follow.v.01; question.v.03	Sheriff Jim Hopper 	5	6
+246.0	1.5	164	man.n.01; police.n.01; door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01	pace.v.01; follow.v.01; question.v.03	Sheriff Jim Hopper 	5	6
+247.5	1.5	165	man.n.01; police.n.01; door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01	pace.v.01; follow.v.01; 	Sheriff Jim Hopper 	5	6
+249.0	1.5	166	man.n.01; police.n.01; door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01	walk.v.01	n/a	5	5
+250.5	1.5	167	man.n.01; police.n.01; door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01	walk.v.01; close.v.03	n/a	5	5
+252.0	1.5	168	 door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01; nighttime.n.01; house.n.01; light.n.02 	 close.v.03	n/a	5	5
+253.5	1.5	169	 door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01; nighttime.n.01; house.n.01; light.n.02; tree.n.01; branch.n.02	speak.v.02	n/a	5	5
+255.0	1.5	170	 door.n.01; daylight.n.02; stair.n.01; railing.n.01; window.n.01; nighttime.n.01; house.n.01; light.n.02; tree.n.01; branch.n.02; table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; palte.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; 	speak.v.02; feed.v.02	Mike Wheeler; Nancy Wheeler 	5	5
+256.5	1.5	171	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; 	speak.v.02; feed.v.02	Mike Wheeler; Nancy Wheeler 	5	5
+258.0	1.5	172	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; napkin.n.01	speak.v.02; turn to.v.01; wipe.v.01	Mike Wheeler; Nancy Wheeler 	5	5
+259.5	1.5	173	chair.n.01; glass.n.02; window.n.01; boy.n.01	speak.v.02	Mike Wheeler; 	4	6
+261.0	1.5	174	chair.n.01; glass.n.02; window.n.01; boy.n.01; woman.n.01; toddler.n.01	speak.v.02; face.v.03	Mike Wheeler; 	4	6
+262.5	1.5	175	chair.n.01; glass.n.02; window.n.01; boy.n.01; woman.n.01; toddler.n.01	shout.v.01; face.v.03; bang.v.01;	Mike Wheeler; 	4	6
+264.0	1.5	176	chair.n.01; glass.n.02; 	turn to.v.01	Nancy Wheeler	4	5
+265.5	1.5	177	chair.n.01; glass.n.02; window.n.01; boy.n.01; woman.n.01; toddler.n.01	sigh.v.01	Mike  Wheeler	4	5
+267.0	1.5	178	chair.n.01; woman.n.01; toddler.n.01; man.n.01; drink.n.01; glasses.n.01	drink.v.01; turn to.v.01	n/a	4	5
+268.5	1.5	179	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; drink.n.01	drink.v.01; ask.v.01	Nancy Wheeler; Mike Wheeler	4	5
+270.0	1.5	180	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; drink.n.01	drink.v.01; speak.v.01; eat.v.01	Nancy Wheeler; Mike Wheeler	4	5
+271.5	1.5	181	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; drink.n.01	drink.v.01; speak.v.01; eat.v.01	Nancy Wheeler; Mike Wheeler	4	5
+273.0	1.5	182	woman.n.01; chair.n.01; plaid.n.01	ask.v.01; deny.v.03	Nancy Wheeler	4	5
+274.5	1.5	183	woman.n.01; chair.n.01; toddler.n.01; drink.n.01; plate.n.04	ask.v.01; turn to.v.01	n/a	4	5
+276.0	1.5	184	woman.n.01; drink.n.01; plaid.n.01	ask.v.01;	n/a	4	5
+277.5	1.5	185	woman.n.01; drink.n.01; plaid.n.01; table.n.01; chair.n.01; dinner.n.01; plate.n.04; boy.n.01; utensils.n.01	ask.v.01; face.v.03	Nancy Wheeler; Mike Wheeler	4	5
+279.0	1.5	186	woman.n.01; drink.n.01; plaid.n.01; table.n.01; chair.n.01; dinner.n.01; plate.n.04; boy.n.01; utensils.n.01	speak.v.01; face.v.03	Nancy Wheeler; Mike Wheeler	4	5
+280.5	1.5	187	woman.n.01; drink.n.01; plaid.n.01; table.n.01; chair.n.01; dinner.n.01; plate.n.04; boy.n.01; utensils.n.01	speak.v.01; face.v.03	Nancy Wheeler; Mike Wheeler	4	5
+282.0	1.5	188	woman.n.01; plaid.n.01; chair.n.01	speak.v.01; yell.v.01	Nancy Wheeler	3	8
+283.5	1.5	189	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; drink.n.01	speak.v.01; yell.v.01	Nancy Wheeler; Mike Wheeler	3	8
+285.0	1.5	190	 table.n.01; family.n.01; stair.n.01; silverware.n.01; dinner.n.01; plate.n.04; glass.n.02; man.n.01; women.n.01; toddler.n.01; drink.n.01	question.v.03	Nancy Wheeler; Mike Wheeler	3	8
+286.5	1.5	191	 table.n.01; silverware.n.01; dinner.n.01; plate.n.04; women.n.01; 	speak.v.01	Nancy Wheeler; Mike Wheeler	3	8
+288.0	1.5	192	 table.n.01; silverware.n.01; dinner.n.01; plate.n.04; women.n.01; plaid.n.01	speak.v.01; yell.v.01; turn to.v.01	Nancy Wheeler; Mike Wheeler	3	8
+289.5	1.5	193	woman.n.01; chair.n.02; plaid.n.01; drink.n.01	instruct.v.02	Nancy Wheeler 	3	6
+291.0	1.5	194	woman.n.01; chair.n.01; boy.n.01	refuse.v.01; yell.v.01; turn to.v.01	Nancy Wheeler ; Mike Wheeler 	3	7
+292.5	1.5	195	woman.n.01; chair.n.01; boy.n.01; lamp.n.02; 	 yell.v.01; turn to.v.01; stare.v.02	Nancy Wheeler ; Mike Wheeler 	3	7
+294.0	1.5	196	woman.n.01; chair.n.01; boy.n.01; lamp.n.02; silverware.n.01; dinner.n.01; plate.n.04; table.n.01; toddler.n.01	 turn to.v.01; stare.v.02	Nancy Wheeler ; Mike Wheeler 	3	7
+295.5	1.5	197	woman.n.01; chair.n.01; boy.n.01; lamp.n.02; silverware.n.01; dinner.n.01; plate.n.04; table.n.01; toddler.n.01; man.n.01; glasses.n.01; plaid.n.01	 turn to.v.01; stare.v.02; ask.v.01	Nancy Wheeler ; Mike Wheeler 	3	7
+297.0	1.5	198	woman.n.01; plaid.n.01; chair.n.01; boy.n.01; table.n.01; glass.n.02; drink.n.01	ask.v.01; reply.v.01	Nancy Wheeler ; Mike Wheeler 	3	6
+298.5	1.5	199	woman.n.01; lamp.n.02; boy.n.01; table.n.01	yell.v.01; turn to.v.01	Nancy Wheeler; Mike Wheeler	2	8
+300.0	1.5	200	woman.n.01; lamp.n.02; boy.n.01; table.n.01; dinner.n.01; plate.n.03; man.n.01; glasses.n.01; chair.n.01 utensils.n.01; 	yell.v.01; sigh.v.01; grab.v.05	Nancy Wheeler; Mike Wheeler	2	8
+301.5	1.5	201	woman.n.01; lamp.n.02; boy.n.01; table.n.01; dinner.n.01; plate.n.03; man.n.01; chair.n.01; utensils.n.01; stair.n.01; family.n.01; toddler.n.01	stand up.v.01; leave.v.01	Nancy Wheeler; Mike Wheeler	2	7
+303.0	1.5	202	woman.n.01; lamp.n.02; boy.n.01; table.n.01; dinner.n.01; plate.n.03; man.n.01; chair.n.01; utensils.n.01; stair.n.01; family.n.01; toddler.n.01	 leave.v.01; instruct.v.02; walk.v.01	Nancy Wheeler; Mike Wheeler	2	7
+304.5	1.5	203	woman.n.01; lamp.n.02; boy.n.01; table.n.01; dinner.n.01; plate.n.03; man.n.01; chair.n.01; utensils.n.01; stair.n.01; family.n.01; toddler.n.01; cabinet.n.01	 leave.v.01; instruct.v.02; walk.v.01; yell.v.01	Mike Wheeler	2	7
+306.0	1.5	204	woman.n.01; boy.n.01; table.n.01; dinner.n.01; plate.n.03; man.n.01; chair.n.01; utensils.n.01;  toddler.n.01; cabinet.n.01	instruct.v.02;  yell.v.01; turn to.v.01	n/a	2	7
+307.5	1.5	205	chair.n.01; woman.n.01; toddler.n.01; man.n.01; arm.n.01; drink.n.01	speak.v.01; turn to.v.01	n/a	4	6
+309.0	1.5	206	chair.n.01; woman.n.01; man.n.01; drink.n.01; glasses.n.01; lamp.n.02	speak.v.01; face.v.03	n/a	4	6
+310.5	1.5	207	chair.n.01;  man.n.01; glasses.n.01; lamp.n.02	speak.v.01; turn to.v.01; eat.v.02	n/a	4	6
+312.0	1.5	208	chair.n.01;  man.n.01; glasses.n.01; lamp.n.02; boy.n.01	speak.v.01; turn to.v.01; eat.v.02	n/a	4	6
+313.5	1.5	209	boy.n.01; toddler.n.01; arm.n.01; chair.n.01; drink.n.01	yell.v.01; drink.n.01	Mike Wheeler	4	8
+315.0	1.5	210	toddler.n.01; drink.n.01; chair.n.01; plate.n.04; arm.n.01;  food.n.01	drink.v.01; yell.v.01	n/a	4	8
+316.5	1.5	211	toddler.n.01; drink.n.01; chair.n.01; plate.n.04; arm.n.01;  food.n.01; boy.n.01	drink.v.01; yell.v.01	Mike Wheeler	4	8
+318.0	1.5	212	toddler.n.01; drink.n.01; chair.n.01; plate.n.04; arm.n.01;  food.n.01; boy.n.01; table.n.01; woman.n.01; man.n.01; 	drink.v.01; yell.v.01; face.v.03; speak.v.01	Mike Wheeler	4	8
+319.5	1.5	213	toddler.n.01; drink.n.01; chair.n.01; plate.n.04;  table.n.01; woman.n.01; man.n.01; glasses.n.01; lamp.n.02	eat.v.01; speak.v.01	n/a	4	6
+321.0	1.5	214	man.n.01; glasses.n.01; lamp.n.01; food.n.02; tie.n.01; boy.n.01	eat.v.01; speak.v.01	Mike Wheeler 	4	5
+322.5	1.5	215	dinner.n.01; plate.n.04; chair.n.01; table.n.01; boy.n.01; utensils.n.01; drink.n.01	hit.v.02	Mike Wheeler	3	7
+324.0	1.5	216	dinner.n.01; plate.n.04; chair.n.01; table.n.01; boy.n.01; utensils.n.01; drink.n.01; toddler.n.01;	stand up.v.01; stare.v.02	Mike Wheeler	3	7
+325.5	1.5	217	dinner.n.01; plate.n.04; chair.n.01; table.n.01; boy.n.01; utensils.n.01; drink.n.01; toddler.n.01; man.n.01; woman.n.01; cabinet.n.01; lamp.n.02	 stare.v.02; breathe.v.01; walk.v.01	Mike Wheeler	3	6
+327.0	1.5	218	dinner.n.01; plate.n.04; chair.n.01; table.n.01;  utensils.n.01; drink.n.01; toddler.n.01; man.n.01; woman.n.01; cabinet.n.01; lamp.n.02	call out.v.01; speak.v.01	n/a	4	6
+328.5	1.5	219	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01	turn to.v.01; eat.v.01	n/a	5	5
+330.0	1.5	220	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01	 eat.v.01; face.v.03; speak.v.01	n/a	5	5
+331.5	1.5	221	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01	 eat.v.01; face.v.03; speak.v.01	n/a	5	5
+333.0	1.5	222	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01	stand up.v.01; turn to.v.01; eat.v.01; speak.v.01	n/a	5	5
+334.5	1.5	223	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; stair.n.01; utensil.n.01 	 eat.v.01; face.v.03; question.v.03; carry.v.02	n/a	5	5
+336.0	1.5	224	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; stair.n.01; utensil.n.01 	face.v.03; carry.v.02	n/a	5	5
+337.5	1.5	225	woman.n.01; man.n.01; toddler.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; utensil.n.01; lamp.n.02; cabinet.n.01	face.v.03; carry.v.02; walk.v.01; speak.v.01	n/a	4	5
+339.0	1.5	226	 man.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; utensil.n.01; lamp.n.02; cabinet.n.01	face.v.03; question.v.03	n/a	4	5
+340.5	1.5	227	 man.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; utensil.n.01; lamp.n.02; cabinet.n.01	face.v.03; eat.v.01	n/a	4	5
+342.0	1.5	228	 man.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; utensil.n.01; lamp.n.02; cabinet.n.01	face.v.03; eat.v.01	n/a	4	5
+343.5	1.5	229	 man.n.01; glasses.n.01; tie.n.01; table.n.01; drink.n.01; dinner.n.01; plate.n.04; table.n.01; utensil.n.01; lamp.n.02; cabinet.n.01; nighttime.n.01; trees.n.01; flashlight.n.01; people.n.01	face.v.03; eat.v.01; call out.v.01	n/a	4	7
+345.0	1.5	230	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01;	call out.v.01; walk.v.01; search.v.02	n/a	4	7
+346.5	1.5	231	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01;	call out.v.01; walk.v.01; search.v.02	n/a	4	7
+348.0	1.5	232	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01;	call out.v.01; walk.v.01; search.v.02	n/a	4	7
+349.5	1.5	233	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; police.n.01	call out.v.01; walk.v.01; search.v.02; speak.v.01	Sheriff Jim Hopper 	4	7
+351.0	1.5	234	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01;	walk.v.01; search.v.02; speak.v.01	Sheriff Jim Hopper 	4	7
+352.5	1.5	235	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; turn to.v.01	Sheriff Jim Hopper 	4	7
+354.0	1.5	236	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; ask.v.01; speak.v.01	Sheriff Jim Hopper 	5	6
+355.5	1.5	237	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01;	walk.v.01; search.v.02; speak.v.01	Sheriff Jim Hopper 	5	6
+357.0	1.5	238	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01	Sheriff Jim Hopper 	5	6
+358.5	1.5	239	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01	Sheriff Jim Hopper 	5	6
+360.0	1.5	240	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; turn to.v.01; stretch out.v.03	Sheriff Jim Hopper 	5	6
+361.5	1.5	241	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; turn to.v.01; stretch out.v.03 shake.v.09	Sheriff Jim Hopper 	5	6
+363.0	1.5	242	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01;	Sheriff Jim Hopper 	5	6
+364.5	1.5	243	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; shine.v.07	Sheriff Jim Hopper 	5	6
+366.0	1.5	244	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; shine.v.07	Sheriff Jim Hopper 	5	6
+367.5	1.5	245	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; shine.v.07	Sheriff Jim Hopper 	5	6
+369.0	1.5	246	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; shine.v.07	Sheriff Jim Hopper 	5	6
+370.5	1.5	247	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; shine.v.07	Sheriff Jim Hopper 	5	6
+372.0	1.5	248	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; speak.v.01; shine.v.07; laugh.v.01	Sheriff Jim Hopper 	6	6
+373.5	1.5	249	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07	Sheriff Jim Hopper 	6	6
+375.0	1.5	250	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07	Sheriff Jim Hopper 	6	6
+376.5	1.5	251	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07	Sheriff Jim Hopper 	6	6
+378.0	1.5	252	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07	Sheriff Jim Hopper 	6	6
+379.5	1.5	253	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07	Sheriff Jim Hopper 	5	5
+381.0	1.5	254	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07	Sheriff Jim Hopper 	5	5
+382.5	1.5	255	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07; dodge.v.01	Sheriff Jim Hopper 	5	5
+384.0	1.5	256	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07; 	Sheriff Jim Hopper 	5	5
+385.5	1.5	257	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07; 	Sheriff Jim Hopper 	5	5
+387.0	1.5	258	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; shine.v.07; 	Sheriff Jim Hopper 	5	5
+388.5	1.5	259	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; 	Sheriff Jim Hopper 	5	5
+390.0	1.5	260	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; 	Sheriff Jim Hopper 	5	5
+391.5	1.5	261	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	walk.v.01; search.v.02; converse.v.01; 	Sheriff Jim Hopper 	5	5
+393.0	1.5	262	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	question.v.03; walk.v.01; search.v.02; converse.v.01; 	Sheriff Jim Hopper 	5	5
+394.5	1.5	263	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	converse.v.01; walk.v.01; search.v.02;	Sheriff Jim Hopper 	5	5
+396.0	1.5	264	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	converse.v.01; walk.v.01; search.v.02;	Sheriff Jim Hopper 	5	5
+397.5	1.5	265	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	converse.v.01; walk.v.01; search.v.02;	Sheriff Jim Hopper 	5	5
+399.0	1.5	266	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	converse.v.01; walk.v.01; search.v.02; turn to.v.01	Sheriff Jim Hopper 	5	5
+400.5	1.5	267	nighttime.n.01; people.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	converse.v.01; walk.v.01; search.v.02;  dodge.v.01	Sheriff Jim Hopper 	5	5
+402.0	1.5	268	nighttime.n.01; man.n.01; flashlight.n.01; tree.n.01; fog.n.01; 	converse.v.01; walk.v.01; search.v.02;  	Sheriff Jim Hopper 	5	5
+403.5	1.5	269	nighttime.n.01; man.n.01; flashlight.n.01; tree.n.01; fog.n.01; back.n.01	walk.v.01;	Sheriff Jim Hopper 	5	5
+405.0	1.5	270	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01; back.n.01; people.n.01	walk.v.01;	Sheriff Jim Hopper 	5	5
+406.5	1.5	271	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  people.n.01	walk.v.01; speak.v.01	n/a	4	6
+408.0	1.5	272	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  people.n.01	walk.v.01; question.v.03; converse.v.01	n/a	4	6
+409.5	1.5	273	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  people.n.01	walk.v.01; turn to.v.01; stare.v.02	n/a	4	5
+411.0	1.5	274	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  people.n.01	walk.v.01; stare.v.02	n/a	4	5
+412.5	1.5	275	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  man.n.01; back.n.01	walk.v.01	Sheriff Jim Hopper 	4	5
+414.0	1.5	276	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  man.n.01; back.n.01	walk.v.01	Sheriff Jim Hopper 	4	5
+415.5	1.5	277	nighttime.n.01; flashlight.n.01; tree.n.01; fog.n.01;  man.n.01; back.n.01	walk.v.01	Sheriff Jim Hopper 	4	5
+417.0	1.5	278	gameboard.n.01; piece.n.13; monster.n.01; wizard.n.02 	n/a	n/a	3	8
+418.5	1.5	279	gameboard.n.01; piece.n.13; monster.n.01; wizard.n.02 	n/a	n/a	3	7
+420.0	1.5	280	gameboard.n.01; piece.n.13; monster.n.01; wizard.n.02 	n/a	n/a	3	6
+421.5	1.5	281	gameboard.n.01; piece.n.13; monster.n.01; wizard.n.02; stair.n.01; table.n.01; chair.n.01; boy.n.01; telephone.n.01; basement.n.01; lamp.n.01 	hold.v.03; speak.v.01; sit.v.01	Mike Wheeler	5	5
+423.0	1.5	282	gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; boy.n.01; walkie-talkie.n.01; basement.n.01; lamp.n.01; bedroom.n.01; bed.n.01; window.n.01; curtain.n.01	hold.v.03; speak.v.01; sit.v.01	Mike Wheeler; Lucas Sinclair	5	5
+424.5	1.5	283	bedroom.n.01; bed.n.01; boy.n.01; lamp.n.02; curtain.n.01; window.n.01; walkie-talkie.n.01	hold.v.03; speak.v.01;  sit.v.01; pull.v.01	Lucas Sinclair	5	5
+426.0	1.5	284	bedroom.n.01; bed.n.01; boy.n.01; lamp.n.02; curtain.n.01; window.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; basement.n.01; chair.n.01;	hold.v.03; speak.v.01;  sit.v.01; 	Lucas Sinclair; Mike Wheeler	5	5
+427.5	1.5	285	walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; basement.n.01; chair.n.01; boy.n.01	hold.v.03; speak.v.01;  sit.v.01; 	Mike Wheeler	5	6
+429.0	1.5	286	walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; basement.n.01; chair.n.01; boy.n.01; bedroom.n.01; bed.n.01; window.n.01; curtain.n.01	hold.v.03; speak.v.01;  sit.v.01; 	Mike Wheeler; Lucas Sinclair	5	6
+430.5	1.5	287	bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; lamp.n.02; boy.n.01; walkie-talkie.n.01	hold.v.03; sit.v.01; speak.v.01	Lucas Sinclair	5	6
+432.0	1.5	288	bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; lamp.n.02; boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01	hold.v.03; sit.v.01; speak.v.01	Lucas Sinclair; Mike Wheeler	5	6
+433.5	1.5	289	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01; lamp.n.01	hold.v.03; sit.v.01; speak.v.01	Mike Wheeler	5	6
+435.0	1.5	290	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01; lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01	hold.v.03; sit.v.01; speak.v.01	Mike Wheeler; Lucas Sinclair	5	6
+436.5	1.5	291	lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; boy.n.01; walkie-talkie.n.01	hold.v.03; sit.v.01; speak.v.01; lean back.v.01	Lucas Sinclair	5	5
+438.0	1.5	292	lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; boy.n.01; walkie-talkie.n.01	hold.v.03; sit.v.01; speak.v.01; lean back.v.01; sigh.v.01; lie down.v.01;	Lucas Sinclair	5	5
+439.5	1.5	293	lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; boy.n.01; walkie-talkie.n.01	hold.v.03; sit.v.01; speak.v.01; lie down.v.01;	Lucas Sinclair	5	5
+441.0	1.5	294	lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01	hold.v.03; sit.v.01; speak.v.01; lie down.v.01; sit.v.01	Lucas Sinclair; Mike Wheeler	5	5
+442.5	1.5	295	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01	hold.v.03; sit.v.01; tap.v.07	Mike Wheeler	5	6
+444.0	1.5	296	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01	hold.v.03; sit.v.01; speak.v.01	Mike Wheeler	5	6
+445.5	1.5	297	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01	hold.v.03; sit.v.01; speak.v.01	Mike Wheeler	5	6
+447.0	1.5	298	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01	hold.v.03; sit.v.01; speak.v.01	Mike Wheeler	5	6
+448.5	1.5	299	boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01; basement.n.01; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; lamp.n.02; 	hold.v.03; sit.v.01; speak.v.01; lie down.v.01	Mike Wheeler; Lucas Sinclair	5	6
+450.0	1.5	300	 bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; lamp.n.02;  boy.n.01; walkie-talkie.n.01	hold.v.03; sit.v.01; speak.v.01; lie down.v.01	Lucas Sinclair	5	6
+451.5	1.5	301	 basement.n.01; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; lamp.n.02;  boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; stair.n.01; table.n.01; chair.n.01	hold.v.03; sit.v.01; speak.v.01; lie down.v.01	Lucas Sinclair; Mike Wheeler	5	6
+453.0	1.5	302	 boy.n.01; walkie-talkie.n.01; gameboard.n.01; piece.n.13; table.n.01; chair.n.01; basement.n.01	hold.v.03; tap.v.07; speak.v.01; sit.v.01	Mike Wheeler	5	6
+454.5	1.5	303	 boy.n.01; walkie-talkie.n.01; table.n.01; chair.n.01; basement.n.01; stair.n.01	hold.v.03; tap.v.07; speak.v.01; sit.v.01	Mike Wheeler	5	6
+456.0	1.5	304	 boy.n.01; walkie-talkie.n.01;  basement.n.01; stair.n.01; lamp.n.02	hold.v.03; tap.v.07; speak.v.01; sit.v.01	Mike Wheeler	5	6
+457.5	1.5	305	 boy.n.01; walkie-talkie.n.01;  basement.n.01; stair.n.01; lamp.n.02	hold.v.03; tap.v.07; speak.v.01; sit.v.01	Mike Wheeler	5	6
+459.0	1.5	306	 boy.n.01; walkie-talkie.n.01;  basement.n.01; stair.n.01; lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01;	hold.v.03; tap.v.07; speak.v.01; sit.v.01; lie down.v.01	Mike Wheeler; Lucas Sinclair	5	6
+460.5	1.5	307	 boy.n.01; walkie-talkie.n.01; lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01;	hold.v.03; lie down.v.01	Lucas Sinclair	5	6
+462.0	1.5	308	 boy.n.01; walkie-talkie.n.01; lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01;	hold.v.03; lie down.v.01; speak.v.01	Lucas Sinclair	5	6
+463.5	1.5	309	 boy.n.01; walkie-talkie.n.01; lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01;	hold.v.03; lie down.v.01; speak.v.01	Lucas Sinclair	5	6
+465.0	1.5	310	 boy.n.01; walkie-talkie.n.01; lamp.n.02; bedroom.n.01; bed.n.01; curtain.n.01; window.n.01; bookbag.n.01; basement.n.01; stair.n.01; 	hold.v.03; lie down.v.01; sit.v.01; push.v.01	Lucas Sinclair; Mike Wheeler	5	6
+466.5	1.5	311	bookbag.n.01; hand.n.01; flashlight.n.01; walkie-talkie.n.01;	place.v.01; 	n/a	5	7
+468.0	1.5	312	bookbag.n.01; hand.n.01;	place.v.01; zip.v.01; grab.v.02	n/a	5	7
+469.5	1.5	313	bed.n.01; pillow.n.01; bookbag.n.01;	grab.v.01	n/a	5	7

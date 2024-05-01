@@ -1,0 +1,30 @@
+{
+    "AcquisitionTime": "13:50:17.627500",
+    "EchoNumber": 3,
+    "EchoTime": 0.04428,
+    "ImageComments": "Unaliased_MB3_PE4_LB",
+    "ImageType": [
+        "ORIGINAL",
+        "PRIMARY",
+        "M",
+        "MB",
+        "TE3",
+        "ND",
+        "MOSAIC"
+    ],
+    "ProcedureStepDescription": "Laird_Laird_DIVA",
+    "SAR": 0.0862478,
+    "SeriesNumber": 5,
+    "ShimSetting": [
+        -214,
+        -373,
+        861,
+        508,
+        -44,
+        334,
+        -119,
+        11
+    ],
+    "TxRefAmp": 245.333,
+    "WipMemBlock": "82633fe1-26b7-4e52-80c1-3cd6da18b6d0||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+}

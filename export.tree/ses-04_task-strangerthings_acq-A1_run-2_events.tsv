@@ -1,0 +1,297 @@
+onset	duration	sample	nouns	verbs	characters	valence	arousal
+3.0	1.5	2	introduction.n.01; signature tune.n.01; creation.n.01	create.v.01; credit.v.01	n/a	3	2
+4.5	1.5	3	introduction.n.01; signature tune.n.01; creation.n.0; body.n.01	create.v.01; credit.v.01	n/a	3	3
+6.0	1.5	4	introduction.n.01; signature tune.n.01; creation.n.0; body.n.01	create.v.01; credit.v.01	n/a	3	3
+7.5	1.5	5	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01;	n/a	3	3
+9.0	1.5	6	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01	n/a	3	3
+10.5	1.5	7	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01	n/a	3	3
+12.0	1.5	8	introduction.n.01; signature tune.n.01; creation.n.0; suspense.n.01	create.v.01; credit.v.01	n/a	3	3
+13.5	1.5	9	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01	create.v.01; credit.v.01	n/a	3	3
+15.0	1.5	10	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01	create.v.01; credit.v.01	n/a	3	3
+16.5	1.5	11	introduction.n.01; suspense.n.01; forest.n.01; lake.n.01; chirp.n.01	write.v.01	n/a	3	3
+18.0	1.5	12	forest.n.01; lake.n.01; chirp.n.01; dock.n.03	write.v.01	n/a	3	3
+19.5	1.5	13	forest.n.01; lake.n.01; chirp.n.01; dock.n.03; porch.n.01; chair.n.01	write.v.01	n/a	3	3
+21.0	1.5	14	forest.n.01; lake.n.01; chirp.n.01; dock.n.03; porch.n.01; chair.n.01	direct.v.03	n/a	3	3
+22.5	1.5	15	chirp.n.01; porch.n.01; chair.n.01	direct.v.03	n/a	3	3
+24.0	1.5	16	chirp.n.01; porch.n.01; chair.n.01; couch.n.01; bat.n.05	sleep.v.01; protect.v.01	joyce byers	3	3
+25.5	1.5	17	chirp.n.01; porch.n.01; chair.n.01; couch.n.01; bat.n.05	sleep.v.01; protect.v.01	joyce byers	3	3
+27.0	1.5	18	couch.n.01; bat.n.05; mom.n.01; voice.n.01	sleep.v.01; protect.v.01; awaken.v.01	joyce byers	3	3
+28.5	1.5	19	couch.n.01; bat.n.05; mom.n.01; voice.n.01	sleep.v.01; protect.v.01; awaken.v.01	joyce byers	3	3
+30.0	1.5	20	couch.n.01; bat.n.05; mom.n.01; voice.n.01	awaken.v.01; stand up.v.01; shock.v.03	joyce byers	3	3
+31.5	1.5	21	couch.n.01; bat.n.05; mom.n.01; 	shock.v.03; disappoint.v.01; hopeful.v.01	joyce byers	3	3
+33.0	1.5	22	couch.n.01; bat.n.05; mom.n.01; 	shock.v.03; disappoint.v.01; sit down.v.01; sadden.v.01; slouch.v.01	joyce byers	3	3
+34.5	1.5	23	couch.n.01; bat.n.05; mom.n.01; scare.n.01	disappoint.v.01; sit down.v.01; sadden.v.01; slouch.v.01; frighten.v.01; 	joyce byers; will byers 	3	4
+36.0	1.5	24	couch.n.01; bat.n.05; mom.n.01; scare.n.01; dreaming.n.01	awaken.v.01; frighten.v.01; 	joyce byers; jonathan byers 	3	3
+37.5	1.5	25	couch.n.01; bat.n.05; mom.n.01; scare.n.01; dreaming.n.01	awaken.v.01; frighten.v.01; confuse.v.04; 	joyce byers; jonathan byers 	3	3
+39.0	1.5	26	couch.n.01; bat.n.05; mom.n.01; time.n.02	awaken.v.01; confuse.v.04	joyce byers; jonathan byers 	3	3
+40.5	1.5	27	couch.n.01; bat.n.05; mom.n.01; time.n.02	awaken.v.01; confuse.v.04	joyce byers; jonathan byers 	3	3
+42.0	1.5	28	couch.n.01; bat.n.05; mom.n.01; time.n.02	awaken.v.01; confuse.v.04	joyce byers; jonathan byers 	3	3
+43.5	1.5	29	couch.n.01; mom.n.01; time.n.02	awaken.v.01; confuse.v.04; question.v.01	joyce byers; jonathan byers 	3	3
+45.0	1.5	30	couch.n.01; mom.n.01; time.n.02	awaken.v.01; confuse.v.04; question.v.01	joyce byers; jonathan byers 	3	3
+46.5	1.5	31	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 	n/a	3	2
+48.0	1.5	32	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 	n/a	3	2
+49.5	1.5	33	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01	blow.v.02; 	n/a	3	2
+51.0	1.5	34	house.n.01; outdoors.n.01; wind.n.01; leaf.n.01; knocking.n.01	blow.v.02; 	n/a	3	2
+52.5	1.5	35	house.n.01; room.n.01; poster.n.01	open up.v.01; call.v.01; greet.v.01	karen wheeler; mike wheeler	3	2
+54.0	1.5	36	house.n.01; room.n.01; poster.n.01	open up.v.01; call.v.01; greet.v.01	karen wheeler; mike wheeler	3	2
+55.5	1.5	37	house.n.01; room.n.01; mom.n.01	open up.v.01; greet.v.01; feel.v.02; worry.v.01	karen wheeler; mike wheeler	3	2
+57.0	1.5	38	house.n.01; room.n.01; mom.n.01	 greet.v.01; feel.v.02; worry.v.01	karen wheeler; mike wheeler	3	2
+58.5	1.5	39	house.n.01; room.n.01; mom.n.01; bed.n.01; 	 greet.v.01; feel.v.02; worry.v.01	karen wheeler; mike wheeler	3	2
+60.0	1.5	40	room.n.01; mom.n.01; bed.n.01; 	talk.v.01, lay.v.02; 	karen wheeler; mike wheeler	3	2
+61.5	1.5	41	room.n.01; mom.n.01; bed.n.01; school.n.01	talk.v.01, lay.v.02; worry.v.01; 	karen wheeler; mike wheeler	3	2
+63.0	1.5	42	room.n.01; mom.n.01; bed.n.01; 	talk.v.01, lay.v.02; understand.v.01; 	karen wheeler; mike wheeler	3	2
+64.5	1.5	43	room.n.01; mom.n.01; bed.n.01; 	talk.v.01, lay.v.02; understand.v.01; drop off.v.03	karen wheeler; mike wheeler	3	2
+66.0	1.5	44	room.n.01; mom.n.01; bed.n.01; parents.n.01	talk.v.01, lay.v.02;  check.v.01; 	karen wheeler; mike wheeler	3	2
+67.5	1.5	45	room.n.01; mom.n.01; bed.n.01; book.n.01	talk.v.01, lay.v.02; grab.v.01; accompany.v.01	karen wheeler; mike wheeler	3	2
+69.0	1.5	46	room.n.01; mom.n.01; bed.n.01; book.n.01	talk.v.01, lay.v.02; grab.v.01; accompany.v.01	karen wheeler; mike wheeler	3	2
+70.5	1.5	47	room.n.01; mom.n.01; bed.n.01; store.n.01;	talk.v.01, lay.v.02; accompany.v.01; nurture.v.01; cheer up.v.01	karen wheeler; mike wheeler	3	2
+72.0	1.5	48	room.n.01; mom.n.01; bed.n.01; store.n.01;	talk.v.01, lay.v.02; accompany.v.01; nurture.v.01; cheer up.v.01	karen wheeler; mike wheeler	3	2
+73.5	1.5	49	room.n.01; mom.n.01; bed.n.01; store.n.01;	talk.v.01, lay.v.02; accompany.v.01; nurture.v.01; cheer up.v.01	karen wheeler; mike wheeler	3	2
+75.0	1.5	50	room.n.01; mom.n.01; bed.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; 	karen wheeler; mike wheeler	3	2
+76.5	1.5	51	room.n.01; mom.n.01; bed.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; 	karen wheeler; mike wheeler	3	2
+78.0	1.5	52	room.n.01; mom.n.01; bed.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01	karen wheeler; mike wheeler	3	2
+79.5	1.5	53	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; worry.v.01	karen wheeler; mike wheeler	3	2
+81.0	1.5	54	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; worry.v.01	karen wheeler; mike wheeler	3	2
+82.5	1.5	55	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; worry.v.01; think.v.01	karen wheeler; mike wheeler	3	2
+84.0	1.5	56	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; worry.v.01	karen wheeler; mike wheeler	3	2
+85.5	1.5	57	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; accommodate.v.01	karen wheeler; mike wheeler	3	2
+87.0	1.5	58	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; accommodate.v.01; need.v.01	karen wheeler; mike wheeler	3	2
+88.5	1.5	59	room.n.01; mom.n.01; bed.n.01; concern.n.01; dad.n.01; work.n.01; call.n.01	talk.v.01, lay.v.02; accompany.v.01; stay.v.01; accommodate.v.01; need.v.01	karen wheeler; mike wheeler	3	2
+90.0	1.5	60	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; stay.v.01; accommodate.v.01; kiss.v.01; leave.v.01	karen wheeler; mike wheeler	3	2
+91.5	1.5	61	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; stay.v.01; accommodate.v.01; kiss.v.01; leave.v.01	karen wheeler; mike wheeler	3	2
+93.0	1.5	62	room.n.01; mom.n.01; bed.n.01; concern.n.01	talk.v.01, lay.v.02; stay.v.01; accommodate.v.01; kiss.v.01; leave.v.01	karen wheeler; mike wheeler	3	2
+94.5	1.5	63	room.n.01; mom.n.01; bed.n.01; concern.n.01; bye.n.01	talk.v.01, lay.v.02; stay.v.01; accommodate.v.01; kiss.v.01; leave.v.01	karen wheeler; mike wheeler	3	2
+96.0	1.5	64	room.n.01; mom.n.01; bed.n.01; concern.n.01; bye.n.01	talk.v.01, lay.v.02; stay.v.01; accommodate.v.01; kiss.v.01; leave.v.01	karen wheeler; mike wheeler	3	2
+97.5	1.5	65	room.n.01; mom.n.01; bed.n.01; bye.n.01; lie.n.01	talk.v.01, lay.v.02;  leave.v.01; close.v.01; mislead.v.01; get up.v.01	karen wheeler; mike wheeler	3	3
+99.0	1.5	66	room.n.01;  lie.n.01; radio.n.01	talk.v.01, lay.v.02;  leave.v.01; close.v.01; mislead.v.01; get up.v.01	 mike wheeler	3	3
+100.5	1.5	67	room.n.01;  lie.n.01; radio.n.01; antenna.n.02;	talk.v.01; close.v.01; mislead.v.01; get up.v.01; communicate.v.01	mike wheeler	3	3
+102.0	1.5	68	room.n.01;  lie.n.01; radio.n.01; antenna.n.02;	talk.v.01; close.v.01; mislead.v.01; get up.v.01; communicate.v.01	mike wheeler	3	3
+103.5	1.5	69	room.n.01; radio.n.01; antenna.n.02;	talk.v.01; mislead.v.01; get up.v.01; communicate.v.01	mike wheeler, lucas	3	3
+105.0	1.5	70	room.n.01; radio.n.01; antenna.n.02;	talk.v.01; mislead.v.01; get up.v.01; communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+106.5	1.5	71	room.n.01; radio.n.01; antenna.n.02; emergency.n.01; 	talk.v.01; mislead.v.01; communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+108.0	1.5	72	room.n.01; radio.n.01; antenna.n.02; emergency.n.01; 	talk.v.01; mislead.v.01; communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+109.5	1.5	73	room.n.01; radio.n.01; antenna.n.02; emergency.n.01; static.n.01	talk.v.01; mislead.v.01; communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+111.0	1.5	74	room.n.01; radio.n.01; antenna.n.02; emergency.n.01; static.n.01	talk.v.01;communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+112.5	1.5	75	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01;communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+114.0	1.5	76	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01; communicate.v.01; urge.v.01; call.v.03	mike wheeler, lucas	3	3
+115.5	1.5	77	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01; communicate.v.01; urge.v.01; call.v.03	mike wheeler, lucas	3	3
+117.0	1.5	78	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01; communicate.v.01; urge.v.01; call.v.03	mike wheeler, lucas	3	3
+118.5	1.5	79	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01; communicate.v.01; urge.v.01; call.v.03; annoy.v.01	mike wheeler, lucas	3	3
+120.0	1.5	80	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01; communicate.v.01; urge.v.01; call.v.03; annoy.v.01	mike wheeler, lucas	3	3
+121.5	1.5	81	room.n.01; radio.n.01; antenna.n.02; answer.n.01	talk.v.01; communicate.v.01; urge.v.01; dismiss.v.01	mike wheeler, lucas	3	3
+123.0	1.5	82	room.n.01; radio.n.01; antenna.n.02; answer.n.01; mood.n.01	talk.v.01; communicate.v.01; urge.v.01; dismiss.v.01	mike wheeler, lucas	3	3
+124.5	1.5	83	room.n.01; radio.n.01; antenna.n.02; answer.n.01; mood.n.01	talk.v.01; communicate.v.01; urge.v.01; dismiss.v.01	mike wheeler, lucas	3	3
+126.0	1.5	84	room.n.01; radio.n.01; antenna.n.02; answer.n.01; mood.n.01	talk.v.01; communicate.v.01; urge.v.01; dismiss.v.01	mike wheeler, lucas	3	3
+127.5	1.5	85	room.n.01; radio.n.01; antenna.n.02; answer.n.01; mood.n.01	talk.v.01; communicate.v.01; urge.v.01; dismiss.v.01	mike wheeler, lucas	3	3
+129.0	1.5	86	room.n.01; radio.n.01; antenna.n.02; answer.n.01; mood.n.01	talk.v.01; communicate.v.01; urge.v.01; persuade.v.01	mike wheeler, lucas	3	3
+130.5	1.5	87	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01	talk.v.01; communicate.v.01; urge.v.01; persuade.v.01	mike wheeler, lucas	3	3
+132.0	1.5	88	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01	talk.v.01; communicate.v.01; urge.v.01; persuade.v.01	mike wheeler, lucas	3	3
+133.5	1.5	89	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01; funeral.n.01	talk.v.01; communicate.v.01; urge.v.01	mike wheeler, lucas	3	3
+135.0	1.5	90	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01; funeral.n.01	talk.v.01; communicate.v.01; urge.v.01; negate.v.04	mike wheeler, lucas	3	3
+136.5	1.5	91	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01; funeral.n.01	talk.v.01; communicate.v.01; urge.v.01; negate.v.04; confuse.v.01	mike wheeler, lucas	3	3
+138.0	1.5	92	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01	talk.v.01; communicate.v.01; urge.v.01; confuse.v.01; come.v.01	mike wheeler, lucas	3	3
+139.5	1.5	93	room.n.01; radio.n.01; antenna.n.02; interest.n.01; suspense.n.01	talk.v.01; communicate.v.01; urge.v.01; confuse.v.01; come.v.01	mike wheeler, lucas	3	3
+141.0	1.5	94	room.n.01; radio.n.01; antenna.n.02; suspense.n.01; coroner.n.01; office.n.01	talk.v.01; communicate.v.01; confuse.v.01	mike wheeler, lucas	3	3
+142.5	1.5	95	coroner.n.01; office.n.01	inhale.v.06	n/a	3	2
+144.0	1.5	96	coroner.n.01; office.n.01; clerk.n.01; 	inhale.v.06; worry.v.01; wait.v.01	Jim hopper	3	2
+145.5	1.5	97	coroner.n.01; office.n.01; clerk.n.01; time.n.02	inhale.v.06; worry.v.01; rush.v.03; wait.v.01	Jim hopper	3	2
+147.0	1.5	98	coroner.n.01; office.n.01; clerk.n.01	rush.v.03; wait.v.01; justify.v.01; explain.v.01	Jim hopper	3	2
+148.5	1.5	99	coroner.n.01; office.n.01; clerk.n.01; chaos.n.01	rush.v.03; wait.v.01; justify.v.01; explain.v.01	Jim hopper	3	2
+150.0	1.5	100	coroner.n.01; office.n.01; clerk.n.01; chaos.n.01	rush.v.03; wait.v.01; justify.v.01; explain.v.01; confuse.v.01	Jim hopper	3	2
+151.5	1.5	101	coroner.n.01; office.n.01; clerk.n.01; chaos.n.01	rush.v.03; wait.v.01; justify.v.01; explain.v.01; confuse.v.01	Jim hopper	3	2
+153.0	1.5	102	coroner.n.01; office.n.01; clerk.n.01; chaos.n.01	rush.v.03; wait.v.01; justify.v.01; explain.v.01; confuse.v.01	Jim hopper	3	2
+154.5	1.5	103	coroner.n.01; office.n.01; clerk.n.01; 	 justify.v.01; explain.v.01; confuse.v.01	Jim hopper	3	2
+156.0	1.5	104	coroner.n.01; office.n.01; clerk.n.01; 	 justify.v.01; explain.v.01; confuse.v.01	Jim hopper	3	2
+157.5	1.5	105	coroner.n.01; office.n.01; clerk.n.01; home.n.01	 justify.v.01; explain.v.01; confuse.v.01; sent.v.01	Jim hopper	3	2
+159.0	1.5	106	coroner.n.01; office.n.01; clerk.n.01; home.n.01	 justify.v.01; explain.v.01; confuse.v.01	Jim hopper	3	2
+160.5	1.5	107	coroner.n.01; office.n.01; clerk.n.01; autopsy.n.01	 justify.v.01; explain.v.01; confuse.v.01; question.v.01	Jim hopper	3	2
+162.0	1.5	108	coroner.n.01; office.n.01; clerk.n.01; autopsy.n.01	 justify.v.01; explain.v.01; confuse.v.01; question.v.01	Jim hopper	3	2
+163.5	1.5	109	coroner.n.01; office.n.01; clerk.n.01; autopsy.n.01; state.n.03	 justify.v.01; explain.v.01; confuse.v.01; question.v.01	Jim hopper	3	2
+165.0	1.5	110	coroner.n.01; office.n.01; clerk.n.01; autopsy.n.01; state.n.03	 justify.v.01; explain.v.01; confuse.v.01; question.v.01; think.v.03	Jim hopper	3	2
+166.5	1.5	111	office.n.01; clerk.n.01; autopsy.n.01; examiner.n.02; observatory.n.02	confuse.v.01; question.v.01; think.v.03; observe.v.04; sadden.v.01; examine.v.03	Jim hopper, joyce byers, jonathan byers	3	2
+168.0	1.5	112	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02	observe.v.04; sadden.v.01; examine.v.03	 joyce byers, jonathan byers	3	3
+169.5	1.5	113	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02	observe.v.04; sadden.v.01; examine.v.03	joyce byers, jonathan byers	3	3
+171.0	1.5	114	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03	joyce byers, jonathan byers	3	3
+172.5	1.5	115	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03	joyce byers, jonathan byers	3	3
+174.0	1.5	116	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01	joyce byers, jonathan byers	3	3
+175.5	1.5	117	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01	joyce byers, jonathan byers	3	3
+177.0	1.5	118	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02;	joyce byers, jonathan byers	3	3
+178.5	1.5	119	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02;	joyce byers, jonathan byers	3	3
+180.0	1.5	120	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02;	joyce byers, jonathan byers	3	3
+181.5	1.5	121	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02;	joyce byers, jonathan byers	3	3
+183.0	1.5	122	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02; gag.v.06	joyce byers, jonathan byers	3	3
+184.5	1.5	123	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02; gag.v.06	joyce byers, jonathan byers	3	3
+186.0	1.5	124	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02; gag.v.06	joyce byers, jonathan byers	3	3
+187.5	1.5	125	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02; gag.v.06	joyce byers, jonathan byers	3	3
+189.0	1.5	126	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02; gag.v.06	joyce byers, jonathan byers	3	3
+190.5	1.5	127	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01; birthmark.n.01	observe.v.04; sadden.v.01; examine.v.03; await.v.01; expose.v.02; gag.v.06	joyce byers, jonathan byers	3	3
+192.0	1.5	128	office.n.01; autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01; birthmark.n.01	observe.v.04; sadden.v.01; examine.v.03; expose.v.02; verify.v.04	joyce byers, jonathan byers	3	3
+193.5	1.5	129	autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01; birthmark.n.01; arm.n.01	observe.v.04; sadden.v.01; examine.v.03; expose.v.02; verify.v.04; show.v.01	joyce byers, jonathan byers	3	3
+195.0	1.5	130	autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01; birthmark.n.01; arm.n.01	observe.v.04; sadden.v.01; examine.v.03; expose.v.02; verify.v.04; show.v.01	joyce byers, jonathan byers	3	3
+196.5	1.5	131	autopsy.n.01; examiner.n.02; observatory.n.02; shock.n.01; birthmark.n.01; arm.n.01; waiting room.n.01	observe.v.04; sadden.v.01; examine.v.03; expose.v.02; verify.v.04; show.v.01	joyce byers, jonathan byers, jim hopper	3	3
+198.0	1.5	132	office.n.01; waiting room.n.01	sit.v.01; await.v.01; stress.v.03	jonathan byers, jim hopper	3	3
+199.5	1.5	133	office.n.01; waiting room.n.01; sniffle.n.01	sit.v.01; await.v.01; stress.v.03	jonathan byers, jim hopper	3	3
+201.0	1.5	134	office.n.01; waiting room.n.01; sniffle.n.01; mom.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; 	jonathan byers, jim hopper	3	3
+202.5	1.5	135	office.n.01; waiting room.n.01; sniffle.n.01; mom.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; 	jonathan byers, jim hopper	3	3
+204.0	1.5	136	office.n.01; waiting room.n.01; sniffle.n.01; mom.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; 	jonathan byers, jim hopper	3	3
+205.5	1.5	137	office.n.01; waiting room.n.01; sniffle.n.01; mom.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; 	jonathan byers, jim hopper	3	3
+207.0	1.5	138	office.n.01; waiting room.n.01; mom.n.01; ring.n.06	sit.v.01; await.v.01; stress.v.03; worry.v.01; 	jonathan byers, jim hopper	3	3
+208.5	1.5	139	office.n.01; waiting room.n.01; ring.n.06	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01	jonathan byers, jim hopper	3	3
+210.0	1.5	140	office.n.01; waiting room.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01	jonathan byers, jim hopper	3	3
+211.5	1.5	141	office.n.01; waiting room.n.01;	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+213.0	1.5	142	office.n.01; waiting room.n.01;	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+214.5	1.5	143	office.n.01; waiting room.n.01;	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+216.0	1.5	144	office.n.01; waiting room.n.01; phone call.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+217.5	1.5	145	office.n.01; waiting room.n.01; phone call.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+219.0	1.5	146	office.n.01; waiting room.n.01; phone call.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+220.5	1.5	147	office.n.01; waiting room.n.01; phone call.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; derange.v.01	jonathan byers, jim hopper	3	3
+222.0	1.5	148	office.n.01; waiting room.n.01; phone call.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01	jonathan byers, jim hopper	3	3
+223.5	1.5	149	office.n.01; waiting room.n.01; problems.n.03	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01	jonathan byers, jim hopper	3	3
+225.0	1.5	150	office.n.01; waiting room.n.01; problems.n.03; past.n.02	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01	jonathan byers, jim hopper	3	3
+226.5	1.5	151	office.n.01; waiting room.n.01; problems.n.03; past.n.02	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01	jonathan byers, jim hopper	3	3
+228.0	1.5	152	office.n.01; waiting room.n.01; problems.n.03; past.n.02	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01	jonathan byers, jim hopper	3	3
+229.5	1.5	153	office.n.01; waiting room.n.01; problems.n.03; past.n.02	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01	jonathan byers, jim hopper	3	3
+231.0	1.5	154	office.n.01; waiting room.n.01; problems.n.03; past.n.02	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01; compare.v.01	jonathan byers, jim hopper	3	3
+232.5	1.5	155	office.n.01; waiting room.n.01; past.n.02; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01; compare.v.01; exhales.v.01	jonathan byers, jim hopper	3	3
+234.0	1.5	156	office.n.01; waiting room.n.01; past.n.02; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01; compare.v.01; exhales.v.01	jonathan byers, jim hopper	3	3
+235.5	1.5	157	office.n.01; waiting room.n.01; past.n.02; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01; justify.v.01; compare.v.01; exhales.v.01	jonathan byers, jim hopper	3	3
+237.0	1.5	158	office.n.01; waiting room.n.01; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01;	jonathan byers, jim hopper	3	3
+238.5	1.5	159	office.n.01; waiting room.n.01; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01;	jonathan byers, jim hopper	3	3
+240.0	1.5	160	office.n.01; waiting room.n.01; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01;	jonathan byers, jim hopper	3	3
+241.5	1.5	161	office.n.01; waiting room.n.01; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; question.v.01;	jonathan byers, jim hopper	3	3
+243.0	1.5	162	office.n.01; waiting room.n.01; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+244.5	1.5	163	office.n.01; waiting room.n.01; anguish.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+246.0	1.5	164	office.n.01; waiting room.n.01; anguish.n.01; mom.n.01; mental health.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+247.5	1.5	165	office.n.01; waiting room.n.01; anguish.n.01; mom.n.01; mental health.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+249.0	1.5	166	office.n.01; waiting room.n.01; anguish.n.01; mom.n.01; mental health.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+250.5	1.5	167	office.n.01; waiting room.n.01; anguish.n.01; mental health.n.01; ring.n.06	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+252.0	1.5	168	office.n.01; waiting room.n.01; anguish.n.01; mental health.n.01; ring.n.06	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+253.5	1.5	169	office.n.01; waiting room.n.01; anguish.n.01; ring.n.06; mom.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+255.0	1.5	170	office.n.01; waiting room.n.01; anguish.n.01; ring.n.06; mom.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01	jonathan byers, jim hopper	3	3
+256.5	1.5	171	office.n.01; waiting room.n.01; anguish.n.01; ring.n.06; mom.n.01; fighter.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01;	jonathan byers, jim hopper	3	3
+258.0	1.5	172	office.n.01; waiting room.n.01; anguish.n.01; ring.n.06; mom.n.01; fighter.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01;	jonathan byers, jim hopper	3	3
+259.5	1.5	173	office.n.01; waiting room.n.01; anguish.n.01; ring.n.06; mom.n.01; fighter.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01;	jonathan byers, jim hopper	3	3
+261.0	1.5	174	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+262.5	1.5	175	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01; embrace.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+264.0	1.5	176	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01; embrace.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+265.5	1.5	177	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01; embrace.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+267.0	1.5	178	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01; embrace.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+268.5	1.5	179	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01; embrace.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+270.0	1.5	180	office.n.01; waiting room.n.01; mom.n.01; fighter.n.01; embrace.n.01	sit.v.01; await.v.01; stress.v.03; worry.v.01; agree.v.01	jonathan byers, jim hopper	3	3
+271.5	1.5	181	office.n.01; waiting room.n.01; ma'am.n.01; 	sit.v.01; await.v.01; stress.v.03; worry.v.01; shout.v.01; 	jonathan byers, jim hopper	3	3
+273.0	1.5	182	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; 	shout.v.01; sign.v.01; leave.v.01; rush.v.01	jonathan byers, jim hopper, joyce byers	3	3
+274.5	1.5	183	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; sign.v.01; leave.v.01; rush.v.01; confound.v.01	jonathan byers, jim hopper, joyce byers	3	3
+276.0	1.5	184	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; sign.v.01; leave.v.01; rush.v.01; confound.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
+277.5	1.5	185	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; sign.v.01; leave.v.01; rush.v.01; confound.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
+279.0	1.5	186	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; sign.v.01; leave.v.01; rush.v.01; confound.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
+280.5	1.5	187	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; leave.v.01; rush.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
+282.0	1.5	188	office.n.01; waiting room.n.01; examiner.n.02; ma'am.n.01; frustration.n.01; 	shout.v.01; leave.v.01; rush.v.01; deny.v.01	jonathan byers, jim hopper, joyce byers	3	3
+283.5	1.5	189	office.n.01; waiting room.n.01; examiner.n.02; schoolbell.n.01; students.n.01; school.n.01	confuse.v.01; socialize.v.01; 	jonathan byers, jim hopper, joyce byers	3	3
+285.0	1.5	190	schoolbell.n.01; students.n.01; school.n.01	socialize.v.01; walking.n.01	n/a	3	3
+286.5	1.5	191	schoolbell.n.01; students.n.01; school.n.01; walking.v.01; alleyway.n.01	socialize.v.01; understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3
+288.0	1.5	192	school.n.01; alleyway.n.01; football.n.01; running.n.02	 understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3
+289.5	1.5	193	school.n.01; alleyway.n.01; football.n.01; running.n.02	 understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3
+291.0	1.5	194	school.n.01; alleyway.n.01; football.n.01; running.n.02	 understand.v.01; confuse.v.01; talk.v.01	nancy wheeler, steve harrington	3	3
+292.5	1.5	195	school.n.01; alleyway.n.01; football.n.01; running.n.02; crazy.n.01	 understand.v.01; confuse.v.01; talk.v.01; 	nancy wheeler, steve harrington	3	3
+294.0	1.5	196	school.n.01; alleyway.n.01; football.n.01; running.n.02; crazy.n.01	 understand.v.01; confuse.v.01; talk.v.01; 	nancy wheeler, steve harrington	3	3
+295.5	1.5	197	school.n.01; alleyway.n.01;	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01	nancy wheeler, steve harrington	3	3
+297.0	1.5	198	school.n.01; alleyway.n.01;	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01	nancy wheeler, steve harrington	3	3
+298.5	1.5	199	school.n.01; alleyway.n.01;	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+300.0	1.5	200	school.n.01; alleyway.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+301.5	1.5	201	school.n.01; alleyway.n.01; yard.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+303.0	1.5	202	school.n.01; alleyway.n.01; yard.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+304.5	1.5	203	school.n.01; alleyway.n.01; yard.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+306.0	1.5	204	school.n.01; alleyway.n.01; yard.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+307.5	1.5	205	school.n.01; alleyway.n.01; yard.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+309.0	1.5	206	school.n.01; alleyway.n.01; yard.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+310.5	1.5	207	school.n.01; alleyway.n.01; feeling.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+312.0	1.5	208	school.n.01; alleyway.n.01; feeling.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; witness.v.01; mask.v.02	nancy wheeler, steve harrington	3	3
+313.5	1.5	209	school.n.01; alleyway.n.01; feeling.n.01; worry.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01	nancy wheeler, steve harrington	3	3
+315.0	1.5	210	school.n.01; alleyway.n.01; feeling.n.01; worry.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01	nancy wheeler, steve harrington	3	3
+316.5	1.5	211	school.n.01; alleyway.n.01; feeling.n.01; worry.n.02	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01	nancy wheeler, steve harrington	3	3
+318.0	1.5	212	school.n.01; alleyway.n.01; worry.n.02; cop.n.01	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01	nancy wheeler, steve harrington	3	3
+319.5	1.5	213	school.n.01; alleyway.n.01; worry.n.02; cop.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+321.0	1.5	214	school.n.01; alleyway.n.01; worry.n.02; cop.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+322.5	1.5	215	school.n.01; alleyway.n.01; worry.n.02; cop.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+324.0	1.5	216	school.n.01; alleyway.n.01; worry.n.02; cop.n.01; 	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+325.5	1.5	217	school.n.01; alleyway.n.01; worry.n.02; cop.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+327.0	1.5	218	school.n.01; alleyway.n.01; worry.n.02; cop.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+328.5	1.5	219	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+330.0	1.5	220	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; confuse.v.01; talk.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+331.5	1.5	221	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01	nancy wheeler, steve harrington	3	3
+333.0	1.5	222	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01; miss.v.08	nancy wheeler, steve harrington	3	3
+334.5	1.5	223	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; party.n.02; parents.n.01; murder.n.01	 understand.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01; miss.v.08	nancy wheeler, steve harrington	3	3
+336.0	1.5	224	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; punishment.n.01	 understand.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01; miss.v.08	nancy wheeler, steve harrington	3	3
+337.5	1.5	225	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; punishment.n.01	 understand.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01; miss.v.08	nancy wheeler, steve harrington	3	3
+339.0	1.5	226	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; punishment.n.01	 understand.v.01; justify.v.01; explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+340.5	1.5	227	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; punishment.n.01; beer.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+342.0	1.5	228	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; disappointment.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+343.5	1.5	229	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; disappointment.n.01; trouble.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+345.0	1.5	230	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; disappointment.n.01; trouble.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+346.5	1.5	231	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; disappointment.n.01; trouble.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+348.0	1.5	232	school.n.01; alleyway.n.01; worry.n.02; cops.n.01; parents.n.01; disappointment.n.01; trouble.n.01; disbelief.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01	nancy wheeler, steve harrington	3	3
+349.5	1.5	233	school.n.01; alleyway.n.01; worry.n.02; disappointment.n.01; trouble.n.01; disbelief.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01; leave.v.01	nancy wheeler, steve harrington	3	3
+351.0	1.5	234	school.n.01; alleyway.n.01; disappointment.n.01; trouble.n.01; desbelief.n.01	explain.v.01; worry.v.01; investigate.v.01; miss.v.08; conceal.v.01; leave.v.01; upset.v.01	nancy wheeler, steve harrington	3	3
+352.5	1.5	235	school.n.01; alleyway.n.01; disappointment.n.01;	leave.v.01; upset.v.01	nancy wheeler, steve harrington	3	3
+354.0	1.5	236	school.n.01; alleyway.n.01; disappointment.n.01; shout.n.01	leave.v.01; upset.v.01	nancy wheeler, steve harrington	3	3
+355.5	1.5	237	school.n.01; alleyway.n.01; disappointment.n.01; shout.n.01	leave.v.01; upset.v.01	nancy wheeler, steve harrington	3	3
+357.0	1.5	238	school.n.01; alleyway.n.01; disappointment.n.01; shout.n.01; outside.n.01	leave.v.01; upset.v.01; stand.v.04	steve harrington	3	3
+358.5	1.5	239	outside.n.01; stairs.n.02	leave.v.01; walk.v.01	joyce byers	3	3
+360.0	1.5	240	outside.n.01; stairs.n.02; car.n.01; person.n.01; sidewalk.n.01 	leave.v.01; walk.v.01	joyce byers	3	3
+361.5	1.5	241	outside.n.01; stairs.n.02; car.n.01; person.n.01; sidewalk.n.01 	leave.v.01; upset.v.01; walk.v.01	jonathan byers, joyce byers	3	4
+363.0	1.5	242	outside.n.01; stairs.n.02; car.n.01; person.n.01; sidewalk.n.01 	leave.v.01; upset.v.01; walk.v.01	jonathan byers, joyce byers	3	4
+364.5	1.5	243	outside.n.01; stairs.n.02; car.n.01; person.n.01; sidewalk.n.01 	leave.v.01; upset.v.01; walk.v.01	jonathan byers, joyce byers	3	4
+366.0	1.5	244	outside.n.01; stairs.n.02; car.n.01; person.n.01; sidewalk.n.01 	leave.v.01; upset.v.01; walk.v.01; ignore.v.01	jonathan byers, joyce byers	3	4
+367.5	1.5	245	outside.n.01;  car.n.01;sidewalk.n.01 	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; push.v.01	jonathan byers	3	4
+369.0	1.5	246	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; push.v.01	jonathan byers; joyce byers	3	4
+370.5	1.5	247	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; run.v.01	jonathan byers; joyce byers	3	4
+372.0	1.5	248	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; run.v.01	jonathan byers; joyce byers	3	4
+373.5	1.5	249	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; run.v.01	jonathan byers; joyce byers	3	4
+375.0	1.5	250	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; run.v.01; grab.v.01	jonathan byers; joyce byers	3	4
+376.5	1.5	251	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01; walk.v.01; ignore.v.01; run.v.01; grab.v.01	jonathan byers; joyce byers	3	4
+378.0	1.5	252	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01	leave.v.01; upset.v.01;ignore.v.01	jonathan byers; joyce byers	3	4
+379.5	1.5	253	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01	point.v.01; upset.v.01; walk.v.01; ignore.v.01; run.v.01; grab.v.01	jonathan byers; joyce byers	3	4
+381.0	1.5	254	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+382.5	1.5	255	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+384.0	1.5	256	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+385.5	1.5	257	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+387.0	1.5	258	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+388.5	1.5	259	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+390.0	1.5	260	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+391.5	1.5	261	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+393.0	1.5	262	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+394.5	1.5	263	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+396.0	1.5	264	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+397.5	1.5	265	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+399.0	1.5	266	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+400.5	1.5	267	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+402.0	1.5	268	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+403.5	1.5	269	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+405.0	1.5	270	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; crazy.n.01	point.v.01; upset.v.01; confuse.v.02	jonathan byers; joyce byers	3	4
+406.5	1.5	271	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; hear.v.01	jonathan byers; joyce byers	3	4
+408.0	1.5	272	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01	jonathan byers; joyce byers	3	4
+409.5	1.5	273	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01	jonathan byers; joyce byers	3	4
+411.0	1.5	274	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01	jonathan byers; joyce byers	3	4
+412.5	1.5	275	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01	jonathan byers; joyce byers	3	4
+414.0	1.5	276	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01	jonathan byers; joyce byers	3	4
+415.5	1.5	277	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01; scared.v.01	jonathan byers; joyce byers	3	4
+417.0	1.5	278	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01;care.v.01	jonathan byers; joyce byers	3	4
+418.5	1.5	279	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01; care.v.01; believe.v.01	jonathan byers; joyce byers	3	4
+420.0	1.5	280	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01;look.v.01	jonathan byers; joyce byers	3	4
+421.5	1.5	281	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01; find.v.01	jonathan byers; joyce byers	3	4
+423.0	1.5	282	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01; find.v.01	jonathan byers; joyce byers	3	4
+424.5	1.5	283	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01; find.v.01	jonathan byers; joyce byers	3	4
+426.0	1.5	284	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; confuse.v.02; talk.v.01; find.v.01	jonathan byers; joyce byers	3	4
+427.5	1.5	285	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01	jonathan byers; joyce byers	3	4
+429.0	1.5	286	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01	jonathan byers; joyce byers	3	4
+430.5	1.5	287	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byers; joyce byers	3	4
+432.0	1.5	288	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byers; joyce byers	3	4
+433.5	1.5	289	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; nod.n.02	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byers; joyce byers	3	4
+435.0	1.5	290	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; nod.n.02	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byers; joyce byers	3	4
+436.5	1.5	291	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byers; joyce byers	3	4
+438.0	1.5	292	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01; bell.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byer	3	4
+439.5	1.5	293	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01; bell.n.01	point.v.01; upset.v.01; talk.v.01; yell.v.01; leave.v.01	jonathan byers	3	4
+441.0	1.5	294	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01; bell.n.01	upset.v.01; talk.v.01; leave.v.01	jonathan byers	3	4
+442.5	1.5	295	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01; bell.n.01	upset.v.01; talk.v.01; leave.v.01; walk.v.01	jonathan byers	3	4
+444.0	1.5	296	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01; bell.n.01	upset.v.01; talk.v.01; leave.v.01; walk.v.01	jonathan byers	3	4
+445.5	1.5	297	outside.n.01;  car.n.01;sidewalk.n.01; person.n.01; street.n.01; upset.n.01; conversation.n.01; tree.n.01; group.n.01; bell.n.01	upset.v.01; talk.v.01; leave.v.01; walk.v.01	jonathan byers	3	4

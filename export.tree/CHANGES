@@ -1,7 +1,0 @@
-2.0.0 2024-04-30
-  - Add imaging data for full dataset.
-1.0.1 2020-01-12
-  - Add pilot scan protocol PDF.
-
-1.0.0 2019-10-29
-  - Initial acquisition of pilot data for testing of complex-valued, multi-echo EPI data.
